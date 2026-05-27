@@ -55,48 +55,67 @@ function similarne(p1, p2) {
   return w1.some(w => w.length >= 4 && w2.some(w2w => w2w.includes(w) || w.includes(w2w)))
 }
 
-export function porovnejDiagnozy(a, b) {
-  const priznakyA = a.priznaky || []
-  const priznakyB = b.priznaky || []
+// Main comparison function — accepts array of 2 or 3 diagnoses
+export function porovnejDiagnozy(diagnozy) {
+  // backwards compat: also accept two separate args
+  if (!Array.isArray(diagnozy)) {
+    const [a, b] = [...arguments]
+    diagnozy = [a, b]
+  }
 
-  const shodne = priznakyA.filter(p => priznakyB.some(bp => similarne(p, bp)))
-  const shodneB = new Set(priznakyB.filter(p => priznakyA.some(ap => similarne(p, ap))))
+  const n = diagnozy.length // 2 or 3
+  const priznakyAll = diagnozy.map(d => d.priznaky || [])
 
-  const odlisneA = priznakyA.filter(p => !shodne.includes(p))
-  const odlisneB = priznakyB.filter(p => !shodneB.has(p))
+  // Symptoms shared by ALL diagnoses
+  const shodne = priznakyAll[0].filter(p =>
+    priznakyAll.slice(1).every(list => list.some(bp => similarne(p, bp)))
+  )
 
-  // Structured clinical comparison rows — each row is one observable clinical dimension
-  const srovnani = []
+  // Symptoms unique to each diagnosis (not similar to any in the others)
+  const odlisne = priznakyAll.map((list, i) =>
+    list.filter(p =>
+      priznakyAll.every((otherList, j) =>
+        j === i || !otherList.some(bp => similarne(p, bp))
+      )
+    )
+  )
 
-  if (a.onset || b.onset) {
-    srovnani.push({
+  // Clinical comparison table rows — values per diagnosis
+  const srovnaniRows = []
+
+  const hasOnset = diagnozy.some(d => d.onset)
+  if (hasOnset) {
+    srovnaniRows.push({
       rys: 'Onset / Nástup',
-      hodnotaA: a.onset || 'Neuvedeno',
-      hodnotaB: b.onset || 'Neuvedeno',
+      hodnoty: diagnozy.map(d => d.onset || 'Neuvedeno'),
     })
   }
 
-  if (a.prubeh || b.prubeh) {
-    srovnani.push({
+  const hasProb = diagnozy.some(d => d.prubeh)
+  if (hasProb) {
+    srovnaniRows.push({
       rys: 'Průběh',
-      hodnotaA: a.prubeh || 'Neuvedeno',
-      hodnotaB: b.prubeh || 'Neuvedeno',
+      hodnoty: diagnozy.map(d => d.prubeh || 'Neuvedeno'),
     })
   }
 
-  if (a.kategorie !== b.kategorie) {
-    srovnani.push({
+  const uniqueKat = new Set(diagnozy.map(d => d.kategorie))
+  if (uniqueKat.size > 1) {
+    srovnaniRows.push({
       rys: 'Diagnostická skupina',
-      hodnotaA: a.kategorie,
-      hodnotaB: b.kategorie,
+      hodnoty: diagnozy.map(d => d.kategorie),
     })
   }
 
-  // Pull up to 3 diagnostická kritéria unique to each diagnosis for clinical contrast
-  const kriteriaA = (a.diagnosticka_kriteria || [])
-  const kriteriaB = (b.diagnosticka_kriteria || [])
-  const unikatniKriteriaA = kriteriaA.filter(k => !kriteriaB.some(kb => similarne(k, kb))).slice(0, 4)
-  const unikatniKriteriaB = kriteriaB.filter(k => !kriteriaA.some(ka => similarne(k, ka))).slice(0, 4)
+  // Unique diagnostic criteria per diagnosis (not similar to any in others)
+  const kriteriaAll = diagnozy.map(d => d.diagnosticka_kriteria || [])
+  const unikatniKriteria = kriteriaAll.map((list, i) =>
+    list.filter(k =>
+      kriteriaAll.every((otherList, j) =>
+        j === i || !otherList.some(kb => similarne(k, kb))
+      )
+    ).slice(0, 4)
+  )
 
-  return { shodne, odlisneA, odlisneB, srovnani, unikatniKriteriaA, unikatniKriteriaB }
+  return { shodne, odlisne, srovnaniRows, unikatniKriteria, n }
 }
