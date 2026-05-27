@@ -43,13 +43,60 @@ export function vyhledej(diagnozy, dotaz) {
   )
 }
 
+// Finds shared and unique symptoms using normalized word overlap
+function normalizuj(text) {
+  return text.toLowerCase().replace(/[,;.()]/g, '').trim()
+}
+
+function similarne(p1, p2) {
+  const w1 = normalizuj(p1).split(/\s+/)
+  const w2 = normalizuj(p2).split(/\s+/)
+  // consider similar if they share a meaningful word (length >= 4)
+  return w1.some(w => w.length >= 4 && w2.some(w2w => w2w.includes(w) || w.includes(w2w)))
+}
+
 export function porovnejDiagnozy(a, b) {
-  const shodne = a.priznaky.filter(p =>
-    b.priznaky.some(bp => bp.toLowerCase().includes(p.toLowerCase().slice(0, 10)))
-  )
-  const odlisneA = a.priznaky.filter(p => !shodne.includes(p))
-  const odlisneB = b.priznaky.filter(p =>
-    !a.priznaky.some(ap => ap.toLowerCase().includes(p.toLowerCase().slice(0, 10)))
-  )
-  return { shodne, odlisneA, odlisneB }
+  const priznakyA = a.priznaky || []
+  const priznakyB = b.priznaky || []
+
+  const shodne = priznakyA.filter(p => priznakyB.some(bp => similarne(p, bp)))
+  const shodneB = new Set(priznakyB.filter(p => priznakyA.some(ap => similarne(p, ap))))
+
+  const odlisneA = priznakyA.filter(p => !shodne.includes(p))
+  const odlisneB = priznakyB.filter(p => !shodneB.has(p))
+
+  // Structured clinical comparison rows — each row is one observable clinical dimension
+  const srovnani = []
+
+  if (a.onset || b.onset) {
+    srovnani.push({
+      rys: 'Onset / Nástup',
+      hodnotaA: a.onset || 'Neuvedeno',
+      hodnotaB: b.onset || 'Neuvedeno',
+    })
+  }
+
+  if (a.prubeh || b.prubeh) {
+    srovnani.push({
+      rys: 'Průběh',
+      hodnotaA: a.prubeh || 'Neuvedeno',
+      hodnotaB: b.prubeh || 'Neuvedeno',
+    })
+  }
+
+  if (a.kategorie !== b.kategorie) {
+    srovnani.push({
+      rys: 'Diagnostická skupina',
+      hodnotaA: a.kategorie,
+      hodnotaB: b.kategorie,
+    })
+  }
+
+  // Pull up to 3 diagnostická kritéria unique to each diagnosis for clinical contrast
+  const kriteriaA = (a.diagnosticka_kriteria || [])
+  const kriteriaB = (b.diagnosticka_kriteria || [])
+  const unikatniKriteriaA = kriteriaA.filter(k => !kriteriaB.some(kb => similarne(k, kb))).slice(0, 4)
+  const unikatniKriteriaB = kriteriaB.filter(k => !kriteriaA.some(ka => similarne(k, ka))).slice(0, 4)
+
+  return { shodne, odlisneA, odlisneB, srovnani, unikatniKriteriaA, unikatniKriteriaB }
 }
