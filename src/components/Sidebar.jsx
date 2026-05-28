@@ -127,37 +127,25 @@ export default function Sidebar({ open }) {
               {katOpen && (
                 <div className="ml-3 border-l-2 border-slate-100">
                   {rodice.map(rod => {
-                    const subs      = subkody(rod.id)
-                    const hasSubs   = subs.length > 0
-                    const rodOpen   = openRodic.has(rod.id)
+                    const subs    = subkody(rod.id)
+                    const hasSubs = subs.length > 0
+                    const rodOpen = openRodic.has(rod.id)
 
                     return (
                       <div key={rod.id}>
 
-                        {/* Parent code row */}
-                        <div className="flex items-center group">
-                          {/* Code + name → navigate to detail */}
-                          <button
-                            onClick={() => navigate(`/diagnoza/${rod.id}`)}
-                            className="flex-1 flex items-center gap-2 pl-3 pr-1 py-1.5 text-left hover:bg-blue-50 hover:text-blue-700 rounded-l"
-                          >
-                            <span className="font-mono text-xs text-slate-400 shrink-0">{rod.kod}</span>
-                            <span className="text-xs text-slate-600 truncate leading-tight">{rod.nazev_cz}</span>
-                          </button>
+                        {/* Parent code row — jeden klik: rozbalí podkódy nebo přejde na detail */}
+                        <button
+                          onClick={() => hasSubs ? toggleRodic(rod.id) : navigate(`/diagnoza/${rod.id}`)}
+                          className="w-full flex items-center gap-2 pl-3 pr-2 py-1.5 text-left hover:bg-blue-50 hover:text-blue-700 rounded"
+                          title={rod.nazev_cz}
+                        >
+                          <span className="font-mono text-xs text-slate-400 shrink-0 w-8">{rod.kod}</span>
+                          <span className="text-xs text-slate-600 flex-1 leading-tight line-clamp-2">{rod.nazev_cz}</span>
+                          {hasSubs && <ChevronIcon open={rodOpen} />}
+                        </button>
 
-                          {/* Expand arrow (only when there are subcodes) */}
-                          {hasSubs && (
-                            <button
-                              onClick={() => toggleRodic(rod.id)}
-                              className="px-2 py-1.5 hover:bg-slate-100 rounded-r"
-                              title="Zobrazit poddiagnózy"
-                            >
-                              <ChevronIcon open={rodOpen} />
-                            </button>
-                          )}
-                        </div>
-
-                        {/* ── Level 3: subcodes ─────────────────────────── */}
+                        {/* ── Level 3: podkódy ──────────────────────────── */}
                         {hasSubs && rodOpen && (
                           <div className="ml-4 border-l-2 border-slate-100">
                             {subs.map(sub => (
@@ -165,9 +153,10 @@ export default function Sidebar({ open }) {
                                 key={sub.id}
                                 onClick={() => navigate(`/diagnoza/${sub.id}`)}
                                 className="w-full flex items-center gap-2 pl-3 pr-2 py-1.5 text-left hover:bg-blue-50 hover:text-blue-700 rounded"
+                                title={sub.nazev_cz}
                               >
                                 <span className="font-mono text-xs text-slate-400 shrink-0 w-10">{sub.kod}</span>
-                                <span className="text-xs text-slate-600 truncate leading-tight">{sub.nazev_cz}</span>
+                                <span className="text-xs text-slate-600 flex-1 leading-tight line-clamp-2">{sub.nazev_cz}</span>
                               </button>
                             ))}
                           </div>
