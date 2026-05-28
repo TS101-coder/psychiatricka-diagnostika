@@ -49,11 +49,13 @@ function normalizuj(text) {
 }
 
 function similarne(p1, p2) {
-  const w1 = normalizuj(p1).split(/\s+/)
-  const w2 = normalizuj(p2).split(/\s+/)
-  // Vyžadujeme slovo >= 6 znaků, aby krátká běžná slova (fázi, časné, nebo...) nevyvolávala
-  // falešné shody mezi jinak odlišnými příznaky
-  return w1.some(w => w.length >= 6 && w2.some(w2w => w2w.includes(w) || w.includes(w2w)))
+  const s1 = normalizuj(p1)
+  const s2 = normalizuj(p2)
+  // Shodné jen při téměř identickém znění — přesná shoda nebo jeden obsahuje druhý
+  if (s1 === s2) return true
+  if (s1.length > 12 && s2.includes(s1)) return true
+  if (s2.length > 12 && s1.includes(s2)) return true
+  return false
 }
 
 // Main comparison function — accepts array of 2 or 3 diagnoses
