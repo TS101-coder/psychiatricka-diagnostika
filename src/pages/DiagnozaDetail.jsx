@@ -86,11 +86,32 @@ export default function DiagnozaDetail() {
 
           {diagnoza.diagnosticka_kriteria?.length > 0 && (
             <section className="print-section">
-              <h2 className="text-sm font-semibold text-slate-500 uppercase tracking-wide mb-2">Diagnostická kritéria</h2>
+              <h2 className="text-sm font-semibold text-slate-500 uppercase tracking-wide mb-2">Diagnostická kritéria <span className="text-slate-400 font-normal normal-case">(MKN-10)</span></h2>
               <ul className="space-y-1.5">
                 {diagnoza.diagnosticka_kriteria.map((k, i) => (
                   <li key={i} className="flex items-start gap-2 text-sm text-slate-800">
                     <span className="w-5 h-5 bg-blue-100 text-blue-700 rounded-full flex items-center justify-center text-xs font-bold shrink-0 mt-0.5">{i + 1}</span>
+                    {k}
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
+
+          {diagnoza.kriteria_mkn11?.length > 0 && (
+            <section className="print-section">
+              <h2 className="text-sm font-semibold text-slate-500 uppercase tracking-wide mb-2">
+                Diagnostická kritéria <span className="text-green-600 font-semibold normal-case">MKN-11</span>
+                {diagnoza.mapovani?.mkn11 && (
+                  <span className="ml-2 text-xs font-mono bg-green-50 text-green-700 border border-green-200 px-2 py-0.5 rounded-full">
+                    {diagnoza.mapovani.mkn11}
+                  </span>
+                )}
+              </h2>
+              <ul className="space-y-1.5">
+                {diagnoza.kriteria_mkn11.map((k, i) => (
+                  <li key={i} className="flex items-start gap-2 text-sm text-slate-800">
+                    <span className="w-5 h-5 bg-green-100 text-green-700 rounded-full flex items-center justify-center text-xs font-bold shrink-0 mt-0.5">{i + 1}</span>
                     {k}
                   </li>
                 ))}
