@@ -164,33 +164,62 @@ export default function DifferentialPage() {
             })}
           </div>
 
-          {/* Klíčová odlišující diagnostická kritéria */}
-          {srovnani.unikatniKriteria.some(list => list.length > 0) && (
+          {/* Diagnostická kritéria — všechna kritéria každé diagnózy */}
+          {vybrane.some(d => (d.diagnosticka_kriteria || []).length > 0) && (
             <div className="bg-white rounded-xl border border-slate-200 shadow-sm overflow-hidden print-section">
               <div className="px-5 py-3 bg-slate-50 border-b border-slate-200">
-                <h4 className="text-sm font-semibold text-slate-700">Klíčová odlišující diagnostická kritéria</h4>
-                <p className="text-xs text-slate-400 mt-0.5">Kritéria přítomná jen u jedné diagnózy — rozhodující pro diferenciaci</p>
+                <h4 className="text-sm font-semibold text-slate-700">Diagnostická kritéria</h4>
+                <p className="text-xs text-slate-400 mt-0.5">Kompletní kritéria dle MKN-10 pro každou diagnózu</p>
               </div>
               <div className="grid grid-cols-2 divide-x divide-slate-100">
                 {vybrane.map((d, i) => {
                   const bc = bcs[i]
-                  const list = srovnani.unikatniKriteria[i]
+                  const kriteria = d.diagnosticka_kriteria || []
+                  return (
+                    <div key={d.id} className="p-5">
+                      <p className={`text-xs font-bold ${bc.text} mb-3`}>{d.kod} — {d.nazev_cz}</p>
+                      <ul className="space-y-2">
+                        {kriteria.map((k, j) => (
+                          <li key={j} className="flex items-start gap-2 text-sm text-slate-700">
+                            <span className={`mt-0.5 w-5 h-5 rounded-full flex items-center justify-center text-xs font-bold shrink-0 ${bc.bg} ${bc.text}`}>
+                              {j + 1}
+                            </span>
+                            {k}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )
+                })}
+              </div>
+            </div>
+          )}
+
+          {/* Rozdílné příznaky — červená tabulka */}
+          {srovnani.odlisne.some(list => list.length > 0) && (
+            <div className="bg-white rounded-xl border border-red-200 shadow-sm overflow-hidden print-section">
+              <div className="px-5 py-3 bg-red-50 border-b border-red-200">
+                <h4 className="text-sm font-semibold text-red-700">Rozdílné příznaky</h4>
+                <p className="text-xs text-red-400 mt-0.5">Příznaky přítomné jen u jedné z diagnóz — klíčové pro diferenciaci</p>
+              </div>
+              <div className="grid grid-cols-2 divide-x divide-red-100">
+                {vybrane.map((d, i) => {
+                  const bc = bcs[i]
+                  const list = srovnani.odlisne[i]
                   return (
                     <div key={d.id} className="p-5">
                       <p className={`text-xs font-bold ${bc.text} mb-3`}>{d.kod} — {d.nazev_cz}</p>
                       {list.length > 0 ? (
                         <ul className="space-y-2">
-                          {list.map((k, j) => (
+                          {list.map((p, j) => (
                             <li key={j} className="flex items-start gap-2 text-sm text-slate-700">
-                              <span className={`mt-0.5 w-5 h-5 rounded-full flex items-center justify-center text-xs font-bold shrink-0 ${bc.bg} ${bc.text}`}>
-                                {j + 1}
-                              </span>
-                              {k}
+                              <span className="mt-1.5 w-1.5 h-1.5 rounded-full shrink-0 bg-red-400"></span>
+                              {p}
                             </li>
                           ))}
                         </ul>
                       ) : (
-                        <p className="text-xs text-slate-400">Žádná výhradní kritéria nenalezena</p>
+                        <p className="text-xs text-slate-400">Příznaky se překrývají s druhou diagnózou</p>
                       )}
                     </div>
                   )
