@@ -51,8 +51,9 @@ function normalizuj(text) {
 function similarne(p1, p2) {
   const w1 = normalizuj(p1).split(/\s+/)
   const w2 = normalizuj(p2).split(/\s+/)
-  // consider similar if they share a meaningful word (length >= 4)
-  return w1.some(w => w.length >= 4 && w2.some(w2w => w2w.includes(w) || w.includes(w2w)))
+  // Vyžadujeme slovo >= 6 znaků, aby krátká běžná slova (fázi, časné, nebo...) nevyvolávala
+  // falešné shody mezi jinak odlišnými příznaky
+  return w1.some(w => w.length >= 6 && w2.some(w2w => w2w.includes(w) || w.includes(w2w)))
 }
 
 // Main comparison function — accepts array of 2 or 3 diagnoses
