@@ -33,7 +33,14 @@
     "mapovani": {
       "mkn11": "8A20",
       "dsm5": "331.0"
-    }
+    },
+    "kriteria_mkn11": [
+      "Plíživý nástup; první stížností je typicky porucha paměti",
+      "Pomalý, ale trvalý pokles kognitivního výkonu z předchozí úrovně",
+      "Zhoršení v dalších doménách: exekutivní funkce, pozornost, jazyk, sociální kognice, psychomotorické tempo, visuopercepce nebo visuoprostorové schopnosti",
+      "V časných stadiích možná depresivní nálada a apatie; v pokročilých stadiích psychotické příznaky, dráždivost, agrese, zmatenost, poruchy chůze, záchvaty",
+      "Podpůrné: pozitivní genetické testování, rodinná anamnéza, postupný kognitivní pokles"
+    ]
   },
   {
     "id": "F00.0",
@@ -67,7 +74,13 @@
     "mapovani": {
       "mkn11": "8A20.0",
       "dsm5": "331.0"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro demenci u Alzheimerovy nemoci (8A20)",
+      "Nástup před 65. rokem věku",
+      "Tvoří méně než 5 % případů; může být autozomálně dominantní forma",
+      "Relativně rychlejší progrese s výraznými poruchami paměti"
+    ]
   },
   {
     "id": "F00.1",
@@ -99,7 +112,13 @@
     "mapovani": {
       "mkn11": "8A20.1",
       "dsm5": "331.0"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro demenci u Alzheimerovy nemoci (8A20)",
+      "Nástup ve věku 65 let nebo později",
+      "Tvoří více než 95 % všech případů",
+      "Pomalejší progrese s dominující amnézií"
+    ]
   },
   {
     "id": "F00.2",
@@ -128,7 +147,14 @@
     "mapovani": {
       "mkn11": "8A20",
       "dsm5": "331.0"
-    }
+    },
+    "kriteria_mkn11": [
+      "Plíživý nástup; první stížností je typicky porucha paměti",
+      "Pomalý, ale trvalý pokles kognitivního výkonu z předchozí úrovně",
+      "Zhoršení v dalších doménách: exekutivní funkce, pozornost, jazyk, sociální kognice, psychomotorické tempo, visuopercepce nebo visuoprostorové schopnosti",
+      "V časných stadiích možná depresivní nálada a apatie; v pokročilých stadiích psychotické příznaky, dráždivost, agrese, zmatenost, poruchy chůze, záchvaty",
+      "Podpůrné: pozitivní genetické testování, rodinná anamnéza, postupný kognitivní pokles"
+    ]
   },
   {
     "id": "F00.9",
@@ -157,7 +183,14 @@
     "mapovani": {
       "mkn11": "6D80",
       "dsm5": "331.0"
-    }
+    },
+    "kriteria_mkn11": [
+      "Plíživý nástup; první stížností je typicky porucha paměti",
+      "Pomalý, ale trvalý pokles kognitivního výkonu z předchozí úrovně",
+      "Zhoršení v dalších kognitivních doménách: exekutivní funkce, pozornost, jazyk, psychomotorické tempo, vizuální/prostorové schopnosti",
+      "V časných stadiích možná depresivní nálada a apatie; v pokročilých stadiích psychotické příznaky, záchvaty",
+      "Podpůrné: pozitivní genetické testování, rodinná anamnéza, postupný pokles"
+    ]
   },
   {
     "id": "F01",
@@ -191,7 +224,12 @@
     "mapovani": {
       "mkn11": "8A21",
       "dsm5": "290.40"
-    }
+    },
+    "kriteria_mkn11": [
+      "Nástup kognitivních deficitů je časově spojen s jednou nebo více cerebrovaskulárními příhodami",
+      "Kognitivní pokles je typicky nejzřetelnější v rychlosti zpracování informací, komplexní pozornosti a frontálně-exekutivních funkcích",
+      "Průkaz cerebrovaskulárního onemocnění z anamnézy, fyzikálního vyšetření a neuroimagingu, které je dostatečné k vysvětlení neurokognitivních deficitů"
+    ]
   },
   {
     "id": "F01.0",
@@ -219,7 +257,11 @@
     "mapovani": {
       "mkn11": "8A21.0",
       "dsm5": "290.40"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro vaskulární demenci (8A21)",
+      "Akutní nástup kognitivních příznaků po cévní příhodě"
+    ]
   },
   {
     "id": "F01.1",
@@ -249,7 +291,11 @@
     "mapovani": {
       "mkn11": "8A21.1",
       "dsm5": "290.40"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro vaskulární demenci (8A21)",
+      "Postupný nástup bez zjevné cévní příhody"
+    ]
   },
   {
     "id": "F01.2",
@@ -282,7 +328,11 @@
     "mapovani": {
       "mkn11": "8A21.2",
       "dsm5": "290.40"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro vaskulární demenci (8A21)",
+      "Smíšený obraz akutního i postupného nástupu"
+    ]
   },
   {
     "id": "F01.3",
@@ -316,7 +366,12 @@
     "mapovani": {
       "mkn11": "6D81",
       "dsm5": "290.40"
-    }
+    },
+    "kriteria_mkn11": [
+      "Nástup kognitivních deficitů je časově spojen s jednou nebo více cerebrovaskulárními příhodami",
+      "Kognitivní pokles nejzřetelnější v rychlosti zpracování informací, komplexní pozornosti a frontálně-exekutivních funkcích",
+      "Průkaz cerebrovaskulárního onemocnění z anamnézy, fyzikálního vyšetření a neuroimagingu dostatečného k vysvětlení deficitů"
+    ]
   },
   {
     "id": "F01.8",
@@ -345,7 +400,12 @@
     "mapovani": {
       "mkn11": "6D81",
       "dsm5": "290.40"
-    }
+    },
+    "kriteria_mkn11": [
+      "Nástup kognitivních deficitů je časově spojen s jednou nebo více cerebrovaskulárními příhodami",
+      "Kognitivní pokles nejzřetelnější v rychlosti zpracování informací, komplexní pozornosti a frontálně-exekutivních funkcích",
+      "Průkaz cerebrovaskulárního onemocnění z anamnézy, fyzikálního vyšetření a neuroimagingu dostatečného k vysvětlení deficitů"
+    ]
   },
   {
     "id": "F01.9",
@@ -372,7 +432,12 @@
     "mapovani": {
       "mkn11": "6D81",
       "dsm5": "290.40"
-    }
+    },
+    "kriteria_mkn11": [
+      "Nástup kognitivních deficitů je časově spojen s jednou nebo více cerebrovaskulárními příhodami",
+      "Kognitivní pokles nejzřetelnější v rychlosti zpracování informací, komplexní pozornosti a frontálně-exekutivních funkcích",
+      "Průkaz cerebrovaskulárního onemocnění z anamnézy, fyzikálního vyšetření a neuroimagingu dostatečného k vysvětlení deficitů"
+    ]
   },
   {
     "id": "F02",
@@ -401,7 +466,11 @@
     "mapovani": {
       "mkn11": "8A22",
       "dsm5": "294.10"
-    }
+    },
+    "kriteria_mkn11": [
+      "Demence způsobená specifikovaným neurodegenerativním nebo jiným onemocněním mozku, nespadajícím pod Alzheimerovu chorobu (8A20) ani cerebrovaskulární onemocnění (8A21)",
+      "Kognitivní pokles splňující kritéria demence; etiologie identifikována z anamnézy, fyzikálního vyšetření nebo laboratorních testů"
+    ]
   },
   {
     "id": "F02.0",
@@ -433,7 +502,11 @@
     "mapovani": {
       "mkn11": "8A22.0",
       "dsm5": "331.11"
-    }
+    },
+    "kriteria_mkn11": [
+      "Demence u Lewyho tělísek: fluktuující kognice, zrakové halucinace, parkinsonismus a poruchy spánku ve fázi REM",
+      "Výrazná citlivost na antipsychotika; kognitivní výkyvy jsou charakteristickým rysem"
+    ]
   },
   {
     "id": "F02.1",
@@ -467,7 +540,11 @@
     "mapovani": {
       "mkn11": "8A22.1",
       "dsm5": "046.19"
-    }
+    },
+    "kriteria_mkn11": [
+      "Demence při Parkinsonově nemoci: demence vznikající v kontextu etablované Parkinsonovy nemoci",
+      "Kognitivní příznaky rozvíjejí se nejméně 1 rok po nástupu motorických příznaků Parkinsonovy choroby"
+    ]
   },
   {
     "id": "F02.2",
@@ -500,7 +577,11 @@
     "mapovani": {
       "mkn11": "8A22.2",
       "dsm5": "294.10"
-    }
+    },
+    "kriteria_mkn11": [
+      "Demence u Huntingtonovy nemoci: kognitivní pokles v kontextu Huntingtonovy chorey",
+      "Poruchy exekutivních funkcí, procesní paměti a psychomotoriky; typicky autozomálně dominantní dědičnost"
+    ]
   },
   {
     "id": "F02.3",
@@ -532,7 +613,11 @@
     "mapovani": {
       "mkn11": "8A22.3",
       "dsm5": "331.82"
-    }
+    },
+    "kriteria_mkn11": [
+      "Fronttemporální demence: progresivní demence s frontální nebo temporální lobární degenerací",
+      "Dominující změny osobnosti a chování (frontální varianta) nebo jazykové poruchy (temporální varianta)"
+    ]
   },
   {
     "id": "F02.4",
@@ -564,7 +649,11 @@
     "mapovani": {
       "mkn11": "8A22.4",
       "dsm5": "294.10"
-    }
+    },
+    "kriteria_mkn11": [
+      "Demence při HIV/AIDS: kognitivní pokles způsobený HIV infekcí CNS",
+      "Poruchy paměti, psychomotorická pomalost, behaviorální změny při potvrzené HIV infekci"
+    ]
   },
   {
     "id": "F02.8",
@@ -593,7 +682,12 @@
     "mapovani": {
       "mkn11": "6D85",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Progresivní demence způsobená frontální nebo temporální lobární degenerací",
+      "Výrazné změny osobnosti a chování nebo jazykové poruchy jako dominující rysy",
+      "Poruchy paměti mohou být v časných stadiích méně výrazné"
+    ]
   },
   {
     "id": "F03",
@@ -622,7 +716,11 @@
     "mapovani": {
       "mkn11": "8A2Z",
       "dsm5": "294.20"
-    }
+    },
+    "kriteria_mkn11": [
+      "Demence blíže neurčeného typu nebo způsobená nespecifikovanou příčinou",
+      "Kognitivní pokles splňující kritéria demence bez dostatečných informací k určení etiologie"
+    ]
   },
   {
     "id": "F04",
@@ -656,7 +754,13 @@
     "mapovani": {
       "mkn11": "6D70",
       "dsm5": "294.0"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha pozornosti, orientace a vědomí rozvíjející se v krátké době (hodiny až dny)",
+      "Příznaky typicky kolísají v průběhu dne",
+      "Může zahrnovat behaviorální a emocionální poruchy, narušení cyklu spánku a bdění a mnohočetné kognitivní deficity",
+      "Příčina: důsledek jiného onemocnění, psychoaktivní látky/léky nebo kombinace příčin"
+    ]
   },
   {
     "id": "F05",
@@ -697,7 +801,11 @@
     "mapovani": {
       "mkn11": "MB26.0",
       "dsm5": "293.0"
-    }
+    },
+    "kriteria_mkn11": [
+      "Duševní porucha způsobená expozicí chemické nebo fyzikální látce v pracovním nebo jiném prostředí",
+      "Časová souvislost mezi expozicí a nástupem příznaků"
+    ]
   },
   {
     "id": "F05.0",
@@ -724,7 +832,11 @@
     "mapovani": {
       "mkn11": "MB26.0",
       "dsm5": "293.0"
-    }
+    },
+    "kriteria_mkn11": [
+      "Duševní porucha způsobená expozicí chemické nebo fyzikální látce v pracovním nebo jiném prostředí",
+      "Časová souvislost mezi expozicí a nástupem příznaků"
+    ]
   },
   {
     "id": "F05.1",
@@ -753,7 +865,11 @@
     "mapovani": {
       "mkn11": "MB26.0",
       "dsm5": "293.0"
-    }
+    },
+    "kriteria_mkn11": [
+      "Duševní porucha způsobená expozicí chemické nebo fyzikální látce v pracovním nebo jiném prostředí",
+      "Časová souvislost mezi expozicí a nástupem příznaků"
+    ]
   },
   {
     "id": "F05.8",
@@ -785,7 +901,13 @@
     "mapovani": {
       "mkn11": "6D70",
       "dsm5": "293.0"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha pozornosti, orientace a vědomí rozvíjející se v krátké době (hodiny až dny)",
+      "Příznaky typicky kolísají v průběhu dne",
+      "Může zahrnovat behaviorální a emocionální poruchy, narušení cyklu spánku a bdění a mnohočetné kognitivní deficity",
+      "Příčina: důsledek jiného onemocnění, psychoaktivní látky/léky nebo kombinace příčin"
+    ]
   },
   {
     "id": "F05.9",
@@ -813,7 +935,13 @@
     "mapovani": {
       "mkn11": "6D70",
       "dsm5": "293.0"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha pozornosti, orientace a vědomí rozvíjející se v krátké době (hodiny až dny)",
+      "Příznaky typicky kolísají v průběhu dne",
+      "Může zahrnovat behaviorální a emocionální poruchy, narušení cyklu spánku a bdění a mnohočetné kognitivní deficity",
+      "Příčina: důsledek jiného onemocnění, psychoaktivní látky/léky nebo kombinace příčin"
+    ]
   },
   {
     "id": "F06",
@@ -841,7 +969,11 @@
     "mapovani": {
       "mkn11": "6D8Z",
       "dsm5": "293.89"
-    }
+    },
+    "kriteria_mkn11": [
+      "Příznaky organické duševní poruchy způsobené průkazným onemocněním mozku, úrazem nebo jinými tělesnými poruchami",
+      "Nesplňuje plná kritéria pro jinou specifickou organickou duševní poruchu dle ICD-11"
+    ]
   },
   {
     "id": "F06.0",
@@ -873,7 +1005,11 @@
     "mapovani": {
       "mkn11": "6D8Z",
       "dsm5": "293.82"
-    }
+    },
+    "kriteria_mkn11": [
+      "Příznaky organické duševní poruchy způsobené průkazným onemocněním mozku, úrazem nebo jinými tělesnými poruchami",
+      "Nesplňuje plná kritéria pro jinou specifickou organickou duševní poruchu dle ICD-11"
+    ]
   },
   {
     "id": "F06.1",
@@ -904,7 +1040,11 @@
     "mapovani": {
       "mkn11": "6D8Z",
       "dsm5": "293.89"
-    }
+    },
+    "kriteria_mkn11": [
+      "Příznaky organické duševní poruchy způsobené průkazným onemocněním mozku, úrazem nebo jinými tělesnými poruchami",
+      "Nesplňuje plná kritéria pro jinou specifickou organickou duševní poruchu dle ICD-11"
+    ]
   },
   {
     "id": "F06.2",
@@ -934,7 +1074,11 @@
     "mapovani": {
       "mkn11": "6D8Z",
       "dsm5": "293.81"
-    }
+    },
+    "kriteria_mkn11": [
+      "Příznaky organické duševní poruchy způsobené průkazným onemocněním mozku, úrazem nebo jinými tělesnými poruchami",
+      "Nesplňuje plná kritéria pro jinou specifickou organickou duševní poruchu dle ICD-11"
+    ]
   },
   {
     "id": "F06.3",
@@ -963,7 +1107,11 @@
     "mapovani": {
       "mkn11": "6D8Z",
       "dsm5": "293.83"
-    }
+    },
+    "kriteria_mkn11": [
+      "Příznaky organické duševní poruchy způsobené průkazným onemocněním mozku, úrazem nebo jinými tělesnými poruchami",
+      "Nesplňuje plná kritéria pro jinou specifickou organickou duševní poruchu dle ICD-11"
+    ]
   },
   {
     "id": "F06.4",
@@ -993,7 +1141,11 @@
     "mapovani": {
       "mkn11": "6D8Z",
       "dsm5": "293.84"
-    }
+    },
+    "kriteria_mkn11": [
+      "Příznaky organické duševní poruchy způsobené průkazným onemocněním mozku, úrazem nebo jinými tělesnými poruchami",
+      "Nesplňuje plná kritéria pro jinou specifickou organickou duševní poruchu dle ICD-11"
+    ]
   },
   {
     "id": "F06.5",
@@ -1024,7 +1176,13 @@
     "mapovani": {
       "mkn11": "6D70",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha pozornosti, orientace a vědomí rozvíjející se v krátké době (hodiny až dny)",
+      "Příznaky typicky kolísají v průběhu dne",
+      "Může zahrnovat behaviorální a emocionální poruchy, narušení cyklu spánku a bdění a mnohočetné kognitivní deficity",
+      "Příčina: důsledek jiného onemocnění, psychoaktivní látky/léky nebo kombinace příčin"
+    ]
   },
   {
     "id": "F06.6",
@@ -1057,7 +1215,13 @@
     "mapovani": {
       "mkn11": "6D70",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha pozornosti, orientace a vědomí rozvíjející se v krátké době (hodiny až dny)",
+      "Příznaky typicky kolísají v průběhu dne",
+      "Může zahrnovat behaviorální a emocionální poruchy, narušení cyklu spánku a bdění a mnohočetné kognitivní deficity",
+      "Příčina: důsledek jiného onemocnění, psychoaktivní látky/léky nebo kombinace příčin"
+    ]
   },
   {
     "id": "F06.7",
@@ -1090,7 +1254,13 @@
     "mapovani": {
       "mkn11": "6D71",
       "dsm5": "331.83"
-    }
+    },
+    "kriteria_mkn11": [
+      "Mírný pokles kognitivního výkonu z předchozí úrovně fungování",
+      "Výkon v neuropsychologickém testování je typicky 1–2 SD pod normou pro věk a vzdělání",
+      "Každodenní aktivity jsou zachovány, ale mohou vyžadovat větší úsilí nebo kompenzační strategie",
+      "Příznaky nejsou způsobeny jiným onemocněním mozku, jinou duševní poruchou ani účinky látek"
+    ]
   },
   {
     "id": "F06.8",
@@ -1174,7 +1344,11 @@
     "mapovani": {
       "mkn11": "6D8Y",
       "dsm5": "310.1"
-    }
+    },
+    "kriteria_mkn11": [
+      "Jiná specifikovaná organická duševní porucha způsobená průkazným onemocněním nebo poškozením mozku",
+      "Nesplňuje kritéria pro jinou specifickou kategorii ICD-11 organických poruch"
+    ]
   },
   {
     "id": "F07.0",
@@ -1206,7 +1380,10 @@
     "mapovani": {
       "mkn11": "6D8Y.0",
       "dsm5": "310.1"
-    }
+    },
+    "kriteria_mkn11": [
+      "Specifikovaná organická porucha osobnosti a chování způsobená přímými fyziologickými účinky onemocnění, úrazu nebo dysfunkce mozku"
+    ]
   },
   {
     "id": "F07.1",
@@ -1239,7 +1416,13 @@
     "mapovani": {
       "mkn11": "6D70",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha pozornosti, orientace a vědomí rozvíjející se v krátké době (hodiny až dny)",
+      "Příznaky typicky kolísají v průběhu dne",
+      "Může zahrnovat behaviorální a emocionální poruchy, narušení cyklu spánku a bdění a mnohočetné kognitivní deficity",
+      "Příčina: důsledek jiného onemocnění, psychoaktivní látky/léky nebo kombinace příčin"
+    ]
   },
   {
     "id": "F07.2",
@@ -1273,7 +1456,11 @@
     "mapovani": {
       "mkn11": "MB50.3",
       "dsm5": "310.89"
-    }
+    },
+    "kriteria_mkn11": [
+      "Organická porucha způsobená specificky identifikovanou příčinou (trauma hlavy, toxická expozice apod.)",
+      "Příznaky splňují kritéria příslušné kategorie organické duševní poruchy"
+    ]
   },
   {
     "id": "F07.8",
@@ -1355,7 +1542,11 @@
     "mapovani": {
       "mkn11": "6D8Z",
       "dsm5": "293.89"
-    }
+    },
+    "kriteria_mkn11": [
+      "Příznaky organické duševní poruchy způsobené průkazným onemocněním mozku, úrazem nebo jinými tělesnými poruchami",
+      "Nesplňuje plná kritéria pro jinou specifickou organickou duševní poruchu dle ICD-11"
+    ]
   },
   {
     "id": "F10",
@@ -1382,7 +1573,11 @@
     "mapovani": {
       "mkn11": "6C40",
       "dsm5": "303.90"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha způsobená užíváním alkoholu způsobující škody na fyzickém nebo duševním zdraví osoby nebo chování vedoucí k poškození zdraví jiných",
+      "Zahrnuje: epizodické škodlivé užívání, škodlivý vzorec užívání, závislost, intoxikaci, abstinenční stav a psychotické poruchy"
+    ]
   },
   {
     "id": "F10.0",
@@ -1417,7 +1612,11 @@
     "mapovani": {
       "mkn11": "6C40.0",
       "dsm5": "303.00"
-    }
+    },
+    "kriteria_mkn11": [
+      "Epizoda užívání alkoholu, která způsobila poškození fyzického nebo duševního zdraví nebo vedla k chování poškozujícímu zdraví ostatních",
+      "Poškození nastalo intoxikačním chováním, přímými nebo nepřímými toxickými účinky na orgány nebo škodlivými způsoby podání"
+    ]
   },
   {
     "id": "F10.1",
@@ -1447,7 +1646,11 @@
     "mapovani": {
       "mkn11": "6C40.1",
       "dsm5": "305.00"
-    }
+    },
+    "kriteria_mkn11": [
+      "Vzorec škodlivého užívání alkoholu přetrvávající nejméně 12 měsíců (epizodické) nebo nejméně 1 měsíc (kontinuální)",
+      "Způsobil poškození fyzického nebo duševního zdraví nebo vedl k chování poškozujícímu zdraví ostatních"
+    ]
   },
   {
     "id": "F10.2",
@@ -1484,7 +1687,12 @@
     "mapovani": {
       "mkn11": "6C40.2",
       "dsm5": "303.90"
-    }
+    },
+    "kriteria_mkn11": [
+      "Silná vnitřní pohnutka k užívání alkoholu se narušenou schopností kontroly nad užíváním",
+      "Narůstající priorita alkoholu před ostatními aktivitami a přetrvávání užívání navzdory poškozením",
+      "Diagnóza je obvykle patrná za 12 měsíců, ale může být stanovena, pokud kontinuální denní užívání trvá nejméně 3 měsíce"
+    ]
   },
   {
     "id": "F10.3",
@@ -1519,7 +1727,11 @@
     "mapovani": {
       "mkn11": "6C40.3",
       "dsm5": "291.81"
-    }
+    },
+    "kriteria_mkn11": [
+      "Klinicky závažný syndrom, který se vyvíjí po snížení nebo přerušení užívání alkoholu u osoby se závislostí",
+      "Třes, pocení, tachykardie, úzkost, nevolnost, nespavost; závažné případy: záchvaty nebo delirium tremens"
+    ]
   },
   {
     "id": "F10.4",
@@ -1553,7 +1765,11 @@
     "mapovani": {
       "mkn11": "6C40.4",
       "dsm5": "291.0"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přechodná porucha charakteru a funkce vědomí způsobená přímými účinky alkoholu na CNS po akutním požití",
+      "Projevuje se poruchami vědomí, kognitivními obtížemi, percepčními poruchami nebo poruchami chování"
+    ]
   },
   {
     "id": "F10.5",
@@ -1584,7 +1800,11 @@
     "mapovani": {
       "mkn11": "6C40.5",
       "dsm5": "291.5"
-    }
+    },
+    "kriteria_mkn11": [
+      "Psychotická porucha vzniklá při užívání nebo brzy po užití alkoholu",
+      "Halucinace nebo bludy, které jsou přímým důsledkem psychoaktivního účinku alkoholu"
+    ]
   },
   {
     "id": "F10.6",
@@ -1616,7 +1836,12 @@
     "mapovani": {
       "mkn11": "6C40.6",
       "dsm5": "291.1"
-    }
+    },
+    "kriteria_mkn11": [
+      "Amnestická porucha vyvolaná alkoholem (Korsakovův syndrom)",
+      "Výrazná porucha krátkodobé paměti a přiučování nových informací při zachování okamžité paměti",
+      "Typicky konfabulace; způsobena chronickým nedostatkem thiaminu při závislosti na alkoholu"
+    ]
   },
   {
     "id": "F10.7",
@@ -1727,7 +1952,10 @@
     "mapovani": {
       "mkn11": "6C41",
       "dsm5": "304.00"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha způsobená užíváním opioidů zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky"
+    ]
   },
   {
     "id": "F11.0",
@@ -1760,7 +1988,10 @@
     "mapovani": {
       "mkn11": "6C41.0",
       "dsm5": "292.89"
-    }
+    },
+    "kriteria_mkn11": [
+      "Epizoda nebo vzorec škodlivého užívání opioidů způsobující poškození fyzického nebo duševního zdraví"
+    ]
   },
   {
     "id": "F11.1",
@@ -1816,7 +2047,11 @@
     "mapovani": {
       "mkn11": "6C41.2",
       "dsm5": "304.00"
-    }
+    },
+    "kriteria_mkn11": [
+      "Závislost na opioidech: silná vnitřní pohnutka k užívání opioidů, narušená kontrola, narůstající priorita před ostatními aktivitami, přetrvávání navzdory poškozením",
+      "Obvykle patrná za 12 měsíců nebo při kontinuálním denním užívání nejméně 3 měsíce"
+    ]
   },
   {
     "id": "F11.3",
@@ -1850,7 +2085,11 @@
     "mapovani": {
       "mkn11": "6C41.3",
       "dsm5": "292.0"
-    }
+    },
+    "kriteria_mkn11": [
+      "Opioidový abstinenční syndrom: úzkost, nespavost, mydriáza, piloerekce, nevolnost, zvracení, průjem, bolesti svalů",
+      "Rozvíjí se po snížení nebo přerušení užívání opioidů u závislé osoby"
+    ]
   },
   {
     "id": "F11.4",
@@ -2037,7 +2276,10 @@
     "mapovani": {
       "mkn11": "6C42",
       "dsm5": "304.30"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha způsobená užíváním kanabinoidů zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky"
+    ]
   },
   {
     "id": "F12.0",
@@ -2071,7 +2313,10 @@
     "mapovani": {
       "mkn11": "6C42.0",
       "dsm5": "292.89"
-    }
+    },
+    "kriteria_mkn11": [
+      "Epizoda nebo vzorec škodlivého užívání kanabinoidů způsobující poškození fyzického nebo duševního zdraví"
+    ]
   },
   {
     "id": "F12.1",
@@ -2128,7 +2373,10 @@
     "mapovani": {
       "mkn11": "6C42.2",
       "dsm5": "304.30"
-    }
+    },
+    "kriteria_mkn11": [
+      "Závislost na kanabinoidech: silná vnitřní pohnutka k užívání, narušená kontrola, narůstající priorita a přetrvávání navzdory poškozením"
+    ]
   },
   {
     "id": "F12.3",
@@ -2217,7 +2465,10 @@
     "mapovani": {
       "mkn11": "6C42.5",
       "dsm5": "292.9"
-    }
+    },
+    "kriteria_mkn11": [
+      "Psychotická porucha vyvolaná kanabinoidy: bludy nebo halucinace jako přímý důsledek psychoaktivního účinku kanabinoidů"
+    ]
   },
   {
     "id": "F12.6",
@@ -2345,7 +2596,10 @@
     "mapovani": {
       "mkn11": "6C43",
       "dsm5": "304.10"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha způsobená užíváním sedativ, hypnotik nebo anxiolytik zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky"
+    ]
   },
   {
     "id": "F13.0",
@@ -2430,7 +2684,10 @@
     "mapovani": {
       "mkn11": "6C43.2",
       "dsm5": "304.10"
-    }
+    },
+    "kriteria_mkn11": [
+      "Závislost na sedativech/hypnotikách/anxiolytikách: silná vnitřní pohnutka k užívání, narušená kontrola, narůstající priorita a přetrvávání navzdory poškozením"
+    ]
   },
   {
     "id": "F13.3",
@@ -2464,7 +2721,11 @@
     "mapovani": {
       "mkn11": "6C43.3",
       "dsm5": "292.0"
-    }
+    },
+    "kriteria_mkn11": [
+      "Abstinenční syndrom po sedativech/hypnotikách: úzkost, třes, pocení, nespavost; závažné případy: záchvaty nebo psychóza",
+      "Rozvíjí se po snížení nebo přerušení užívání u závislé osoby"
+    ]
   },
   {
     "id": "F13.4",
@@ -2651,7 +2912,10 @@
     "mapovani": {
       "mkn11": "6C44",
       "dsm5": "304.20"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha způsobená užíváním kokainu zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky"
+    ]
   },
   {
     "id": "F14.0",
@@ -2687,7 +2951,10 @@
     "mapovani": {
       "mkn11": "6C44.0",
       "dsm5": "292.89"
-    }
+    },
+    "kriteria_mkn11": [
+      "Epizoda nebo vzorec škodlivého užívání kokainu způsobující poškození fyzického nebo duševního zdraví"
+    ]
   },
   {
     "id": "F14.1",
@@ -2742,7 +3009,10 @@
     "mapovani": {
       "mkn11": "6C44.2",
       "dsm5": "304.20"
-    }
+    },
+    "kriteria_mkn11": [
+      "Závislost na kokainu: silná vnitřní pohnutka k užívání, narušená kontrola, narůstající priorita a přetrvávání navzdory poškozením"
+    ]
   },
   {
     "id": "F14.3",
@@ -2956,7 +3226,10 @@
     "mapovani": {
       "mkn11": "6C45",
       "dsm5": "304.40"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha způsobená užíváním stimulancií (amfetaminy, metamfetamin, MDMA apod.) zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky"
+    ]
   },
   {
     "id": "F15.0",
@@ -2991,7 +3264,10 @@
     "mapovani": {
       "mkn11": "6C45.0",
       "dsm5": "292.89"
-    }
+    },
+    "kriteria_mkn11": [
+      "Epizoda nebo vzorec škodlivého užívání stimulancií způsobující poškození fyzického nebo duševního zdraví"
+    ]
   },
   {
     "id": "F15.1",
@@ -3135,7 +3411,10 @@
     "mapovani": {
       "mkn11": "6C45.5",
       "dsm5": "292.9"
-    }
+    },
+    "kriteria_mkn11": [
+      "Psychotická porucha vyvolaná stimulancii: bludy nebo halucinace jako přímý důsledek psychoaktivního účinku stimulancií (typicky paranoidní bludy a sluchové halucinace)"
+    ]
   },
   {
     "id": "F15.6",
@@ -3264,7 +3543,10 @@
     "mapovani": {
       "mkn11": "6C46",
       "dsm5": "304.50"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha způsobená užíváním MDMA nebo příbuzných látek zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky"
+    ]
   },
   {
     "id": "F16.0",
@@ -3298,7 +3580,10 @@
     "mapovani": {
       "mkn11": "6C46.0",
       "dsm5": "292.89"
-    }
+    },
+    "kriteria_mkn11": [
+      "Epizoda nebo vzorec škodlivého užívání MDMA způsobující poškození fyzického nebo duševního zdraví"
+    ]
   },
   {
     "id": "F16.1",
@@ -3491,7 +3776,10 @@
     "mapovani": {
       "mkn11": "6C46.70",
       "dsm5": "292.89"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přetrvávající percepční porucha vyvolaná halucinogeny (HPPD): opakované přepisy percepčních symptomů z dřívější intoxikace halucinogeny"
+    ]
   },
   {
     "id": "F16.7",
@@ -3591,7 +3879,10 @@
     "mapovani": {
       "mkn11": "6C4A",
       "dsm5": "305.10"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha způsobená užíváním tabáku zahrnující škodlivé vzorce, závislost nebo abstinenční příznaky"
+    ]
   },
   {
     "id": "F17.0",
@@ -3672,7 +3963,10 @@
     "mapovani": {
       "mkn11": "6C4A.2",
       "dsm5": "305.10"
-    }
+    },
+    "kriteria_mkn11": [
+      "Závislost na tabáku (nikotinu): silná vnitřní pohnutka k užívání, narušená kontrola nad množstvím nebo situacemi"
+    ]
   },
   {
     "id": "F17.3",
@@ -3705,7 +3999,11 @@
     "mapovani": {
       "mkn11": "6C4A.3",
       "dsm5": "292.0"
-    }
+    },
+    "kriteria_mkn11": [
+      "Tabákový abstinenční syndrom: dráždivost, úzkost, depresivní nálada, obtíže se soustředěním, zvýšená chuť k jídlu, nespavost",
+      "Rozvíjí se po snížení nebo přerušení užívání tabáku u závislé osoby"
+    ]
   },
   {
     "id": "F17.4",
@@ -3892,7 +4190,10 @@
     "mapovani": {
       "mkn11": "6C4B",
       "dsm5": "304.60"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha způsobená užíváním těkavých inhalantů zahrnující škodlivé vzorce, závislost nebo intoxikaci"
+    ]
   },
   {
     "id": "F18.0",
@@ -3924,7 +4225,10 @@
     "mapovani": {
       "mkn11": "6C4B.0",
       "dsm5": "292.89"
-    }
+    },
+    "kriteria_mkn11": [
+      "Epizoda nebo vzorec škodlivého užívání inhalantů způsobující poškození fyzického nebo duševního zdraví"
+    ]
   },
   {
     "id": "F18.1",
@@ -4191,7 +4495,11 @@
     "mapovani": {
       "mkn11": "6C4G",
       "dsm5": "304.80"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha charakterizovaná přetrvávajícím nebo opakujícím se vzorcem hazardní hry, který způsobuje výrazné postižení nebo tíseň",
+      "Narušená kontrola nad hazardní hrou, zvýšující se priorita hazardu před ostatními životními zájmy, přetrvávání hráčství navzdory negativním důsledkům"
+    ]
   },
   {
     "id": "F19.0",
@@ -4495,7 +4803,13 @@
     "mapovani": {
       "mkn11": "6A20",
       "dsm5": "295.90"
-    }
+    },
+    "kriteria_mkn11": [
+      "Poruchy ve více mentálních modalitách: myšlení (bludy, dezorganizace), vnímání (halucinace), prožívání sebe (ovlivňování, pasivita), kognice, vůle (ztráta motivace), afekt (oploštění), chování",
+      "Základní příznaky: trvalé bludy, trvalé halucinace, dezorganizace myšlení, zážitky ovlivňování nebo kontroly jsou jádrovými příznaky",
+      "Příznaky přetrvávají nejméně 1 měsíc",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky nebo léku na CNS"
+    ]
   },
   {
     "id": "F20.0",
@@ -4526,7 +4840,13 @@
     "mapovani": {
       "mkn11": "6A20",
       "dsm5": "295.30"
-    }
+    },
+    "kriteria_mkn11": [
+      "Poruchy ve více mentálních modalitách: myšlení (bludy, dezorganizace), vnímání (halucinace), prožívání sebe (ovlivňování, pasivita), kognice, vůle (ztráta motivace), afekt (oploštění), chování",
+      "Základní příznaky: trvalé bludy, trvalé halucinace, dezorganizace myšlení, zážitky ovlivňování nebo kontroly jsou jádrovými příznaky",
+      "Příznaky přetrvávají nejméně 1 měsíc",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky nebo léku na CNS"
+    ]
   },
   {
     "id": "F20.1",
@@ -4559,7 +4879,13 @@
     "mapovani": {
       "mkn11": "6A20",
       "dsm5": "295.10"
-    }
+    },
+    "kriteria_mkn11": [
+      "Poruchy ve více mentálních modalitách: myšlení (bludy, dezorganizace), vnímání (halucinace), prožívání sebe (ovlivňování, pasivita), kognice, vůle (ztráta motivace), afekt (oploštění), chování",
+      "Základní příznaky: trvalé bludy, trvalé halucinace, dezorganizace myšlení, zážitky ovlivňování nebo kontroly jsou jádrovými příznaky",
+      "Příznaky přetrvávají nejméně 1 měsíc",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky nebo léku na CNS"
+    ]
   },
   {
     "id": "F20.2",
@@ -4592,7 +4918,13 @@
     "mapovani": {
       "mkn11": "6A20",
       "dsm5": "295.20"
-    }
+    },
+    "kriteria_mkn11": [
+      "Poruchy ve více mentálních modalitách: myšlení (bludy, dezorganizace), vnímání (halucinace), prožívání sebe (ovlivňování, pasivita), kognice, vůle (ztráta motivace), afekt (oploštění), chování",
+      "Základní příznaky: trvalé bludy, trvalé halucinace, dezorganizace myšlení, zážitky ovlivňování nebo kontroly jsou jádrovými příznaky",
+      "Příznaky přetrvávají nejméně 1 měsíc",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky nebo léku na CNS"
+    ]
   },
   {
     "id": "F20.3",
@@ -4619,7 +4951,13 @@
     "mapovani": {
       "mkn11": "6A20",
       "dsm5": "295.90"
-    }
+    },
+    "kriteria_mkn11": [
+      "Poruchy ve více mentálních modalitách: myšlení (bludy, dezorganizace), vnímání (halucinace), prožívání sebe (ovlivňování, pasivita), kognice, vůle (ztráta motivace), afekt (oploštění), chování",
+      "Základní příznaky: trvalé bludy, trvalé halucinace, dezorganizace myšlení, zážitky ovlivňování nebo kontroly jsou jádrovými příznaky",
+      "Příznaky přetrvávají nejméně 1 měsíc",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky nebo léku na CNS"
+    ]
   },
   {
     "id": "F20.4",
@@ -4651,7 +4989,13 @@
     "mapovani": {
       "mkn11": "6A20",
       "dsm5": "295.70"
-    }
+    },
+    "kriteria_mkn11": [
+      "Poruchy ve více mentálních modalitách: myšlení (bludy, dezorganizace), vnímání (halucinace), prožívání sebe (ovlivňování, pasivita), kognice, vůle (ztráta motivace), afekt (oploštění), chování",
+      "Základní příznaky: trvalé bludy, trvalé halucinace, dezorganizace myšlení, zážitky ovlivňování nebo kontroly jsou jádrovými příznaky",
+      "Příznaky přetrvávají nejméně 1 měsíc",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky nebo léku na CNS"
+    ]
   },
   {
     "id": "F20.5",
@@ -4681,7 +5025,13 @@
     "mapovani": {
       "mkn11": "6A20",
       "dsm5": "295.60"
-    }
+    },
+    "kriteria_mkn11": [
+      "Poruchy ve více mentálních modalitách: myšlení (bludy, dezorganizace), vnímání (halucinace), prožívání sebe (ovlivňování, pasivita), kognice, vůle (ztráta motivace), afekt (oploštění), chování",
+      "Základní příznaky: trvalé bludy, trvalé halucinace, dezorganizace myšlení, zážitky ovlivňování nebo kontroly jsou jádrovými příznaky",
+      "Příznaky přetrvávají nejméně 1 měsíc",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky nebo léku na CNS"
+    ]
   },
   {
     "id": "F20.6",
@@ -4712,7 +5062,13 @@
     "mapovani": {
       "mkn11": "6A20",
       "dsm5": "295.90"
-    }
+    },
+    "kriteria_mkn11": [
+      "Poruchy ve více mentálních modalitách: myšlení (bludy, dezorganizace), vnímání (halucinace), prožívání sebe (ovlivňování, pasivita), kognice, vůle (ztráta motivace), afekt (oploštění), chování",
+      "Základní příznaky: trvalé bludy, trvalé halucinace, dezorganizace myšlení, zážitky ovlivňování nebo kontroly jsou jádrovými příznaky",
+      "Příznaky přetrvávají nejméně 1 měsíc",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky nebo léku na CNS"
+    ]
   },
   {
     "id": "F20.8",
@@ -4801,7 +5157,15 @@
     "mapovani": {
       "mkn11": "6A22",
       "dsm5": "301.22"
-    }
+    },
+    "kriteria_mkn11": [
+      "Trvalý vzorec trvající několik let projevující se podivínstvím v chování, vzhledu a řeči",
+      "Kognitivní a percepční distorze a neobvyklá přesvědčení",
+      "Dyskomfort v mezilidských vztazích a snížená schopnost je udržovat",
+      "Stažený nebo nepřiměřený afekt a anhedonie",
+      "Paranoidní ideje, vztahovačnost nebo jiné příznaky psychotického spektra (halucinace) mohou být přítomny, ale nedosahují intenzity ani trvání vyžadovaného pro schizofrenii",
+      "Způsobuje tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "F22",
@@ -4831,7 +5195,13 @@
     "mapovani": {
       "mkn11": "6A24",
       "dsm5": "297.1"
-    }
+    },
+    "kriteria_mkn11": [
+      "Rozvoj bludu nebo souboru příbuzných bludů, typicky přetrvávajících nejméně 3 měsíce",
+      "Chybí jasné a trvalé halucinace, negativní příznaky, dezorganizace myšlení nebo zážitky ovlivňování – odlišení od schizofrenie",
+      "Mimo chování přímo spojeného s bludem jsou afekt, řeč a chování typicky nezměněny",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky na CNS"
+    ]
   },
   {
     "id": "F22.0",
@@ -4861,7 +5231,11 @@
     "mapovani": {
       "mkn11": "6A24.0",
       "dsm5": "297.1"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro bludnou poruchu (6A24)",
+      "Aktuálně symptomatická fáze (kritéria splněna v posledním měsíci)"
+    ]
   },
   {
     "id": "F22.8",
@@ -4950,7 +5324,13 @@
     "mapovani": {
       "mkn11": "6A23",
       "dsm5": "298.8"
-    }
+    },
+    "kriteria_mkn11": [
+      "Akutní nástup psychotických příznaků (bludy, halucinace, dezorganizace, zmatenost, poruchy psychomotoriky) bez prodromu, dosahující maximální závažnosti do 2 týdnů",
+      "Příznaky se typicky rychle mění v povaze i intenzitě – den od dne nebo i v průběhu jednoho dne",
+      "Epizoda nepřesahuje 3 měsíce; typická délka je několik dní až 1 měsíc",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky na CNS"
+    ]
   },
   {
     "id": "F23.0",
@@ -4986,7 +5366,13 @@
     "mapovani": {
       "mkn11": "6A23",
       "dsm5": "298.9"
-    }
+    },
+    "kriteria_mkn11": [
+      "Akutní nástup psychotických příznaků (bludy, halucinace, dezorganizace, zmatenost, poruchy psychomotoriky) bez prodromu, dosahující maximální závažnosti do 2 týdnů",
+      "Příznaky se typicky rychle mění v povaze i intenzitě – den od dne nebo i v průběhu jednoho dne",
+      "Epizoda nepřesahuje 3 měsíce; typická délka je několik dní až 1 měsíc",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky na CNS"
+    ]
   },
   {
     "id": "F23.1",
@@ -5020,7 +5406,13 @@
     "mapovani": {
       "mkn11": "6A23",
       "dsm5": "295.40"
-    }
+    },
+    "kriteria_mkn11": [
+      "Akutní nástup psychotických příznaků (bludy, halucinace, dezorganizace, zmatenost, poruchy psychomotoriky) bez prodromu, dosahující maximální závažnosti do 2 týdnů",
+      "Příznaky se typicky rychle mění v povaze i intenzitě – den od dne nebo i v průběhu jednoho dne",
+      "Epizoda nepřesahuje 3 měsíce; typická délka je několik dní až 1 měsíc",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky na CNS"
+    ]
   },
   {
     "id": "F23.2",
@@ -5053,7 +5445,13 @@
     "mapovani": {
       "mkn11": "6A23",
       "dsm5": "295.40"
-    }
+    },
+    "kriteria_mkn11": [
+      "Akutní nástup psychotických příznaků (bludy, halucinace, dezorganizace, zmatenost, poruchy psychomotoriky) bez prodromu, dosahující maximální závažnosti do 2 týdnů",
+      "Příznaky se typicky rychle mění v povaze i intenzitě – den od dne nebo i v průběhu jednoho dne",
+      "Epizoda nepřesahuje 3 měsíce; typická délka je několik dní až 1 měsíc",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky na CNS"
+    ]
   },
   {
     "id": "F23.3",
@@ -5086,7 +5484,13 @@
     "mapovani": {
       "mkn11": "6A23",
       "dsm5": "297.1"
-    }
+    },
+    "kriteria_mkn11": [
+      "Akutní nástup psychotických příznaků (bludy, halucinace, dezorganizace, zmatenost, poruchy psychomotoriky) bez prodromu, dosahující maximální závažnosti do 2 týdnů",
+      "Příznaky se typicky rychle mění v povaze i intenzitě – den od dne nebo i v průběhu jednoho dne",
+      "Epizoda nepřesahuje 3 měsíce; typická délka je několik dní až 1 měsíc",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky na CNS"
+    ]
   },
   {
     "id": "F23.8",
@@ -5172,7 +5576,11 @@
     "mapovani": {
       "mkn11": "6A25",
       "dsm5": "297.3"
-    }
+    },
+    "kriteria_mkn11": [
+      "Psychotické příznaky (bludy, halucinace, dezorganizace) nezapadající plně do kritérií jiných primárně psychotických poruch v ICD-11",
+      "Příznaky způsobují výraznou tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "F25",
@@ -5201,7 +5609,12 @@
     "mapovani": {
       "mkn11": "6A21",
       "dsm5": "295.70"
-    }
+    },
+    "kriteria_mkn11": [
+      "Epizodická porucha, při níž jsou v rámci téže epizody splněna diagnostická kritéria jak pro schizofrenii, tak pro manickou, smíšenou nebo středně těžkou či těžkou depresivní epizodu (simultánně nebo do několika dnů)",
+      "Příznaky přetrvávají nejméně 1 měsíc",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky na CNS"
+    ]
   },
   {
     "id": "F25.0",
@@ -5231,7 +5644,11 @@
     "mapovani": {
       "mkn11": "6A21.0",
       "dsm5": "295.70"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro schizoafektivní poruchu (6A21)",
+      "Přítomnost výrazných manických příznaků spolu s příznaky schizofrenie v rámci téže epizody"
+    ]
   },
   {
     "id": "F25.1",
@@ -5262,7 +5679,11 @@
     "mapovani": {
       "mkn11": "6A21.1",
       "dsm5": "295.70"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro schizoafektivní poruchu (6A21)",
+      "Přítomnost výrazných depresivních příznaků spolu s příznaky schizofrenie v rámci téže epizody"
+    ]
   },
   {
     "id": "F25.2",
@@ -5295,7 +5716,12 @@
     "mapovani": {
       "mkn11": "6A21",
       "dsm5": "295.70"
-    }
+    },
+    "kriteria_mkn11": [
+      "Epizodická porucha, při níž jsou v rámci téže epizody splněna diagnostická kritéria jak pro schizofrenii, tak pro manickou, smíšenou nebo středně těžkou či těžkou depresivní epizodu (simultánně nebo do několika dnů)",
+      "Příznaky přetrvávají nejméně 1 měsíc",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky na CNS"
+    ]
   },
   {
     "id": "F25.8",
@@ -5378,7 +5804,10 @@
     "mapovani": {
       "mkn11": "6A2Y",
       "dsm5": "298.9"
-    }
+    },
+    "kriteria_mkn11": [
+      "Primárně psychotická porucha splňující obecná kritéria psychotické poruchy, ale nezapadající do žádné jiné specifikované kategorie psychotických poruch v ICD-11"
+    ]
   },
   {
     "id": "F29",
@@ -5407,7 +5836,10 @@
     "mapovani": {
       "mkn11": "6A2Z",
       "dsm5": "298.9"
-    }
+    },
+    "kriteria_mkn11": [
+      "Primárně psychotická porucha, u níž není k dispozici dostatek informací pro přiřazení ke specifické kategorii, nebo kritéria nesplňují žádnou jinou specifikovanou kategorii"
+    ]
   },
   {
     "id": "F30",
@@ -5441,7 +5873,13 @@
     "mapovani": {
       "mkn11": "6A60",
       "dsm5": "296.00"
-    }
+    },
+    "kriteria_mkn11": [
+      "Jedna nebo více manických nebo smíšených epizod (nutná podmínka pro diagnózu)",
+      "Manická epizoda: trvá nejméně 1 týden (nebo kratší, pokud přerušena léčbou), extrémní zvýšení nebo dráždivost nálady + zvýšení aktivity nebo subjektivní energie + doprovodné příznaky (rychlá řeč, let myšlenek, snížená potřeba spánku, roztržitost, impulzivní chování)",
+      "Smíšená epizoda: simultánní nebo rychle se střídající výrazné manické i depresivní příznaky, nejméně 2 týdny",
+      "Příznaky způsobují výrazné postižení nebo vyžadují hospitalizaci; neodpovídají hypomanii"
+    ]
   },
   {
     "id": "F30.0",
@@ -5475,7 +5913,11 @@
     "mapovani": {
       "mkn11": "6A60.0",
       "dsm5": "296.40"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro bipolární poruchu I (6A60)",
+      "Aktuálně manická epizoda: nejméně 1 týden extrémního zvýšení nálady nebo dráždivosti + zvýšení aktivity"
+    ]
   },
   {
     "id": "F30.1",
@@ -5504,7 +5946,11 @@
     "mapovani": {
       "mkn11": "6A60.1",
       "dsm5": "296.41"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro bipolární poruchu I (6A60)",
+      "Aktuálně hypomanická epizoda: několik dní zvýšené nálady nebo dráždivosti + zvýšení aktivity, méně závažné než u mánie"
+    ]
   },
   {
     "id": "F30.2",
@@ -5534,7 +5980,11 @@
     "mapovani": {
       "mkn11": "6A60.2",
       "dsm5": "296.44"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro bipolární poruchu I (6A60)",
+      "Aktuálně středně těžká nebo těžká depresivní epizoda (bez psychózy)"
+    ]
   },
   {
     "id": "F30.8",
@@ -5564,7 +6014,13 @@
     "mapovani": {
       "mkn11": "6A60",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Jedna nebo více manických nebo smíšených epizod (nutná podmínka pro diagnózu)",
+      "Manická epizoda: trvá nejméně 1 týden (nebo kratší, pokud přerušena léčbou), extrémní zvýšení nebo dráždivost nálady + zvýšení aktivity nebo subjektivní energie + doprovodné příznaky (rychlá řeč, let myšlenek, snížená potřeba spánku, roztržitost, impulzivní chování)",
+      "Smíšená epizoda: simultánní nebo rychle se střídající výrazné manické i depresivní příznaky, nejméně 2 týdny",
+      "Příznaky způsobují výrazné postižení nebo vyžadují hospitalizaci; neodpovídají hypomanii"
+    ]
   },
   {
     "id": "F30.9",
@@ -5591,7 +6047,13 @@
     "mapovani": {
       "mkn11": "6A60",
       "dsm5": "296.00"
-    }
+    },
+    "kriteria_mkn11": [
+      "Jedna nebo více manických nebo smíšených epizod (nutná podmínka pro diagnózu)",
+      "Manická epizoda: trvá nejméně 1 týden (nebo kratší, pokud přerušena léčbou), extrémní zvýšení nebo dráždivost nálady + zvýšení aktivity nebo subjektivní energie + doprovodné příznaky (rychlá řeč, let myšlenek, snížená potřeba spánku, roztržitost, impulzivní chování)",
+      "Smíšená epizoda: simultánní nebo rychle se střídající výrazné manické i depresivní příznaky, nejméně 2 týdny",
+      "Příznaky způsobují výrazné postižení nebo vyžadují hospitalizaci; neodpovídají hypomanii"
+    ]
   },
   {
     "id": "F31",
@@ -5620,7 +6082,13 @@
     "mapovani": {
       "mkn11": "6A60",
       "dsm5": "296.89"
-    }
+    },
+    "kriteria_mkn11": [
+      "Jedna nebo více manických nebo smíšených epizod (nutná podmínka pro diagnózu)",
+      "Manická epizoda: trvá nejméně 1 týden (nebo kratší, pokud přerušena léčbou), extrémní zvýšení nebo dráždivost nálady + zvýšení aktivity nebo subjektivní energie + doprovodné příznaky (rychlá řeč, let myšlenek, snížená potřeba spánku, roztržitost, impulzivní chování)",
+      "Smíšená epizoda: simultánní nebo rychle se střídající výrazné manické i depresivní příznaky, nejméně 2 týdny",
+      "Příznaky způsobují výrazné postižení nebo vyžadují hospitalizaci; neodpovídají hypomanii"
+    ]
   },
   {
     "id": "F31.0",
@@ -5646,7 +6114,11 @@
     "mapovani": {
       "mkn11": "6A60.0",
       "dsm5": "296.40"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro bipolární poruchu I (6A60)",
+      "Aktuálně manická epizoda: nejméně 1 týden extrémního zvýšení nálady nebo dráždivosti + zvýšení aktivity"
+    ]
   },
   {
     "id": "F31.1",
@@ -5680,7 +6152,13 @@
     "mapovani": {
       "mkn11": "6A60",
       "dsm5": "296.41"
-    }
+    },
+    "kriteria_mkn11": [
+      "Jedna nebo více manických nebo smíšených epizod (nutná podmínka pro diagnózu)",
+      "Manická epizoda: trvá nejméně 1 týden (nebo kratší, pokud přerušena léčbou), extrémní zvýšení nebo dráždivost nálady + zvýšení aktivity nebo subjektivní energie + doprovodné příznaky (rychlá řeč, let myšlenek, snížená potřeba spánku, roztržitost, impulzivní chování)",
+      "Smíšená epizoda: simultánní nebo rychle se střídající výrazné manické i depresivní příznaky, nejméně 2 týdny",
+      "Příznaky způsobují výrazné postižení nebo vyžadují hospitalizaci; neodpovídají hypomanii"
+    ]
   },
   {
     "id": "F31.2",
@@ -5713,7 +6191,13 @@
     "mapovani": {
       "mkn11": "6A60",
       "dsm5": "296.42"
-    }
+    },
+    "kriteria_mkn11": [
+      "Jedna nebo více manických nebo smíšených epizod (nutná podmínka pro diagnózu)",
+      "Manická epizoda: trvá nejméně 1 týden (nebo kratší, pokud přerušena léčbou), extrémní zvýšení nebo dráždivost nálady + zvýšení aktivity nebo subjektivní energie + doprovodné příznaky (rychlá řeč, let myšlenek, snížená potřeba spánku, roztržitost, impulzivní chování)",
+      "Smíšená epizoda: simultánní nebo rychle se střídající výrazné manické i depresivní příznaky, nejméně 2 týdny",
+      "Příznaky způsobují výrazné postižení nebo vyžadují hospitalizaci; neodpovídají hypomanii"
+    ]
   },
   {
     "id": "F31.3",
@@ -5743,7 +6227,11 @@
     "mapovani": {
       "mkn11": "6A60.3",
       "dsm5": "296.52"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro bipolární poruchu I (6A60)",
+      "Aktuálně mírná depresivní epizoda"
+    ]
   },
   {
     "id": "F31.4",
@@ -5775,7 +6263,13 @@
     "mapovani": {
       "mkn11": "6A60",
       "dsm5": "296.54"
-    }
+    },
+    "kriteria_mkn11": [
+      "Jedna nebo více manických nebo smíšených epizod (nutná podmínka pro diagnózu)",
+      "Manická epizoda: trvá nejméně 1 týden (nebo kratší, pokud přerušena léčbou), extrémní zvýšení nebo dráždivost nálady + zvýšení aktivity nebo subjektivní energie + doprovodné příznaky (rychlá řeč, let myšlenek, snížená potřeba spánku, roztržitost, impulzivní chování)",
+      "Smíšená epizoda: simultánní nebo rychle se střídající výrazné manické i depresivní příznaky, nejméně 2 týdny",
+      "Příznaky způsobují výrazné postižení nebo vyžadují hospitalizaci; neodpovídají hypomanii"
+    ]
   },
   {
     "id": "F31.5",
@@ -5804,7 +6298,11 @@
     "mapovani": {
       "mkn11": "6A60.4",
       "dsm5": "296.54"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro bipolární poruchu I (6A60)",
+      "Aktuálně těžká depresivní epizoda s psychotickými příznaky"
+    ]
   },
   {
     "id": "F31.6",
@@ -5837,7 +6335,13 @@
     "mapovani": {
       "mkn11": "6A60",
       "dsm5": "296.60"
-    }
+    },
+    "kriteria_mkn11": [
+      "Jedna nebo více manických nebo smíšených epizod (nutná podmínka pro diagnózu)",
+      "Manická epizoda: trvá nejméně 1 týden (nebo kratší, pokud přerušena léčbou), extrémní zvýšení nebo dráždivost nálady + zvýšení aktivity nebo subjektivní energie + doprovodné příznaky (rychlá řeč, let myšlenek, snížená potřeba spánku, roztržitost, impulzivní chování)",
+      "Smíšená epizoda: simultánní nebo rychle se střídající výrazné manické i depresivní příznaky, nejméně 2 týdny",
+      "Příznaky způsobují výrazné postižení nebo vyžadují hospitalizaci; neodpovídají hypomanii"
+    ]
   },
   {
     "id": "F31.7",
@@ -5864,7 +6368,13 @@
     "mapovani": {
       "mkn11": "6A60",
       "dsm5": "296.56"
-    }
+    },
+    "kriteria_mkn11": [
+      "Jedna nebo více manických nebo smíšených epizod (nutná podmínka pro diagnózu)",
+      "Manická epizoda: trvá nejméně 1 týden (nebo kratší, pokud přerušena léčbou), extrémní zvýšení nebo dráždivost nálady + zvýšení aktivity nebo subjektivní energie + doprovodné příznaky (rychlá řeč, let myšlenek, snížená potřeba spánku, roztržitost, impulzivní chování)",
+      "Smíšená epizoda: simultánní nebo rychle se střídající výrazné manické i depresivní příznaky, nejméně 2 týdny",
+      "Příznaky způsobují výrazné postižení nebo vyžadují hospitalizaci; neodpovídají hypomanii"
+    ]
   },
   {
     "id": "F31.8",
@@ -5892,7 +6402,13 @@
     "mapovani": {
       "mkn11": "6A61",
       "dsm5": "296.89"
-    }
+    },
+    "kriteria_mkn11": [
+      "Nejméně jedna hypomanická epizoda a nejméně jedna depresivní epizoda v anamnéze",
+      "Hypomanická epizoda: přetrvávající (nejméně několik dní) zvýšení nálady nebo dráždivosti + zvýšení aktivity; příznaky nejsou dostatečně závažné k výraznému narušení fungování",
+      "Depresivní epizoda: depresivní nálada nebo snížený zájem, nejméně 2 týdny, s dalšími příznaky",
+      "Žádná manická ani smíšená epizoda v anamnéze (jinak bipolární I)"
+    ]
   },
   {
     "id": "F31.9",
@@ -5957,7 +6473,12 @@
     "mapovani": {
       "mkn11": "6A70",
       "dsm5": "296.20"
-    }
+    },
+    "kriteria_mkn11": [
+      "Depresivní nálada nebo snížený zájem o aktivity přítomné po většinu dne, téměř každý den, po dobu nejméně 2 týdnů",
+      "Doprovodné příznaky: obtíže se soustředěním, pocity bezcennosti nebo nepřiměřené viny, beznaděj, opakující se myšlenky na smrt nebo sebevraždu, změny chuti k jídlu nebo spánku, psychomotorická agitace nebo retardace, snížená energie nebo únava",
+      "Žádná manická, hypomanická ani smíšená epizoda v anamnéze (jinak bipolární spektrum)"
+    ]
   },
   {
     "id": "F32.0",
@@ -5989,7 +6510,11 @@
     "mapovani": {
       "mkn11": "6A70.0",
       "dsm5": "296.21"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro jednorázovou depresivní epizodu (6A70)",
+      "Mírná závažnost: přítomna tíseň, ale obecně zachována schopnost fungovat; bez psychotických příznaků"
+    ]
   },
   {
     "id": "F32.1",
@@ -6020,7 +6545,11 @@
     "mapovani": {
       "mkn11": "6A70.1",
       "dsm5": "296.22"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro jednorázovou depresivní epizodu (6A70)",
+      "Středně těžká závažnost: výrazné obtíže ve fungování v několika oblastech; bez psychotických příznaků"
+    ]
   },
   {
     "id": "F32.2",
@@ -6054,7 +6583,11 @@
     "mapovani": {
       "mkn11": "6A70.2",
       "dsm5": "296.23"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro jednorázovou depresivní epizodu (6A70)",
+      "Středně těžká závažnost s psychotickými příznaky (bludy nebo halucinace)"
+    ]
   },
   {
     "id": "F32.3",
@@ -6085,7 +6618,11 @@
     "mapovani": {
       "mkn11": "6A70.3",
       "dsm5": "296.24"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro jednorázovou depresivní epizodu (6A70)",
+      "Těžká závažnost: závažné obtíže s fungováním ve většině oblastí; bez psychotických příznaků"
+    ]
   },
   {
     "id": "F32.8",
@@ -6116,7 +6653,12 @@
     "mapovani": {
       "mkn11": "6A70",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Depresivní nálada nebo snížený zájem o aktivity přítomné po většinu dne, téměř každý den, po dobu nejméně 2 týdnů",
+      "Doprovodné příznaky: obtíže se soustředěním, pocity bezcennosti nebo nepřiměřené viny, beznaděj, opakující se myšlenky na smrt nebo sebevraždu, změny chuti k jídlu nebo spánku, psychomotorická agitace nebo retardace, snížená energie nebo únava",
+      "Žádná manická, hypomanická ani smíšená epizoda v anamnéze (jinak bipolární spektrum)"
+    ]
   },
   {
     "id": "F32.9",
@@ -6144,7 +6686,12 @@
     "mapovani": {
       "mkn11": "6A70",
       "dsm5": "311"
-    }
+    },
+    "kriteria_mkn11": [
+      "Depresivní nálada nebo snížený zájem o aktivity přítomné po většinu dne, téměř každý den, po dobu nejméně 2 týdnů",
+      "Doprovodné příznaky: obtíže se soustředěním, pocity bezcennosti nebo nepřiměřené viny, beznaděj, opakující se myšlenky na smrt nebo sebevraždu, změny chuti k jídlu nebo spánku, psychomotorická agitace nebo retardace, snížená energie nebo únava",
+      "Žádná manická, hypomanická ani smíšená epizoda v anamnéze (jinak bipolární spektrum)"
+    ]
   },
   {
     "id": "F33",
@@ -6173,7 +6720,13 @@
     "mapovani": {
       "mkn11": "6A71",
       "dsm5": "296.30"
-    }
+    },
+    "kriteria_mkn11": [
+      "Anamnéza nejméně dvou depresivních epizod oddělených nejméně několika měsíci bez výrazné poruchy nálady",
+      "Depresivní epizoda: depresivní nálada nebo snížený zájem, nejméně 2 týdny, s doprovodnými příznaky",
+      "Žádná manická, hypomanická ani smíšená epizoda v anamnéze",
+      "Závažnost: mírná, středně těžká (bez/s psychózou), těžká (bez/s psychózou), v remisi"
+    ]
   },
   {
     "id": "F33.0",
@@ -6199,7 +6752,11 @@
     "mapovani": {
       "mkn11": "6A71.0",
       "dsm5": "296.31"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro rekurentní depresivní poruchu (6A71)",
+      "Aktuálně mírná depresivní epizoda"
+    ]
   },
   {
     "id": "F33.1",
@@ -6226,7 +6783,11 @@
     "mapovani": {
       "mkn11": "6A71.1",
       "dsm5": "296.32"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro rekurentní depresivní poruchu (6A71)",
+      "Aktuálně středně těžká depresivní epizoda bez psychotických příznaků"
+    ]
   },
   {
     "id": "F33.2",
@@ -6252,7 +6813,11 @@
     "mapovani": {
       "mkn11": "6A71.2",
       "dsm5": "296.33"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro rekurentní depresivní poruchu (6A71)",
+      "Aktuálně středně těžká depresivní epizoda s psychotickými příznaky"
+    ]
   },
   {
     "id": "F33.3",
@@ -6278,7 +6843,11 @@
     "mapovani": {
       "mkn11": "6A71.3",
       "dsm5": "296.34"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro rekurentní depresivní poruchu (6A71)",
+      "Aktuálně těžká depresivní epizoda bez psychotických příznaků"
+    ]
   },
   {
     "id": "F33.4",
@@ -6307,7 +6876,12 @@
     "mapovani": {
       "mkn11": "6A70",
       "dsm5": "296.36"
-    }
+    },
+    "kriteria_mkn11": [
+      "Depresivní nálada nebo snížený zájem o aktivity přítomné po většinu dne, téměř každý den, po dobu nejméně 2 týdnů",
+      "Doprovodné příznaky: obtíže se soustředěním, pocity bezcennosti nebo nepřiměřené viny, beznaděj, opakující se myšlenky na smrt nebo sebevraždu, změny chuti k jídlu nebo spánku, psychomotorická agitace nebo retardace, snížená energie nebo únava",
+      "Žádná manická, hypomanická ani smíšená epizoda v anamnéze (jinak bipolární spektrum)"
+    ]
   },
   {
     "id": "F33.8",
@@ -6335,7 +6909,12 @@
     "mapovani": {
       "mkn11": "6A70",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Depresivní nálada nebo snížený zájem o aktivity přítomné po většinu dne, téměř každý den, po dobu nejméně 2 týdnů",
+      "Doprovodné příznaky: obtíže se soustředěním, pocity bezcennosti nebo nepřiměřené viny, beznaděj, opakující se myšlenky na smrt nebo sebevraždu, změny chuti k jídlu nebo spánku, psychomotorická agitace nebo retardace, snížená energie nebo únava",
+      "Žádná manická, hypomanická ani smíšená epizoda v anamnéze (jinak bipolární spektrum)"
+    ]
   },
   {
     "id": "F33.9",
@@ -6361,7 +6940,12 @@
     "mapovani": {
       "mkn11": "6A70",
       "dsm5": "296.30"
-    }
+    },
+    "kriteria_mkn11": [
+      "Depresivní nálada nebo snížený zájem o aktivity přítomné po většinu dne, téměř každý den, po dobu nejméně 2 týdnů",
+      "Doprovodné příznaky: obtíže se soustředěním, pocity bezcennosti nebo nepřiměřené viny, beznaděj, opakující se myšlenky na smrt nebo sebevraždu, změny chuti k jídlu nebo spánku, psychomotorická agitace nebo retardace, snížená energie nebo únava",
+      "Žádná manická, hypomanická ani smíšená epizoda v anamnéze (jinak bipolární spektrum)"
+    ]
   },
   {
     "id": "F34",
@@ -6389,7 +6973,13 @@
     "mapovani": {
       "mkn11": "6A72",
       "dsm5": "301.13"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přetrvávající depresivní nálada trvající 2 roky nebo déle, přítomná po většinu dne, více dní než ne",
+      "V průběhu prvních 2 let nikdy nebyla depresivní epizoda dostatečně závažná ani dlouhá k naplnění kritérií pro depresivní epizodu",
+      "Doprovodné příznaky: snížený zájem, obtíže se soustředěním, snížená sebeúcta, pesimismus, poruchy spánku, změny chuti k jídlu, nízká energie",
+      "Žádná manická, smíšená ani hypomanická epizoda v anamnéze"
+    ]
   },
   {
     "id": "F34.0",
@@ -6420,7 +7010,11 @@
     "mapovani": {
       "mkn11": "6A72.0",
       "dsm5": "301.13"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro dysthymii (6A72)",
+      "Aktuálně persistentní depresivní stav bez superponované depresivní epizody"
+    ]
   },
   {
     "id": "F34.1",
@@ -6453,7 +7047,11 @@
     "mapovani": {
       "mkn11": "6A72.1",
       "dsm5": "300.4"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro dysthymii (6A72)",
+      "S aktuálně superponovanou depresivní epizodou (dvojitá deprese)"
+    ]
   },
   {
     "id": "F34.8",
@@ -6533,7 +7131,10 @@
     "mapovani": {
       "mkn11": "6A7Y",
       "dsm5": "296.99"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha nálady splňující obecná kritéria, ale nezapadající do žádné jiné specifikované kategorie afektivních poruch v ICD-11"
+    ]
   },
   {
     "id": "F38.00",
@@ -6564,7 +7165,11 @@
     "mapovani": {
       "mkn11": "6A60.5",
       "dsm5": "296.89"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro bipolární poruchu I (6A60)",
+      "Aktuálně smíšená epizoda: simultánní nebo rychle se střídající výrazné manické i depresivní příznaky"
+    ]
   },
   {
     "id": "F38.0",
@@ -6702,7 +7307,10 @@
     "mapovani": {
       "mkn11": "6A7Z",
       "dsm5": "296.99"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha nálady, u níž není k dispozici dostatek informací pro přiřazení ke specifické kategorii, nebo nesplňuje kritéria žádné specifikované afektivní poruchy"
+    ]
   },
   {
     "id": "F40",
@@ -6732,7 +7340,14 @@
     "mapovani": {
       "mkn11": "6B00",
       "dsm5": "300.29"
-    }
+    },
+    "kriteria_mkn11": [
+      "Volná úzkostnost nebo nadměrné obavy z negativních událostí ve více životních doménách (rodina, zdraví, finance, práce)",
+      "Doprovodné příznaky: svalové napětí nebo motorický neklid, autonomní hyperaktivita (palpitace, pocení, třes, sucho v ústech), nervozita nebo napětí, obtíže se soustředěním, dráždivost, poruchy spánku",
+      "Příznaky přetrvávají nejméně několik měsíců, přítomny více dní než ne",
+      "Způsobují výraznou tíseň nebo funkční postižení",
+      "Nejsou lépe vysvětleny jinou duševní poruchou ani onemocněním nebo účinky látky"
+    ]
   },
   {
     "id": "F40.0",
@@ -6764,7 +7379,14 @@
     "mapovani": {
       "mkn11": "6B00",
       "dsm5": "300.22"
-    }
+    },
+    "kriteria_mkn11": [
+      "Volná úzkostnost nebo nadměrné obavy z negativních událostí ve více životních doménách (rodina, zdraví, finance, práce)",
+      "Doprovodné příznaky: svalové napětí nebo motorický neklid, autonomní hyperaktivita (palpitace, pocení, třes, sucho v ústech), nervozita nebo napětí, obtíže se soustředěním, dráždivost, poruchy spánku",
+      "Příznaky přetrvávají nejméně několik měsíců, přítomny více dní než ne",
+      "Způsobují výraznou tíseň nebo funkční postižení",
+      "Nejsou lépe vysvětleny jinou duševní poruchou ani onemocněním nebo účinky látky"
+    ]
   },
   {
     "id": "F40.00",
@@ -6791,7 +7413,11 @@
     "mapovani": {
       "mkn11": "6B00.0",
       "dsm5": "300.22"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro generalizovanou úzkostnou poruchu (6B00)",
+      "Volná úzkostnost neomezená na konkrétní podněty ani situace"
+    ]
   },
   {
     "id": "F40.01",
@@ -6817,7 +7443,11 @@
     "mapovani": {
       "mkn11": "6B00.01",
       "dsm5": "300.21"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro generalizovanou úzkostnou poruchu (6B00)",
+      "Nadměrné obavy a starosti zaměřené na každodenní záležitosti v různých životních oblastech"
+    ]
   },
   {
     "id": "F40.1",
@@ -6852,7 +7482,14 @@
     "mapovani": {
       "mkn11": "6B04",
       "dsm5": "300.23"
-    }
+    },
+    "kriteria_mkn11": [
+      "Výrazná a nadměrná úzkost nebo strach konzistentně se projevující v jedné nebo více sociálních situacích (konverzace, pozorování při jídle nebo pití, vystupování před ostatními)",
+      "Obavy z negativního hodnocení druhými (ponížení, ostuda, odmítnutí)",
+      "Aktivní vyhýbání se sociálním situacím nebo jejich snášení s intenzivní úzkostí",
+      "Příznaky přetrvávají nejméně několik měsíců a způsobují výraznou tíseň nebo funkční postižení",
+      "Nejsou lépe vysvětleny jinou duševní poruchou ani onemocněním nebo účinky látky"
+    ]
   },
   {
     "id": "F40.2",
@@ -6882,7 +7519,13 @@
     "mapovani": {
       "mkn11": "6B03",
       "dsm5": "300.29"
-    }
+    },
+    "kriteria_mkn11": [
+      "Výrazná a nadměrná úzkost nebo strach konzistentně se objevující při expozici nebo anticipaci specifického objektu nebo situace (zvířata, výšky, bouřka, krev, injekce, létání)",
+      "Strach je nepřiměřený skutečnému nebezpečí",
+      "Aktivní vyhýbání se nebo snášení s intenzivní úzkostí",
+      "Příznaky přetrvávají nejméně několik měsíců a způsobují výraznou tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "F40.8",
@@ -6966,7 +7609,14 @@
     "mapovani": {
       "mkn11": "6B00",
       "dsm5": "300.00"
-    }
+    },
+    "kriteria_mkn11": [
+      "Volná úzkostnost nebo nadměrné obavy z negativních událostí ve více životních doménách (rodina, zdraví, finance, práce)",
+      "Doprovodné příznaky: svalové napětí nebo motorický neklid, autonomní hyperaktivita (palpitace, pocení, třes, sucho v ústech), nervozita nebo napětí, obtíže se soustředěním, dráždivost, poruchy spánku",
+      "Příznaky přetrvávají nejméně několik měsíců, přítomny více dní než ne",
+      "Způsobují výraznou tíseň nebo funkční postižení",
+      "Nejsou lépe vysvětleny jinou duševní poruchou ani onemocněním nebo účinky látky"
+    ]
   },
   {
     "id": "F41.0",
@@ -7005,7 +7655,14 @@
     "mapovani": {
       "mkn11": "6B01",
       "dsm5": "300.01"
-    }
+    },
+    "kriteria_mkn11": [
+      "Opakované neočekávané záchvaty paniky neomezené na konkrétní podněty ani situace",
+      "Záchvat paniky: intenzivní strach nebo úzkost s rychlým nástupem palpitací, pocení, třesu, dušnosti, bolesti na hrudi, závratí, horka/zimy, strachu z bezprostřední smrti",
+      "Přetrvávající obavy z opakování záchvatů nebo chování zaměřené na jejich předcházení",
+      "Způsobuje výrazné funkční postižení",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky na CNS"
+    ]
   },
   {
     "id": "F41.1",
@@ -7040,7 +7697,14 @@
     "mapovani": {
       "mkn11": "6B00",
       "dsm5": "300.02"
-    }
+    },
+    "kriteria_mkn11": [
+      "Volná úzkostnost nebo nadměrné obavy z negativních událostí ve více životních doménách (rodina, zdraví, finance, práce)",
+      "Doprovodné příznaky: svalové napětí nebo motorický neklid, autonomní hyperaktivita (palpitace, pocení, třes, sucho v ústech), nervozita nebo napětí, obtíže se soustředěním, dráždivost, poruchy spánku",
+      "Příznaky přetrvávají nejméně několik měsíců, přítomny více dní než ne",
+      "Způsobují výraznou tíseň nebo funkční postižení",
+      "Nejsou lépe vysvětleny jinou duševní poruchou ani onemocněním nebo účinky látky"
+    ]
   },
   {
     "id": "F41.2",
@@ -7070,7 +7734,12 @@
     "mapovani": {
       "mkn11": "6A73",
       "dsm5": "309.28"
-    }
+    },
+    "kriteria_mkn11": [
+      "Příznaky deprese i úzkosti jsou současně přítomny, ale ani jeden soubor příznaků samostatně nesplňuje kritéria pro příslušnou poruchu",
+      "Příznaky způsobují klinicky závažnou tíseň nebo funkční postižení",
+      "Trvají nejméně několik týdnů"
+    ]
   },
   {
     "id": "F41.3",
@@ -7104,7 +7773,12 @@
     "mapovani": {
       "mkn11": "6C71",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Opakující se selhání v odolání impulzu ke kradení věcí, které nejsou nutné pro osobní použití ani pro jejich finanční hodnotu",
+      "Narůstající napětí bezprostředně před krádeží a pocit uspokojení nebo úlevy při krádeži",
+      "Krádež není způsobena hněvem, pomstou ani reakcí na bludy nebo halucinace"
+    ]
   },
   {
     "id": "F41.8",
@@ -7191,7 +7865,13 @@
     "mapovani": {
       "mkn11": "6B20",
       "dsm5": "300.3"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přetrvávající obsese nebo kompulze nebo nejčastěji obojí",
+      "Obsese: opakující se a přetrvávající myšlenky, obrazy nebo impulsy/nutkání, které jsou vtíravé, nežádoucí a typicky spojené s úzkostí",
+      "Kompulze: opakující se chování nebo mentální akty vykonávané v reakci na obsesi, podle přísných pravidel nebo za účelem dosažení pocitu „úplnosti\"",
+      "Obsese a kompulze jsou časově náročné (více než 1 hodinu denně) nebo způsobují výraznou tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "F42.0",
@@ -7226,7 +7906,13 @@
     "mapovani": {
       "mkn11": "6B20",
       "dsm5": "300.3"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přetrvávající obsese nebo kompulze nebo nejčastěji obojí",
+      "Obsese: opakující se a přetrvávající myšlenky, obrazy nebo impulsy/nutkání, které jsou vtíravé, nežádoucí a typicky spojené s úzkostí",
+      "Kompulze: opakující se chování nebo mentální akty vykonávané v reakci na obsesi, podle přísných pravidel nebo za účelem dosažení pocitu „úplnosti\"",
+      "Obsese a kompulze jsou časově náročné (více než 1 hodinu denně) nebo způsobují výraznou tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "F42.1",
@@ -7260,7 +7946,13 @@
     "mapovani": {
       "mkn11": "6B20",
       "dsm5": "300.3"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přetrvávající obsese nebo kompulze nebo nejčastěji obojí",
+      "Obsese: opakující se a přetrvávající myšlenky, obrazy nebo impulsy/nutkání, které jsou vtíravé, nežádoucí a typicky spojené s úzkostí",
+      "Kompulze: opakující se chování nebo mentální akty vykonávané v reakci na obsesi, podle přísných pravidel nebo za účelem dosažení pocitu „úplnosti\"",
+      "Obsese a kompulze jsou časově náročné (více než 1 hodinu denně) nebo způsobují výraznou tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "F42.2",
@@ -7293,7 +7985,13 @@
     "mapovani": {
       "mkn11": "6B20",
       "dsm5": "300.3"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přetrvávající obsese nebo kompulze nebo nejčastěji obojí",
+      "Obsese: opakující se a přetrvávající myšlenky, obrazy nebo impulsy/nutkání, které jsou vtíravé, nežádoucí a typicky spojené s úzkostí",
+      "Kompulze: opakující se chování nebo mentální akty vykonávané v reakci na obsesi, podle přísných pravidel nebo za účelem dosažení pocitu „úplnosti\"",
+      "Obsese a kompulze jsou časově náročné (více než 1 hodinu denně) nebo způsobují výraznou tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "F42.8",
@@ -7373,7 +8071,14 @@
     "mapovani": {
       "mkn11": "6B40",
       "dsm5": "308.3"
-    }
+    },
+    "kriteria_mkn11": [
+      "Expozice extrémně ohrožující nebo hrůzné události nebo sérii takových událostí",
+      "Znovuprožívání: živé vtíravé vzpomínky, flashbacky nebo noční můry doprovázené intenzivním strachem nebo hrůzou",
+      "Vyhýbání se: myšlenkám a vzpomínkám na událost nebo situacím, aktivitám či osobám, které ji připomínají",
+      "Přetrvávající vnímání zvýšeného aktuálního ohrožení: hypervigilance nebo zvýšená startovací reakce",
+      "Příznaky přetrvávají nejméně několik týdnů a způsobují výrazné funkční postižení"
+    ]
   },
   {
     "id": "F43.0",
@@ -7407,7 +8112,14 @@
     "mapovani": {
       "mkn11": "6B40",
       "dsm5": "308.3"
-    }
+    },
+    "kriteria_mkn11": [
+      "Expozice extrémně ohrožující nebo hrůzné události nebo sérii takových událostí",
+      "Znovuprožívání: živé vtíravé vzpomínky, flashbacky nebo noční můry doprovázené intenzivním strachem nebo hrůzou",
+      "Vyhýbání se: myšlenkám a vzpomínkám na událost nebo situacím, aktivitám či osobám, které ji připomínají",
+      "Přetrvávající vnímání zvýšeného aktuálního ohrožení: hypervigilance nebo zvýšená startovací reakce",
+      "Příznaky přetrvávají nejméně několik týdnů a způsobují výrazné funkční postižení"
+    ]
   },
   {
     "id": "F43.1",
@@ -7447,7 +8159,14 @@
     "mapovani": {
       "mkn11": "6B40",
       "dsm5": "309.81"
-    }
+    },
+    "kriteria_mkn11": [
+      "Expozice extrémně ohrožující nebo hrůzné události nebo sérii takových událostí",
+      "Znovuprožívání: živé vtíravé vzpomínky, flashbacky nebo noční můry doprovázené intenzivním strachem nebo hrůzou",
+      "Vyhýbání se: myšlenkám a vzpomínkám na událost nebo situacím, aktivitám či osobám, které ji připomínají",
+      "Přetrvávající vnímání zvýšeného aktuálního ohrožení: hypervigilance nebo zvýšená startovací reakce",
+      "Příznaky přetrvávají nejméně několik týdnů a způsobují výrazné funkční postižení"
+    ]
   },
   {
     "id": "F43.2",
@@ -7478,7 +8197,13 @@
     "mapovani": {
       "mkn11": "6B43",
       "dsm5": "309.0"
-    }
+    },
+    "kriteria_mkn11": [
+      "Maladaptivní reakce na identifikovatelný psychosociální stresor nebo více stresorů, typicky rozvíjející se do 1 měsíce od expozice",
+      "Zaobírání se stresorem nebo jeho důsledky (nadměrné obavy, vtíravé myšlenky, neustálé přemítání) nebo selhání adaptace způsobující výrazné funkční postižení",
+      "Příznaky obvykle odezní do 6 měsíců, pokud stresor přetrvává déle, mohou přetrvávat i příznaky",
+      "Nejsou lépe vysvětleny jinou duševní poruchou"
+    ]
   },
   {
     "id": "F43.20",
@@ -7510,7 +8235,13 @@
     "mapovani": {
       "mkn11": "6B43",
       "dsm5": "309.0"
-    }
+    },
+    "kriteria_mkn11": [
+      "Maladaptivní reakce na identifikovatelný psychosociální stresor nebo více stresorů, typicky rozvíjející se do 1 měsíce od expozice",
+      "Zaobírání se stresorem nebo jeho důsledky (nadměrné obavy, vtíravé myšlenky, neustálé přemítání) nebo selhání adaptace způsobující výrazné funkční postižení",
+      "Příznaky obvykle odezní do 6 měsíců, pokud stresor přetrvává déle, mohou přetrvávat i příznaky",
+      "Nejsou lépe vysvětleny jinou duševní poruchou"
+    ]
   },
   {
     "id": "F43.21",
@@ -7542,7 +8273,13 @@
     "mapovani": {
       "mkn11": "6B43",
       "dsm5": "309.1"
-    }
+    },
+    "kriteria_mkn11": [
+      "Maladaptivní reakce na identifikovatelný psychosociální stresor nebo více stresorů, typicky rozvíjející se do 1 měsíce od expozice",
+      "Zaobírání se stresorem nebo jeho důsledky (nadměrné obavy, vtíravé myšlenky, neustálé přemítání) nebo selhání adaptace způsobující výrazné funkční postižení",
+      "Příznaky obvykle odezní do 6 měsíců, pokud stresor přetrvává déle, mohou přetrvávat i příznaky",
+      "Nejsou lépe vysvětleny jinou duševní poruchou"
+    ]
   },
   {
     "id": "F43.22",
@@ -7575,7 +8312,13 @@
     "mapovani": {
       "mkn11": "6B43",
       "dsm5": "309.28"
-    }
+    },
+    "kriteria_mkn11": [
+      "Maladaptivní reakce na identifikovatelný psychosociální stresor nebo více stresorů, typicky rozvíjející se do 1 měsíce od expozice",
+      "Zaobírání se stresorem nebo jeho důsledky (nadměrné obavy, vtíravé myšlenky, neustálé přemítání) nebo selhání adaptace způsobující výrazné funkční postižení",
+      "Příznaky obvykle odezní do 6 měsíců, pokud stresor přetrvává déle, mohou přetrvávat i příznaky",
+      "Nejsou lépe vysvětleny jinou duševní poruchou"
+    ]
   },
   {
     "id": "F43.23",
@@ -7605,7 +8348,13 @@
     "mapovani": {
       "mkn11": "6B43",
       "dsm5": "309.24"
-    }
+    },
+    "kriteria_mkn11": [
+      "Maladaptivní reakce na identifikovatelný psychosociální stresor nebo více stresorů, typicky rozvíjející se do 1 měsíce od expozice",
+      "Zaobírání se stresorem nebo jeho důsledky (nadměrné obavy, vtíravé myšlenky, neustálé přemítání) nebo selhání adaptace způsobující výrazné funkční postižení",
+      "Příznaky obvykle odezní do 6 měsíců, pokud stresor přetrvává déle, mohou přetrvávat i příznaky",
+      "Nejsou lépe vysvětleny jinou duševní poruchou"
+    ]
   },
   {
     "id": "F43.24",
@@ -7636,7 +8385,13 @@
     "mapovani": {
       "mkn11": "6B43",
       "dsm5": "309.3"
-    }
+    },
+    "kriteria_mkn11": [
+      "Maladaptivní reakce na identifikovatelný psychosociální stresor nebo více stresorů, typicky rozvíjející se do 1 měsíce od expozice",
+      "Zaobírání se stresorem nebo jeho důsledky (nadměrné obavy, vtíravé myšlenky, neustálé přemítání) nebo selhání adaptace způsobující výrazné funkční postižení",
+      "Příznaky obvykle odezní do 6 měsíců, pokud stresor přetrvává déle, mohou přetrvávat i příznaky",
+      "Nejsou lépe vysvětleny jinou duševní poruchou"
+    ]
   },
   {
     "id": "F43.25",
@@ -7666,7 +8421,13 @@
     "mapovani": {
       "mkn11": "6B43",
       "dsm5": "309.4"
-    }
+    },
+    "kriteria_mkn11": [
+      "Maladaptivní reakce na identifikovatelný psychosociální stresor nebo více stresorů, typicky rozvíjející se do 1 měsíce od expozice",
+      "Zaobírání se stresorem nebo jeho důsledky (nadměrné obavy, vtíravé myšlenky, neustálé přemítání) nebo selhání adaptace způsobující výrazné funkční postižení",
+      "Příznaky obvykle odezní do 6 měsíců, pokud stresor přetrvává déle, mohou přetrvávat i příznaky",
+      "Nejsou lépe vysvětleny jinou duševní poruchou"
+    ]
   },
   {
     "id": "F43.28",
@@ -7692,7 +8453,13 @@
     "mapovani": {
       "mkn11": "6B43",
       "dsm5": "309.9"
-    }
+    },
+    "kriteria_mkn11": [
+      "Maladaptivní reakce na identifikovatelný psychosociální stresor nebo více stresorů, typicky rozvíjející se do 1 měsíce od expozice",
+      "Zaobírání se stresorem nebo jeho důsledky (nadměrné obavy, vtíravé myšlenky, neustálé přemítání) nebo selhání adaptace způsobující výrazné funkční postižení",
+      "Příznaky obvykle odezní do 6 měsíců, pokud stresor přetrvává déle, mohou přetrvávat i příznaky",
+      "Nejsou lépe vysvětleny jinou duševní poruchou"
+    ]
   },
   {
     "id": "F43.8",
@@ -7777,7 +8544,12 @@
     "mapovani": {
       "mkn11": "6B60",
       "dsm5": "300.11"
-    }
+    },
+    "kriteria_mkn11": [
+      "Narušení normální integrace vědomí, identity, vnímání, emocí, chování, paměti nebo motorické kontroly",
+      "Příznaky nejsou způsobeny přímými fyziologickými účinky látky nebo jiným zdravotním stavem",
+      "Způsobují klinicky závažnou tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "F44.0",
@@ -7807,7 +8579,13 @@
     "mapovani": {
       "mkn11": "6B61",
       "dsm5": "300.12"
-    }
+    },
+    "kriteria_mkn11": [
+      "Neschopnost vybavit si důležité autobiografické vzpomínky, typicky z nedávno prožitých traumatických nebo stresujících událostí",
+      "Zapomínání je nepřiměřené normální zapomnětlivosti",
+      "Příznaky nejsou způsobeny jinou disociativní poruchou, jiným duševním onemocněním, přímými účinky látky ani neurologickým onemocněním",
+      "Způsobuje výrazné funkční postižení"
+    ]
   },
   {
     "id": "F44.1",
@@ -7840,7 +8618,13 @@
     "mapovani": {
       "mkn11": "6B61",
       "dsm5": "300.13"
-    }
+    },
+    "kriteria_mkn11": [
+      "Neschopnost vybavit si důležité autobiografické vzpomínky, typicky z nedávno prožitých traumatických nebo stresujících událostí",
+      "Zapomínání je nepřiměřené normální zapomnětlivosti",
+      "Příznaky nejsou způsobeny jinou disociativní poruchou, jiným duševním onemocněním, přímými účinky látky ani neurologickým onemocněním",
+      "Způsobuje výrazné funkční postižení"
+    ]
   },
   {
     "id": "F44.2",
@@ -7874,7 +8658,13 @@
     "mapovani": {
       "mkn11": "6B62",
       "dsm5": "300.15"
-    }
+    },
+    "kriteria_mkn11": [
+      "Epizody výrazného omezení nebo ztráty vědomí vlastní identity a plného uvědomění si okolí",
+      "Příznaky jsou opakující se nebo trvalé",
+      "Jsou nepodmíněné a nežádané (netvoří součást společensky nebo nábožensky přijatelných rituálů nebo praxe)",
+      "Způsobují klinicky závažnou tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "F44.3",
@@ -7904,7 +8694,12 @@
     "mapovani": {
       "mkn11": "6B60.2",
       "dsm5": "300.11"
-    }
+    },
+    "kriteria_mkn11": [
+      "Disociativní porucha pohybů nebo vnímání způsobená psychologickými faktory",
+      "Příznaky pohybových nebo smyslových deficitů neodpovídají neurologickému onemocnění",
+      "Pozitivní klinické příznaky disociace a absence jiného vysvětlení"
+    ]
   },
   {
     "id": "F44.4",
@@ -7938,7 +8733,12 @@
     "mapovani": {
       "mkn11": "6B60",
       "dsm5": "300.11"
-    }
+    },
+    "kriteria_mkn11": [
+      "Narušení normální integrace vědomí, identity, vnímání, emocí, chování, paměti nebo motorické kontroly",
+      "Příznaky nejsou způsobeny přímými fyziologickými účinky látky nebo jiným zdravotním stavem",
+      "Způsobují klinicky závažnou tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "F44.5",
@@ -7970,7 +8770,11 @@
     "mapovani": {
       "mkn11": "6B60.5",
       "dsm5": "300.11"
-    }
+    },
+    "kriteria_mkn11": [
+      "Disociativní porucha identity nebo transsexualita způsobená disociací",
+      "Narušení vědomí identity nebo smyslu pro sebe způsobené disociativními mechanismy"
+    ]
   },
   {
     "id": "F44.6",
@@ -8001,7 +8805,12 @@
     "mapovani": {
       "mkn11": "6B60",
       "dsm5": "300.11"
-    }
+    },
+    "kriteria_mkn11": [
+      "Narušení normální integrace vědomí, identity, vnímání, emocí, chování, paměti nebo motorické kontroly",
+      "Příznaky nejsou způsobeny přímými fyziologickými účinky látky nebo jiným zdravotním stavem",
+      "Způsobují klinicky závažnou tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "F44.7",
@@ -8032,7 +8841,12 @@
     "mapovani": {
       "mkn11": "6B60",
       "dsm5": "300.11"
-    }
+    },
+    "kriteria_mkn11": [
+      "Narušení normální integrace vědomí, identity, vnímání, emocí, chování, paměti nebo motorické kontroly",
+      "Příznaky nejsou způsobeny přímými fyziologickými účinky látky nebo jiným zdravotním stavem",
+      "Způsobují klinicky závažnou tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "F44.8",
@@ -8116,7 +8930,13 @@
     "mapovani": {
       "mkn11": "6C20",
       "dsm5": "300.82"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přítomnost tělesných příznaků způsobujících tíseň a nadměrná pozornost věnovaná příznakům",
+      "Přetrvávající (přítomné po většinu dní nejméně několik měsíců) a typicky mnohočetné tělesné příznaky",
+      "Opakované kontakty se zdravotními službami nepřiměřené charakteru obtíží",
+      "Příznaky a s nimi spojená tíseň mají nejméně určitý dopad na fungování jedince"
+    ]
   },
   {
     "id": "F45.0",
@@ -8150,7 +8970,13 @@
     "mapovani": {
       "mkn11": "6C20",
       "dsm5": "300.81"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přítomnost tělesných příznaků způsobujících tíseň a nadměrná pozornost věnovaná příznakům",
+      "Přetrvávající (přítomné po většinu dní nejméně několik měsíců) a typicky mnohočetné tělesné příznaky",
+      "Opakované kontakty se zdravotními službami nepřiměřené charakteru obtíží",
+      "Příznaky a s nimi spojená tíseň mají nejméně určitý dopad na fungování jedince"
+    ]
   },
   {
     "id": "F45.1",
@@ -8178,7 +9004,13 @@
     "mapovani": {
       "mkn11": "6C20",
       "dsm5": "300.82"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přítomnost tělesných příznaků způsobujících tíseň a nadměrná pozornost věnovaná příznakům",
+      "Přetrvávající (přítomné po většinu dní nejméně několik měsíců) a typicky mnohočetné tělesné příznaky",
+      "Opakované kontakty se zdravotními službami nepřiměřené charakteru obtíží",
+      "Příznaky a s nimi spojená tíseň mají nejméně určitý dopad na fungování jedince"
+    ]
   },
   {
     "id": "F45.2",
@@ -8210,7 +9042,13 @@
     "mapovani": {
       "mkn11": "6B23",
       "dsm5": "300.7"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přetrvávající obavy nebo přesvědčení o přítomnosti závažného, progresivního nebo život ohrožujícího onemocnění",
+      "Tělesné příznaky jsou přítomny nebo jejich absence nevylučuje přesvědčení o nemoci",
+      "Nadměrné zdravotnické vyhledávání nebo naopak vyhýbání se lékařům ze strachu z diagnózy",
+      "Příznaky přetrvávají nejméně několik měsíců"
+    ]
   },
   {
     "id": "F45.3",
@@ -8241,7 +9079,13 @@
     "mapovani": {
       "mkn11": "6C20",
       "dsm5": "300.82"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přítomnost tělesných příznaků způsobujících tíseň a nadměrná pozornost věnovaná příznakům",
+      "Přetrvávající (přítomné po většinu dní nejméně několik měsíců) a typicky mnohočetné tělesné příznaky",
+      "Opakované kontakty se zdravotními službami nepřiměřené charakteru obtíží",
+      "Příznaky a s nimi spojená tíseň mají nejméně určitý dopad na fungování jedince"
+    ]
   },
   {
     "id": "F45.4",
@@ -8271,7 +9115,12 @@
     "mapovani": {
       "mkn11": "6C21",
       "dsm5": "307.89"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přetrvávající obavy nebo přesvědčení o přítomnosti závažného onemocnění na základě tělesných příznaků nebo preokupací",
+      "Opakované vyhledávání zdravotní péče nebo vyhýbání se lékařům ze strachu z diagnózy",
+      "Příznaky způsobují výraznou tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "F45.8",
@@ -8350,7 +9199,10 @@
     "mapovani": {
       "mkn11": "6B0Y",
       "dsm5": "300.09"
-    }
+    },
+    "kriteria_mkn11": [
+      "Úzkostná nebo strachem podmíněná porucha splňující obecná kritéria, ale nezapadající do žádné jiné specifikované kategorie"
+    ]
   },
   {
     "id": "F48.0",
@@ -8383,7 +9235,10 @@
     "mapovani": {
       "mkn11": "6B8Y",
       "dsm5": "300.5"
-    }
+    },
+    "kriteria_mkn11": [
+      "Jiná specifikovaná porucha příjmu potravy nezapadající do anorexie, bulimie ani záchvatovitého přejídání"
+    ]
   },
   {
     "id": "F48.1",
@@ -8417,7 +9272,14 @@
     "mapovani": {
       "mkn11": "6B66",
       "dsm5": "300.6"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přetrvávající nebo opakující se zážitky depersonalizace nebo derealizace nebo obojího",
+      "Depersonalizace: prožívání vlastního já jako cizího nebo neskutečného, odtažitost od vlastních myšlenek, pocitů, těla nebo jednání",
+      "Derealizace: prožívání ostatních osob, předmětů nebo světa jako cizích nebo neskutečných (snové, vzdálené, mlhavé, bezbarvé, vizuálně zkreslené)",
+      "Testování reality je zachováno (rozlišení od psychózy)",
+      "Způsobuje výraznou tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "F48.8",
@@ -8498,7 +9360,12 @@
     "mapovani": {
       "mkn11": "6B80",
       "dsm5": "307.50"
-    }
+    },
+    "kriteria_mkn11": [
+      "Výrazně nízká tělesná hmotnost (BMI < 18,5 kg/m² u dospělých nebo < 5. percentil u dětí a adolescentů), která není způsobena jiným zdravotním stavem ani nedostupností jídla",
+      "Přetrvávající chování zaměřené na zabránění obnovy hmotnosti (omezování jídla, zvracení, laxativa, nadměrné cvičení)",
+      "Nízká hmotnost nebo tvar těla jsou ústřední pro hodnocení vlastní hodnoty nebo jsou nepřesně vnímány jako normální nebo nadměrné"
+    ]
   },
   {
     "id": "F50.0",
@@ -8536,7 +9403,12 @@
     "mapovani": {
       "mkn11": "6B80",
       "dsm5": "307.1"
-    }
+    },
+    "kriteria_mkn11": [
+      "Výrazně nízká tělesná hmotnost (BMI < 18,5 kg/m² u dospělých nebo < 5. percentil u dětí a adolescentů), která není způsobena jiným zdravotním stavem ani nedostupností jídla",
+      "Přetrvávající chování zaměřené na zabránění obnovy hmotnosti (omezování jídla, zvracení, laxativa, nadměrné cvičení)",
+      "Nízká hmotnost nebo tvar těla jsou ústřední pro hodnocení vlastní hodnoty nebo jsou nepřesně vnímány jako normální nebo nadměrné"
+    ]
   },
   {
     "id": "F50.1",
@@ -8563,7 +9435,11 @@
     "mapovani": {
       "mkn11": "6B80.1",
       "dsm5": "307.1"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro anorexii nervózu (6B80)",
+      "Nebezpečně nízká tělesná hmotnost (BMI < 14,0 kg/m² u dospělých), spojená s vysokým rizikem smrti"
+    ]
   },
   {
     "id": "F50.2",
@@ -8599,7 +9475,14 @@
     "mapovani": {
       "mkn11": "6B81",
       "dsm5": "307.51"
-    }
+    },
+    "kriteria_mkn11": [
+      "Časté opakující se epizody záchvatovitého přejídání (nejméně jednou týdně po dobu nejméně 1 měsíce)",
+      "Subjektivní ztráta kontroly nad jídlem při záchvatu – jedení výrazně více nebo jinak než obvykle",
+      "Opakující se kompenzační chování zaměřené na prevenci přibývání na váze (zvracení, laxativa, nadměrné cvičení)",
+      "Zaobírání se tvarem těla nebo hmotností silně ovlivňuje vlastní hodnocení",
+      "Nesplňuje kritéria pro anorexii nervózu"
+    ]
   },
   {
     "id": "F50.3",
@@ -8624,7 +9507,11 @@
     "mapovani": {
       "mkn11": "6B81.1",
       "dsm5": "307.51"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro bulimii nervózu (6B81)",
+      "Vzorec záchvatovitého přejídání s kompenzačním čištěním (zvracení, laxativa)"
+    ]
   },
   {
     "id": "F50.4",
@@ -8653,7 +9540,13 @@
     "mapovani": {
       "mkn11": "6B82",
       "dsm5": "307.51"
-    }
+    },
+    "kriteria_mkn11": [
+      "Časté opakující se epizody záchvatovitého přejídání (nejméně jednou týdně po dobu 3 měsíců)",
+      "Ztráta kontroly nad jídlem: neschopnost zastavit nebo omezit množství či druh jídla",
+      "Bez pravidelného kompenzačního chování (diferenciace od bulimie)",
+      "Způsobuje výraznou tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "F50.5",
@@ -8765,7 +9658,13 @@
     "mapovani": {
       "mkn11": "7A00",
       "dsm5": "307.42"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přetrvávající obtíže s usínáním, udržením spánku nebo příliš raným probuzením s neschopností znovu usnout",
+      "Obtíže se spánkem přítomné přes adekvátní příležitost a podmínky ke spánku",
+      "Způsobují klinicky závažnou tíseň nebo funkční postižení (únava, snížená koncentrace, výkonnost)",
+      "Příznaky přetrvávají nejméně několik měsíců"
+    ]
   },
   {
     "id": "F51.0",
@@ -8799,7 +9698,13 @@
     "mapovani": {
       "mkn11": "7A00",
       "dsm5": "307.42"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přetrvávající obtíže s usínáním, udržením spánku nebo příliš raným probuzením s neschopností znovu usnout",
+      "Obtíže se spánkem přítomné přes adekvátní příležitost a podmínky ke spánku",
+      "Způsobují klinicky závažnou tíseň nebo funkční postižení (únava, snížená koncentrace, výkonnost)",
+      "Příznaky přetrvávají nejméně několik měsíců"
+    ]
   },
   {
     "id": "F51.1",
@@ -8833,7 +9738,12 @@
     "mapovani": {
       "mkn11": "7B20",
       "dsm5": "307.44"
-    }
+    },
+    "kriteria_mkn11": [
+      "Nadměrná ospalost navzdory hlavní spánkové epizodě trvající nejméně 7 hodin",
+      "Projevuje se opakovanými epizodami neplánovaného spánku nebo denní ospalostí",
+      "Příznaky přetrvávají nejméně 3 měsíce a způsobují výrazné funkční postižení"
+    ]
   },
   {
     "id": "F51.2",
@@ -8864,7 +9774,11 @@
     "mapovani": {
       "mkn11": "7B22",
       "dsm5": "307.45"
-    }
+    },
+    "kriteria_mkn11": [
+      "Abnormální chování, pohyby, emoce, percepce nebo sny spojené se spánkem nebo přechodem spánek-bdění",
+      "Příznaky způsobují klinicky závažnou tíseň nebo funkční postižení nebo bezpečnostní riziko"
+    ]
   },
   {
     "id": "F51.3",
@@ -8897,7 +9811,12 @@
     "mapovani": {
       "mkn11": "7B01.0",
       "dsm5": "307.46"
-    }
+    },
+    "kriteria_mkn11": [
+      "Narkolepsie: denní záchvaty nezdolné ospalosti nebo nechtěný spánek",
+      "Kataplexie: epizodická ztráta svalového tonu vyvolaná silnými emocemi",
+      "Deficit orexinu/hypokretinu v mozkomíšním moku nebo typický nález v MSLT testu"
+    ]
   },
   {
     "id": "F51.4",
@@ -8931,7 +9850,11 @@
     "mapovani": {
       "mkn11": "7B01.1",
       "dsm5": "307.46"
-    }
+    },
+    "kriteria_mkn11": [
+      "Narkolepsie bez kataplexie: denní záchvaty nezdolné ospalosti bez epizod kataplexie",
+      "Typický nález v MSLT testu nebo snížená hladina orexinu v CSF"
+    ]
   },
   {
     "id": "F51.5",
@@ -8962,7 +9885,10 @@
     "mapovani": {
       "mkn11": "7B01.2",
       "dsm5": "307.47"
-    }
+    },
+    "kriteria_mkn11": [
+      "Sekundární narkolepsie způsobená jiným onemocněním nebo stavem"
+    ]
   },
   {
     "id": "F51.8",
@@ -9043,7 +9969,12 @@
     "mapovani": {
       "mkn11": "HA00",
       "dsm5": "302.72"
-    }
+    },
+    "kriteria_mkn11": [
+      "Neschopnost participovat v sexuálním vztahu podle přání jedince z důvodu problémů se sexuální touhou, vzrušením, orgasmem nebo bolestí",
+      "Příznaky přetrvávají nejméně několik měsíců a způsobují výraznou tíseň nebo mezilidské obtíže",
+      "Nejsou lépe vysvětleny jinou duševní poruchou, zdravotním stavem ani účinky látky"
+    ]
   },
   {
     "id": "F52.0",
@@ -9072,7 +10003,12 @@
     "mapovani": {
       "mkn11": "HA00",
       "dsm5": "302.71"
-    }
+    },
+    "kriteria_mkn11": [
+      "Neschopnost participovat v sexuálním vztahu podle přání jedince z důvodu problémů se sexuální touhou, vzrušením, orgasmem nebo bolestí",
+      "Příznaky přetrvávají nejméně několik měsíců a způsobují výraznou tíseň nebo mezilidské obtíže",
+      "Nejsou lépe vysvětleny jinou duševní poruchou, zdravotním stavem ani účinky látky"
+    ]
   },
   {
     "id": "F52.1",
@@ -9103,7 +10039,12 @@
     "mapovani": {
       "mkn11": "HA20",
       "dsm5": "302.71"
-    }
+    },
+    "kriteria_mkn11": [
+      "Výrazná a trvalá sexuální přitažlivost k nestandardním předmětům, situacím nebo jedincům způsobující tíseň nebo riziko poškození",
+      "Sexuální touha nebo chování jsou namířeny na nekonsenzuální jedince nebo způsobují psychologické nebo fyzické poškození sobě nebo jiným",
+      "Příznaky přetrvávají nejméně 6 měsíců"
+    ]
   },
   {
     "id": "F52.2",
@@ -9135,7 +10076,12 @@
     "mapovani": {
       "mkn11": "HA20",
       "dsm5": "302.72"
-    }
+    },
+    "kriteria_mkn11": [
+      "Výrazná a trvalá sexuální přitažlivost k nestandardním předmětům, situacím nebo jedincům způsobující tíseň nebo riziko poškození",
+      "Sexuální touha nebo chování jsou namířeny na nekonsenzuální jedince nebo způsobují psychologické nebo fyzické poškození sobě nebo jiným",
+      "Příznaky přetrvávají nejméně 6 měsíců"
+    ]
   },
   {
     "id": "F52.3",
@@ -9166,7 +10112,12 @@
     "mapovani": {
       "mkn11": "HA20",
       "dsm5": "302.73"
-    }
+    },
+    "kriteria_mkn11": [
+      "Výrazná a trvalá sexuální přitažlivost k nestandardním předmětům, situacím nebo jedincům způsobující tíseň nebo riziko poškození",
+      "Sexuální touha nebo chování jsou namířeny na nekonsenzuální jedince nebo způsobují psychologické nebo fyzické poškození sobě nebo jiným",
+      "Příznaky přetrvávají nejméně 6 měsíců"
+    ]
   },
   {
     "id": "F52.4",
@@ -9195,7 +10146,10 @@
     "mapovani": {
       "mkn11": "HA01",
       "dsm5": "302.76"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha pohlavní identity nebo genderové neshody: výrazný nesoulad mezi prožívanou nebo vyjadřovanou pohlavní identitou jedince a přiděleným pohlavím"
+    ]
   },
   {
     "id": "F52.5",
@@ -9226,7 +10180,12 @@
     "mapovani": {
       "mkn11": "HA20",
       "dsm5": "306.51"
-    }
+    },
+    "kriteria_mkn11": [
+      "Výrazná a trvalá sexuální přitažlivost k nestandardním předmětům, situacím nebo jedincům způsobující tíseň nebo riziko poškození",
+      "Sexuální touha nebo chování jsou namířeny na nekonsenzuální jedince nebo způsobují psychologické nebo fyzické poškození sobě nebo jiným",
+      "Příznaky přetrvávají nejméně 6 měsíců"
+    ]
   },
   {
     "id": "F52.6",
@@ -9256,7 +10215,12 @@
     "mapovani": {
       "mkn11": "HA20",
       "dsm5": "302.76"
-    }
+    },
+    "kriteria_mkn11": [
+      "Výrazná a trvalá sexuální přitažlivost k nestandardním předmětům, situacím nebo jedincům způsobující tíseň nebo riziko poškození",
+      "Sexuální touha nebo chování jsou namířeny na nekonsenzuální jedince nebo způsobují psychologické nebo fyzické poškození sobě nebo jiným",
+      "Příznaky přetrvávají nejméně 6 měsíců"
+    ]
   },
   {
     "id": "F52.7",
@@ -9287,7 +10251,12 @@
     "mapovani": {
       "mkn11": "HA20",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Výrazná a trvalá sexuální přitažlivost k nestandardním předmětům, situacím nebo jedincům způsobující tíseň nebo riziko poškození",
+      "Sexuální touha nebo chování jsou namířeny na nekonsenzuální jedince nebo způsobují psychologické nebo fyzické poškození sobě nebo jiným",
+      "Příznaky přetrvávají nejméně 6 měsíců"
+    ]
   },
   {
     "id": "F52.8",
@@ -9366,7 +10335,12 @@
     "mapovani": {
       "mkn11": "6E20",
       "dsm5": "296.xx"
-    }
+    },
+    "kriteria_mkn11": [
+      "Duševní porucha s nástupem v průběhu těhotenství nebo do 6 týdnů po porodu",
+      "Může zahrnovat příznaky deprese, úzkosti, psychózy nebo jiných duševních poruch",
+      "Klinicky závažné příznaky vyžadující pozornost a léčbu"
+    ]
   },
   {
     "id": "F53.0",
@@ -9395,7 +10369,11 @@
     "mapovani": {
       "mkn11": "6E20.0",
       "dsm5": "296.xx"
-    }
+    },
+    "kriteria_mkn11": [
+      "Poporodní deprese: nástup do 6 týdnů po porodu, splňující kritéria depresivní epizody",
+      "Výrazná depresivní nálada, ztráta zájmu nebo potěšení, únava, insomnie, pocity viny nebo bezcennosti"
+    ]
   },
   {
     "id": "F53.1",
@@ -9427,7 +10405,12 @@
     "mapovani": {
       "mkn11": "6E20.1",
       "dsm5": "296.xx"
-    }
+    },
+    "kriteria_mkn11": [
+      "Poporodní psychóza s nástupem typicky do 2 týdnů po porodu",
+      "Bludy, halucinace, výrazná dezorganizace chování nebo myšlení",
+      "Rychlý nástup vyžadující urgentní intervenci"
+    ]
   },
   {
     "id": "F53.8",
@@ -9508,7 +10491,10 @@
     "mapovani": {
       "mkn11": "MB2Y",
       "dsm5": "316"
-    }
+    },
+    "kriteria_mkn11": [
+      "Jiný specifikovaný stav nebo problém přidružený k duševní poruše v poporodním nebo perinatálním období"
+    ]
   },
   {
     "id": "F55",
@@ -9534,7 +10520,11 @@
     "mapovani": {
       "mkn11": "6C4H",
       "dsm5": "305.90"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha způsobená škodlivým vzorcem užívání nepsychoaktivních látek (laxativa, vitaminy, steroidy, rostlinné přípravky apod.)",
+      "Opakované epizody poškozujícího užívání způsobující fyzické nebo psychické poškození"
+    ]
   },
   {
     "id": "F55.0",
@@ -9813,7 +10803,10 @@
     "mapovani": {
       "mkn11": "6B9Z",
       "dsm5": "307.9"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha příjmu potravy splňující obecná kritéria, ale nezapadající do žádné jiné specifikované kategorie poruch příjmu potravy v ICD-11"
+    ]
   },
   {
     "id": "F60",
@@ -9842,7 +10835,14 @@
     "mapovani": {
       "mkn11": "6D10",
       "dsm5": "301.9"
-    }
+    },
+    "kriteria_mkn11": [
+      "Trvalá porucha projevující se problémy ve fungování vlastního já (identita, sebeúcta, sebevnímání, sebeurčení) a/nebo mezilidskými dysfunkcemi (rozvíjení vztahů, pochopení perspektiv druhých, zvládání konfliktů)",
+      "Porucha přetrvává nejméně 2 roky a je patrná v širokém spektru osobních a sociálních situací",
+      "Projevuje se nepřizpůsobivými vzorci kognice, emocionálního prožívání, emocionálního vyjadřování a chování",
+      "Způsobuje výraznou tíseň nebo funkční postižení",
+      "Není způsobena vývojově přiměřenou charakteristikou, primárně kulturními nebo sociopolitickými faktory, jiným duševním onemocněním ani účinky látky"
+    ]
   },
   {
     "id": "F60.0",
@@ -9875,7 +10875,11 @@
     "mapovani": {
       "mkn11": "6D10.0",
       "dsm5": "301.0"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro poruchu osobnosti (6D10)",
+      "Mírná závažnost: postižení funkce vlastního já nebo mezilidských vztahů, ale zachovány obecné kapacity fungování"
+    ]
   },
   {
     "id": "F60.1",
@@ -9907,7 +10911,11 @@
     "mapovani": {
       "mkn11": "6D10.1",
       "dsm5": "301.20"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro poruchu osobnosti (6D10)",
+      "Středně těžká závažnost: výrazné postižení ve fungování vlastního já nebo mezilidských vztahů ve více oblastech"
+    ]
   },
   {
     "id": "F60.2",
@@ -9940,7 +10948,11 @@
     "mapovani": {
       "mkn11": "6D10.2",
       "dsm5": "301.7"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro poruchu osobnosti (6D10)",
+      "Těžká závažnost: závažné a rozsáhlé postižení fungování vlastního já nebo mezilidských vztahů"
+    ]
   },
   {
     "id": "F60.3",
@@ -9971,7 +10983,11 @@
     "mapovani": {
       "mkn11": "6D10.5",
       "dsm5": "301.83"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro poruchu osobnosti (6D10)",
+      "Prominentní disocialita: nezájem o práva a pocity druhých, krutost, agrese, neschopnost empatie"
+    ]
   },
   {
     "id": "F60.30",
@@ -10001,7 +11017,11 @@
     "mapovani": {
       "mkn11": "6D10.5",
       "dsm5": "301.83"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro poruchu osobnosti (6D10)",
+      "Prominentní disocialita: nezájem o práva a pocity druhých, krutost, agrese, neschopnost empatie"
+    ]
   },
   {
     "id": "F60.31",
@@ -10037,7 +11057,11 @@
     "mapovani": {
       "mkn11": "6D10.5",
       "dsm5": "301.83"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro poruchu osobnosti (6D10)",
+      "Prominentní disocialita: nezájem o práva a pocity druhých, krutost, agrese, neschopnost empatie"
+    ]
   },
   {
     "id": "F60.4",
@@ -10069,7 +11093,11 @@
     "mapovani": {
       "mkn11": "6D10.3",
       "dsm5": "301.50"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro poruchu osobnosti (6D10)",
+      "Prominentní negativní afektivita: emocionální nestabilita, úzkostnost, separační úzkost, nízká sebedůvěra"
+    ]
   },
   {
     "id": "F60.5",
@@ -10100,7 +11128,11 @@
     "mapovani": {
       "mkn11": "6D10.4",
       "dsm5": "301.4"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro poruchu osobnosti (6D10)",
+      "Prominentní odtažitost: sociální izolace, omezená emocionální výraznost, nízká potřeba blízkosti"
+    ]
   },
   {
     "id": "F60.6",
@@ -10131,7 +11163,11 @@
     "mapovani": {
       "mkn11": "6D10.6",
       "dsm5": "301.82"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro poruchu osobnosti (6D10)",
+      "Prominentní disinhibice: impulzivita, lehkomyslnost, neschopnost plánovat nebo odkládat uspokojení"
+    ]
   },
   {
     "id": "F60.7",
@@ -10163,7 +11199,11 @@
     "mapovani": {
       "mkn11": "6D10.7",
       "dsm5": "301.6"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro poruchu osobnosti (6D10)",
+      "Prominentní anankasticita (obsedantnost): rigidní perfekcionismus, kontrola, lpění na pravidlech, neflexibilita"
+    ]
   },
   {
     "id": "F60.8",
@@ -10189,7 +11229,11 @@
     "mapovani": {
       "mkn11": "6D10.8",
       "dsm5": "301.81"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro poruchu osobnosti (6D10)",
+      "Prominentní hraniční (borderline) vzorec: intenzivní nestabilní vztahy, sebepoškozenicí nebo suicidální chování, nestabilní sebeobraz, impulzivita, intenzivní emocionální dysregulace"
+    ]
   },
   {
     "id": "F60.9",
@@ -10214,7 +11258,11 @@
     "mapovani": {
       "mkn11": "6D10.Z",
       "dsm5": "301.9"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro poruchu osobnosti (6D10)",
+      "Blíže nespecifikovaná porucha osobnosti"
+    ]
   },
   {
     "id": "F61",
@@ -10238,7 +11286,11 @@
     "mapovani": {
       "mkn11": "6D11",
       "dsm5": "301.9"
-    }
+    },
+    "kriteria_mkn11": [
+      "Osobnostní rysy nebo vzorce, které jsou klinicky pozoruhodné nebo problematické, ale nedosahují plných kritérií pro poruchu osobnosti (6D10)",
+      "Mohou způsobovat omezenou tíseň nebo funkční postižení, ale bez trvalé a rozsáhlé poruchy fungování"
+    ]
   },
   {
     "id": "F62",
@@ -10268,7 +11320,11 @@
     "mapovani": {
       "mkn11": "6D12",
       "dsm5": "310.1"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha osobnosti se specifickými prominentními rysy nesplňující plná kritéria pro 6D10, ale s klinicky relevantním vzorcem",
+      "Specifické rysy způsobují tíseň nebo narušují fungování v konkrétních kontextech"
+    ]
   },
   {
     "id": "F62.0",
@@ -10297,7 +11353,10 @@
     "mapovani": {
       "mkn11": "6D12.0",
       "dsm5": "310.1"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha osobnosti s prominentní negativní afektivitou jako dominantním rysem"
+    ]
   },
   {
     "id": "F62.1",
@@ -10411,7 +11470,11 @@
     "mapovani": {
       "mkn11": "6C70",
       "dsm5": "312.30"
-    }
+    },
+    "kriteria_mkn11": [
+      "Opakující se selhání v odolání impulzu k chování, které je pro jedince škodlivé nebo pro ostatní",
+      "Narůstající napětí nebo vzrušení před činem a úleva nebo potěšení po provedení činu"
+    ]
   },
   {
     "id": "F63.0",
@@ -10443,7 +11506,12 @@
     "mapovani": {
       "mkn11": "6C50",
       "dsm5": "312.31"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přetrvávající vzorec nekontrolovatelného intenzivního, opakujícího se sexuálního impulzu nebo nutkání vedoucího k opakovanému sexuálnímu chování",
+      "Výrazná tíseň nebo závažné funkční postižení z opakovaného sexuálního chování",
+      "Sexuální chování se stalo prioritou, zanedbávání zdraví a osobní péče nebo jiných aktivit"
+    ]
   },
   {
     "id": "F63.1",
@@ -10472,7 +11540,11 @@
     "mapovani": {
       "mkn11": "6C70.1",
       "dsm5": "312.33"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přerušovaná explozivní porucha: opakující se epizody verbální nebo fyzické agresivity výrazně nepřiměřené provokaci",
+      "Impulzivní agresivní činy nejsou projevem jiné duševní poruchy"
+    ]
   },
   {
     "id": "F63.2",
@@ -10503,7 +11575,12 @@
     "mapovani": {
       "mkn11": "6C70.2",
       "dsm5": "312.32"
-    }
+    },
+    "kriteria_mkn11": [
+      "Pyromaniac: záměrné a cílevědomé zakládání požárů opakovaně",
+      "Napětí nebo afektivní vzrušení před zakládáním požáru; fascinace ohněm",
+      "Úleva nebo satisfakce po zapálení"
+    ]
   },
   {
     "id": "F63.3",
@@ -10536,7 +11613,12 @@
     "mapovani": {
       "mkn11": "6B25",
       "dsm5": "312.39"
-    }
+    },
+    "kriteria_mkn11": [
+      "Opakující se kompulzivní chování zaměřené na tělo (vytrhávání vlasů, kousání nehtů, mačkání kůže apod.)",
+      "Opakované pokusy o snížení nebo přerušení chování",
+      "Chování způsobuje klinicky závažnou tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "F63.8",
@@ -10618,7 +11700,11 @@
     "mapovani": {
       "mkn11": "HA60",
       "dsm5": "302.85"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha erekcí, lubrikace nebo jiných fyziologických reakcí při sexuální aktivitě",
+      "Příznaky přetrvávají nejméně 6 měsíců a způsobují výraznou tíseň nebo mezilidské obtíže"
+    ]
   },
   {
     "id": "F64.0",
@@ -10647,7 +11733,11 @@
     "mapovani": {
       "mkn11": "HA60",
       "dsm5": "302.85"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha erekcí, lubrikace nebo jiných fyziologických reakcí při sexuální aktivitě",
+      "Příznaky přetrvávají nejméně 6 měsíců a způsobují výraznou tíseň nebo mezilidské obtíže"
+    ]
   },
   {
     "id": "F64.1",
@@ -10678,7 +11768,11 @@
     "mapovani": {
       "mkn11": "HA60",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha erekcí, lubrikace nebo jiných fyziologických reakcí při sexuální aktivitě",
+      "Příznaky přetrvávají nejméně 6 měsíců a způsobují výraznou tíseň nebo mezilidské obtíže"
+    ]
   },
   {
     "id": "F64.2",
@@ -10709,7 +11803,11 @@
     "mapovani": {
       "mkn11": "HA61",
       "dsm5": "302.6"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha pohlavního vzrušení způsobující výraznou tíseň nebo obtíže v mezilidských vztazích",
+      "Příznaky přetrvávají nejméně 6 měsíců"
+    ]
   },
   {
     "id": "F64.8",
@@ -10787,7 +11885,12 @@
     "mapovani": {
       "mkn11": "6D30",
       "dsm5": "302.89"
-    }
+    },
+    "kriteria_mkn11": [
+      "Výrazně podprůměrné intelektuální fungování s deficity v adaptivním chování (2+ SD pod průměrem)",
+      "Nástup v průběhu vývojového období",
+      "Zahrnuje různé etiologie; specifikováno stupněm závažnosti"
+    ]
   },
   {
     "id": "F65.0",
@@ -10814,7 +11917,11 @@
     "mapovani": {
       "mkn11": "6D30.0",
       "dsm5": "302.81"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro poruchu intelektového vývoje (6D30)",
+      "Porucha způsobená specificky identifikovanou příčinou (genetická, prenatální, perinatální apod.)"
+    ]
   },
   {
     "id": "F65.1",
@@ -10844,7 +11951,12 @@
     "mapovani": {
       "mkn11": "6D32",
       "dsm5": "302.3"
-    }
+    },
+    "kriteria_mkn11": [
+      "Trvalé a výrazné obtíže s nabýváním nebo používáním specifických akademických dovedností (čtení, psaní, počítání) navzdory adekvátní vzdělávací příležitosti",
+      "Dovednosti výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového/školního věku"
+    ]
   },
   {
     "id": "F65.2",
@@ -10877,7 +11989,12 @@
     "mapovani": {
       "mkn11": "6D32",
       "dsm5": "302.4"
-    }
+    },
+    "kriteria_mkn11": [
+      "Trvalé a výrazné obtíže s nabýváním nebo používáním specifických akademických dovedností (čtení, psaní, počítání) navzdory adekvátní vzdělávací příležitosti",
+      "Dovednosti výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového/školního věku"
+    ]
   },
   {
     "id": "F65.3",
@@ -10908,7 +12025,12 @@
     "mapovani": {
       "mkn11": "6D32",
       "dsm5": "302.82"
-    }
+    },
+    "kriteria_mkn11": [
+      "Trvalé a výrazné obtíže s nabýváním nebo používáním specifických akademických dovedností (čtení, psaní, počítání) navzdory adekvátní vzdělávací příležitosti",
+      "Dovednosti výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového/školního věku"
+    ]
   },
   {
     "id": "F65.4",
@@ -10936,7 +12058,12 @@
     "mapovani": {
       "mkn11": "6D32",
       "dsm5": "302.2"
-    }
+    },
+    "kriteria_mkn11": [
+      "Trvalé a výrazné obtíže s nabýváním nebo používáním specifických akademických dovedností (čtení, psaní, počítání) navzdory adekvátní vzdělávací příležitosti",
+      "Dovednosti výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového/školního věku"
+    ]
   },
   {
     "id": "F65.5",
@@ -10966,7 +12093,12 @@
     "mapovani": {
       "mkn11": "6D32",
       "dsm5": "302.84"
-    }
+    },
+    "kriteria_mkn11": [
+      "Trvalé a výrazné obtíže s nabýváním nebo používáním specifických akademických dovedností (čtení, psaní, počítání) navzdory adekvátní vzdělávací příležitosti",
+      "Dovednosti výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového/školního věku"
+    ]
   },
   {
     "id": "F65.6",
@@ -11022,7 +12154,12 @@
     "mapovani": {
       "mkn11": "6D32",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Trvalé a výrazné obtíže s nabýváním nebo používáním specifických akademických dovedností (čtení, psaní, počítání) navzdory adekvátní vzdělávací příležitosti",
+      "Dovednosti výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového/školního věku"
+    ]
   },
   {
     "id": "F65.9",
@@ -11075,7 +12212,11 @@
     "mapovani": {
       "mkn11": "HA60",
       "dsm5": "302.9"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha erekcí, lubrikace nebo jiných fyziologických reakcí při sexuální aktivitě",
+      "Příznaky přetrvávají nejméně 6 měsíců a způsobují výraznou tíseň nebo mezilidské obtíže"
+    ]
   },
   {
     "id": "F66.0",
@@ -11241,7 +12382,10 @@
     "mapovani": {
       "mkn11": "6D1Y",
       "dsm5": "301.9"
-    }
+    },
+    "kriteria_mkn11": [
+      "Jiná specifikovaná porucha osobnosti nebo porucha s prominentními rysy nezapadající do žádné jiné specifikované kategorie v ICD-11"
+    ]
   },
   {
     "id": "F68.0",
@@ -11273,7 +12417,13 @@
     "mapovani": {
       "mkn11": "6D50",
       "dsm5": "300.19"
-    }
+    },
+    "kriteria_mkn11": [
+      "Opakující se, rychlé, neplynulé pohyby nebo vokalizace, které jsou náhlé a nemají zřejmý účel",
+      "Příznaky jsou přítomny nejméně 1 rok",
+      "Nástup před 18. rokem věku",
+      "Není způsobeno jiným zdravotním stavem ani účinky látky"
+    ]
   },
   {
     "id": "F68.1",
@@ -11305,7 +12455,13 @@
     "mapovani": {
       "mkn11": "6D50",
       "dsm5": "300.19"
-    }
+    },
+    "kriteria_mkn11": [
+      "Opakující se, rychlé, neplynulé pohyby nebo vokalizace, které jsou náhlé a nemají zřejmý účel",
+      "Příznaky jsou přítomny nejméně 1 rok",
+      "Nástup před 18. rokem věku",
+      "Není způsobeno jiným zdravotním stavem ani účinky látky"
+    ]
   },
   {
     "id": "F68.8",
@@ -11358,7 +12514,10 @@
     "mapovani": {
       "mkn11": "6D1Z",
       "dsm5": "301.9"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha osobnosti nebo porucha s prominentními rysy, u níž není k dispozici dostatek informací pro přiřazení ke specifické kategorii"
+    ]
   },
   {
     "id": "F70",
@@ -11390,7 +12549,12 @@
     "mapovani": {
       "mkn11": "6A00",
       "dsm5": "317"
-    }
+    },
+    "kriteria_mkn11": [
+      "Výrazně podprůměrné intelektuální fungování a adaptivní chování (přibližně 2 a více SD pod průměrem)",
+      "Nástup v průběhu vývojového období",
+      "Stupně: mírná (IQ cca 50–69, 2–3 SD), středně těžká (IQ cca 35–49, 3–4 SD), těžká (IQ cca 20–34, 4+ SD), hluboká (IQ < 20)"
+    ]
   },
   {
     "id": "F70.0",
@@ -11414,7 +12578,12 @@
     "mapovani": {
       "mkn11": "6A00.0",
       "dsm5": "317.01"
-    }
+    },
+    "kriteria_mkn11": [
+      "Mírná porucha intelektového vývoje: přibližně 2–3 SD pod průměrem (0,1–2,3. percentil)",
+      "Problémy se složitými pojmy; zvládají základní dovednosti se školní výukou",
+      "Většina dosahuje nezávislého bydlení a zaměstnání s přiměřenou podporou"
+    ]
   },
   {
     "id": "F70.1",
@@ -11442,7 +12611,12 @@
     "mapovani": {
       "mkn11": "6A00.0",
       "dsm5": "317.11"
-    }
+    },
+    "kriteria_mkn11": [
+      "Mírná porucha intelektového vývoje: přibližně 2–3 SD pod průměrem (0,1–2,3. percentil)",
+      "Problémy se složitými pojmy; zvládají základní dovednosti se školní výukou",
+      "Většina dosahuje nezávislého bydlení a zaměstnání s přiměřenou podporou"
+    ]
   },
   {
     "id": "F70.8",
@@ -11467,7 +12641,12 @@
     "mapovani": {
       "mkn11": "6A00.0",
       "dsm5": "317.81"
-    }
+    },
+    "kriteria_mkn11": [
+      "Mírná porucha intelektového vývoje: přibližně 2–3 SD pod průměrem (0,1–2,3. percentil)",
+      "Problémy se složitými pojmy; zvládají základní dovednosti se školní výukou",
+      "Většina dosahuje nezávislého bydlení a zaměstnání s přiměřenou podporou"
+    ]
   },
   {
     "id": "F70.9",
@@ -11490,7 +12669,12 @@
     "mapovani": {
       "mkn11": "6A00.0",
       "dsm5": "317.91"
-    }
+    },
+    "kriteria_mkn11": [
+      "Mírná porucha intelektového vývoje: přibližně 2–3 SD pod průměrem (0,1–2,3. percentil)",
+      "Problémy se složitými pojmy; zvládají základní dovednosti se školní výukou",
+      "Většina dosahuje nezávislého bydlení a zaměstnání s přiměřenou podporou"
+    ]
   },
   {
     "id": "F71",
@@ -11521,7 +12705,12 @@
     "mapovani": {
       "mkn11": "6A01",
       "dsm5": "318.0"
-    }
+    },
+    "kriteria_mkn11": [
+      "Trvalé obtíže s nabýváním a používáním jazyka ve všech modaliích (mluvená, psaná, znaková) způsobené deficity v porozumění nebo produkci",
+      "Jazykové schopnosti výrazně nižší oproti vývojovým očekáváním vzhledem k věku",
+      "Nástup v průběhu vývojového období; není lépe vysvětlen jiným onemocněním ani senzorickým nebo motorickým deficitem"
+    ]
   },
   {
     "id": "F71.0",
@@ -11545,7 +12734,12 @@
     "mapovani": {
       "mkn11": "6A00.1",
       "dsm5": "318.0.01"
-    }
+    },
+    "kriteria_mkn11": [
+      "Středně těžká porucha intelektového vývoje: přibližně 3–4 SD pod průměrem",
+      "Omezená jazyková a akademická schopnost; zvládají základní sebeobsluhu a praktické činnosti",
+      "Vyžadují značnou, konzistentní podporu pro nezávislost"
+    ]
   },
   {
     "id": "F71.1",
@@ -11573,7 +12767,12 @@
     "mapovani": {
       "mkn11": "6A00.1",
       "dsm5": "318.0.11"
-    }
+    },
+    "kriteria_mkn11": [
+      "Středně těžká porucha intelektového vývoje: přibližně 3–4 SD pod průměrem",
+      "Omezená jazyková a akademická schopnost; zvládají základní sebeobsluhu a praktické činnosti",
+      "Vyžadují značnou, konzistentní podporu pro nezávislost"
+    ]
   },
   {
     "id": "F71.8",
@@ -11598,7 +12797,12 @@
     "mapovani": {
       "mkn11": "6A00.1",
       "dsm5": "318.0.81"
-    }
+    },
+    "kriteria_mkn11": [
+      "Středně těžká porucha intelektového vývoje: přibližně 3–4 SD pod průměrem",
+      "Omezená jazyková a akademická schopnost; zvládají základní sebeobsluhu a praktické činnosti",
+      "Vyžadují značnou, konzistentní podporu pro nezávislost"
+    ]
   },
   {
     "id": "F71.9",
@@ -11621,7 +12825,12 @@
     "mapovani": {
       "mkn11": "6A00.1",
       "dsm5": "318.0.91"
-    }
+    },
+    "kriteria_mkn11": [
+      "Středně těžká porucha intelektového vývoje: přibližně 3–4 SD pod průměrem",
+      "Omezená jazyková a akademická schopnost; zvládají základní sebeobsluhu a praktické činnosti",
+      "Vyžadují značnou, konzistentní podporu pro nezávislost"
+    ]
   },
   {
     "id": "F72",
@@ -11652,7 +12861,13 @@
     "mapovani": {
       "mkn11": "6A02",
       "dsm5": "318.1"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přetrvávající deficity ve schopnosti zahájit a udržet oboustrannou sociální interakci a komunikaci",
+      "Omezené, opakující se a nepružné vzorce chování, zájmů nebo aktivit, které jsou pro věk a sociokulturní kontext jednoznačně atypické nebo nadměrné",
+      "Nástup v průběhu vývojového období, typicky v raném dětství (příznaky se mohou projevit později, jak rostou nároky sociálního prostředí)",
+      "Příznaky způsobují výrazné funkční postižení v osobním, rodinném, sociálním, vzdělávacím nebo profesním fungování"
+    ]
   },
   {
     "id": "F72.0",
@@ -11676,7 +12891,12 @@
     "mapovani": {
       "mkn11": "6A00.2",
       "dsm5": "318.1.01"
-    }
+    },
+    "kriteria_mkn11": [
+      "Těžká porucha intelektového vývoje: přibližně 4 a více SD pod průměrem (IQ cca 20–34)",
+      "Velmi omezená jazyková a akademická kapacita; mohou být přítomny motorické poruchy",
+      "Základní dovednosti sebeobsluhy lze naučit intenzivní výukou; vyžadují každodenní dohled"
+    ]
   },
   {
     "id": "F72.1",
@@ -11704,7 +12924,12 @@
     "mapovani": {
       "mkn11": "6A00.2",
       "dsm5": "318.1.11"
-    }
+    },
+    "kriteria_mkn11": [
+      "Těžká porucha intelektového vývoje: přibližně 4 a více SD pod průměrem (IQ cca 20–34)",
+      "Velmi omezená jazyková a akademická kapacita; mohou být přítomny motorické poruchy",
+      "Základní dovednosti sebeobsluhy lze naučit intenzivní výukou; vyžadují každodenní dohled"
+    ]
   },
   {
     "id": "F72.8",
@@ -11729,7 +12954,12 @@
     "mapovani": {
       "mkn11": "6A00.2",
       "dsm5": "318.1.81"
-    }
+    },
+    "kriteria_mkn11": [
+      "Těžká porucha intelektového vývoje: přibližně 4 a více SD pod průměrem (IQ cca 20–34)",
+      "Velmi omezená jazyková a akademická kapacita; mohou být přítomny motorické poruchy",
+      "Základní dovednosti sebeobsluhy lze naučit intenzivní výukou; vyžadují každodenní dohled"
+    ]
   },
   {
     "id": "F72.9",
@@ -11752,7 +12982,12 @@
     "mapovani": {
       "mkn11": "6A00.2",
       "dsm5": "318.1.91"
-    }
+    },
+    "kriteria_mkn11": [
+      "Těžká porucha intelektového vývoje: přibližně 4 a více SD pod průměrem (IQ cca 20–34)",
+      "Velmi omezená jazyková a akademická kapacita; mohou být přítomny motorické poruchy",
+      "Základní dovednosti sebeobsluhy lze naučit intenzivní výukou; vyžadují každodenní dohled"
+    ]
   },
   {
     "id": "F73",
@@ -11782,7 +13017,12 @@
     "mapovani": {
       "mkn11": "6A03",
       "dsm5": "318.2"
-    }
+    },
+    "kriteria_mkn11": [
+      "Trvalé a výrazné obtíže s nabýváním nebo používáním specifických akademických dovedností (čtení, psaní, počítání) navzdory adekvátní vzdělávací příležitosti",
+      "Dovednosti jsou výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového/školního věku; není lépe vysvětlen poruchou intelektového vývoje ani smyslovým deficitem"
+    ]
   },
   {
     "id": "F73.0",
@@ -11806,7 +13046,12 @@
     "mapovani": {
       "mkn11": "6A00.3",
       "dsm5": "318.2.01"
-    }
+    },
+    "kriteria_mkn11": [
+      "Hluboká porucha intelektového vývoje: přibližně 4 a více SD pod průměrem (IQ < 20)",
+      "Silně omezená komunikace a akademické dovednosti omezeny na základní konkrétní schopnosti",
+      "Mohou být přítomny motorické a senzorické poruchy; vyžadují každodenní dohled a prostředí s výraznou podporou"
+    ]
   },
   {
     "id": "F73.1",
@@ -11834,7 +13079,12 @@
     "mapovani": {
       "mkn11": "6A00.3",
       "dsm5": "318.2.11"
-    }
+    },
+    "kriteria_mkn11": [
+      "Hluboká porucha intelektového vývoje: přibližně 4 a více SD pod průměrem (IQ < 20)",
+      "Silně omezená komunikace a akademické dovednosti omezeny na základní konkrétní schopnosti",
+      "Mohou být přítomny motorické a senzorické poruchy; vyžadují každodenní dohled a prostředí s výraznou podporou"
+    ]
   },
   {
     "id": "F73.8",
@@ -11859,7 +13109,12 @@
     "mapovani": {
       "mkn11": "6A00.3",
       "dsm5": "318.2.81"
-    }
+    },
+    "kriteria_mkn11": [
+      "Hluboká porucha intelektového vývoje: přibližně 4 a více SD pod průměrem (IQ < 20)",
+      "Silně omezená komunikace a akademické dovednosti omezeny na základní konkrétní schopnosti",
+      "Mohou být přítomny motorické a senzorické poruchy; vyžadují každodenní dohled a prostředí s výraznou podporou"
+    ]
   },
   {
     "id": "F73.9",
@@ -11882,7 +13137,12 @@
     "mapovani": {
       "mkn11": "6A00.3",
       "dsm5": "318.2.91"
-    }
+    },
+    "kriteria_mkn11": [
+      "Hluboká porucha intelektového vývoje: přibližně 4 a více SD pod průměrem (IQ < 20)",
+      "Silně omezená komunikace a akademické dovednosti omezeny na základní konkrétní schopnosti",
+      "Mohou být přítomny motorické a senzorické poruchy; vyžadují každodenní dohled a prostředí s výraznou podporou"
+    ]
   },
   {
     "id": "F78",
@@ -11907,7 +13167,10 @@
     "mapovani": {
       "mkn11": "6A0Y",
       "dsm5": "319"
-    }
+    },
+    "kriteria_mkn11": [
+      "Neurovývojová porucha splňující obecná kritéria, ale nezapadající do žádné jiné specifikované kategorie v ICD-11"
+    ]
   },
   {
     "id": "F78.0",
@@ -11931,7 +13194,10 @@
     "mapovani": {
       "mkn11": "6A00.Z",
       "dsm5": "319.01"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha intelektového vývoje blíže nespecifikovaná – nedostatek informací ke stanovení stupně závažnosti"
+    ]
   },
   {
     "id": "F78.1",
@@ -11959,7 +13225,10 @@
     "mapovani": {
       "mkn11": "6A00.Z",
       "dsm5": "319.11"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha intelektového vývoje blíže nespecifikovaná – nedostatek informací ke stanovení stupně závažnosti"
+    ]
   },
   {
     "id": "F78.8",
@@ -11984,7 +13253,10 @@
     "mapovani": {
       "mkn11": "6A00.Z",
       "dsm5": "319.81"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha intelektového vývoje blíže nespecifikovaná – nedostatek informací ke stanovení stupně závažnosti"
+    ]
   },
   {
     "id": "F78.9",
@@ -12007,7 +13279,10 @@
     "mapovani": {
       "mkn11": "6A00.Z",
       "dsm5": "319.91"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha intelektového vývoje blíže nespecifikovaná – nedostatek informací ke stanovení stupně závažnosti"
+    ]
   },
   {
     "id": "F79",
@@ -12032,7 +13307,10 @@
     "mapovani": {
       "mkn11": "6A0Z",
       "dsm5": "319"
-    }
+    },
+    "kriteria_mkn11": [
+      "Neurovývojová porucha, u níž není k dispozici dostatek informací pro přiřazení ke specifické kategorii"
+    ]
   },
   {
     "id": "F79.0",
@@ -12160,7 +13438,11 @@
     "mapovani": {
       "mkn11": "6A01.1",
       "dsm5": "315.32"
-    }
+    },
+    "kriteria_mkn11": [
+      "Vývojová porucha receptivní řeči (porozumění): trvalé obtíže s porozuměním mluvené řeči pod úrovní věkových očekávání",
+      "Nástup v průběhu vývojového období; není lépe vysvětlen ztrátou sluchu ani jiným stavem"
+    ]
   },
   {
     "id": "F80.0",
@@ -12189,7 +13471,11 @@
     "mapovani": {
       "mkn11": "6A01.1",
       "dsm5": "315.39"
-    }
+    },
+    "kriteria_mkn11": [
+      "Vývojová porucha receptivní řeči (porozumění): trvalé obtíže s porozuměním mluvené řeči pod úrovní věkových očekávání",
+      "Nástup v průběhu vývojového období; není lépe vysvětlen ztrátou sluchu ani jiným stavem"
+    ]
   },
   {
     "id": "F80.1",
@@ -12218,7 +13504,11 @@
     "mapovani": {
       "mkn11": "6A01.1",
       "dsm5": "315.31"
-    }
+    },
+    "kriteria_mkn11": [
+      "Vývojová porucha receptivní řeči (porozumění): trvalé obtíže s porozuměním mluvené řeči pod úrovní věkových očekávání",
+      "Nástup v průběhu vývojového období; není lépe vysvětlen ztrátou sluchu ani jiným stavem"
+    ]
   },
   {
     "id": "F80.2",
@@ -12247,7 +13537,11 @@
     "mapovani": {
       "mkn11": "6A01.1",
       "dsm5": "315.32"
-    }
+    },
+    "kriteria_mkn11": [
+      "Vývojová porucha receptivní řeči (porozumění): trvalé obtíže s porozuměním mluvené řeči pod úrovní věkových očekávání",
+      "Nástup v průběhu vývojového období; není lépe vysvětlen ztrátou sluchu ani jiným stavem"
+    ]
   },
   {
     "id": "F80.3",
@@ -12279,7 +13573,11 @@
     "mapovani": {
       "mkn11": "6A01.3",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Vývojová fonologická porucha: trvalé obtíže se správnou produkcí hlásek a slabičné struktury",
+      "Srozumitelnost řeči je výrazně snížena; nástup v průběhu vývojového období"
+    ]
   },
   {
     "id": "F80.8",
@@ -12359,7 +13657,12 @@
     "mapovani": {
       "mkn11": "6A03",
       "dsm5": "315.00"
-    }
+    },
+    "kriteria_mkn11": [
+      "Trvalé a výrazné obtíže s nabýváním nebo používáním specifických akademických dovedností (čtení, psaní, počítání) navzdory adekvátní vzdělávací příležitosti",
+      "Dovednosti jsou výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového/školního věku; není lépe vysvětlen poruchou intelektového vývoje ani smyslovým deficitem"
+    ]
   },
   {
     "id": "F81.0",
@@ -12390,7 +13693,11 @@
     "mapovani": {
       "mkn11": "6A03.0",
       "dsm5": "315.00"
-    }
+    },
+    "kriteria_mkn11": [
+      "Vývojová porucha čtení (dyslexie): přesnost a plynulost čtení výrazně pod věkovou normou",
+      "Obtíže s dekódováním, rozpoznáváním slov nebo plynulostí čtení; typicky doprovázeno poruchou pravopisu"
+    ]
   },
   {
     "id": "F81.1",
@@ -12418,7 +13725,11 @@
     "mapovani": {
       "mkn11": "6A03.0",
       "dsm5": "315.2"
-    }
+    },
+    "kriteria_mkn11": [
+      "Vývojová porucha čtení (dyslexie): přesnost a plynulost čtení výrazně pod věkovou normou",
+      "Obtíže s dekódováním, rozpoznáváním slov nebo plynulostí čtení; typicky doprovázeno poruchou pravopisu"
+    ]
   },
   {
     "id": "F81.2",
@@ -12446,7 +13757,11 @@
     "mapovani": {
       "mkn11": "6A03.1",
       "dsm5": "315.1"
-    }
+    },
+    "kriteria_mkn11": [
+      "Vývojová porucha psaní (dysortografie/dysgrafie): přesnost a plynulost psaní výrazně pod věkovou normou",
+      "Obtíže s pravopisem, gramatickým/interpunkčním vyjádřením nebo organizací psaného projevu"
+    ]
   },
   {
     "id": "F81.3",
@@ -12558,7 +13873,12 @@
     "mapovani": {
       "mkn11": "6A04",
       "dsm5": "315.4"
-    }
+    },
+    "kriteria_mkn11": [
+      "Výrazné a trvalé obtíže s nabýváním a prováděním koordinovaných motorických dovedností (dyspraxie)",
+      "Dovednosti jsou výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového období; způsobuje výrazné funkční postižení; není lépe vysvětlen jiným neurologickým onemocněním"
+    ]
   },
   {
     "id": "F83",
@@ -12617,7 +13937,13 @@
     "mapovani": {
       "mkn11": "6A02",
       "dsm5": "299.00"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přetrvávající deficity ve schopnosti zahájit a udržet oboustrannou sociální interakci a komunikaci",
+      "Omezené, opakující se a nepružné vzorce chování, zájmů nebo aktivit, které jsou pro věk a sociokulturní kontext jednoznačně atypické nebo nadměrné",
+      "Nástup v průběhu vývojového období, typicky v raném dětství (příznaky se mohou projevit později, jak rostou nároky sociálního prostředí)",
+      "Příznaky způsobují výrazné funkční postižení v osobním, rodinném, sociálním, vzdělávacím nebo profesním fungování"
+    ]
   },
   {
     "id": "F84.0",
@@ -12653,7 +13979,13 @@
     "mapovani": {
       "mkn11": "6A02",
       "dsm5": "299.00"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přetrvávající deficity ve schopnosti zahájit a udržet oboustrannou sociální interakci a komunikaci",
+      "Omezené, opakující se a nepružné vzorce chování, zájmů nebo aktivit, které jsou pro věk a sociokulturní kontext jednoznačně atypické nebo nadměrné",
+      "Nástup v průběhu vývojového období, typicky v raném dětství (příznaky se mohou projevit později, jak rostou nároky sociálního prostředí)",
+      "Příznaky způsobují výrazné funkční postižení v osobním, rodinném, sociálním, vzdělávacím nebo profesním fungování"
+    ]
   },
   {
     "id": "F84.1",
@@ -12680,7 +14012,11 @@
     "mapovani": {
       "mkn11": "6A02.Y",
       "dsm5": "299.80"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro poruchu autistického spektra (6A02)",
+      "Jiná specifikovaná kombinace kognice a jazykového fungování"
+    ]
   },
   {
     "id": "F84.2",
@@ -12716,7 +14052,11 @@
     "mapovani": {
       "mkn11": "6A02.3",
       "dsm5": "299.80"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro poruchu autistického spektra (6A02)",
+      "S poruchou intelektového vývoje a poruchou funkčního jazyka"
+    ]
   },
   {
     "id": "F84.3",
@@ -12747,7 +14087,11 @@
     "mapovani": {
       "mkn11": "6A02.2",
       "dsm5": "299.10"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro poruchu autistického spektra (6A02)",
+      "S poruchou funkčního jazyka: bez funkčního expresivního jazyka nebo výrazně omezený funkční jazyk"
+    ]
   },
   {
     "id": "F84.4",
@@ -12815,7 +14159,11 @@
     "mapovani": {
       "mkn11": "6A02.5",
       "dsm5": "299.80"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro poruchu autistického spektra (6A02)",
+      "Bez poruchy intelektového vývoje a s mírně narušeným funkčním jazykem"
+    ]
   },
   {
     "id": "F84.8",
@@ -12951,7 +14299,14 @@
     "mapovani": {
       "mkn11": "6A05",
       "dsm5": "314.01"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přetrvávající vzorec (nejméně 6 měsíců) nepozornosti a/nebo hyperaktivity-impulzivity",
+      "Příznaky mají přímý negativní dopad na akademické, pracovní nebo sociální fungování",
+      "Příznaky se projevily před 12. rokem věku a přesahují normální vývojovou variaci",
+      "Projevuje se v různých prostředích (domov, škola, práce), i když intenzita může kolísat",
+      "Není lépe vysvětlen jinou duševní poruchou ani účinky látky"
+    ]
   },
   {
     "id": "F90.0",
@@ -12985,7 +14340,14 @@
     "mapovani": {
       "mkn11": "6A05",
       "dsm5": "314.01"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přetrvávající vzorec (nejméně 6 měsíců) nepozornosti a/nebo hyperaktivity-impulzivity",
+      "Příznaky mají přímý negativní dopad na akademické, pracovní nebo sociální fungování",
+      "Příznaky se projevily před 12. rokem věku a přesahují normální vývojovou variaci",
+      "Projevuje se v různých prostředích (domov, škola, práce), i když intenzita může kolísat",
+      "Není lépe vysvětlen jinou duševní poruchou ani účinky látky"
+    ]
   },
   {
     "id": "F90.1",
@@ -13012,7 +14374,14 @@
     "mapovani": {
       "mkn11": "6A05",
       "dsm5": "314.01"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přetrvávající vzorec (nejméně 6 měsíců) nepozornosti a/nebo hyperaktivity-impulzivity",
+      "Příznaky mají přímý negativní dopad na akademické, pracovní nebo sociální fungování",
+      "Příznaky se projevily před 12. rokem věku a přesahují normální vývojovou variaci",
+      "Projevuje se v různých prostředích (domov, škola, práce), i když intenzita může kolísat",
+      "Není lépe vysvětlen jinou duševní poruchou ani účinky látky"
+    ]
   },
   {
     "id": "F90.8",
@@ -13098,7 +14467,12 @@
     "mapovani": {
       "mkn11": "6C91",
       "dsm5": "312.89"
-    }
+    },
+    "kriteria_mkn11": [
+      "Opakující se a přetrvávající vzorec chování, při němž jsou porušována základní práva ostatních nebo hlavní věkově přiměřené společenské normy, pravidla nebo zákony",
+      "Zahrnuje: agresi vůči lidem nebo zvířatům, ničení majetku, lest nebo krádeže, závažné porušování pravidel",
+      "Vzorec přetrvává nejméně 12 měsíců a způsobuje výrazné funkční postižení"
+    ]
   },
   {
     "id": "F91.0",
@@ -13129,7 +14503,11 @@
     "mapovani": {
       "mkn11": "6C91.0",
       "dsm5": "313.81"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro poruchu sociálního chování (6C91)",
+      "Začátek v dětství: rysy přítomny před 10. rokem věku"
+    ]
   },
   {
     "id": "F91.1",
@@ -13163,7 +14541,11 @@
     "mapovani": {
       "mkn11": "6C91.1",
       "dsm5": "312.81"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro poruchu sociálního chování (6C91)",
+      "Začátek v adolescenci: žádné rysy přítomny před 10. rokem věku"
+    ]
   },
   {
     "id": "F91.2",
@@ -13195,7 +14577,11 @@
     "mapovani": {
       "mkn11": "6C91.2",
       "dsm5": "312.82"
-    }
+    },
+    "kriteria_mkn11": [
+      "Splněna kritéria pro poruchu sociálního chování (6C91)",
+      "S omezenými prosociálními emocemi: krutost, absence empatie nebo remorse, povrchní emocionální výrazy (přetrvávající nejméně 1 rok)"
+    ]
   },
   {
     "id": "F91.3",
@@ -13226,7 +14612,13 @@
     "mapovani": {
       "mkn11": "6C90",
       "dsm5": "313.81"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přetrvávající vzorec (nejméně 6 měsíců) výrazně vzdorovitého, neposlušného, provokativního nebo zlostného chování přesahující vývojové normy",
+      "Varianta s chronickou dráždivostí: převažující přetrvávající zlostná nebo dráždivá nálada, závažné výbušné reakce nepřiměřené spouštěčům",
+      "Varianta bez chronické dráždivosti: paličatost, hádavost a vzdorovité chování bez výrazné přetrvávající zlostné nálady",
+      "Způsobuje výrazné funkční postižení; přítomno v různých prostředích"
+    ]
   },
   {
     "id": "F91.8",
@@ -13312,7 +14704,12 @@
     "mapovani": {
       "mkn11": "6C93",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Přerušovaná explozivní porucha: opakující se epizody verbální nebo fyzické agresivity výrazně nepřiměřené provokaci nebo spouštěcím environmentálním podnětům",
+      "Impulzivní agresivní činy vedou ke způsobení fyzické újmy nebo majetkové škodě nebo verbální agresi",
+      "Nejsou projevem jiné duševní poruchy lépe vysvětlující agresivní chování"
+    ]
   },
   {
     "id": "F92.0",
@@ -13346,7 +14743,12 @@
     "mapovani": {
       "mkn11": "6C93",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Přerušovaná explozivní porucha: opakující se epizody verbální nebo fyzické agresivity výrazně nepřiměřené provokaci nebo spouštěcím environmentálním podnětům",
+      "Impulzivní agresivní činy vedou ke způsobení fyzické újmy nebo majetkové škodě nebo verbální agresi",
+      "Nejsou projevem jiné duševní poruchy lépe vysvětlující agresivní chování"
+    ]
   },
   {
     "id": "F92.8",
@@ -13378,7 +14780,12 @@
     "mapovani": {
       "mkn11": "6C93",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Přerušovaná explozivní porucha: opakující se epizody verbální nebo fyzické agresivity výrazně nepřiměřené provokaci nebo spouštěcím environmentálním podnětům",
+      "Impulzivní agresivní činy vedou ke způsobení fyzické újmy nebo majetkové škodě nebo verbální agresi",
+      "Nejsou projevem jiné duševní poruchy lépe vysvětlující agresivní chování"
+    ]
   },
   {
     "id": "F92.9",
@@ -13432,7 +14839,14 @@
     "mapovani": {
       "mkn11": "6B05",
       "dsm5": "309.21"
-    }
+    },
+    "kriteria_mkn11": [
+      "Výrazná a nadměrná úzkost nebo strach ze separace od specifických osob citové vazby",
+      "U dětí a adolescentů: obavy se týkají pečovatelů, rodičů nebo rodinných příslušníků, přesahují vývojové normy",
+      "U dospělých: typicky se zaměřuje na romantického partnera nebo vlastní děti",
+      "Projevuje se: myšlenkami na újmu připadajícím osobám citové vazby, odmítáním chodit do školy/práce, výraznou tísní při separaci, odmítáním spát mimo domov, nočními můrami o separaci",
+      "Příznaky trvají nejméně několik měsíců a způsobují výraznou tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "F93.0",
@@ -13463,7 +14877,10 @@
     "mapovani": {
       "mkn11": "6B05.0",
       "dsm5": "309.21"
-    }
+    },
+    "kriteria_mkn11": [
+      "Separační úzkostná porucha s nástupem v dětství a adolescenci"
+    ]
   },
   {
     "id": "F93.1",
@@ -13490,7 +14907,10 @@
     "mapovani": {
       "mkn11": "6B05.1",
       "dsm5": "300.29"
-    }
+    },
+    "kriteria_mkn11": [
+      "Separační úzkostná porucha s nástupem v dospělosti"
+    ]
   },
   {
     "id": "F93.2",
@@ -13522,7 +14942,14 @@
     "mapovani": {
       "mkn11": "6B04",
       "dsm5": "300.23"
-    }
+    },
+    "kriteria_mkn11": [
+      "Výrazná a nadměrná úzkost nebo strach konzistentně se projevující v jedné nebo více sociálních situacích (konverzace, pozorování při jídle nebo pití, vystupování před ostatními)",
+      "Obavy z negativního hodnocení druhými (ponížení, ostuda, odmítnutí)",
+      "Aktivní vyhýbání se sociálním situacím nebo jejich snášení s intenzivní úzkostí",
+      "Příznaky přetrvávají nejméně několik měsíců a způsobují výraznou tíseň nebo funkční postižení",
+      "Nejsou lépe vysvětleny jinou duševní poruchou ani onemocněním nebo účinky látky"
+    ]
   },
   {
     "id": "F93.3",
@@ -13635,7 +15062,13 @@
     "mapovani": {
       "mkn11": "6B06",
       "dsm5": "309.21"
-    }
+    },
+    "kriteria_mkn11": [
+      "Konzistentní selektivita v mluvení – dítě mluví v určitých situacích, ale ne v jiných (např. doma mluví, ve škole ne)",
+      "Neschopnost mluvit je spojena se sociální úzkostí, ne s absencí znalosti nebo pohodlí s požadovaným jazykem",
+      "Přetrvává nejméně 1 měsíc (neomezeno na první měsíc školní docházky)",
+      "Způsobuje výrazné omezení vzdělávacích nebo pracovních výsledků nebo sociální komunikace"
+    ]
   },
   {
     "id": "F94.0",
@@ -13665,7 +15098,10 @@
     "mapovani": {
       "mkn11": "6B06.0",
       "dsm5": "313.23"
-    }
+    },
+    "kriteria_mkn11": [
+      "Selektivní mutismus: konzistentní selhání ve mluvení v specifických sociálních situacích navzdory schopnosti mluvit v jiných situacích"
+    ]
   },
   {
     "id": "F94.1",
@@ -13698,7 +15134,13 @@
     "mapovani": {
       "mkn11": "6B44",
       "dsm5": "313.89"
-    }
+    },
+    "kriteria_mkn11": [
+      "Hrubě abnormální vzorce připoutání v raném dětství, vznikající v kontextu hrubě nedostatečné péče (zanedbávání, týrání, ústavní deprivace)",
+      "Dítě se ani při dostupném pečovateli neuchyluje k pečovateli pro útěchu, podporu nebo výchovu",
+      "Zřídka projevuje chování hledající bezpečí u kohokoliv z dospělých a nereaguje na nabízenou útěchu",
+      "Lze diagnostikovat pouze u dětí; rysy se rozvíjejí do 5. roku věku; nelze diagnostikovat před 1. rokem věku"
+    ]
   },
   {
     "id": "F94.2",
@@ -13730,7 +15172,13 @@
     "mapovani": {
       "mkn11": "6B45",
       "dsm5": "313.89"
-    }
+    },
+    "kriteria_mkn11": [
+      "Vzorec chování, při němž dítě aktivně přistupuje k dospělým cizincům a projevuje dezinhibované sociální chování",
+      "Vzniká v kontextu hrubě nedostatečné péče (zanedbávání, týrání, institucionalizace)",
+      "Dítě je nadměrně familiární s neznámými dospělými; chybí přiměřená opatrnost vůči cizím lidem",
+      "Lze diagnostikovat pouze u dětí; rozvíjí se do 5. roku věku"
+    ]
   },
   {
     "id": "F94.8",
@@ -13810,7 +15258,13 @@
     "mapovani": {
       "mkn11": "8A05",
       "dsm5": "307.20"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přítomnost motorických nebo vokálních tiků (opakující se, rychlé, neplánované pohyby nebo vokalizace)",
+      "Trvají nejméně 1 rok od nástupu první tikvé",
+      "Nástup před 18. rokem věku",
+      "Nejsou způsobeny jiným zdravotním stavem ani účinky látky"
+    ]
   },
   {
     "id": "F95.0",
@@ -13839,7 +15293,13 @@
     "mapovani": {
       "mkn11": "8A05",
       "dsm5": "307.21"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přítomnost motorických nebo vokálních tiků (opakující se, rychlé, neplánované pohyby nebo vokalizace)",
+      "Trvají nejméně 1 rok od nástupu první tikvé",
+      "Nástup před 18. rokem věku",
+      "Nejsou způsobeny jiným zdravotním stavem ani účinky látky"
+    ]
   },
   {
     "id": "F95.1",
@@ -13869,7 +15329,13 @@
     "mapovani": {
       "mkn11": "8A05",
       "dsm5": "307.22"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přítomnost motorických nebo vokálních tiků (opakující se, rychlé, neplánované pohyby nebo vokalizace)",
+      "Trvají nejméně 1 rok od nástupu první tikvé",
+      "Nástup před 18. rokem věku",
+      "Nejsou způsobeny jiným zdravotním stavem ani účinky látky"
+    ]
   },
   {
     "id": "F95.2",
@@ -13902,7 +15368,11 @@
     "mapovani": {
       "mkn11": "8A05.00",
       "dsm5": "307.23"
-    }
+    },
+    "kriteria_mkn11": [
+      "Tourettův syndrom: přítomnost jak motorických (nejméně 2 různé), tak vokálních tiků (nemusí být simultánní)",
+      "Tiky přetrvávají nejméně 1 rok a nástup je před 18. rokem"
+    ]
   },
   {
     "id": "F95.8",
@@ -13980,7 +15450,10 @@
     "mapovani": {
       "mkn11": "6C9Y",
       "dsm5": "307.9"
-    }
+    },
+    "kriteria_mkn11": [
+      "Jiná specifikovaná porucha chování nebo disruptivní porucha nezapadající do žádné jiné specifikované kategorie v ICD-11"
+    ]
   },
   {
     "id": "F98.0",
@@ -14009,7 +15482,10 @@
     "mapovani": {
       "mkn11": "6C00",
       "dsm5": "307.6"
-    }
+    },
+    "kriteria_mkn11": [
+      "Hazardní porucha nebo jiná porucha z návykového chování, specifická příčina identifikována"
+    ]
   },
   {
     "id": "F98.1",
@@ -14039,7 +15515,11 @@
     "mapovani": {
       "mkn11": "6C01",
       "dsm5": "307.7"
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha z hraní her (gaming disorder): přetrvávající nebo opakující se vzorec herního chování, narušená kontrola, zvyšující se priorita před ostatními aktivitami a přetrvávání navzdory negativním důsledkům",
+      "Vzorec způsobuje výrazné postižení; obvykle patrný nejméně 12 měsíců"
+    ]
   },
   {
     "id": "F98.2",
@@ -14071,7 +15551,13 @@
     "mapovani": {
       "mkn11": "6B84",
       "dsm5": "307.59"
-    }
+    },
+    "kriteria_mkn11": [
+      "Pravidelná konzumace nenutričních látek (hlína, křída, plast, kov, papír) nebo syrových potravinových přísad (velká množství soli nebo kukuřičné mouky)",
+      "Vyskytuje se u jedinců, kteří dosáhli vývojového věku, kdy lze očekávat rozlišování jedlých a nejedlých látek (přibližně 2 roky)",
+      "Konzumace je dostatečně přetrvávající nebo závažná, aby vyžadovala klinickou pozornost",
+      "Způsobuje poškození zdraví, funkční postižení nebo výrazné riziko z důvodu frekvence, množství nebo povahy požitých látek"
+    ]
   },
   {
     "id": "F98.3",
@@ -14102,7 +15588,13 @@
     "mapovani": {
       "mkn11": "6B84",
       "dsm5": "307.52"
-    }
+    },
+    "kriteria_mkn11": [
+      "Pravidelná konzumace nenutričních látek (hlína, křída, plast, kov, papír) nebo syrových potravinových přísad (velká množství soli nebo kukuřičné mouky)",
+      "Vyskytuje se u jedinců, kteří dosáhli vývojového věku, kdy lze očekávat rozlišování jedlých a nejedlých látek (přibližně 2 roky)",
+      "Konzumace je dostatečně přetrvávající nebo závažná, aby vyžadovala klinickou pozornost",
+      "Způsobuje poškození zdraví, funkční postižení nebo výrazné riziko z důvodu frekvence, množství nebo povahy požitých látek"
+    ]
   },
   {
     "id": "F98.4",
@@ -14136,7 +15628,13 @@
     "mapovani": {
       "mkn11": "8A05",
       "dsm5": "307.3"
-    }
+    },
+    "kriteria_mkn11": [
+      "Přítomnost motorických nebo vokálních tiků (opakující se, rychlé, neplánované pohyby nebo vokalizace)",
+      "Trvají nejméně 1 rok od nástupu první tikvé",
+      "Nástup před 18. rokem věku",
+      "Nejsou způsobeny jiným zdravotním stavem ani účinky látky"
+    ]
   },
   {
     "id": "F98.5",
@@ -14170,7 +15668,11 @@
     "mapovani": {
       "mkn11": "6A01.4",
       "dsm5": "307.0"
-    }
+    },
+    "kriteria_mkn11": [
+      "Vývojová porucha plynulosti řeči (koktavost): přerušení normální plynulosti a časování řeči",
+      "Opakování hlásek, slabik, slov; prolongace, bloky; trvá nejméně 3 měsíce; způsobuje tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "F98.6",
@@ -14279,6 +15781,9 @@
     "mapovani": {
       "mkn11": "6E8Z",
       "dsm5": "300.9"
-    }
+    },
+    "kriteria_mkn11": [
+      "Sekundární duševní nebo behaviorální syndrom blíže neurčeného charakteru, způsobený zdravotním stavem nebo onemocněním klasifikovaným jinde"
+    ]
   }
 ]
