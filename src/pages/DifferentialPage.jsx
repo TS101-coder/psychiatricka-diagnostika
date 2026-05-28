@@ -195,53 +195,6 @@ export default function DifferentialPage() {
             </div>
           )}
 
-          {/* Rozdílné příznaky — červená tabulka */}
-          {srovnani.odlisne.some(list => list.length > 0) && (
-            <div className="bg-white rounded-xl border border-red-200 shadow-sm overflow-hidden print-section">
-              <div className="px-5 py-3 bg-red-50 border-b border-red-200">
-                <h4 className="text-sm font-semibold text-red-700">Rozdílné příznaky</h4>
-                <p className="text-xs text-red-400 mt-0.5">Příznaky přítomné jen u jedné z diagnóz — klíčové pro diferenciaci</p>
-              </div>
-              <div className="grid grid-cols-2 divide-x divide-red-100">
-                {vybrane.map((d, i) => {
-                  const bc = bcs[i]
-                  const list = srovnani.odlisne[i]
-                  return (
-                    <div key={d.id} className="p-5">
-                      <p className={`text-xs font-bold ${bc.text} mb-3`}>{d.kod} — {d.nazev_cz}</p>
-                      {list.length > 0 ? (
-                        <ul className="space-y-2">
-                          {list.map((p, j) => (
-                            <li key={j} className="flex items-start gap-2 text-sm text-slate-700">
-                              <span className="mt-1.5 w-1.5 h-1.5 rounded-full shrink-0 bg-red-400"></span>
-                              {p}
-                            </li>
-                          ))}
-                        </ul>
-                      ) : (
-                        <p className="text-xs text-slate-400">Příznaky se překrývají s druhou diagnózou</p>
-                      )}
-                    </div>
-                  )
-                })}
-              </div>
-            </div>
-          )}
-
-          {/* Shodné příznaky */}
-          {srovnani.shodne.length > 0 && (
-            <div className="bg-green-50 rounded-xl border border-green-200 p-4 print-section">
-              <h4 className="text-sm font-semibold text-green-700 mb-3 flex items-center gap-2">
-                <span className="w-2 h-2 bg-green-500 rounded-full"></span>
-                Shodné příznaky obou diagnóz ({srovnani.shodne.length})
-              </h4>
-              <div className="flex flex-wrap gap-2">
-                {srovnani.shodne.map((p, i) => (
-                  <span key={i} className="text-sm bg-white text-green-800 border border-green-300 px-3 py-1 rounded-full">{p}</span>
-                ))}
-              </div>
-            </div>
-          )}
 
           {/* Tlačítka */}
           <div className="flex flex-wrap gap-4 no-print">
