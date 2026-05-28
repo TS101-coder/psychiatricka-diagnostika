@@ -140,31 +140,24 @@ export default function DifferentialPage() {
             </div>
           )}
 
-          {/* Srovnání příznaků — všechny příznaky, barevně odlišené */}
+          {/* Příznaky každé diagnózy zvlášť */}
           <div className="grid grid-cols-2 gap-4 print-section">
             {vybrane.map((d, i) => {
               const bc = bcs[i]
-              const unikatni = new Set(srovnani.odlisne[i])
               const priznaky = d.priznaky || []
               return (
                 <div key={d.id} className="bg-white rounded-xl border-2 border-slate-200 p-4">
                   <h4 className={`text-sm font-semibold ${bc.text} mb-3 flex items-center gap-2`}>
                     <span className={`w-2 h-2 rounded-full ${bc.badge}`}></span>
-                    {d.kod} — příznaky ({priznaky.length})
+                    {d.kod} — příznaky
                   </h4>
                   <ul className="space-y-2">
-                    {priznaky.map((p, j) => {
-                      const jeUnikatni = unikatni.has(p)
-                      return (
-                        <li key={j} className="flex items-start gap-2 text-sm">
-                          <span className={`mt-1.5 w-1.5 h-1.5 rounded-full shrink-0 ${jeUnikatni ? bc.badge : 'bg-green-400'}`}></span>
-                          <span className={jeUnikatni ? 'text-slate-800 font-medium' : 'text-slate-500'}>{p}</span>
-                          {!jeUnikatni && (
-                            <span className="text-xs text-green-600 shrink-0 mt-0.5">↔ sdílený</span>
-                          )}
-                        </li>
-                      )
-                    })}
+                    {priznaky.map((p, j) => (
+                      <li key={j} className="flex items-start gap-2 text-sm text-slate-700">
+                        <span className={`mt-1.5 w-1.5 h-1.5 rounded-full shrink-0 ${bc.badge}`}></span>
+                        {p}
+                      </li>
+                    ))}
                   </ul>
                 </div>
               )
