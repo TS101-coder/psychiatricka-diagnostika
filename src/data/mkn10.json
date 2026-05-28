@@ -8420,6 +8420,61 @@
     }
   },
   {
+    "id": "F48.8",
+    "kod": "F48.8",
+    "nazev_cz": "Jiné určené neurotické poruchy",
+    "system": "MKN-10",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
+    "podkategorie": "Jiné neurotické poruchy",
+    "popis": "Neurotické poruchy nespadající do výše uvedených kategorií F40–F48.1. Zahrnuje Dhat syndrom (indický kulturně vázaný syndrom), kokard, psychasténii aj.",
+    "diagnosticka_kriteria": [
+      "Neurotické příznaky",
+      "Nespadají do F40–F48.1"
+    ],
+    "priznaky": [
+      "variabilní neurotické příznaky",
+      "kulturně vázané syndromy",
+      "psychasténie"
+    ],
+    "prubeh": "Variabilní.",
+    "onset": "Variabilní.",
+    "diferencialni_diagnozy": [
+      "F48.0",
+      "F48.1",
+      "F45"
+    ],
+    "mapovani": {
+      "mkn11": null,
+      "dsm5": null
+    }
+  },
+  {
+    "id": "F48.9",
+    "kod": "F48.9",
+    "nazev_cz": "Neurotická porucha NS",
+    "system": "MKN-10",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
+    "podkategorie": "Jiné neurotické poruchy",
+    "popis": "Neurčená neurotická porucha.",
+    "diagnosticka_kriteria": [
+      "Neurotická porucha",
+      "Nelze upřesnit typ"
+    ],
+    "priznaky": [
+      "neurotické příznaky"
+    ],
+    "prubeh": "Variabilní.",
+    "onset": "Variabilní.",
+    "diferencialni_diagnozy": [
+      "F48.0",
+      "F41.1"
+    ],
+    "mapovani": {
+      "mkn11": null,
+      "dsm5": "300.9"
+    }
+  },
+  {
     "id": "F50",
     "kod": "F50",
     "nazev_cz": "Poruchy příjmu potravy",
@@ -8598,6 +8653,91 @@
     "mapovani": {
       "mkn11": "6B82",
       "dsm5": "307.51"
+    }
+  },
+  {
+    "id": "F50.5",
+    "kod": "F50.5",
+    "nazev_cz": "Zvracení spojené s jinými psychologickými poruchami",
+    "system": "MKN-10",
+    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "podkategorie": "Poruchy příjmu potravy",
+    "popis": "Opakované zvracení, ke kterému dochází v rámci disociativních poruch (F44), hypochondrické poruchy (F45.2) nebo v těhotenství. Odlišit od F50.2 (bulimie nervosa).",
+    "diagnosticka_kriteria": [
+      "Opakované zvracení",
+      "Psychologická příčina prokázána",
+      "Nesplňuje kritéria F50.2 (bulimie nervosa)"
+    ],
+    "priznaky": [
+      "opakované zvracení",
+      "psychologická příčina",
+      "bez kontrolovaného přejídání typického pro bulimii"
+    ],
+    "prubeh": "Závisí na základní psychologické poruše.",
+    "onset": "Variabilní.",
+    "diferencialni_diagnozy": [
+      "F50.2",
+      "F44",
+      "F45.2",
+      "organické zvracení"
+    ],
+    "mapovani": {
+      "mkn11": null,
+      "dsm5": null
+    }
+  },
+  {
+    "id": "F50.8",
+    "kod": "F50.8",
+    "nazev_cz": "Jiné poruchy příjmu potravy",
+    "system": "MKN-10",
+    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "podkategorie": "Poruchy příjmu potravy",
+    "popis": "Jiné poruchy příjmu potravy nespadající do F50.0–F50.5, jako je pica u dospělých nebo ortorexie.",
+    "diagnosticka_kriteria": [
+      "Porucha příjmu potravy u dospělého",
+      "Nespadá do F50.0–F50.5"
+    ],
+    "priznaky": [
+      "abnormální jídelní chování",
+      "distres",
+      "funkční omezení"
+    ],
+    "prubeh": "Variabilní.",
+    "onset": "Variabilní.",
+    "diferencialni_diagnozy": [
+      "F50.0",
+      "F50.2"
+    ],
+    "mapovani": {
+      "mkn11": null,
+      "dsm5": null
+    }
+  },
+  {
+    "id": "F50.9",
+    "kod": "F50.9",
+    "nazev_cz": "Porucha příjmu potravy NS",
+    "system": "MKN-10",
+    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "podkategorie": "Poruchy příjmu potravy",
+    "popis": "Neurčená porucha příjmu potravy.",
+    "diagnosticka_kriteria": [
+      "Porucha příjmu potravy",
+      "Nelze upřesnit typ"
+    ],
+    "priznaky": [
+      "abnormální jídelní chování"
+    ],
+    "prubeh": "Variabilní.",
+    "onset": "Variabilní.",
+    "diferencialni_diagnozy": [
+      "F50.0",
+      "F50.2"
+    ],
+    "mapovani": {
+      "mkn11": null,
+      "dsm5": "307.50"
     }
   },
   {
@@ -9287,6 +9427,61 @@
     "mapovani": {
       "mkn11": "6E20.1",
       "dsm5": "296.xx"
+    }
+  },
+  {
+    "id": "F53.8",
+    "kod": "F53.8",
+    "nazev_cz": "Jiné duševní poruchy a poruchy chování spojené s šestinedělím",
+    "system": "MKN-10",
+    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "podkategorie": "Poruchy duševního zdraví spojené s šestinedělím",
+    "popis": "Jiné duševní poruchy spojené s porodem nebo šestinedělím nespadající do F53.0 (mírné) nebo F53.1 (závažné). Zahrnuje poporodní anxiózní poruchy nebo poporodní PTSD.",
+    "diagnosticka_kriteria": [
+      "Duševní porucha v průběhu šestinedělí (do 6 týdnů po porodu)",
+      "Nespadá do F53.0 nebo F53.1"
+    ],
+    "priznaky": [
+      "poporodní úzkost",
+      "PTSD po porodu",
+      "poruchy přizpůsobení"
+    ],
+    "prubeh": "Přechodný nebo chronický dle poruchy.",
+    "onset": "Do 6 týdnů po porodu.",
+    "diferencialni_diagnozy": [
+      "F53.0",
+      "F53.1",
+      "F43.1"
+    ],
+    "mapovani": {
+      "mkn11": null,
+      "dsm5": null
+    }
+  },
+  {
+    "id": "F53.9",
+    "kod": "F53.9",
+    "nazev_cz": "NS duševní porucha spojená s šestinedělím",
+    "system": "MKN-10",
+    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "podkategorie": "Poruchy duševního zdraví spojené s šestinedělím",
+    "popis": "Neurčená duševní porucha spojená s šestinedělím.",
+    "diagnosticka_kriteria": [
+      "Duševní porucha v šestinedělí",
+      "Nelze upřesnit typ"
+    ],
+    "priznaky": [
+      "duševní příznaky po porodu"
+    ],
+    "prubeh": "Variabilní.",
+    "onset": "Do 6 týdnů po porodu.",
+    "diferencialni_diagnozy": [
+      "F53.0",
+      "F53.1"
+    ],
+    "mapovani": {
+      "mkn11": null,
+      "dsm5": null
     }
   },
   {
@@ -11049,6 +11244,38 @@
     }
   },
   {
+    "id": "F68.0",
+    "kod": "F68.0",
+    "nazev_cz": "Záměrné vyvolání nebo předstírání tělesných příznaků z psychologických důvodů",
+    "system": "MKN-10",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
+    "podkategorie": "Jiné poruchy osobnosti a chování u dospělých",
+    "popis": "Pacient si způsobuje tělesné příznaky nebo stav (ne pro hmotný zisk) z psychologických důvodů. Odlišit od F68.1 (Munchausenův syndrom) — F68.0 zahrnuje méně dramatické, reaktivní formy.",
+    "diagnosticka_kriteria": [
+      "Záměrné způsobení nebo zveličení tělesných příznaků",
+      "Bez zjevné vnější motivace (finanční, vyhnutí se právní odpovědnosti)",
+      "Psychologická motivace pravděpodobná"
+    ],
+    "priznaky": [
+      "záměrné způsobení příznaků",
+      "opakované hospitalizace",
+      "manipulativní chování",
+      "absence zjevného zisku"
+    ],
+    "prubeh": "Chronický.",
+    "onset": "Dospělost.",
+    "diferencialni_diagnozy": [
+      "F68.1",
+      "F45.0",
+      "F45.2",
+      "agravace"
+    ],
+    "mapovani": {
+      "mkn11": "6D50",
+      "dsm5": "300.19"
+    }
+  },
+  {
     "id": "F68.1",
     "kod": "F68.1",
     "nazev_cz": "Úmyslné vyvolávání nebo předstírání příznaků nebo invalidity (Münchhausenův syndrom)",
@@ -11078,6 +11305,34 @@
     "mapovani": {
       "mkn11": "6D50",
       "dsm5": "300.19"
+    }
+  },
+  {
+    "id": "F68.8",
+    "kod": "F68.8",
+    "nazev_cz": "Jiné určené poruchy osobnosti a chování u dospělých",
+    "system": "MKN-10",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
+    "podkategorie": "Jiné poruchy osobnosti a chování u dospělých",
+    "popis": "Jiné určené poruchy osobnosti a chování nespadající do jiných kategorií F60–F68.1.",
+    "diagnosticka_kriteria": [
+      "Porucha osobnosti nebo chování",
+      "Nespadá do F60–F68.1"
+    ],
+    "priznaky": [
+      "variabilní poruchy osobnosti nebo chování"
+    ],
+    "prubeh": "Variabilní.",
+    "onset": "Dospělost.",
+    "diferencialni_diagnozy": [
+      "F60",
+      "F62",
+      "F68.0",
+      "F68.1"
+    ],
+    "mapovani": {
+      "mkn11": null,
+      "dsm5": null
     }
   },
   {
