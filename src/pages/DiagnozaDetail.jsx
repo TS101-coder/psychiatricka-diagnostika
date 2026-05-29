@@ -26,6 +26,13 @@ export default function DiagnozaDetail() {
     .map(kod => diagnozy.find(d => d.id === kod))
     .filter(Boolean)
 
+  // Přímé podkódy tohoto záznamu (např. F00 → F00.0, F00.1 …)
+  const podkody = diagnozy.filter(d => {
+    if (!d.id.startsWith(id + '.')) return false
+    const rest = d.id.slice(id.length + 1)
+    return !rest.includes('.')  // jen přímé podkódy, ne hlubší
+  })
+
   function tisk() {
     window.print()
   }
@@ -161,6 +168,27 @@ export default function DiagnozaDetail() {
               </div>
             )}
           </div>
+
+          {/* Podkategorie – stejný styl jako v MKN-11 */}
+          {podkody.length > 0 && (
+            <section className="print-section">
+              <h2 className="text-sm font-semibold text-slate-500 uppercase tracking-wide mb-3">Podkategorie</h2>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                {podkody.map(sub => (
+                  <button
+                    key={sub.id}
+                    onClick={() => navigate(`/diagnoza/${sub.id}`)}
+                    className={`text-left flex items-center gap-3 p-3 rounded-lg border transition-all hover:shadow-sm ${bc.border} hover:${bc.bg} bg-white`}
+                  >
+                    <span className={`font-mono text-xs font-bold px-1.5 py-0.5 rounded shrink-0 ${bc.bg} ${bc.text}`}>
+                      {sub.kod}
+                    </span>
+                    <span className="text-sm text-slate-700 leading-snug">{sub.nazev_cz}</span>
+                  </button>
+                ))}
+              </div>
+            </section>
+          )}
 
           {diagnoza.mapovani && (diagnoza.mapovani.mkn11 || diagnoza.mapovani.dsm5) && (
             <section className="print-section">
