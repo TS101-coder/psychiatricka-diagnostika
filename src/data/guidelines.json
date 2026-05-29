@@ -3045,5 +3045,781 @@
       "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
       "SÚKL Databáze léčiv – ověřeno 2025"
     ]
+  },
+  {
+    "kod_mkn10": "F09",
+    "nazev_poruchy": "Nespecifikovaná organická nebo symptomatická duševní porucha",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Viz specifický organický syndrom – léčit základní příčinu",
+          "priklady_generik": [],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Kód F09 se používá, pokud organická etiologie je pravděpodobná, ale specifický syndrom nelze přesněji klasifikovat. Postupovat dle nejbližšího klinického obrazu (delirium → F05, demence → F00–F03, organická porucha nálady → F06.3 atd.)."
+        }
+      ],
+      "nefarmakologicka_terapie": ["Viz konkrétní organický syndrom"]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [] },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Vždy hledat specifickou organickou příčinu.",
+      "interakce": [],
+      "monitoring": ["Neurologické a somatické vyšetření", "Neurozobrazení"]
+    },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)", "SÚKL Databáze léčiv – ověřeno 2025"]
+  },
+  {
+    "kod_mkn10": "F28",
+    "nazev_poruchy": "Jiné neorganické psychotické poruchy",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Atypická antipsychotika – krátkodobá léčba",
+          "priklady_generik": ["risperidon", "olanzapin", "quetiapin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Postup jako u F23 (akutní psychotická porucha). Vyloučit organickou příčinu.",
+          "doporucene_davkovani_zahajovaci": "Risperidon 2–4 mg/den. Olanzapin 10 mg/den.",
+          "hlavni_nezadouci_ucinky": ["viz F20"],
+          "kontraindikace": ["viz F20"]
+        }
+      ],
+      "nefarmakologicka_terapie": ["Viz F23"]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [{ "skupina_latek": "Viz F23", "priklady_generik": [], "dostupnost_cr_sukl": true }] },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Vyloučit organickou příčinu a bipolární poruchu.",
+      "interakce": ["viz F20"],
+      "monitoring": ["viz F23"]
+    },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)", "SÚKL Databáze léčiv – ověřeno 2025"]
+  },
+  {
+    "kod_mkn10": "F29",
+    "nazev_poruchy": "Nespecifikovaná neorganická psychóza",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Atypická antipsychotika",
+          "priklady_generik": ["risperidon", "olanzapin", "aripiprazol"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Viz F20 (schizofrenie) pro kompletní léčebný postup. F29 kód použít pouze dočasně, než je stanovena přesnější diagnóza.",
+          "doporucene_davkovani_zahajovaci": "Viz F20.",
+          "hlavni_nezadouci_ucinky": ["viz F20"],
+          "kontraindikace": ["viz F20"]
+        }
+      ],
+      "nefarmakologicka_terapie": ["Viz F20"]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [{ "skupina_latek": "Viz F20", "priklady_generik": [], "dostupnost_cr_sukl": true }] },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Dočasný kód – upřesnit diagnózu co nejdříve.",
+      "interakce": ["viz F20"],
+      "monitoring": ["viz F20"]
+    },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)", "SÚKL Databáze léčiv – ověřeno 2025"]
+  },
+  {
+    "kod_mkn10": "F34",
+    "nazev_poruchy": "Trvalé (chronické) poruchy nálady",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Viz subkódy: F34.0 Cyklotymie, F34.1 Dystymie",
+          "priklady_generik": ["lithium", "lamotrigin", "sertralin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "F34 je nadřazený kód. Léčebný postup závisí na konkrétním subkódu: F34.0 (cyklotymie) → thymostabilizátory, F34.1 (dystymie) → SSRI + psychoterapie."
+        }
+      ],
+      "nefarmakologicka_terapie": ["Viz F34.0 nebo F34.1"]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [{ "skupina_latek": "Viz F34.0 nebo F34.1", "priklady_generik": [], "dostupnost_cr_sukl": true }] },
+    "zvlastni_upozorneni_a_bezpecnost": { "black_box_warning": "", "interakce": [], "monitoring": [] },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)"]
+  },
+  {
+    "kod_mkn10": "F38",
+    "nazev_poruchy": "Jiné poruchy nálady",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "SSRI nebo thymostabilizátor dle klinického obrazu",
+          "priklady_generik": ["sertralin", "lamotrigin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "F38 zahrnuje smíšené epizody (F38.00) a rekurentní krátkou depresivní poruchu. U smíšené epizody postupovat jako u F31 (BAP) – thymostabilizátor. U rekurentní krátké deprese – SSRI.",
+          "doporucene_davkovani_zahajovaci": "Sertralin 50 mg/den. Lamotrigin dle titrace.",
+          "hlavni_nezadouci_ucinky": ["viz F32 nebo F31"],
+          "kontraindikace": ["viz F32 nebo F31"]
+        }
+      ],
+      "nefarmakologicka_terapie": ["CBT nebo psychoterapie dle přítomné symptomatiky"]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [{ "skupina_latek": "Viz F31 nebo F32", "priklady_generik": [], "dostupnost_cr_sukl": true }] },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "U smíšené epizody antidepresiva v monoterapii nevhodná.",
+      "interakce": [],
+      "monitoring": ["Mood chart", "Suicidalita"]
+    },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)", "SÚKL Databáze léčiv – ověřeno 2025"]
+  },
+  {
+    "kod_mkn10": "F39",
+    "nazev_poruchy": "Nespecifikovaná porucha nálady",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Dle klinického obrazu – SSRI nebo thymostabilizátor",
+          "priklady_generik": ["sertralin", "escitalopram"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Dočasný kód – upřesnit diagnózu. Přechodně léčit nejpravděpodobnější entitu (depresivní epizoda → viz F32, manie → viz F30)."
+        }
+      ],
+      "nefarmakologicka_terapie": ["Dle upřesněné diagnózy"]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [] },
+    "zvlastni_upozorneni_a_bezpecnost": { "black_box_warning": "Dočasný kód – upřesnit co nejdříve.", "interakce": [], "monitoring": [] },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)"]
+  },
+  {
+    "kod_mkn10": "F41",
+    "nazev_poruchy": "Jiné úzkostné poruchy",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Viz subkódy: F41.0 Panická porucha, F41.1 GAD, F41.2 Smíšená",
+          "priklady_generik": ["escitalopram", "sertralin", "venlafaxin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "F41 je nadřazený kód. Léčba dle subkódu: F41.0 → viz panická porucha; F41.1 → viz GAD; F41.2 (smíšená úzkostně-depresivní) → SSRI."
+        }
+      ],
+      "nefarmakologicka_terapie": ["CBT, viz specifický subkód"]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [{ "skupina_latek": "Viz F41.0, F41.1, F41.2", "priklady_generik": [], "dostupnost_cr_sukl": true }] },
+    "zvlastni_upozorneni_a_bezpecnost": { "black_box_warning": "", "interakce": [], "monitoring": [] },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)"]
+  },
+  {
+    "kod_mkn10": "F43",
+    "nazev_poruchy": "Reakce na těžký stres a poruchy přizpůsobení",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Viz subkódy",
+          "priklady_generik": [],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "F43 je nadřazený kód. Léčba dle subkódu: F43.0 (akutní stresová reakce), F43.1 (PTSD), F43.2 (adaptační porucha) – viz specifické záznamy."
+        }
+      ],
+      "nefarmakologicka_terapie": ["Viz F43.0, F43.1 nebo F43.2"]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [] },
+    "zvlastni_upozorneni_a_bezpecnost": { "black_box_warning": "", "interakce": [], "monitoring": [] },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)"]
+  },
+  {
+    "kod_mkn10": "F51",
+    "nazev_poruchy": "Neorganické poruchy spánku",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "F51.0 Insomnie – žádná chronická farmakologická léčba není indikována jako 1. volba",
+          "priklady_generik": ["melatonin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Melatonin prolonged-release (Circadin) je registrován v ČR pro krátkodobou léčbu insomnie u pacientů > 55 let. Pro insomnii obecně: CBT-I je léčba první volby. Farmakoterapie až při selhání CBT-I nebo jako krátkodobé přemostění.",
+          "doporucene_davkovani_zahajovaci": "Melatonin 2 mg PR 1–2 hod před spánkem.",
+          "hlavni_nezadouci_ucinky": ["bolest hlavy", "somnolence"],
+          "kontraindikace": ["přecitlivělost", "autoimunitní onemocnění (relativní)"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "CBT-I (Cognitive Behavioral Therapy for Insomnia) – léčba první volby, nejsilnější evidence",
+        "Spánková hygiena – pravidelný čas vstávání, omezení modré světlo, teplota místnosti",
+        "Stimulus control therapy – postel pouze pro spánek",
+        "Sleep restriction therapy – omezení času v posteli",
+        "Relaxační techniky"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Sedativní antihistaminika (krátkodobě) – volně prodejné",
+          "priklady_generik": ["difenhydramin", "doxylamin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Volně prodejné v ČR. Pouze krátkodobě (max. 2 týdny) – rychle roste tolerance. Nevhodné u starších pacientů (anticholinergní NÚ).",
+          "doporucene_davkovani_zahajovaci": "Difenhydramin 25–50 mg na noc.",
+          "hlavni_nezadouci_ucinky": ["ranní grogginess", "anticholinergní NÚ (retence moči, zácpa, zmatenost u starších)"],
+          "kontraindikace": ["glaukom", "retence moči", "starší pacienti"],
+          "indikace_k_nasazeni": "Krátkodobá insomnie, selhání nefarmakologických přístupů."
+        },
+        {
+          "skupina_latek": "Benzodiazepinová hypnotika nebo Z-drugs (krátkodobě, max. 4 týdny)",
+          "priklady_generik": ["zolpidem", "eszopiklon", "temazepam"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Zolpidem je registrován v ČR. Pouze krátkodobě – riziko závislosti, tolerance, rebound insomnie. Kontraindikováno u závislostí v anamnéze.",
+          "doporucene_davkovani_zahajovaci": "Zolpidem 5–10 mg na noc, max 4 týdny.",
+          "hlavni_nezadouci_ucinky": ["somnambulismus", "retrográdní amnézie", "ranní sedace", "závislost"],
+          "kontraindikace": ["obstruktivní spánková apnoe", "závislost v anamnéze", "těžká jaterní insuficience"],
+          "indikace_k_nasazeni": "Krátkodobá léčba těžké insomnie nereagující na CBT-I."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Zolpidem a Z-drugs: FDA warning – riziko komplexních spánkových behaviorů (somnambulismus, spánek-řízení, spánek-vaření) vedoucích k závažným úrazům. Kontraindikovat u pacientů s anamnézou těchto epizod.",
+      "interakce": ["Zolpidem + alkohol nebo CNS depresanty – synergistický útlum CNS", "Zolpidem + flukonazol nebo ketokonazol – zvýšení hladin (CYP3A4)"],
+      "monitoring": ["Spánkový deník – 2 týdny před léčbou", "PSQI (Pittsburgh Sleep Quality Index)", "Riziko závislosti u Z-drugs a BZD", "Obstruktivní spánková apnoe (polysomnografie při podezření)"]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Insomnia (2017)",
+      "NICE CG159: Sleep problems in adults (2004, aktualizace 2015)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F52",
+    "nazev_poruchy": "Sexuální dysfunkce nepůsobená organickou poruchou nebo nemocí",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "F52.0 Porucha sexuálního zájmu/vzrušení – fosfodiesteráza-5 inhibitory (u mužů)",
+          "priklady_generik": ["sildenafil", "tadalafil", "vardenafil"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Sildenafil, tadalafil a vardenafil jsou registrovány v ČR pro erektilní dysfunkci. Psychogenní ED – kombinace s psychoterapií je efektivnější. U žen: žádný PDE5 inhibitor není registrován pro ženskou sexuální dysfunkci v ČR.",
+          "doporucene_davkovani_zahajovaci": "Sildenafil 50 mg 30–60 min před pohlavním stykem (rozsah 25–100 mg). Tadalafil 10 mg (nebo 5 mg denně pro kontinuální léčbu).",
+          "hlavni_nezadouci_ucinky": ["bolest hlavy", "flush", "dyspepsie", "nazální kongesce", "poruchy vidění (sildenafil)"],
+          "kontraindikace": ["nitrátové přípravky (absolutní KI – těžká hypotenze)", "těžká kardiovaskulární onemocnění", "hypotenze < 90/50 mmHg"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Sexuální terapie (Masters & Johnson approach) – léčba první volby",
+        "CBT pro sexuální dysfunkci",
+        "Psychoedukace a komunikace partnerů",
+        "Mindfulness-based sex therapy"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Bupropion – pro sníženou sexuální touhu (off-label)",
+          "priklady_generik": ["bupropion"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Bupropion off-label pro hypoaktivní sexuální touhu a pro redukci SSRI-způsobené sexuální dysfunkce.",
+          "doporucene_davkovani_zahajovaci": "150–300 mg/den.",
+          "hlavni_nezadouci_ucinky": ["insomnie", "záchvaty (dávkově závislé)"],
+          "kontraindikace": ["epilepsie", "bulimie"],
+          "indikace_k_nasazeni": "SSRI-indukovaná sexuální dysfunkce nebo hypoaktivní sexuální touha."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "PDE5 inhibitory + nitrátové přípravky (nitroglycerin, isosorbid) – absolutní kontraindikace: těžká hypotenze, možná smrt. Pacient musí být poučen.",
+      "interakce": ["PDE5 inhibitory + alfa-blokátory (tamsulosin) – hypotenze", "PDE5 inhibitory + CYP3A4 inhibitory (ketokonazol, ritonavir) – zvýšení hladin"],
+      "monitoring": ["Kardiovaskulární stav před nasazením PDE5 inhibitorů", "Efekt léčby – IIEF škála (International Index of Erectile Function)"]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Sexual Dysfunction (2010)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F53",
+    "nazev_poruchy": "Duševní poruchy a poruchy chování v šestinedělí",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "F53.0 Poporodní deprese – SSRI (kompatibilní s kojením)",
+          "priklady_generik": ["sertralin", "paroxetin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Sertralin a paroxetin jsou nejlépe prozkoumanými SSRI v kojení – přestup do mateřského mléka je minimální. Sertralin preferován pro příznivý bezpečnostní profil v laktaci. Fluoxetin méně vhodný pro dlouhý poločas.",
+          "doporucene_davkovani_zahajovaci": "Sertralin 50 mg/den, titrace na 100–150 mg/den.",
+          "hlavni_nezadouci_ucinky": ["viz F32"],
+          "kontraindikace": ["MAOI"]
+        },
+        {
+          "skupina_latek": "F53.1 Poporodní psychóza – atypická antipsychotika + thymostabilizátor",
+          "priklady_generik": ["quetiapin", "olanzapin", "lithium"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Poporodní psychóza je psychiatrická urgence – hospitalizace. Quetiapin preferován při kojení (relativně nízký přestup do mléka). Lithium v kojení kontraindikováno (přestup vysoký). Olanzapin: omezená data, ale klinicky používán.",
+          "doporucene_davkovani_zahajovaci": "Quetiapin 100–400 mg/den. Olanzapin 10–15 mg/den.",
+          "hlavni_nezadouci_ucinky": ["viz F20 a F30"],
+          "kontraindikace": ["lithium: kojení (přestup do mléka)"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Psychoedukace – screening EPDS (Edinburgh Postnatal Depression Scale) ",
+        "Podpora partnerů a rodiny",
+        "IPT (interpersonální terapie) přizpůsobená poporodnímu období",
+        "Skupiny matek s poporodní depresí"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Breksenolon – specificky pro poporodní depresi (USA: FDA 2019)",
+          "priklady_generik": ["breksenolon"],
+          "dostupnost_cr_sukl": false,
+          "sukl_poznamka": "Breksenolon (Zulresso) je registrován FDA v USA pro poporodní depresi – rychlý nástup (24–48 h). V EU/ČR není registrován k datu sestavení dat.",
+          "doporucene_davkovani_zahajovaci": "60 hod. i.v. infúze v nemocničním prostředí.",
+          "hlavni_nezadouci_ucinky": ["sedace", "závratě"],
+          "kontraindikace": ["renální insuficience (GFR < 15)"],
+          "indikace_k_nasazeni": "Těžká poporodní deprese s nutností rychlého účinku (USA protokol)."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Poporodní psychóza (F53.1) – psychiatrická urgence s rizikem infanticidy a sebevraždy. Hospitalizace je téměř vždy indikována. Poporodní deprese – screening EPDS u všech matek (ideálně 2 a 6 týdnů po porodu).",
+      "interakce": ["Sertralin + mateřské mléko – minimální přestup, sledovat somnolenci kojence"],
+      "monitoring": ["EPDS škála", "Suicidalita a infanticidní myšlenky", "Spánek a schopnost pečovat o dítě", "Laktace a přestup léku do mléka"]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Perinatal Mental Health (2010)",
+      "NICE CG192: Antenatal and postnatal mental health (2014, aktualizace 2020)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F54",
+    "nazev_poruchy": "Psychologické faktory nebo faktory chování spojené s poruchami nebo nemocemi kódovanými jinde",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Léčba primárního somatického onemocnění + psychiatrická komorbidita",
+          "priklady_generik": ["sertralin", "escitalopram"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "F54 popisuje situace, kdy psychologické faktory ovlivňují průběh somatické nemoci (např. deprese zhoršující diabetes, úzkost zhoršující astma). Léčit psychiatrickou komorbiditu paralelně se somatickým onemocněním."
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Psychosomatická péče – liaison psychiatrie",
+        "CBT přizpůsobená základní somatické nemoci",
+        "Zvládání stresu a copingové strategie",
+        "Psychoedukace"
+      ]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [] },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "",
+      "interakce": ["Dle kombinace psychofarmak a léčby základního somatického onemocnění"],
+      "monitoring": ["Somatické i psychiatrické parametry souběžně"]
+    },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)", "SÚKL Databáze léčiv – ověřeno 2025"]
+  },
+  {
+    "kod_mkn10": "F55",
+    "nazev_poruchy": "Zneužívání látek nezpůsobujících závislost (analgetika, laxativa, steroidy)",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Léčba základní psychiatrické poruchy motivující zneužívání",
+          "priklady_generik": ["sertralin", "escitalopram", "buspiron"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "F55 zahrnuje zneužívání analgetik (bez opioidů), laxativ, antacid, vitaminů, steroidů. Primárně hledat motivaci (body dysmorphia → anabolické steroidy, OCD-like → laxativa, deprese → analgetika). Léčit základní poruchu."
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "CBT zaměřená na motivaci ke zneužívání",
+        "Psychoedukace o škodlivosti zneužívání",
+        "Motivační rozhovor"
+      ]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [] },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Chronické zneužívání laxativ → elektrolytová dysbalance. Chronické zneužívání analgetik → analgetická nefropatie.",
+      "interakce": [],
+      "monitoring": ["Elektrolyty", "Renální funkce (při chronickém zneužívání analgetik)"]
+    },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)", "SÚKL Databáze léčiv – ověřeno 2025"]
+  },
+  {
+    "kod_mkn10": "F59",
+    "nazev_poruchy": "Nespecifikované behaviorální syndromy spojené s fyziologickými poruchami",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [{ "skupina_latek": "Viz konkrétní syndrom (F51–F55)", "priklady_generik": [], "dostupnost_cr_sukl": true, "sukl_poznamka": "Dočasný kód – upřesnit diagnózu." }],
+      "nefarmakologicka_terapie": ["Dle upřesněné diagnózy"]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [] },
+    "zvlastni_upozorneni_a_bezpecnost": { "black_box_warning": "", "interakce": [], "monitoring": [] },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)"]
+  },
+  {
+    "kod_mkn10": "F61",
+    "nazev_poruchy": "Smíšené a jiné poruchy osobnosti",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Symptomatická farmakoterapie dle dominujícího příznaku",
+          "priklady_generik": ["sertralin", "aripiprazol", "lamotrigin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Viz F60 – přístup je stejný. Psychoterapie je primární léčbou. Farmakoterapie cílí na specifické symptomové dimenze."
+        }
+      ],
+      "nefarmakologicka_terapie": ["Viz F60 – DBT, schema therapy, supportivní terapie"]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [{ "skupina_latek": "Viz F60", "priklady_generik": [], "dostupnost_cr_sukl": true }] },
+    "zvlastni_upozorneni_a_bezpecnost": { "black_box_warning": "Viz F60.", "interakce": [], "monitoring": ["viz F60"] },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)", "SÚKL Databáze léčiv – ověřeno 2025"]
+  },
+  {
+    "kod_mkn10": "F62",
+    "nazev_poruchy": "Trvalé změny osobnosti, které nelze přičíst poškození nebo nemoci mozku",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Symptomatická léčba komorbidních poruch – SSRI, thymostabilizátory",
+          "priklady_generik": ["sertralin", "valproát", "quetiapine"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "F62.0 (trvalá změna po katastrofickém zážitku) a F62.1 (po psychiatrické nemoci) – farmakoterapie cílí na komorbidní příznaky (deprese, anxieta, impulzivita). Psychoterapie je primární."
+        }
+      ],
+      "nefarmakologicka_terapie": ["Psychoterapie (schema therapy, supportivní), sociální rehabilitace"]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [] },
+    "zvlastni_upozorneni_a_bezpecnost": { "black_box_warning": "", "interakce": [], "monitoring": ["Komorbidní deprese a suicidalita"] },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)", "SÚKL Databáze léčiv – ověřeno 2025"]
+  },
+  {
+    "kod_mkn10": "F64",
+    "nazev_poruchy": "Poruchy pohlavní identity (genderová dysoforie)",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Hormonální terapie – dle pohlavní identifikace pacienta (genderová tranzice)",
+          "priklady_generik": ["estradiol", "testosteron", "antiandrogeny (cyproteron)"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Hormonální léčba genderové dysforie je vedena endokrinologem ve spolupráci s psychiatrem/psychologem. Psychiatrická role: diagnostika, léčba komorbidních poruch (deprese, anxieta), příprava a podpora v procesu tranzice. Cyproteron acetát registrován v ČR.",
+          "doporucene_davkovani_zahajovaci": "Dle individuálního plánu multidisciplinárního týmu (endokrinolog, psychiatr).",
+          "hlavni_nezadouci_ucinky": ["hormonální léčba: trombóza (estrogeny), polycytémie (testosteron), jaterní hepatotoxicita (cyproteron)"],
+          "kontraindikace": ["tromboembolická choroba v anamnéze (estrogeny)", "jaterní insuficience"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Psychoterapeutická podpora v průběhu tranzice",
+        "Rodinná terapie (zejm. u adolescentů)",
+        "Léčba komorbidní deprese, úzkosti, PTSD",
+        "Skupiny podpory transgender osob"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Léčba komorbidních psychiatrických poruch – SSRI, SNR",
+          "priklady_generik": ["sertralin", "escitalopram"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Deprese a úzkost jsou velmi časté u genderové dysforie – léčit aktivně.",
+          "doporucene_davkovani_zahajovaci": "Sertralin 50 mg/den.",
+          "hlavni_nezadouci_ucinky": ["viz F32"],
+          "kontraindikace": ["viz F32"],
+          "indikace_k_nasazeni": "Komorbidní deprese nebo úzkost při genderové dysforii."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Riziko suicidálního jednání u trans osob je výrazně vyšší než v populaci – zejm. před a během tranzice. Aktivní sledování a podpora jsou nezbytné.",
+      "interakce": ["Hormonální léčba × psychofarmaka – konzultovat s endokrinologem"],
+      "monitoring": ["Hormonální hladiny (E2, T, LH, FSH)", "Kardiovaskulární riziko (koagulace)", "Komorbidní psychiatrické poruchy", "Suicidalita"]
+    },
+    "zdroje": [
+      "WPATH Standards of Care for Transgender and Gender Nonconforming People (v8, 2022)",
+      "Endokrinologická společnost ČLS JEP",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F65",
+    "nazev_poruchy": "Poruchy sexuální preference (parafilie)",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "SSRI – pro obsedantní složku a redukci sexuálních impulzů",
+          "priklady_generik": ["sertralin", "fluvoxamin", "paroxetin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "SSRI jsou lékem první volby pro parafilie s obsedantní složkou nebo při riziku sexuálně deviantního jednání. Redukují frekvenci a intenzitu parafilních fantazií.",
+          "doporucene_davkovani_zahajovaci": "Sertralin 100–200 mg/den. Fluvoxamin 150–300 mg/den.",
+          "hlavni_nezadouci_ucinky": ["sexuální dysfunkce", "viz F32"],
+          "kontraindikace": ["MAOI"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "CBT – kognitivní restrukturace parafilních myšlenek",
+        "Terapie zaměřená na snížení rizika sexuálně deviantního chování",
+        "Skupinová terapie sexuálních delikventů (při forenzním kontextu)"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Antiandrogeny – pro závažné parafilie s rizikem sexuálních trestných činů",
+          "priklady_generik": ["cyproteron acetát", "medroxyprogesteron"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Cyproteron acetát registrován v ČR. Snižuje hladiny testosteronu a potlačuje sexuální drive. Forenzní kontext – soudem nařízená léčba u odsouzených sexuálních delikventů v ČR.",
+          "doporucene_davkovani_zahajovaci": "Cyproteron acetát: 50–200 mg/den p.o. nebo 300–600 mg i.m. každé 2 týdny.",
+          "hlavni_nezadouci_ucinky": ["jaterní toxicita", "gynekomastie", "osteoporóza", "kardiovaskulární riziko"],
+          "kontraindikace": ["jaterní insuficience", "tromboembolická choroba"],
+          "indikace_k_nasazeni": "Závažné parafilie s rizikem sexuálního trestného činu, forenzní kontext."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Cyproteron acetát: hepatotoxicita – monitorovat jaterní funkce. Forenzní kontext: povinné hlášení při zjištění hrozícího nebezpečí pro jiné osoby (pedofilie s plánovaným činem).",
+      "interakce": ["Antiandrogeny + antikoagulancia – zvýšení účinku warfarinu"],
+      "monitoring": ["Jaterní funkce (cyproteron)", "Testosteron a kostní denzita (antiandrogeny)", "Sexuální fantazie a chování – strukturované hodnocení"]
+    },
+    "zdroje": [
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F66",
+    "nazev_poruchy": "Psychologické a behaviorální poruchy spojené se sexuálním vývojem a orientací",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Léčba komorbidních poruch – SSRI pro depresi a anxietu",
+          "priklady_generik": ["sertralin", "escitalopram"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "F66 nezahrnuje léčbu sexuální orientace samotné (homosexualita není nemoc). Léčit výhradně komorbidní psychiatrické poruchy způsobené distresem ze sexuálního vývoje nebo orientace."
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Podpůrná psychoterapie – práce s identitou a přijetím",
+        "Léčba komorbidní deprese, anxiety, suicidálního rizika",
+        "Skupinová podpora (LGBTQ+ podpůrné skupiny)"
+      ]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [] },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Konverzní terapie (pokusy o změnu sexuální orientace) jsou škodlivé, neúčinné a v řadě zemí zakázané. Psychiatr je povinen odmítnout takovou léčbu.",
+      "interakce": [],
+      "monitoring": ["Suicidalita", "Komorbidní deprese a anxieta"]
+    },
+    "zdroje": [
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F68",
+    "nazev_poruchy": "Jiné poruchy osobnosti a chování dospělých (záměrné vyvolávání příznaků, Münchhasenův syndrom)",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Léčba komorbidních poruch – SSRI nebo antipsychotika dle příznakového profilu",
+          "priklady_generik": ["sertralin", "olanzapin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "F68.1 (záměrné vyvolávání nebo předstírání příznaků – Münchhasenův syndrom). Primárně psychoterapeutický přístup. Farmakoterapie cílí na komorbidní depresi nebo anxietu."
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Psychiatrická konzultace – konfrontace je obvykle kontraproduktivní",
+        "Multidisciplinární přístup (psychiatr + ošetřující lékař)",
+        "Psychodynamická terapie – práce s potřebou pozornosti a péče",
+        "Ochrana třetích osob při Münchhasen by proxy"
+      ]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [] },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Münchhasenův syndrom by proxy (faktitivní porucha vnucená jinému) – ohlašovací povinnost při podezření na zneužívání dítěte.",
+      "interakce": [],
+      "monitoring": ["Vyloučit skutečné somatické onemocnění", "Forenzní aspekty při podezření na poškozování jiné osoby"]
+    },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)", "SÚKL Databáze léčiv – ověřeno 2025"]
+  },
+  {
+    "kod_mkn10": "F69",
+    "nazev_poruchy": "Nespecifikovaná porucha osobnosti a chování dospělých",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [{ "skupina_latek": "Viz F60 – přístup dle dominujícího příznaku", "priklady_generik": [], "dostupnost_cr_sukl": true, "sukl_poznamka": "Dočasný kód – upřesnit diagnózu." }],
+      "nefarmakologicka_terapie": ["Viz F60"]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [] },
+    "zvlastni_upozorneni_a_bezpecnost": { "black_box_warning": "", "interakce": [], "monitoring": [] },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)"]
+  },
+  {
+    "kod_mkn10": "F71",
+    "nazev_poruchy": "Mentální retardace středně těžká",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Viz F70 – přístup je shodný, nižší dávky léků",
+          "priklady_generik": ["risperidon", "aripiprazol"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "U středně těžké MR (IQ 35–49) jsou farmakologické principy shodné s F70. Zvýšená citlivost na nežádoucí účinky – zahajovat vždy nejnižší dávkou."
+        }
+      ],
+      "nefarmakologicka_terapie": ["Viz F70 – speciální vzdělávání, behaviorální terapie, ergoterapie"]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [{ "skupina_latek": "Viz F70", "priklady_generik": [], "dostupnost_cr_sukl": true }] },
+    "zvlastni_upozorneni_a_bezpecnost": { "black_box_warning": "Viz F70.", "interakce": [], "monitoring": ["viz F70"] },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)", "SÚKL Databáze léčiv – ověřeno 2025"]
+  },
+  {
+    "kod_mkn10": "F72",
+    "nazev_poruchy": "Mentální retardace těžká",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Symptomatická farmakoterapie komorbidních poruch – velmi nízké dávky",
+          "priklady_generik": ["risperidon", "aripiprazol"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Těžká MR (IQ 20–34) – primárně komplexní multidisciplinární péče. Farmakoterapie jen při závažné agitaci, sebepoškozování nebo psychiatrické komorbidnitě. Velmi nízké dávky, pečlivé sledování."
+        }
+      ],
+      "nefarmakologicka_terapie": ["Fyzioterapie, logopedie, smyslová stimulace, strukturovaná péče"]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [] },
+    "zvlastni_upozorneni_a_bezpecnost": { "black_box_warning": "Viz F70 – zvýšená citlivost na NÚ.", "interakce": [], "monitoring": ["viz F70"] },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)", "SÚKL Databáze léčiv – ověřeno 2025"]
+  },
+  {
+    "kod_mkn10": "F73",
+    "nazev_poruchy": "Mentální retardace hluboká",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Symptomatická farmakoterapie – pouze při závažných komorbidních příznacích",
+          "priklady_generik": ["risperidon"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Hluboká MR (IQ < 20) – farmakoterapie je indikována výjimečně, jen pro závažné sebepoškozování nebo agresi, v nejnižší možné dávce. Komplexní 24h ošetřovatelská a zdravotní péče."
+        }
+      ],
+      "nefarmakologicka_terapie": ["Smyslová stimulace, fyzioterapie, strukturovaná péče, paliativní přístupy při somatických komplikacích"]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [] },
+    "zvlastni_upozorneni_a_bezpecnost": { "black_box_warning": "", "interakce": [], "monitoring": ["Základní biologické funkce", "Bolest (non-verbální hodnocení)"] },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)", "SÚKL Databáze léčiv – ověřeno 2025"]
+  },
+  {
+    "kod_mkn10": "F78",
+    "nazev_poruchy": "Jiná mentální retardace",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [{ "skupina_latek": "Viz F70–F73 dle závažnosti", "priklady_generik": [], "dostupnost_cr_sukl": true, "sukl_poznamka": "F78 – mentální retardace s přidruženými poruchami senzorů nebo motoriky (nesklasifikovatelná jinak)." }],
+      "nefarmakologicka_terapie": ["Viz F70"]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [] },
+    "zvlastni_upozorneni_a_bezpecnost": { "black_box_warning": "", "interakce": [], "monitoring": [] },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)"]
+  },
+  {
+    "kod_mkn10": "F79",
+    "nazev_poruchy": "Nespecifikovaná mentální retardace",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [{ "skupina_latek": "Viz F70 – obecný přístup k MR", "priklady_generik": [], "dostupnost_cr_sukl": true, "sukl_poznamka": "Dočasný kód do upřesnění stupně." }],
+      "nefarmakologicka_terapie": ["Viz F70"]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [] },
+    "zvlastni_upozorneni_a_bezpecnost": { "black_box_warning": "", "interakce": [], "monitoring": [] },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)"]
+  },
+  {
+    "kod_mkn10": "F80",
+    "nazev_poruchy": "Specifické vývojové poruchy řeči a jazyka",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Žádná specifická farmakoterapie pro vývojové poruchy řeči",
+          "priklady_generik": [],
+          "dostupnost_cr_sukl": false,
+          "sukl_poznamka": "Léčba vývojových řečových poruch je výhradně nefarmakologická. Farmakoterapie pouze při komorbidních poruchách (ADHD, anxieta)."
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Intenzivní logopedická terapie – léčba první a jediné volby",
+        "Augmentativní a alternativní komunikace (AAK)",
+        "Multisenzorická stimulace jazyka",
+        "Podpora ve škole – speciálně pedagogická intervence"
+      ]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [{ "skupina_latek": "Methylfenidát nebo atomoxetin – pokud je komorbidní ADHD", "priklady_generik": ["methylfenidát", "atomoxetin"], "dostupnost_cr_sukl": true, "indikace_k_nasazeni": "Komorbidní ADHD." }] },
+    "zvlastni_upozorneni_a_bezpecnost": { "black_box_warning": "", "interakce": [], "monitoring": ["Logopedie – CELF nebo ASKED škály", "Školní prospěch"] },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)", "SÚKL Databáze léčiv – ověřeno 2025"]
+  },
+  {
+    "kod_mkn10": "F81",
+    "nazev_poruchy": "Specifické vývojové poruchy školních dovedností (dyslexie, dyskalkulie)",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Žádná farmakoterapie pro specifické poruchy učení",
+          "priklady_generik": [],
+          "dostupnost_cr_sukl": false,
+          "sukl_poznamka": "Dyslexie, dysortografie, dyskalkulie – výhradně specializovaná pedagogická intervence. Farmakoterapie jen při komorbidním ADHD."
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Specializovaná individuální pedagogická náprava (SPC – speciálně pedagogické centrum)",
+        "Dyslexie: fonologický trénink, vizuální sledování, kompenzační pomůcky",
+        "Dyskalkulie: konkrétní matematické manipulativy, multisenzorické techniky",
+        "Individuální vzdělávací plán (IVP)"
+      ]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [{ "skupina_latek": "Methylfenidát – komorbidní ADHD", "priklady_generik": ["methylfenidát"], "dostupnost_cr_sukl": true, "indikace_k_nasazeni": "Komorbidní ADHD zhoršující výuku." }] },
+    "zvlastni_upozorneni_a_bezpecnost": { "black_box_warning": "", "interakce": [], "monitoring": ["Školní prospěch a dovednosti", "Psychologické vyšetření (dyslexie – WIAT, Woodcock-Johnson)"] },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)", "SÚKL Databáze léčiv – ověřeno 2025"]
+  },
+  {
+    "kod_mkn10": "F82",
+    "nazev_poruchy": "Specifická vývojová porucha motorických funkcí (vývojová dyspraxie)",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Žádná farmakoterapie pro vývojovou dyspraxii",
+          "priklady_generik": [],
+          "dostupnost_cr_sukl": false,
+          "sukl_poznamka": "Vývojová dyspraxie/DCD (Developmental Coordination Disorder) – výhradně ergoterapie a fyzioterapie."
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Ergoterapie – trénink jemné motoriky, koordinace",
+        "Fyzioterapie – hrubá motorika, rovnováha",
+        "Task-Oriented Approach – trénink konkrétních motorických úkolů",
+        "Neuromotorická terapie (NMT)"
+      ]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [] },
+    "zvlastni_upozorneni_a_bezpecnost": { "black_box_warning": "", "interakce": [], "monitoring": ["MABC-2 (Movement Assessment Battery for Children)"] },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)", "SÚKL Databáze léčiv – ověřeno 2025"]
+  },
+  {
+    "kod_mkn10": "F94",
+    "nazev_poruchy": "Poruchy sociálního fungování se začátkem v dětství (reaktivní porucha attachmentu)",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Žádná primární farmakoterapie – reaktivní porucha attachmentu je léčena psychosociálně",
+          "priklady_generik": [],
+          "dostupnost_cr_sukl": false,
+          "sukl_poznamka": "F94.0 (reaktivní porucha attachmentu) a F94.1 (dezinhibovaná porucha sociální angažovanosti) – primárně léčba psychosociálními intervencemi zaměřenými na bezpečné vazbové vztahy. Farmakoterapie jen při komorbidní depresi nebo úzkosti."
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Attachment-Based Therapy – práce s vazbovými vztahy",
+        "Dyadic Developmental Psychotherapy (DDP)",
+        "Péče o bezpečné a stálé pečovatele (fostering, adopce)",
+        "Rodinná terapie",
+        "Terapie hrou"
+      ]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [{ "skupina_latek": "SSRI – pro komorbidní depresi nebo anxietu", "priklady_generik": ["sertralin"], "dostupnost_cr_sukl": true, "indikace_k_nasazeni": "Komorbidní deprese nebo anxieta." }] },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Reaktivní porucha attachmentu vzniká téměř vždy v kontextu závažného zanedbávání nebo týrání – hlásit orgánům sociálně-právní ochrany dítěte (OSPOD).",
+      "interakce": [],
+      "monitoring": ["Kvalita attachmentového vztahu", "Dítě a pečovatel – Randolph Attachment Disorder Questionnaire"]
+    },
+    "zdroje": ["NICE CG48: Antisocial personality disorder (2009)", "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)", "SÚKL Databáze léčiv – ověřeno 2025"]
+  },
+  {
+    "kod_mkn10": "F99",
+    "nazev_poruchy": "Nespecifikovaná duševní porucha",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [{ "skupina_latek": "Dle klinického obrazu – po upřesnění diagnózy", "priklady_generik": [], "dostupnost_cr_sukl": true, "sukl_poznamka": "Dočasný kód – upřesnit diagnózu co nejdříve a zahájit specifickou léčbu." }],
+      "nefarmakologicka_terapie": ["Psychiatrické vyšetření a diferenciální diagnostika"]
+    },
+    "terapie_druhe_volby": { "farmakoterapie": [] },
+    "zvlastni_upozorneni_a_bezpecnost": { "black_box_warning": "", "interakce": [], "monitoring": [] },
+    "zdroje": ["Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)"]
   }
 ]
