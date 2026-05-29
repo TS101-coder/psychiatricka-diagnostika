@@ -7338,15 +7338,14 @@
       "F42"
     ],
     "mapovani": {
-      "mkn11": "6B00",
+      "mkn11": "6B02",
       "dsm5": "300.29"
     },
     "kriteria_mkn11": [
-      "Volná úzkostnost nebo nadměrné obavy z negativních událostí ve více životních doménách (rodina, zdraví, finance, práce)",
-      "Doprovodné příznaky: svalové napětí nebo motorický neklid, autonomní hyperaktivita (palpitace, pocení, třes, sucho v ústech), nervozita nebo napětí, obtíže se soustředěním, dráždivost, poruchy spánku",
-      "Příznaky přetrvávají nejméně několik měsíců, přítomny více dní než ne",
-      "Způsobují výraznou tíseň nebo funkční postižení",
-      "Nejsou lépe vysvětleny jinou duševní poruchou ani onemocněním nebo účinky látky"
+      "Výrazná a nadměrná úzkost nebo strach v situacích, kde by útěk mohl být obtížný nebo pomoc nedostupná (veřejná doprava, dav, venku doma samotný, obchody, fronty)",
+      "Obavy z konkrétních negativních výsledků: záchvat paniky nebo jiné příznaky způsobující ztrapnění",
+      "Aktivní vyhýbání se takovým situacím, vstupování do nich pouze se společníkem nebo snášení s intenzivním strachem",
+      "Příznaky přetrvávají nejméně několik měsíců a způsobují výraznou tíseň nebo funkční postižení"
     ]
   },
   {
@@ -7377,15 +7376,14 @@
       "F60.6"
     ],
     "mapovani": {
-      "mkn11": "6B00",
+      "mkn11": "6B02",
       "dsm5": "300.22"
     },
     "kriteria_mkn11": [
-      "Volná úzkostnost nebo nadměrné obavy z negativních událostí ve více životních doménách (rodina, zdraví, finance, práce)",
-      "Doprovodné příznaky: svalové napětí nebo motorický neklid, autonomní hyperaktivita (palpitace, pocení, třes, sucho v ústech), nervozita nebo napětí, obtíže se soustředěním, dráždivost, poruchy spánku",
-      "Příznaky přetrvávají nejméně několik měsíců, přítomny více dní než ne",
-      "Způsobují výraznou tíseň nebo funkční postižení",
-      "Nejsou lépe vysvětleny jinou duševní poruchou ani onemocněním nebo účinky látky"
+      "Výrazná a nadměrná úzkost nebo strach v situacích, kde by útěk mohl být obtížný nebo pomoc nedostupná (veřejná doprava, dav, venku doma samotný, obchody, fronty)",
+      "Obavy z konkrétních negativních výsledků: záchvat paniky nebo jiné příznaky způsobující ztrapnění",
+      "Aktivní vyhýbání se takovým situacím, vstupování do nich pouze se společníkem nebo snášení s intenzivním strachem",
+      "Příznaky přetrvávají nejméně několik měsíců a způsobují výraznou tíseň nebo funkční postižení"
     ]
   },
   {
@@ -7411,12 +7409,15 @@
       "F40.1"
     ],
     "mapovani": {
-      "mkn11": "6B00.0",
+      "mkn11": "6B02",
       "dsm5": "300.22"
     },
     "kriteria_mkn11": [
-      "Splněna kritéria pro generalizovanou úzkostnou poruchu (6B00)",
-      "Volná úzkostnost neomezená na konkrétní podněty ani situace"
+      "Výrazná a nadměrná úzkost nebo strach v situacích, kde by útěk mohl být obtížný nebo pomoc nedostupná (veřejná doprava, dav, venku doma samotný, obchody, fronty)",
+      "Obavy z konkrétních negativních výsledků: záchvat paniky nebo jiné příznaky způsobující ztrapnění",
+      "Aktivní vyhýbání se takovým situacím, vstupování do nich pouze se společníkem nebo snášení s intenzivním strachem",
+      "Příznaky přetrvávají nejméně několik měsíců a způsobují výraznou tíseň nebo funkční postižení",
+      "Bez přítomnosti záchvatů paniky splňujících kritéria panické poruchy"
     ]
   },
   {
@@ -7441,12 +7442,15 @@
       "F41.0"
     ],
     "mapovani": {
-      "mkn11": "6B00.01",
+      "mkn11": "6B02",
       "dsm5": "300.21"
     },
     "kriteria_mkn11": [
-      "Splněna kritéria pro generalizovanou úzkostnou poruchu (6B00)",
-      "Nadměrné obavy a starosti zaměřené na každodenní záležitosti v různých životních oblastech"
+      "Výrazná a nadměrná úzkost nebo strach v situacích, kde by útěk mohl být obtížný nebo pomoc nedostupná (veřejná doprava, dav, venku doma samotný, obchody, fronty)",
+      "Obavy z konkrétních negativních výsledků: záchvat paniky nebo jiné příznaky způsobující ztrapnění",
+      "Aktivní vyhýbání se takovým situacím, vstupování do nich pouze se společníkem nebo snášení s intenzivním strachem",
+      "Příznaky přetrvávají nejméně několik měsíců a způsobují výraznou tíseň nebo funkční postižení",
+      "S přítomností záchvatů paniky splňujících kritéria panické poruchy (6B01)"
     ]
   },
   {
