@@ -111,12 +111,22 @@ export default function Sidebar({ open }) {
         </NavLink>
       </div>
 
-      {/* Quick nav: MKN-11 */}
+      {/* Quick nav: MKN-10 + MKN-11 */}
       <div className="flex border-b border-slate-100">
+        <NavLink
+          to="/"
+          className={({ isActive }) =>
+            `flex-1 flex items-center justify-center gap-1 py-2 text-xs font-semibold transition-colors
+             ${isActive ? 'bg-blue-50 text-blue-700 border-b-2 border-blue-500' : 'text-slate-500 hover:bg-blue-50 hover:text-blue-700'}`
+          }
+        >
+          <span className="w-2 h-2 rounded-full bg-blue-500 shrink-0" />
+          MKN-10
+        </NavLink>
         <NavLink
           to="/mkn11"
           className={({ isActive }) =>
-            `flex-1 flex items-center justify-center gap-1 py-2 text-xs font-semibold transition-colors
+            `flex-1 flex items-center justify-center gap-1 py-2 text-xs font-semibold transition-colors border-l border-slate-100
              ${isActive ? 'bg-green-50 text-green-700 border-b-2 border-green-500' : 'text-slate-500 hover:bg-green-50 hover:text-green-700'}`
           }
         >
