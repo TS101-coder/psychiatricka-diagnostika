@@ -7441,7 +7441,7 @@
     "kod": "F40",
     "nazev_cz": "Fobické úzkostné poruchy",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Fobické poruchy",
     "popis": "Skupina poruch, při nichž úzkost vzniká výhradně nebo převážně v určitých definovaných situacích nebo objektech, které v současné době nejsou nebezpečné.",
     "diagnosticka_kriteria": [
@@ -7477,7 +7477,7 @@
     "kod": "F40.0",
     "nazev_cz": "Agorafobie",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Fobické poruchy",
     "popis": "Strach z přítomnosti v situacích, z nichž by únik byl obtížný nebo ponižující – veřejná místa, dopravní prostředky, davy, být sám mimo domov.",
     "diagnosticka_kriteria": [
@@ -7515,7 +7515,7 @@
     "kod": "F40.00",
     "nazev_cz": "Agorafobie bez panické poruchy",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Fobické poruchy",
     "popis": "Agorafobie bez panických záchvatů.",
     "diagnosticka_kriteria": [
@@ -7549,7 +7549,7 @@
     "kod": "F40.01",
     "nazev_cz": "Agorafobie s panickou poruchou",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Fobické poruchy",
     "popis": "Agorafobie s přidruženou panickou poruchou.",
     "diagnosticka_kriteria": [
@@ -7582,7 +7582,7 @@
     "kod": "F40.1",
     "nazev_cz": "Sociální fobie",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Fobické poruchy",
     "popis": "Strach ze sociálních situací, při nichž je osoba vystavena pozorování nebo hodnocení druhými, se strachem z negativního hodnocení.",
     "diagnosticka_kriteria": [
@@ -7624,7 +7624,7 @@
     "kod": "F40.2",
     "nazev_cz": "Specifické (izolované) fobie",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Fobické poruchy",
     "popis": "Strach omezený na specifické situace nebo objekty mimo situace F40.0 a F40.1.",
     "diagnosticka_kriteria": [
@@ -7658,7 +7658,7 @@
   {
     "id": "F40.8",
     "kod": "F40.8",
-    "nazev_cz": "Jiné fobické úzkostné poruchy",
+    "nazev_cz": "Jiné anxiózně fobické poruchy",
     "system": "MKN-10",
     "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Fobické úzkostné poruchy",
@@ -7689,7 +7689,7 @@
   {
     "id": "F40.9",
     "kod": "F40.9",
-    "nazev_cz": "Fobická úzkostná porucha NS",
+    "nazev_cz": "Anxiózně fobická porucha NS",
     "system": "MKN-10",
     "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Fobické úzkostné poruchy",
@@ -7716,9 +7716,9 @@
   {
     "id": "F41",
     "kod": "F41",
-    "nazev_cz": "Jiné úzkostné poruchy",
+    "nazev_cz": "Jiné anxiózní poruchy",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Úzkostné poruchy",
     "popis": "Úzkostné poruchy, u nichž není úzkost vázána na specifické situace nebo objekty.",
     "diagnosticka_kriteria": [
@@ -7751,7 +7751,7 @@
     "kod": "F41.0",
     "nazev_cz": "Panická porucha",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Úzkostné poruchy",
     "popis": "Opakující se záchvaty těžké úzkosti (paniky) neomezené na specifické situace. Záchvaty jsou neprediktabilní a trvají obvykle minuty.",
     "diagnosticka_kriteria": [
@@ -7797,7 +7797,7 @@
     "kod": "F41.1",
     "nazev_cz": "Generalizovaná úzkostná porucha",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Úzkostné poruchy",
     "popis": "Generalizovaná a trvalá úzkost, která není omezená na ani převážně vázaná na specifické okolní situace (flotující úzkost).",
     "diagnosticka_kriteria": [
@@ -7837,9 +7837,9 @@
   {
     "id": "F41.2",
     "kod": "F41.2",
-    "nazev_cz": "Smíšená úzkostně depresivní porucha",
+    "nazev_cz": "Smíšená úzkostná a depresivní porucha",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Úzkostné poruchy",
     "popis": "Kombinace příznaků úzkosti a deprese, žádná z nich však není dostatečně závažná pro samostatnou diagnózu.",
     "diagnosticka_kriteria": [
@@ -7962,9 +7962,9 @@
   {
     "id": "F42",
     "kod": "F42",
-    "nazev_cz": "Obsedantně kompulzivní porucha",
+    "nazev_cz": "Obsedantně-nutkavá porucha",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "OCD",
     "popis": "Porucha charakterizovaná opakujícími se obsedantními myšlenkami a/nebo kompulzivními činy.",
     "diagnosticka_kriteria": [
@@ -8000,7 +8000,7 @@
   {
     "id": "F42.0",
     "kod": "F42.0",
-    "nazev_cz": "Obsedantně-kompulzivní porucha s převážně obsedantními myšlenkami nebo ruminacemi",
+    "nazev_cz": "Převážně vtíravé myšlenky nebo ruminace",
     "system": "MKN-10",
     "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Obsedantně-kompulzivní porucha",
@@ -8041,7 +8041,7 @@
   {
     "id": "F42.1",
     "kod": "F42.1",
-    "nazev_cz": "Obsedantně-kompulzivní porucha s převážně nutkavými činy (obsedantní rituály)",
+    "nazev_cz": "Převážně nutkavé činy (obsedantní rituály)",
     "system": "MKN-10",
     "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Obsedantně-kompulzivní porucha",
@@ -8081,7 +8081,7 @@
   {
     "id": "F42.2",
     "kod": "F42.2",
-    "nazev_cz": "Smíšené obsedantní myšlenky a nutkavé činy",
+    "nazev_cz": "Smíšené vtíravé myšlenky a nutkavé činy",
     "system": "MKN-10",
     "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Obsedantně-kompulzivní porucha",
@@ -8120,7 +8120,7 @@
   {
     "id": "F42.8",
     "kod": "F42.8",
-    "nazev_cz": "Jiné obsedantně-kompulzivní poruchy",
+    "nazev_cz": "Jiné obsedantně-nutkavé poruchy",
     "system": "MKN-10",
     "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Obsedantně-kompulzivní porucha",
@@ -8147,7 +8147,7 @@
   {
     "id": "F42.9",
     "kod": "F42.9",
-    "nazev_cz": "Obsedantně-kompulzivní porucha NS",
+    "nazev_cz": "Obsedantně-nutkavá porucha NS",
     "system": "MKN-10",
     "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Obsedantně-kompulzivní porucha",
@@ -8175,7 +8175,7 @@
     "kod": "F43",
     "nazev_cz": "Reakce na závažný stres a poruchy přizpůsobení",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Stresové poruchy",
     "popis": "Poruchy vznikající jako bezprostřední reakce na výjimečně stresující životní událost nebo trvalou traumatizaci.",
     "diagnosticka_kriteria": [
@@ -8209,7 +8209,7 @@
     "kod": "F43.0",
     "nazev_cz": "Akutní stresová reakce",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Stresové poruchy",
     "popis": "Přechodná porucha výrazné závažnosti, která se rozvíjí u jedince bez zjevné duševní poruchy jako reakce na výjimečný fyzický nebo duševní stres.",
     "diagnosticka_kriteria": [
@@ -8248,9 +8248,9 @@
   {
     "id": "F43.1",
     "kod": "F43.1",
-    "nazev_cz": "Posttraumatická stresová porucha (PTSP)",
+    "nazev_cz": "Posttraumatická stresová porucha",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Stresové poruchy",
     "popis": "Opožděná nebo protrahovaná reakce na traumatický zážitek mimořádné závažnosti.",
     "diagnosticka_kriteria": [
@@ -8295,9 +8295,9 @@
   {
     "id": "F43.2",
     "kod": "F43.2",
-    "nazev_cz": "Porucha přizpůsobení",
+    "nazev_cz": "Poruchy přizpůsobení",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Stresové poruchy",
     "popis": "Stavy subjektivní tísně a emocionální poruchy, které obvykle narušují sociální fungování a výkon, vznikající v období přizpůsobování se závažné životní změně nebo stresující životní události.",
     "diagnosticka_kriteria": [
@@ -8646,7 +8646,7 @@
     "kod": "F44",
     "nazev_cz": "Disociativní (konverzní) poruchy",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Disociativní poruchy",
     "popis": "Poruchy charakterizované narušením integrace vědomí, paměti, identity, chování, vnímání, emocí, motoriky nebo smyslových funkcí bez organického vysvětlení.",
     "diagnosticka_kriteria": [
@@ -8680,7 +8680,7 @@
     "kod": "F44.0",
     "nazev_cz": "Disociativní amnézie",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Disociativní poruchy",
     "popis": "Neschopnost vzpomenout si na důležité autobiografické informace, obvykle traumatického nebo stresujícího rázu, nepřičitatelná běžnému zapomínání.",
     "diagnosticka_kriteria": [
@@ -8714,7 +8714,7 @@
   {
     "id": "F44.1",
     "kod": "F44.1",
-    "nazev_cz": "Disociativní fugue",
+    "nazev_cz": "Disociativní fuga",
     "system": "MKN-10",
     "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Disociativní (konverzní) poruchy",
@@ -8793,9 +8793,9 @@
   {
     "id": "F44.3",
     "kod": "F44.3",
-    "nazev_cz": "Trans a stavy posedlosti",
+    "nazev_cz": "Trans a posedlost",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Disociativní poruchy",
     "popis": "Poruchy, při nichž dochází k přechodnému ztrácení pocitu vlastní identity a plného uvědomění si okolí. V některých případech jedinec jedná, jako by byl ovládán jinou osobností, duchem, božstvem nebo silou. Zahrnují se pouze tranční poruchy, které jsou mimovolné nebo nechtěné a narušují běžné aktivity tím, že se vyskytují mimo náboženské nebo jinak kulturně přijímané situace.",
     "diagnosticka_kriteria": [
@@ -8833,7 +8833,7 @@
   {
     "id": "F44.4",
     "kod": "F44.4",
-    "nazev_cz": "Disociativní pohybové poruchy",
+    "nazev_cz": "Disociativní motorické poruchy",
     "system": "MKN-10",
     "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Disociativní (konverzní) poruchy",
@@ -8872,9 +8872,9 @@
   {
     "id": "F44.5",
     "kod": "F44.5",
-    "nazev_cz": "Disociativní konvulze",
+    "nazev_cz": "Disociativní záchvaty",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Disociativní poruchy",
     "popis": "Záchvaty podobné epileptickým záchvatům, ale bez epileptické aktivity na EEG. Funkční neurologická symptomová porucha.",
     "diagnosticka_kriteria": [
@@ -8908,7 +8908,7 @@
   {
     "id": "F44.6",
     "kod": "F44.6",
-    "nazev_cz": "Disociativní anestezie a senzorická ztráta",
+    "nazev_cz": "Disociativní anestezie a ztráta citlivosti",
     "system": "MKN-10",
     "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Disociativní (konverzní) poruchy",
@@ -9037,7 +9037,7 @@
     "kod": "F45",
     "nazev_cz": "Somatoformní poruchy",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Somatoformní poruchy",
     "popis": "Opakované prezentace tělesných příznaků bez organické příčiny, doprovázené požadavkem na lékařské vyšetření.",
     "diagnosticka_kriteria": [
@@ -9072,7 +9072,7 @@
     "kod": "F45.0",
     "nazev_cz": "Somatizační porucha",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Somatoformní poruchy",
     "popis": "Mnohočetné, opakující se a měnící se somatické stížnosti trvající ≥ 2 roky bez organického podkladu.",
     "diagnosticka_kriteria": [
@@ -9112,7 +9112,7 @@
     "kod": "F45.1",
     "nazev_cz": "Nediferencovaná somatoformní porucha",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Somatoformní poruchy",
     "popis": "Somatoformní stížnosti trvající ≥ 6 měsíců, nesplňující plná kritéria somatizační poruchy.",
     "diagnosticka_kriteria": [
@@ -9146,7 +9146,7 @@
     "kod": "F45.2",
     "nazev_cz": "Hypochondrická porucha",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Somatoformní poruchy",
     "popis": "Trvalé zabývání se možností mít jedno nebo více závažných a progresivních tělesných onemocnění.",
     "diagnosticka_kriteria": [
@@ -9182,9 +9182,9 @@
   {
     "id": "F45.3",
     "kod": "F45.3",
-    "nazev_cz": "Somatoformní autonomní dysfunkce",
+    "nazev_cz": "Somatoformní vegetativní dysfunkce",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Somatoformní poruchy",
     "popis": "Příznaky prezentované jako způsobené tělesným onemocněním orgánu nebo systému, převážně nebo zcela inervovaného a řízeného autonomním nervovým systémem.",
     "diagnosticka_kriteria": [
@@ -9219,7 +9219,7 @@
   {
     "id": "F45.30",
     "kod": "F45.30",
-    "nazev_cz": "Somatoformní autonomní dysfunkce srdce a kardiovaskulárního systému",
+    "nazev_cz": "Somatoformní vegetativní dysfunkce srdce a kardiovaskulárního systému",
     "system": "MKN-10",
     "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Somatoformní poruchy",
@@ -9251,7 +9251,7 @@
   {
     "id": "F45.31",
     "kod": "F45.31",
-    "nazev_cz": "Somatoformní autonomní dysfunkce horního gastrointestinálního traktu",
+    "nazev_cz": "Somatoformní vegetativní dysfunkce horního gastrointestinálního traktu",
     "system": "MKN-10",
     "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Somatoformní poruchy",
@@ -9283,7 +9283,7 @@
   {
     "id": "F45.32",
     "kod": "F45.32",
-    "nazev_cz": "Somatoformní autonomní dysfunkce dolního gastrointestinálního traktu",
+    "nazev_cz": "Somatoformní vegetativní dysfunkce dolního gastrointestinálního traktu",
     "system": "MKN-10",
     "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Somatoformní poruchy",
@@ -9314,7 +9314,7 @@
   {
     "id": "F45.33",
     "kod": "F45.33",
-    "nazev_cz": "Somatoformní autonomní dysfunkce dýchacích orgánů",
+    "nazev_cz": "Somatoformní vegetativní dysfunkce dýchacích orgánů",
     "system": "MKN-10",
     "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Somatoformní poruchy",
@@ -9345,7 +9345,7 @@
   {
     "id": "F45.34",
     "kod": "F45.34",
-    "nazev_cz": "Somatoformní autonomní dysfunkce urogenitálního systému",
+    "nazev_cz": "Somatoformní vegetativní dysfunkce urogenitálního systému",
     "system": "MKN-10",
     "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Somatoformní poruchy",
@@ -9376,7 +9376,7 @@
   {
     "id": "F45.38",
     "kod": "F45.38",
-    "nazev_cz": "Somatoformní autonomní dysfunkce jiných orgánů nebo systémů",
+    "nazev_cz": "Somatoformní vegetativní dysfunkce jiných orgánů nebo systémů",
     "system": "MKN-10",
     "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Somatoformní poruchy",
@@ -9406,9 +9406,9 @@
   {
     "id": "F45.4",
     "kod": "F45.4",
-    "nazev_cz": "Přetrvávající somatoformní bolestivá porucha",
+    "nazev_cz": "Perzistující somatoformní bolestivá porucha",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Somatoformní poruchy",
     "popis": "Trvalá, těžká a psychicky tísnivá bolest, která nemůže být zcela vysvětlena fyziologickým procesem nebo tělesnou poruchou.",
     "diagnosticka_kriteria": [
@@ -9497,7 +9497,7 @@
     "kod": "F48",
     "nazev_cz": "Jiné neurotické poruchy",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Jiné neurotické poruchy",
     "popis": "Neurotické poruchy, které nespadají do výše uvedených kategorií.",
     "diagnosticka_kriteria": [
@@ -9525,7 +9525,7 @@
     "kod": "F48.0",
     "nazev_cz": "Neurastenie",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Jiné neurotické poruchy",
     "popis": "Trvalé stížnosti na zvýšenou únavu po duševní práci nebo zvýšenou tělesnou vyčerpanost po minimální fyzické aktivitě.",
     "diagnosticka_kriteria": [
@@ -9559,9 +9559,9 @@
   {
     "id": "F48.1",
     "kod": "F48.1",
-    "nazev_cz": "Depersonalizačně-derealizační syndrom",
+    "nazev_cz": "Depersonalizace a derealizace",
     "system": "MKN-10",
-    "kategorie": "F40–F48 Neurotické a stresové poruchy",
+    "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Jiné neurotické poruchy",
     "popis": "Porucha, při níž pacient spontánně pociťuje, že jeho duševní aktivita, tělo nebo okolí jsou změněny v kvalitě a zdají se neskutečné.",
     "diagnosticka_kriteria": [
