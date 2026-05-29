@@ -125,6 +125,20 @@ export default function Sidebar({ open }) {
         </NavLink>
       </div>
 
+      {/* MKN-11 rychlý odkaz – nahoře v sidebaru */}
+      <div className="px-4 py-2 border-b border-green-100 bg-green-50">
+        <NavLink
+          to="/mkn11"
+          className={({ isActive }) =>
+            `flex items-center gap-2 text-sm font-medium px-3 py-2 rounded-lg transition-colors
+             ${isActive ? 'bg-green-100 text-green-800' : 'text-green-700 hover:bg-green-100'}`
+          }
+        >
+          <span className="text-xs font-bold bg-green-200 text-green-800 px-1.5 py-0.5 rounded">MKN-11</span>
+          Přehled MKN-11
+        </NavLink>
+      </div>
+
       {/* Category tree */}
       <nav className="flex-1 overflow-y-auto py-2">
         <div className="px-3 py-1 text-xs font-semibold text-slate-400 uppercase tracking-wider">
