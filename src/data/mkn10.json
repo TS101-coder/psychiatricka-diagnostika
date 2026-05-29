@@ -262,7 +262,15 @@
       "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
       "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
     ],
-    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11",
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1-G4)",
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ]
   },
   {
     "id": "F01",
@@ -557,7 +565,15 @@
       "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
       "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
     ],
-    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11",
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1-G4)",
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ]
   },
   {
     "id": "F01.9",
@@ -597,7 +613,15 @@
       "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
       "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
     ],
-    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11",
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1-G4)",
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ]
   },
   {
     "id": "F02",
@@ -951,7 +975,15 @@
       "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
       "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
     ],
-    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11",
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1-G4)",
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ]
   },
   {
     "id": "F03",
@@ -1187,6 +1219,14 @@
       "Příznaky typicky kolísají v průběhu dne",
       "Může zahrnovat behaviorální a emocionální poruchy, narušení cyklu spánku a bdění a mnohočetné kognitivní deficity",
       "Příčina: důsledek jiného onemocnění, psychoaktivní látky/léky nebo kombinace příčin"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria deliria MKN-10 (G1-G5)",
+    "obecna_kriteria": [
+      "G1. Zastřené vědomí – snížená schopnost zaměřit, udržet nebo přesunout pozornost",
+      "G2. Porucha kognice – desorientace (čas, místo, osoby) nebo porucha paměti (zejm. bezprostřední a krátkodobá paměť)",
+      "G3. Alespoň 1 z psychomotorických poruch: rychlé nepředvídatelné změny aktivity, prodloužená reakční doba, zvýšené nebo snížené množství řeči, zvýšená úleková odpověď",
+      "G4. Porucha spánku nebo cyklu spánek–bdění: nespavost, obrácení cyklu spánek–bdění, noční zhoršení příznaků",
+      "G5. Náhlý vznik a kolísavý průběh – příznaky se rozvíjejí rychle (hodiny až dny) a jejich závažnost se v průběhu dne mění"
     ]
   },
   {
@@ -1221,6 +1261,14 @@
       "Příznaky typicky kolísají v průběhu dne",
       "Může zahrnovat behaviorální a emocionální poruchy, narušení cyklu spánku a bdění a mnohočetné kognitivní deficity",
       "Příčina: důsledek jiného onemocnění, psychoaktivní látky/léky nebo kombinace příčin"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria deliria MKN-10 (G1-G5)",
+    "obecna_kriteria": [
+      "G1. Zastřené vědomí – snížená schopnost zaměřit, udržet nebo přesunout pozornost",
+      "G2. Porucha kognice – desorientace (čas, místo, osoby) nebo porucha paměti (zejm. bezprostřední a krátkodobá paměť)",
+      "G3. Alespoň 1 z psychomotorických poruch: rychlé nepředvídatelné změny aktivity, prodloužená reakční doba, zvýšené nebo snížené množství řeči, zvýšená úleková odpověď",
+      "G4. Porucha spánku nebo cyklu spánek–bdění: nespavost, obrácení cyklu spánek–bdění, noční zhoršení příznaků",
+      "G5. Náhlý vznik a kolísavý průběh – příznaky se rozvíjejí rychle (hodiny až dny) a jejich závažnost se v průběhu dne mění"
     ]
   },
   {
@@ -5752,7 +5800,14 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": "295.90"
-    }
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria schizofrenie MKN-10 (F20)",
+    "obecna_kriteria": [
+      "A. Alespoň 1 z příznaků první řady (Schneiderovy příznaky 1. řady) přítomný po dobu ≥ 1 měsíce: ozvučování myšlenek, vkládání nebo odnímání myšlenek, vysílání myšlenek; bludy ovládání, ovlivňování nebo pasivity vztahující se k pohybům těla, myšlenkám, pocitům nebo jednání; hlasové halucinace komentující chování nebo diskutující o pacientovi ve třetí osobě; kulturně nepřiměřené přetrvávající bludy",
+      "B. NEBO alespoň 2 z příznaků druhé řady přítomné po dobu ≥ 1 měsíce: přetrvávající halucinace jakéhokoli smyslu, provázené přechodnými nebo neúplnými bludy bez výrazné afektivní složky; neologismy, zábrany nebo inkoherence řeči; katatonní příznaky; negativní příznaky (apatie, ochuzení řeči, oploštění nebo nepřiměřenost afektu)",
+      "C. Vyloučení: diagnóza nesplňuje kritéria pro manickou (F30) ani depresivní epizodu (F32), přičemž afektivní příznaky jsou-li přítomny, musí nastat po splnění schizofrenních kritérií",
+      "D. Porucha není způsobena organickým onemocněním mozku (F0x), intoxikací ani odvykáním od psychoaktivních látek (F1x)"
+    ]
   },
   {
     "id": "F20.9",
@@ -5780,7 +5835,14 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": "295.90"
-    }
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria schizofrenie MKN-10 (F20)",
+    "obecna_kriteria": [
+      "A. Alespoň 1 z příznaků první řady (Schneiderovy příznaky 1. řady) přítomný po dobu ≥ 1 měsíce: ozvučování myšlenek, vkládání nebo odnímání myšlenek, vysílání myšlenek; bludy ovládání, ovlivňování nebo pasivity vztahující se k pohybům těla, myšlenkám, pocitům nebo jednání; hlasové halucinace komentující chování nebo diskutující o pacientovi ve třetí osobě; kulturně nepřiměřené přetrvávající bludy",
+      "B. NEBO alespoň 2 z příznaků druhé řady přítomné po dobu ≥ 1 měsíce: přetrvávající halucinace jakéhokoli smyslu, provázené přechodnými nebo neúplnými bludy bez výrazné afektivní složky; neologismy, zábrany nebo inkoherence řeči; katatonní příznaky; negativní příznaky (apatie, ochuzení řeči, oploštění nebo nepřiměřenost afektu)",
+      "C. Vyloučení: diagnóza nesplňuje kritéria pro manickou (F30) ani depresivní epizodu (F32), přičemž afektivní příznaky jsou-li přítomny, musí nastat po splnění schizofrenních kritérií",
+      "D. Porucha není způsobena organickým onemocněním mozku (F0x), intoxikací ani odvykáním od psychoaktivních látek (F1x)"
+    ]
   },
   {
     "id": "F21",
@@ -6674,6 +6736,13 @@
       "Manická epizoda: trvá nejméně 1 týden (nebo kratší, pokud přerušena léčbou), extrémní zvýšení nebo dráždivost nálady + zvýšení aktivity nebo subjektivní energie + doprovodné příznaky (rychlá řeč, let myšlenek, snížená potřeba spánku, roztržitost, impulzivní chování)",
       "Smíšená epizoda: simultánní nebo rychle se střídající výrazné manické i depresivní příznaky, nejméně 2 týdny",
       "Příznaky způsobují výrazné postižení nebo vyžadují hospitalizaci; neodpovídají hypomanii"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria manické epizody MKN-10 (G1-G4)",
+    "obecna_kriteria": [
+      "G1. Nálada je výrazně elevated nebo expanzivní, nebo podrážděná a nepřiměřená okolnostem jedince",
+      "G2. Zvýšená aktivita nebo fyzický neklid",
+      "G3. Alespoň 3 z: zvýšená hovornost, zrychlené myšlení, ztráta normálních sociálních zábran, snížená potřeba spánku, zvýšené sebehodnocení nebo grandiozita, impulsivní chování, nadměrné zaujetí aktivitami s rizikem škody",
+      "G4. Epizoda nesplňuje kritéria pro schizofrenii, schizoafektivní poruchu ani jiné psychotické poruchy"
     ]
   },
   {
@@ -8645,6 +8714,12 @@
       "Obsese: opakující se a přetrvávající myšlenky, obrazy nebo impulsy/nutkání, které jsou vtíravé, nežádoucí a typicky spojené s úzkostí",
       "Kompulze: opakující se chování nebo mentální akty vykonávané v reakci na obsesi, podle přísných pravidel nebo za účelem dosažení pocitu „úplnosti\"",
       "Obsese a kompulze jsou časově náročné (více než 1 hodinu denně) nebo způsobují výraznou tíseň nebo funkční postižení"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria OCD MKN-10 (G1-G3)",
+    "obecna_kriteria": [
+      "G1. Přítomnost vtíravých myšlenek (obsesí) nebo nutkavých činů (kompulzí) trvajících většinu dnů po dobu alespoň 2 po sobě jdoucích týdnů",
+      "G2. Obsese nebo kompulze jsou nepříjemné a interferují s fungováním; alespoň jedna musí být: pociťována jako vlastní, neúspěšně potlačována, nikoli samo o sobě příjemná",
+      "G3. Obsese nebo kompulze nejsou způsobeny jinými duševními poruchami (schizofrenie, afektivní poruchy)"
     ]
   },
   {
@@ -9505,6 +9580,11 @@
       "Narušení normální integrace vědomí, identity, vnímání, emocí, chování, paměti nebo motorické kontroly",
       "Příznaky nejsou způsobeny přímými fyziologickými účinky látky nebo jiným zdravotním stavem",
       "Způsobují klinicky závažnou tíseň nebo funkční postižení"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria disociativní poruchy MKN-10 (G1-G2)",
+    "obecna_kriteria": [
+      "G1. Žádný průkaz fyzické nemoci, která by mohla vysvětlit charakteristické příznaky poruchy",
+      "G2. Přesvědčivé psychologické nebo vztahové příčiny – nedávné stresové události nebo narušené osobní vztahy"
     ]
   },
   {
@@ -15600,6 +15680,12 @@
     "kriteria_mkn11": [
       "Splněna kritéria pro poruchu sociálního chování (6C91)",
       "Začátek v dětství: rysy přítomny před 10. rokem věku"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria poruchy chování MKN-10 (G1-G3)",
+    "obecna_kriteria": [
+      "G1. Přítomnost abnormního stupně agresivního, vzdorovitého nebo nesociálního chování hodnoceného ve vztahu k vývojovému věku dítěte",
+      "G2. Porucha chování trvá 6 měsíců nebo déle",
+      "G3. Chování není projevem jiných psychiatrických poruch (afektivní poruchy, schizofrenie, pervazivní vývojové poruchy)"
     ]
   },
   {
@@ -15638,6 +15724,12 @@
     "kriteria_mkn11": [
       "Splněna kritéria pro poruchu sociálního chování (6C91)",
       "Začátek v adolescenci: žádné rysy přítomny před 10. rokem věku"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria poruchy chování MKN-10 (G1-G3)",
+    "obecna_kriteria": [
+      "G1. Přítomnost abnormního stupně agresivního, vzdorovitého nebo nesociálního chování hodnoceného ve vztahu k vývojovému věku dítěte",
+      "G2. Porucha chování trvá 6 měsíců nebo déle",
+      "G3. Chování není projevem jiných psychiatrických poruch (afektivní poruchy, schizofrenie, pervazivní vývojové poruchy)"
     ]
   },
   {
@@ -15674,6 +15766,12 @@
     "kriteria_mkn11": [
       "Splněna kritéria pro poruchu sociálního chování (6C91)",
       "S omezenými prosociálními emocemi: krutost, absence empatie nebo remorse, povrchní emocionální výrazy (přetrvávající nejméně 1 rok)"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria poruchy chování MKN-10 (G1-G3)",
+    "obecna_kriteria": [
+      "G1. Přítomnost abnormního stupně agresivního, vzdorovitého nebo nesociálního chování hodnoceného ve vztahu k vývojovému věku dítěte",
+      "G2. Porucha chování trvá 6 měsíců nebo déle",
+      "G3. Chování není projevem jiných psychiatrických poruch (afektivní poruchy, schizofrenie, pervazivní vývojové poruchy)"
     ]
   },
   {
