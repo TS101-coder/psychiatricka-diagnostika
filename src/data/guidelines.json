@@ -1302,6 +1302,222 @@
     ]
   },
   {
+    "kod_mkn10": "F04",
+    "nazev_poruchy": "Organický amnestický syndrom (nealkoholový)",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Thiamin (vitamin B1) – při podezření na nutričně podmíněnou etiologii",
+          "priklady_generik": ["thiamin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Primárně léčba základní příčiny (nádor, vaskulární léze, encefalitida, Wernickeho encefalopatie). Thiamin 100 mg i.v./i.m. pokud nelze vyloučit nutričně podmíněný původ.",
+          "doporucene_davkovani_zahajovaci": "100 mg i.v. nebo i.m. akutně, pak 100 mg 3× denně p.o.",
+          "hlavni_nezadouci_ucinky": ["anafilaxe (i.v. – vzácně)"],
+          "kontraindikace": ["přecitlivělost"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Neurorehabilitace – kognitivní trénink paměti, strategie a kompenzační pomůcky",
+        "Léčba základního onemocnění (chirurgie, kortikosteroidy u zánětu)",
+        "Strukturované prostředí a rutinní denní program",
+        "Psychoedukace pacienta a rodiny"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Donepezil – při reziduálním kognitivním deficitu (off-label)",
+          "priklady_generik": ["donepezil"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Off-label pro nealzheimerskou amnézii. Limitovaná evidence; zvážit při výrazném kognitivním postižení bez jiné možnosti léčby.",
+          "doporucene_davkovani_zahajovaci": "5 mg/den, po 4 týdnech možno 10 mg/den.",
+          "hlavni_nezadouci_ucinky": ["nauzea", "insomnie", "bradykardie"],
+          "kontraindikace": ["viz F00"],
+          "indikace_k_nasazeni": "Reziduální amnézie po Wernickeho encefalopatii nebo jiné organické etiologii."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Léčba je primárně zaměřena na etiologii – bez identifikace a léčby příčiny je prognóza špatná. Wernickeho-Korsakoffův syndrom: Thiamin PŘED glukózou.",
+      "interakce": [],
+      "monitoring": ["Kognitivní testování (WMS – Wechsler Memory Scale) při zahájení a v průběhu", "Neuroimaging (MRI) pro sledování strukturálních změn", "Monitorace základního onemocnění"]
+    },
+    "zdroje": [
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F05",
+    "nazev_poruchy": "Delirium nepůsobené alkoholem nebo jinými psychoaktivními látkami",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Léčba základní příčiny (kauzální terapie)",
+          "priklady_generik": ["antibiotika", "kortikoidy", "thiamin", "rehydratace"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Nejdůležitější krok: identifikovat a léčit příčinu (infekce, metabolická dysbalance, medikamentózní toxicita, hypoxie, retence moči). Průběžná orientační kontrola (MMSE, CAM skóre).",
+          "doporucene_davkovani_zahajovaci": "Dle etiologie.",
+          "hlavni_nezadouci_ucinky": [],
+          "kontraindikace": []
+        },
+        {
+          "skupina_latek": "Haloperidol – symptomatická léčba agitace a psychotických příznaků",
+          "priklady_generik": ["haloperidol"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Haloperidol je lékem první volby pro farmakologické zvládání agitace a halucinací u deliriozního pacienta. Nízké dávky, krátkodobě. U starších pacientů s demencí zvýšené riziko mortality.",
+          "doporucene_davkovani_zahajovaci": "0,5–1 mg p.o. nebo i.m., možno opakovat každé 2–4 h, max. 5 mg/24 h u starších pacientů.",
+          "hlavni_nezadouci_ucinky": ["extrapyramidové příznaky", "QTc prodloužení", "anticholinergní efekty (min.)", "sedace"],
+          "kontraindikace": ["demence s Lewyho tělísky (absolutně)", "prodloužené QTc > 500 ms", "Parkinsonova choroba (relativní)"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Orientační podněty – hodiny, kalendář, denní světlo, věci z domova",
+        "Zachování spánkového rytmu – tlumení hluku a světla v noci",
+        "Přítomnost blízké osoby – snižuje agitaci",
+        "Mobilizace – omezit imobilizaci na minimum",
+        "Rehydratace a nutriční podpora",
+        "Minimalizace katetrizace, drenáží a invazivních postupů"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Atypická antipsychotika – při intoleranci haloperidolu",
+          "priklady_generik": ["quetiapin", "olanzapin", "risperidon"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Quetiapin preferován u Parkinsonovy nemoci (nejmenší EPS riziko). Olanzapin i.m. dostupný pro akutní agitaci. Vyšší metabolický a sedativní profil než haloperidol.",
+          "doporucene_davkovani_zahajovaci": "Quetiapin: 12,5–25 mg na noc. Olanzapin i.m.: 2,5–5 mg.",
+          "hlavni_nezadouci_ucinky": ["sedace", "ortostatická hypotenze", "metabolický syndrom"],
+          "kontraindikace": ["DLB (relativní – i atypická antipsychotika riziková)"],
+          "indikace_k_nasazeni": "Intolerance nebo kontraindikace haloperidolu; Parkinsonova choroba."
+        },
+        {
+          "skupina_latek": "Melatonin nebo trazodon – pro poruchy spánkového rytmu",
+          "priklady_generik": ["melatonin", "trazodon"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Melatonin (prolonged-release) registrován v ČR pro starší pacienty. Trazodon off-label pro insomniu u deliriozních pacientů – méně anticholinergní než difenhydramin.",
+          "doporucene_davkovani_zahajovaci": "Melatonin: 2 mg PR na noc. Trazodon: 25–50 mg na noc.",
+          "hlavni_nezadouci_ucinky": ["melatonin: vzácné", "trazodon: ortostatická hypotenze, priapismus (vzácně)"],
+          "kontraindikace": ["trazodon + MAOI"],
+          "indikace_k_nasazeni": "Delirium s výraznou poruchou cirkadiánního rytmu a insomnií."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Benzodiazepiny jsou u deliriozních pacientů (mimo alkoholové delirium) KONTRAINDIKOVÁNY – zhoršují zmatenost a prodlužují delirium. Výjimka: abstinenční delirium po alkoholu nebo benzodiazepinech. Fyzická restraint zhoršuje agitaci a zvyšuje mortalitu.",
+      "interakce": ["Haloperidol + QTc prodlužující léky – torsade de pointes", "Anticholinergika (oxybutynin, difenhydramin) – precipitují nebo zhoršují delirium"],
+      "monitoring": ["CAM (Confusion Assessment Method) – denní screening", "Vitální funkce, saturace O2", "Elektrolyty, glukóza, renální a jaterní funkce", "Přehled medikace – vysadit/nahradit léky zhoršující kognitivní funkce"]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Delirium (1999, aktualizace 2010)",
+      "NICE Guideline CG103: Delirium (2010, aktualizace 2019)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F06",
+    "nazev_poruchy": "Jiné duševní poruchy způsobené poškozením mozku, dysfunkcí a tělesnou nemocí",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Léčba základního somatického onemocnění",
+          "priklady_generik": [],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "F06 je skupinový kód pro organicky podmíněné psychiatrické syndromy. Terapie závisí na podtypu (F06.0 halucinóza, F06.1 katatonní, F06.2 bludy, F06.3 nálada, F06.4 úzkost). Primárně léčit příčinu (endokrinopatie, nádor, epilepsie, autoimunitní encefalitida).",
+          "doporucene_davkovani_zahajovaci": "Dle etiologie.",
+          "hlavni_nezadouci_ucinky": [],
+          "kontraindikace": []
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Neuropsychologická rehabilitace",
+        "Podpůrná psychoterapie",
+        "Psychoedukace pacienta a rodiny"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "F06.0 (organická halucinóza) – nízká dávka antipsychotika",
+          "priklady_generik": ["haloperidol", "risperidon", "quetiapin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Antipsychotika symptomaticky, v nejnižší účinné dávce. Přednost atypickým (méně EPS).",
+          "doporucene_davkovani_zahajovaci": "Risperidon 0,5–2 mg/den, quetiapin 25–100 mg/den.",
+          "hlavni_nezadouci_ucinky": ["EPS", "sedace", "metabolický syndrom"],
+          "kontraindikace": ["viz F20"],
+          "indikace_k_nasazeni": "Organická halucinóza způsobující distres nebo ohrožení."
+        },
+        {
+          "skupina_latek": "F06.3 (organická porucha nálady) – antidepresiva nebo thymostabilizátory",
+          "priklady_generik": ["sertralin", "escitalopram", "valproát"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Preferovat SSRI s příznivým profilem interakcí. Při maniiformní symptomatice valproát nebo olanzapin.",
+          "doporucene_davkovani_zahajovaci": "Sertralin 50 mg/den, escitalopram 10 mg/den.",
+          "hlavni_nezadouci_ucinky": ["viz F32"],
+          "kontraindikace": ["viz F32"],
+          "indikace_k_nasazeni": "Organicky podmíněná depresivní nebo manická epizoda."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Autoimunitní encefalitida (anti-NMDA, anti-LGI1) – psychotické příznaky mohou být první manifestací. Zahájit imunologické vyšetření při atypické psychóze, zvláště u mladých žen.",
+      "interakce": ["Závisí na kombinaci farmak a základní diagnózy"],
+      "monitoring": ["Neurologický stav", "EEG při epileptiformních příznacích", "MRI mozku", "Autoimunitní protilátky při podezření na encefalitidu"]
+    },
+    "zdroje": [
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F07",
+    "nazev_poruchy": "Poruchy osobnosti a chování způsobené onemocněním, poškozením nebo dysfunkcí mozku",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Symptomatická farmakoterapie dle dominujícího příznaku",
+          "priklady_generik": ["sertralin", "valproát", "risperidon"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "F07.0 (organická porucha osobnosti) – primárně léčit základní onemocnění. SSRI pro impulzivitu a afektivní dysregulaci; valproát nebo karbamazepin při výbušnosti; atypická antipsychotika při agitaci nebo psychotické symptomatice.",
+          "doporucene_davkovani_zahajovaci": "Sertralin 50 mg/den. Valproát 500–1500 mg/den. Risperidon 0,5–2 mg/den.",
+          "hlavni_nezadouci_ucinky": ["viz specifika skupin"],
+          "kontraindikace": []
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Neurorehabilitace – kognitivní a behaviorální trénink",
+        "Strukturované prostředí a jasná pravidla",
+        "Rodinná psychoedukace",
+        "Ergoterapie a pracovní rehabilitace"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Betablokátory – pro agresi při organickém poškození mozku",
+          "priklady_generik": ["propranolol", "metoprolol"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Off-label. Propranolol má evidenci pro redukci agrese a výbušnosti u organicky podmíněných poruch osobnosti (traumatické poranění mozku).",
+          "doporucene_davkovani_zahajovaci": "Propranolol 10–40 mg 3× denně, titrace dle odpovědi a TF.",
+          "hlavni_nezadouci_ucinky": ["bradykardie", "hypotenze", "bronchospasmus"],
+          "kontraindikace": ["astma", "AV blok", "bradykardie"],
+          "indikace_k_nasazeni": "Organicky podmíněná agrese nebo výbušnost (zejm. po TBI)."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "F07.2 (postkomoční syndrom) – vyvarovat se nadměrné medikace. Benzodiazepiny kontraindikované – zhoršují kognitivní funkce. Farmakoterapie jen při závažné symptomatice.",
+      "interakce": ["Závisí na použitých farmaciích a základní diagnóze"],
+      "monitoring": ["Neuropsychologické testování (kognitivní funkce, exekutiva)", "Behaviorální hodnocení (frekvence epizod agrese/impulzivity)", "MRI mozku dle klinické indikace"]
+    },
+    "zdroje": [
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
     "kod_mkn10": "F10",
     "nazev_poruchy": "Poruchy duševní a poruchy chování způsobené užíváním alkoholu",
     "terapie_prvni_volby": {
