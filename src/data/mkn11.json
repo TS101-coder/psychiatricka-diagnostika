@@ -11077,7 +11077,13 @@
     "kategorie": "Neurokognitivní poruchy",
     "podkategorie": null,
     "popis": "Demence s fluktuující kognicí, zrakovými halucinacemi, parkinsonismem a poruchami spánku ve fázi REM.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Splnena obecna kriteria pro demenci (vyrazne kognitivni postizeni a naruseni sobestacnosti)",
+      "Fluktuujici kognice s vyraznymi epizodami zmatenosti a ospalosti nebo necitnosti trvajici minuty az hodiny",
+      "Opakujici se vizualni halucinace (zpravidla detailni a komplexni vidiny lidi nebo zvirat)",
+      "Spontanni parkinsononske pohybove priznaky (rigidita, bradykineze, tremor v klidu)",
+      "Alespon jeden z: porucha spanku ve fazi REM (jedinci fyzicky projevuji sny), hypersenzitivita na antipsychotika, nizke vychytavani dopaminu na SPECT nebo PET"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -11100,7 +11106,13 @@
     "kategorie": "Neurokognitivní poruchy",
     "podkategorie": null,
     "popis": "Progresivní demence s frontální nebo temporální lobární degenerací; dominují změny osobnosti a chování nebo jazykové poruchy.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Splnena obecna kriteria pro demenci",
+      "Postupny nástup a progrese postihujici predevším frontální nebo temporálni laloky",
+      "Alespon jeden ze dvou klinickych vzorcu: (a) vyrazna zmena chovani a osobnosti -- dezinhibice, apatie, ztrata empatie, perseverace, stereotypie; NEBO (b) progressivni jazykove poruchy -- primarne progresivni afazie (nefluence, sémantická demence nebo logopenická afazie)",
+      "Zobrazovaci nebo patologicky nalaz potvrde frontalni nebo temporalni atrofii ci metabolický deficit",
+      "Kognitivni projevy nelze lepe vysvetlit jinym zdravotnim stavem, psychiatrickou poruchou nebo vaskulární demenci"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -11123,7 +11135,12 @@
     "kategorie": "Neurokognitivní poruchy",
     "podkategorie": null,
     "popis": "Demence způsobená psychoaktivními látkami včetně léků zahrnuje formy demence, které jsou považovány za přímý důsledek užívání návykových látek a které přetrvávají nad obvyklou dobu působení nebo jako důsledek odvykání od dané látky. Množství a doba užívání návykových látek musí být dostatečné k vyvolání kognitivního poškození. Kognitivní poškození není lépe vysvětleno poruchou, která není vyvolána látkami, jako je demence v důsledku jiného zdravotního stavu.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Splnena obecna kriteria pro demenci",
+      "Kognitivni postizeni se rozvinulo behem nebo bezprostredne po chronickem uzivani psychoaktivni latky nebo leku a persiste po dobu delsi, nez je ocekavana akutni intoxikace nebo syndrom z odneti",
+      "Charakter kognitivniho postizeni je konzistentni s profilem postizeni znamym u dané psychoaktivni latky",
+      "Vyrazeni jinych pricin demence (napr. Alzheimerova choroba, vaskulární postizení) je klinicke nezbytne pred prirazením teto diagnozy"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -11239,7 +11256,12 @@
     "kategorie": "Neurokognitivní poruchy",
     "podkategorie": null,
     "popis": "Jsou splněny všechny definiční požadavky na diagnostikování amnestické poruchy. Příznaky poruchy paměti jsou na základě důkazů z anamnézy, fyzikálního vyšetření nebo laboratorních nálezů považovány za přímý patofyziologický důsledek zdravotního stavu, který není zařazen pod duševní, behaviorální a neurovývojové poruchy. Příznaky nelze lépe vysvětlit deliriem, demencí, jinou duševní poruchou (např. schizofrenií nebo jinou primární psychotickou poruchou, poruchou nálady) nebo účinky léků či látek, včetně odvykacího stavu. Příznaky jsou dostatečně závažné, aby se na ně zaměřila specifická klinická pozornost. Identifikovaný etiologický zdravotní stav by měl být zařazen samostatně.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Splnena obecna kriteria pro demenci",
+      "Kognitivni postizeni se rozvinulo v casove souvislosti s jinym zdokumentovanym zdravotnim stavem zareazenvym jinde (napr. Parkinsonova choroba, Huntingtonova choroba, HIV infekce, prionova choroba, traumaticke poraneni mozku)",
+      "Charakter a cas nasotupu kognitivniho postizeni jsou konzistentni s profilem ocekavanym u daneho zdravotniho stavu",
+      "Kognitivni postizeni neni lepe vysvetleno jinou pricinou demence ani vedlejsimi ucinky lekove lecby"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -11515,7 +11537,12 @@
     "kategorie": "Neurokognitivní poruchy",
     "podkategorie": null,
     "popis": "Kromě kognitivních poruch charakteristických pro demenci zahrnuje současný klinický obraz i klinicky významné poruchy chování nebo duševní poruchy.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Splnena obecna kriteria pro demenci (kognitivni postizeni a naruseni sobestacnosti)",
+      "Soucasny klinicky obraz zahrnuje klinicky vyznamne poruchy chovani nebo psychicke poruchy (psychoticke projevy, poruchy nalady, uzkost, agitace/agresivita, dezinhibice, apatie, toulani se)",
+      "Poruchy chovani nebo psychicke poruchy nejsou lepe vysvetleny jinou dusevni poruchou, delirium ani ucinky psychoaktivni latky",
+      "Poruchy chovani nebo psychicke poruchy zpusobuji vyznamne postizeni fungování nebo zasahuji do pece o pacienta"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
