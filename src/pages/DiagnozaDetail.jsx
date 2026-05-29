@@ -106,25 +106,6 @@ export default function DiagnozaDetail() {
                     Diagnostická kritéria <span className="text-slate-400 font-normal normal-case">(MKN-10)</span>
                   </h2>
 
-                  {/* Obecná kritéria MKN-10 nad specifickými */}
-                  {diagnoza.obecna_kriteria?.length > 0 && (
-                    <div className="mb-3 bg-blue-50 border border-blue-200 rounded-lg p-3">
-                      <p className="text-xs font-semibold text-blue-700 uppercase tracking-wide mb-2">
-                        {diagnoza.obecna_kriteria_nazev || 'Obecná kritéria MKN-10'}
-                      </p>
-                      <ul className="space-y-1.5">
-                        {diagnoza.obecna_kriteria.map((k, i) => (
-                          <li key={i} className="flex items-start gap-2 text-xs text-blue-900">
-                            <span className="w-5 h-5 bg-blue-200 text-blue-800 rounded-full flex items-center justify-center text-xs font-bold shrink-0 mt-0.5">
-                              {k.match(/^G(\d+)/)?.[1] || (i + 1)}
-                            </span>
-                            {k.replace(/^G\d+[ab]?\.\s*/, '')}
-                          </li>
-                        ))}
-                      </ul>
-                    </div>
-                  )}
-
                   <ul className="space-y-1.5">
                     {diagnoza.diagnosticka_kriteria.map((k, i) => (
                       <li key={i} className="flex items-start gap-2 text-sm text-slate-800">
@@ -133,6 +114,25 @@ export default function DiagnozaDetail() {
                       </li>
                     ))}
                   </ul>
+
+                  {/* Obecná kritéria MKN-10 POD specifickými */}
+                  {diagnoza.obecna_kriteria?.length > 0 && (
+                    <div className="mt-3 bg-blue-50 border border-blue-200 rounded-lg p-3">
+                      <p className="text-xs font-semibold text-blue-700 uppercase tracking-wide mb-2">
+                        {diagnoza.obecna_kriteria_nazev || 'Obecná kritéria MKN-10'}
+                      </p>
+                      <ul className="space-y-1.5">
+                        {diagnoza.obecna_kriteria.map((k, i) => (
+                          <li key={i} className="flex items-start gap-2 text-xs text-blue-900">
+                            <span className="w-5 h-5 bg-blue-200 text-blue-800 rounded-full flex items-center justify-center text-xs font-bold shrink-0 mt-0.5">
+                              {k.match(/^G(\d+[ab]?)/)?.[1] || (i + 1)}
+                            </span>
+                            {k.replace(/^G\d+[ab]?\.\s*/, '')}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
                 </section>
               )}
 
@@ -148,25 +148,6 @@ export default function DiagnozaDetail() {
                     )}
                   </h2>
 
-                  {/* Obecná kritéria MKN-11 nad specifickými */}
-                  {diagnoza.obecna_kriteria_mkn11?.length > 0 && (
-                    <div className="mb-3 bg-green-50 border border-green-200 rounded-lg p-3">
-                      <p className="text-xs font-semibold text-green-700 uppercase tracking-wide mb-2">
-                        {diagnoza.obecna_kriteria_nazev_mkn11 || 'Obecná kritéria MKN-11'}
-                      </p>
-                      <ul className="space-y-1.5">
-                        {diagnoza.obecna_kriteria_mkn11.map((k, i) => (
-                          <li key={i} className="flex items-start gap-2 text-xs text-green-900">
-                            <span className="w-5 h-5 bg-green-200 text-green-800 rounded-full flex items-center justify-center text-xs font-bold shrink-0 mt-0.5">
-                              {k.match(/^[A-F]\./)?.[0]?.replace('.', '') || (i + 1)}
-                            </span>
-                            {k.replace(/^[A-F]\.\s*/, '')}
-                          </li>
-                        ))}
-                      </ul>
-                    </div>
-                  )}
-
                   <ul className="space-y-1.5">
                     {diagnoza.kriteria_mkn11.map((k, i) => (
                       <li key={i} className="flex items-start gap-2 text-sm text-slate-800">
@@ -175,6 +156,25 @@ export default function DiagnozaDetail() {
                       </li>
                     ))}
                   </ul>
+
+                  {/* Obecná kritéria MKN-11 POD specifickými */}
+                  {diagnoza.obecna_kriteria_mkn11?.length > 0 && (
+                    <div className="mt-3 bg-green-50 border border-green-200 rounded-lg p-3">
+                      <p className="text-xs font-semibold text-green-700 uppercase tracking-wide mb-2">
+                        {diagnoza.obecna_kriteria_nazev_mkn11 || 'Obecná kritéria MKN-11'}
+                      </p>
+                      <ul className="space-y-1.5">
+                        {diagnoza.obecna_kriteria_mkn11.map((k, i) => (
+                          <li key={i} className="flex items-start gap-2 text-xs text-green-900">
+                            <span className="w-5 h-5 bg-green-200 text-green-800 rounded-full flex items-center justify-center text-xs font-bold shrink-0 mt-0.5">
+                              {k.match(/^[A-F]\./)?.[0]?.replace('.','') || (i + 1)}
+                            </span>
+                            {k.replace(/^[A-F]\.\s*/, '')}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
                 </section>
               )}
 
