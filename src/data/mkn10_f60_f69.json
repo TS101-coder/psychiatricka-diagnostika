@@ -13,11 +13,29 @@
       "Trvání od adolescence nebo dospělosti",
       "Způsobuje výraznou tíseň nebo sociální obtíže"
     ],
-    "priznaky": ["Viz specifické podkategorie"],
+    "priznaky": [
+      "Viz specifické podkategorie"
+    ],
     "prubeh": "Chronický, celoživotní.",
     "onset": "Adolescence nebo mladá dospělost.",
-    "diferencialni_diagnozy": ["F20–F29", "F30–F39", "F07.0"],
-    "mapovani": { "mkn11": "6D10", "dsm5": "301.9" }
+    "diferencialni_diagnozy": [
+      "F20–F29",
+      "F30–F39",
+      "F07.0"
+    ],
+    "mapovani": {
+      "mkn11": "6D10",
+      "dsm5": "301.9"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ]
   },
   {
     "id": "F60.0",
@@ -27,12 +45,39 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Porucha osobnosti s přecitlivělostí, nedůvěřivostí, podezíravostí a tendencí ke vztahovačnosti.",
-    "diagnosticka_kriteria": ["Splněna obecná kritéria F60", "≥ 3: nadměrná přecitlivělost k nezdarům, podezíravost, vztahovačnost, přísná a bojovná domáhání se svých práv, grandiózní sebehodnocení, obtěžující žárlivost"],
-    "priznaky": ["Nedůvěřivost", "Podezíravost", "Vztahovačnost", "Žárlivost", "Rigiditní přesvědčení o nevěrnosti partnera", "Obtěžující bojovnost", "Sklon k zánětu"],
+    "diagnosticka_kriteria": [
+      "Splněna obecná kritéria F60",
+      "≥ 3: nadměrná přecitlivělost k nezdarům, podezíravost, vztahovačnost, přísná a bojovná domáhání se svých práv, grandiózní sebehodnocení, obtěžující žárlivost"
+    ],
+    "priznaky": [
+      "Nedůvěřivost",
+      "Podezíravost",
+      "Vztahovačnost",
+      "Žárlivost",
+      "Rigiditní přesvědčení o nevěrnosti partnera",
+      "Obtěžující bojovnost",
+      "Sklon k zánětu"
+    ],
     "prubeh": "Chronický.",
     "onset": "Adolescence/mladá dospělost.",
-    "diferencialni_diagnozy": ["F22", "F20.0", "F60.5"],
-    "mapovani": { "mkn11": "6D10.0", "dsm5": "301.0" }
+    "diferencialni_diagnozy": [
+      "F22",
+      "F20.0",
+      "F60.5"
+    ],
+    "mapovani": {
+      "mkn11": "6D10.0",
+      "dsm5": "301.0"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ]
   },
   {
     "id": "F60.1",
@@ -42,12 +87,38 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Porucha osobnosti s odtažeností od sociálních vztahů a omezeným rozsahem emocionálního vyjadřování.",
-    "diagnosticka_kriteria": ["Splněna obecná kritéria F60", "≥ 3: výběr osamělých aktivit, omezená emoční vyjádření, nezájem o sex, chladnost a lhostejnost, lhostejnost k pochvalám i kritice, nezájem o sociální vztahy"],
-    "priznaky": ["Sociální odtaženost", "Emoční chladnost", "Osamělé aktivity", "Nezájem o vztahy", "Omezené emocionální vyjadřování", "Zdánlivá neschopnost radosti"],
+    "diagnosticka_kriteria": [
+      "Splněna obecná kritéria F60",
+      "≥ 3: výběr osamělých aktivit, omezená emoční vyjádření, nezájem o sex, chladnost a lhostejnost, lhostejnost k pochvalám i kritice, nezájem o sociální vztahy"
+    ],
+    "priznaky": [
+      "Sociální odtaženost",
+      "Emoční chladnost",
+      "Osamělé aktivity",
+      "Nezájem o vztahy",
+      "Omezené emocionální vyjadřování",
+      "Zdánlivá neschopnost radosti"
+    ],
     "prubeh": "Chronický.",
     "onset": "Adolescence.",
-    "diferencialni_diagnozy": ["F21", "F60.6", "F84.5"],
-    "mapovani": { "mkn11": "6D10.1", "dsm5": "301.20" }
+    "diferencialni_diagnozy": [
+      "F21",
+      "F60.6",
+      "F84.5"
+    ],
+    "mapovani": {
+      "mkn11": "6D10.1",
+      "dsm5": "301.20"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ]
   },
   {
     "id": "F60.2",
@@ -57,12 +128,39 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Porucha osobnosti s hrubým nesouladem mezi chováním a platnými společenskými normami. Synonyma: antisociální, psychopatická, sociopatická porucha.",
-    "diagnosticka_kriteria": ["Splněna obecná kritéria F60", "≥ 3: bezcitné ignorování pocitů druhých, trvalý postoj nezodpovědnosti a pohrdání pravidly, neschopnost udržovat trvalé vztahy, nízká tolerance frustraci, neschopnost prožívat vinu, sklon obvinění druhých"],
-    "priznaky": ["Lhostejnost k druhým", "Trvalá nezodpovědnost", "Lhaní a klam", "Agresivita", "Kriminální chování", "Neschopnost přijímat odpovědnost", "Chladnost"],
+    "diagnosticka_kriteria": [
+      "Splněna obecná kritéria F60",
+      "≥ 3: bezcitné ignorování pocitů druhých, trvalý postoj nezodpovědnosti a pohrdání pravidly, neschopnost udržovat trvalé vztahy, nízká tolerance frustraci, neschopnost prožívat vinu, sklon obvinění druhých"
+    ],
+    "priznaky": [
+      "Lhostejnost k druhým",
+      "Trvalá nezodpovědnost",
+      "Lhaní a klam",
+      "Agresivita",
+      "Kriminální chování",
+      "Neschopnost přijímat odpovědnost",
+      "Chladnost"
+    ],
     "prubeh": "Chronický. Někdy mírní se věkem.",
     "onset": "Příznaky před 15. rokem (conduct disorder), plná diagnóza po 18. roce.",
-    "diferencialni_diagnozy": ["F60.3", "F60.0", "F91"],
-    "mapovani": { "mkn11": "6D10.2", "dsm5": "301.7" }
+    "diferencialni_diagnozy": [
+      "F60.3",
+      "F60.0",
+      "F91"
+    ],
+    "mapovani": {
+      "mkn11": "6D10.2",
+      "dsm5": "301.7"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ]
   },
   {
     "id": "F60.3",
@@ -72,12 +170,37 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Porucha osobnosti s výraznou tendencí jednat impulzivně bez předvídání následků, s nestabilní náladou.",
-    "diagnosticka_kriteria": ["Splněna obecná kritéria F60", "Výrazná impulzivita", "Nestabilita nálady"],
-    "priznaky": ["Impulzivita", "Emoční nestabilita", "Výbuchy", "Konflikty s druhými"],
+    "diagnosticka_kriteria": [
+      "Splněna obecná kritéria F60",
+      "Výrazná impulzivita",
+      "Nestabilita nálady"
+    ],
+    "priznaky": [
+      "Impulzivita",
+      "Emoční nestabilita",
+      "Výbuchy",
+      "Konflikty s druhými"
+    ],
     "prubeh": "Chronický.",
     "onset": "Adolescence.",
-    "diferencialni_diagnozy": ["F31", "F60.4", "F60.2"],
-    "mapovani": { "mkn11": "6D10.5", "dsm5": "301.83" }
+    "diferencialni_diagnozy": [
+      "F31",
+      "F60.4",
+      "F60.2"
+    ],
+    "mapovani": {
+      "mkn11": "6D10.5",
+      "dsm5": "301.83"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ]
   },
   {
     "id": "F60.30",
@@ -87,12 +210,36 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Emočně nestabilní porucha osobnosti s dominantní impulzivitou a výbuchy násilí.",
-    "diagnosticka_kriteria": ["Splněna kritéria F60.3", "≥ 3 z obecných kritérií F60.3", "Dominantní impulzivita a výbuchy hněvu"],
-    "priznaky": ["Výbuchy hněvu", "Neschopnost sebekontroly", "Impulzivní činy bez plánování", "Výhružky nebo násilí"],
+    "diagnosticka_kriteria": [
+      "Splněna kritéria F60.3",
+      "≥ 3 z obecných kritérií F60.3",
+      "Dominantní impulzivita a výbuchy hněvu"
+    ],
+    "priznaky": [
+      "Výbuchy hněvu",
+      "Neschopnost sebekontroly",
+      "Impulzivní činy bez plánování",
+      "Výhružky nebo násilí"
+    ],
     "prubeh": "Chronický.",
     "onset": "Adolescence.",
-    "diferencialni_diagnozy": ["F60.31", "F60.2"],
-    "mapovani": { "mkn11": "6D10.5", "dsm5": "301.83" }
+    "diferencialni_diagnozy": [
+      "F60.31",
+      "F60.2"
+    ],
+    "mapovani": {
+      "mkn11": "6D10.5",
+      "dsm5": "301.83"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ]
   },
   {
     "id": "F60.31",
@@ -102,12 +249,42 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Hraniční porucha osobnosti – nejčastěji diagnostikovaná porucha osobnosti na psychiatrii.",
-    "diagnosticka_kriteria": ["Splněna kritéria F60.3", "Navíc ≥ 3 z: narušení sebeobrazuje, chronické pocity prázdnoty, intenzivní nestabilní vztahy, sebepoškozování nebo sebevražedné chování, strach z opuštění, disociativní epizody"],
-    "priznaky": ["Nestabilní sebeobraz", "Chronické pocity prázdnoty", "Intenzivní vztahy (idealizace/devalvace)", "Sebevražedné nebo sebepoškozující chování", "Impulzivita (sex, drogy, jídlo)", "Intenzivní emoce", "Strach z opuštění", "Disociace", "Krátkodobé psychotické epizody"],
+    "diagnosticka_kriteria": [
+      "Splněna kritéria F60.3",
+      "Navíc ≥ 3 z: narušení sebeobrazuje, chronické pocity prázdnoty, intenzivní nestabilní vztahy, sebepoškozování nebo sebevražedné chování, strach z opuštění, disociativní epizody"
+    ],
+    "priznaky": [
+      "Nestabilní sebeobraz",
+      "Chronické pocity prázdnoty",
+      "Intenzivní vztahy (idealizace/devalvace)",
+      "Sebevražedné nebo sebepoškozující chování",
+      "Impulzivita (sex, drogy, jídlo)",
+      "Intenzivní emoce",
+      "Strach z opuštění",
+      "Disociace",
+      "Krátkodobé psychotické epizody"
+    ],
     "prubeh": "Chronický. Zlepšuje se ve čtvrtém deceniu a dále. DBT je léčbou volby.",
     "onset": "Adolescence.",
-    "diferencialni_diagnozy": ["F31", "F60.30", "F43.1", "F20"],
-    "mapovani": { "mkn11": "6D10.5", "dsm5": "301.83" }
+    "diferencialni_diagnozy": [
+      "F31",
+      "F60.30",
+      "F43.1",
+      "F20"
+    ],
+    "mapovani": {
+      "mkn11": "6D10.5",
+      "dsm5": "301.83"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ]
   },
   {
     "id": "F60.4",
@@ -117,12 +294,38 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Porucha osobnosti s výraznou emocionalitou, dramatičností a stálou snahou získat pozornost.",
-    "diagnosticka_kriteria": ["Splněna obecná kritéria F60", "≥ 3: teatrálnost, sugestibilita, povrchní a labilní afektivita, egocentrismus, sebeindulgence, manipulativní chování, sexuální provokativnost"],
-    "priznaky": ["Dramatičnost", "Teatrálnost", "Vyžadování pozornosti", "Labilní emoce", "Sugestibilita", "Snadná ovlivnitelnost", "Sexuální provokativnost"],
+    "diagnosticka_kriteria": [
+      "Splněna obecná kritéria F60",
+      "≥ 3: teatrálnost, sugestibilita, povrchní a labilní afektivita, egocentrismus, sebeindulgence, manipulativní chování, sexuální provokativnost"
+    ],
+    "priznaky": [
+      "Dramatičnost",
+      "Teatrálnost",
+      "Vyžadování pozornosti",
+      "Labilní emoce",
+      "Sugestibilita",
+      "Snadná ovlivnitelnost",
+      "Sexuální provokativnost"
+    ],
     "prubeh": "Chronický.",
     "onset": "Adolescence/mladá dospělost.",
-    "diferencialni_diagnozy": ["F60.31", "F60.8"],
-    "mapovani": { "mkn11": "6D10.3", "dsm5": "301.50" }
+    "diferencialni_diagnozy": [
+      "F60.31",
+      "F60.8"
+    ],
+    "mapovani": {
+      "mkn11": "6D10.3",
+      "dsm5": "301.50"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ]
   },
   {
     "id": "F60.5",
@@ -132,12 +335,37 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Porucha osobnosti s nadměrnou pečlivostí, perfekcionismem a rigiditou.",
-    "diagnosticka_kriteria": ["Splněna obecná kritéria F60", "≥ 3: přílišná pochybovačnost a opatrnost, přílišná zaneprázdněnost s detaily, perfekcionismus bránící dokončení úkolů, svědomitost, rigidita, intruzivní myšlenky"],
-    "priznaky": ["Perfekcionismus", "Rigidita", "Nadměrná svědomitost", "Podrážděnost při narušení pravidel", "Neschopnost delegovat", "Skrblictví"],
+    "diagnosticka_kriteria": [
+      "Splněna obecná kritéria F60",
+      "≥ 3: přílišná pochybovačnost a opatrnost, přílišná zaneprázdněnost s detaily, perfekcionismus bránící dokončení úkolů, svědomitost, rigidita, intruzivní myšlenky"
+    ],
+    "priznaky": [
+      "Perfekcionismus",
+      "Rigidita",
+      "Nadměrná svědomitost",
+      "Podrážděnost při narušení pravidel",
+      "Neschopnost delegovat",
+      "Skrblictví"
+    ],
     "prubeh": "Chronický.",
     "onset": "Mladá dospělost.",
-    "diferencialni_diagnozy": ["F42", "F60.0"],
-    "mapovani": { "mkn11": "6D10.4", "dsm5": "301.4" }
+    "diferencialni_diagnozy": [
+      "F42",
+      "F60.0"
+    ],
+    "mapovani": {
+      "mkn11": "6D10.4",
+      "dsm5": "301.4"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ]
   },
   {
     "id": "F60.6",
@@ -147,12 +375,37 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Porucha osobnosti s trvalými pocity napjetí a obavami, nedůvěrou v sebe a potřebou být oblíben.",
-    "diagnosticka_kriteria": ["Splněna obecná kritéria F60", "≥ 3: trvalé pocity napjetí, přesvědčení o sociální neobratnosti, přecitlivělost na odmítnutí, vyhýbání se sociálním aktivitám, omezené životní aktivity ze strachu"],
-    "priznaky": ["Chronická anxieta", "Nízké sebevědomí", "Přecitlivělost na odmítnutí", "Vyhýbání se sociálním situacím", "Touha po vztazích, ale strach z odmítnutí"],
+    "diagnosticka_kriteria": [
+      "Splněna obecná kritéria F60",
+      "≥ 3: trvalé pocity napjetí, přesvědčení o sociální neobratnosti, přecitlivělost na odmítnutí, vyhýbání se sociálním aktivitám, omezené životní aktivity ze strachu"
+    ],
+    "priznaky": [
+      "Chronická anxieta",
+      "Nízké sebevědomí",
+      "Přecitlivělost na odmítnutí",
+      "Vyhýbání se sociálním situacím",
+      "Touha po vztazích, ale strach z odmítnutí"
+    ],
     "prubeh": "Chronický.",
     "onset": "Adolescence.",
-    "diferencialni_diagnozy": ["F40.1", "F60.1", "F34.1"],
-    "mapovani": { "mkn11": "6D10.6", "dsm5": "301.82" }
+    "diferencialni_diagnozy": [
+      "F40.1",
+      "F60.1",
+      "F34.1"
+    ],
+    "mapovani": {
+      "mkn11": "6D10.6",
+      "dsm5": "301.82"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ]
   },
   {
     "id": "F60.7",
@@ -162,12 +415,38 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Porucha osobnosti s nadměrnou potřebou být pečováno o sebe, pasivitou a submisivitou.",
-    "diagnosticka_kriteria": ["Splněna obecná kritéria F60", "≥ 3: podřizování svých potřeb druhým, neschopnost rozhodovat bez ujišťování, přenášení odpovědnosti na druhé, strach být opuštěn, pocity bezmoci"],
-    "priznaky": ["Submisivita", "Pasivita", "Neschopnost rozhodovat", "Strach z opuštění", "Nadměrné spoléhání na druhé", "Tolerance špatného zacházení"],
+    "diagnosticka_kriteria": [
+      "Splněna obecná kritéria F60",
+      "≥ 3: podřizování svých potřeb druhým, neschopnost rozhodovat bez ujišťování, přenášení odpovědnosti na druhé, strach být opuštěn, pocity bezmoci"
+    ],
+    "priznaky": [
+      "Submisivita",
+      "Pasivita",
+      "Neschopnost rozhodovat",
+      "Strach z opuštění",
+      "Nadměrné spoléhání na druhé",
+      "Tolerance špatného zacházení"
+    ],
     "prubeh": "Chronický.",
     "onset": "Mladá dospělost.",
-    "diferencialni_diagnozy": ["F60.31", "F60.6", "F41.1"],
-    "mapovani": { "mkn11": "6D10.7", "dsm5": "301.6" }
+    "diferencialni_diagnozy": [
+      "F60.31",
+      "F60.6",
+      "F41.1"
+    ],
+    "mapovani": {
+      "mkn11": "6D10.7",
+      "dsm5": "301.6"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ]
   },
   {
     "id": "F60.8",
@@ -177,12 +456,32 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Specifické poruchy osobnosti nezařazené jinde – narcistická, pasivně-agresivní, depresivní aj.",
-    "diagnosticka_kriteria": ["Splněna obecná kritéria F60", "Klinický obraz odpovídá specifické poruše nezařazené jinde"],
-    "priznaky": ["Narcistická: grandiozita, nedostatek empatie, potřeba obdivování", "Pasivně-agresivní: negativistický odpor k požadavkům"],
+    "diagnosticka_kriteria": [
+      "Splněna obecná kritéria F60",
+      "Klinický obraz odpovídá specifické poruše nezařazené jinde"
+    ],
+    "priznaky": [
+      "Narcistická: grandiozita, nedostatek empatie, potřeba obdivování",
+      "Pasivně-agresivní: negativistický odpor k požadavkům"
+    ],
     "prubeh": "Chronický.",
     "onset": "Adolescence/mladá dospělost.",
-    "diferencialni_diagnozy": ["F60.0–F60.7"],
-    "mapovani": { "mkn11": "6D10.8", "dsm5": "301.81" }
+    "diferencialni_diagnozy": [
+      "F60.0–F60.7"
+    ],
+    "mapovani": {
+      "mkn11": "6D10.8",
+      "dsm5": "301.81"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ]
   },
   {
     "id": "F60.9",
@@ -192,12 +491,31 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Porucha osobnosti bez dostatku informací pro specifičtější diagnózu nebo smíšená.",
-    "diagnosticka_kriteria": ["Splněna obecná kritéria F60", "Nedostatečné informace nebo smíšené rysy"],
-    "priznaky": ["Smíšené rysy poruch osobnosti"],
+    "diagnosticka_kriteria": [
+      "Splněna obecná kritéria F60",
+      "Nedostatečné informace nebo smíšené rysy"
+    ],
+    "priznaky": [
+      "Smíšené rysy poruch osobnosti"
+    ],
     "prubeh": "Chronický.",
     "onset": "Adolescence.",
-    "diferencialni_diagnozy": ["F60.0–F60.8"],
-    "mapovani": { "mkn11": "6D10.Z", "dsm5": "301.9" }
+    "diferencialni_diagnozy": [
+      "F60.0–F60.8"
+    ],
+    "mapovani": {
+      "mkn11": "6D10.Z",
+      "dsm5": "301.9"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ]
   },
   {
     "id": "F61",
@@ -207,12 +525,21 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Smíšené poruchy osobnosti nebo poruchy osobnosti způsobující tíseň, ale nesplňující kritéria žádné specifické kategorie.",
-    "diagnosticka_kriteria": ["Porucha osobnosti nesplňující kritéria žádné specifické diagnózy"],
-    "priznaky": ["Smíšené rysy"],
+    "diagnosticka_kriteria": [
+      "Porucha osobnosti nesplňující kritéria žádné specifické diagnózy"
+    ],
+    "priznaky": [
+      "Smíšené rysy"
+    ],
     "prubeh": "Chronický.",
     "onset": "Adolescence/mladá dospělost.",
-    "diferencialni_diagnozy": ["F60"],
-    "mapovani": { "mkn11": "6D11", "dsm5": "301.9" }
+    "diferencialni_diagnozy": [
+      "F60"
+    ],
+    "mapovani": {
+      "mkn11": "6D11",
+      "dsm5": "301.9"
+    }
   },
   {
     "id": "F62",
@@ -222,12 +549,27 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Změny osobnosti",
     "popis": "Trvalé změny osobnosti, které lze vysledovat jako následek extrémního nebo vleklého stresu, nebo jako následek závažné psychiatrické choroby.",
-    "diagnosticka_kriteria": ["Trvalá změna oproti premorbidní osobnosti", "Zachytitelná příčina (trauma, duševní nemoc)"],
-    "priznaky": ["Nepřátelský nebo nedůvěřivý postoj k světu", "Sociální stažení", "Pocity prázdnoty nebo beznaděje", "Chronické pocity být na pokraji nervového zhroucení"],
+    "diagnosticka_kriteria": [
+      "Trvalá změna oproti premorbidní osobnosti",
+      "Zachytitelná příčina (trauma, duševní nemoc)"
+    ],
+    "priznaky": [
+      "Nepřátelský nebo nedůvěřivý postoj k světu",
+      "Sociální stažení",
+      "Pocity prázdnoty nebo beznaděje",
+      "Chronické pocity být na pokraji nervového zhroucení"
+    ],
     "prubeh": "Chronický.",
     "onset": "Po traumatické zkušenosti nebo závažné duševní nemoci.",
-    "diferencialni_diagnozy": ["F60", "F43.1", "F07.0"],
-    "mapovani": { "mkn11": "6D12", "dsm5": "310.1" }
+    "diferencialni_diagnozy": [
+      "F60",
+      "F43.1",
+      "F07.0"
+    ],
+    "mapovani": {
+      "mkn11": "6D12",
+      "dsm5": "310.1"
+    }
   },
   {
     "id": "F62.0",
@@ -237,12 +579,26 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Změny osobnosti",
     "popis": "Trvalá změna osobnosti po extrémním traumatu (koncentrační tábor, mučení, katastrofy).",
-    "diagnosticka_kriteria": ["Extrémní trauma", "Trvalá změna osobnosti trvající ≥ 2 roky po traumatu"],
-    "priznaky": ["Hostilita nebo nedůvěra", "Sociální stažení", "Prázdnota nebo beznaděj", "Chronický pocit ohroženosti"],
+    "diagnosticka_kriteria": [
+      "Extrémní trauma",
+      "Trvalá změna osobnosti trvající ≥ 2 roky po traumatu"
+    ],
+    "priznaky": [
+      "Hostilita nebo nedůvěra",
+      "Sociální stažení",
+      "Prázdnota nebo beznaděj",
+      "Chronický pocit ohroženosti"
+    ],
     "prubeh": "Chronický.",
     "onset": "Po extrémním traumatu.",
-    "diferencialni_diagnozy": ["F43.1", "F60"],
-    "mapovani": { "mkn11": "6D12.0", "dsm5": "310.1" }
+    "diferencialni_diagnozy": [
+      "F43.1",
+      "F60"
+    ],
+    "mapovani": {
+      "mkn11": "6D12.0",
+      "dsm5": "310.1"
+    }
   },
   {
     "id": "F63",
@@ -252,12 +608,24 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Impulzivní poruchy",
     "popis": "Poruchy charakterizované opakovanými činy bez jasné racionální motivace, které pacient nemůže kontrolovat.",
-    "diagnosticka_kriteria": ["Opakované impulzivní chování", "Neschopnost odolat impulzu", "Napjetí před činem a úleva po činu"],
-    "priznaky": ["Dle specifické podkategorie"],
+    "diagnosticka_kriteria": [
+      "Opakované impulzivní chování",
+      "Neschopnost odolat impulzu",
+      "Napjetí před činem a úleva po činu"
+    ],
+    "priznaky": [
+      "Dle specifické podkategorie"
+    ],
     "prubeh": "Chronický.",
     "onset": "Variabilní.",
-    "diferencialni_diagnozy": ["F60.3", "F31"],
-    "mapovani": { "mkn11": "6C70", "dsm5": "312.30" }
+    "diferencialni_diagnozy": [
+      "F60.3",
+      "F31"
+    ],
+    "mapovani": {
+      "mkn11": "6C70",
+      "dsm5": "312.30"
+    }
   },
   {
     "id": "F63.0",
@@ -267,12 +635,29 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Impulzivní poruchy",
     "popis": "Trvalé a opakující se nevhodné hráčské chování, narušující osobní, rodinný nebo profesní život.",
-    "diagnosticka_kriteria": ["Opakované epizody hazardního hráčství", "Přetrvávání i přes negativní sociální a ekonomické důsledky", "Neschopnost odolat impulzu k hraní"],
-    "priznaky": ["Preokupace hazardem", "Potřeba stále vyšších vkladů", "Neklid při omezení", "Lhaní okolí", "Finanční ruiny", "Kriminální chování"],
+    "diagnosticka_kriteria": [
+      "Opakované epizody hazardního hráčství",
+      "Přetrvávání i přes negativní sociální a ekonomické důsledky",
+      "Neschopnost odolat impulzu k hraní"
+    ],
+    "priznaky": [
+      "Preokupace hazardem",
+      "Potřeba stále vyšších vkladů",
+      "Neklid při omezení",
+      "Lhaní okolí",
+      "Finanční ruiny",
+      "Kriminální chování"
+    ],
     "prubeh": "Chronický, progresivní.",
     "onset": "Adolescence/mladá dospělost. Muži dříve.",
-    "diferencialni_diagnozy": ["F10.2", "F31"],
-    "mapovani": { "mkn11": "6C50", "dsm5": "312.31" }
+    "diferencialni_diagnozy": [
+      "F10.2",
+      "F31"
+    ],
+    "mapovani": {
+      "mkn11": "6C50",
+      "dsm5": "312.31"
+    }
   },
   {
     "id": "F63.1",
@@ -282,12 +667,26 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Impulzivní poruchy",
     "popis": "Opakované zakládání požárů bez zjevné motivace a fascinace ohněm.",
-    "diagnosticka_kriteria": ["Opakované zakládání požárů", "Napjetí před činem a úleva/uspokojení po", "Bez jiné motivace (zisk, pomsta)"],
-    "priznaky": ["Fascinace ohněm", "Napjetí před činem", "Euforie nebo úleva při zakládání nebo pozorování požáru"],
+    "diagnosticka_kriteria": [
+      "Opakované zakládání požárů",
+      "Napjetí před činem a úleva/uspokojení po",
+      "Bez jiné motivace (zisk, pomsta)"
+    ],
+    "priznaky": [
+      "Fascinace ohněm",
+      "Napjetí před činem",
+      "Euforie nebo úleva při zakládání nebo pozorování požáru"
+    ],
     "prubeh": "Vzácný. Chronický.",
     "onset": "Dospívání.",
-    "diferencialni_diagnozy": ["F60.2", "F91"],
-    "mapovani": { "mkn11": "6C70.1", "dsm5": "312.33" }
+    "diferencialni_diagnozy": [
+      "F60.2",
+      "F91"
+    ],
+    "mapovani": {
+      "mkn11": "6C70.1",
+      "dsm5": "312.33"
+    }
   },
   {
     "id": "F63.2",
@@ -297,12 +696,28 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Impulzivní poruchy",
     "popis": "Opakované krádeže bez motivace zisku, s napjetím před krádeží a úlevou po ní.",
-    "diagnosticka_kriteria": ["Opakované krádeže", "Napjetí před krádeží a úleva po", "Kradené věci bez hodnoty nebo jsou vráceny"],
-    "priznaky": ["Neodolatelný impulz krást", "Napjetí před krádeží", "Úleva při krádeži", "Pocit viny a stud po"],
+    "diagnosticka_kriteria": [
+      "Opakované krádeže",
+      "Napjetí před krádeží a úleva po",
+      "Kradené věci bez hodnoty nebo jsou vráceny"
+    ],
+    "priznaky": [
+      "Neodolatelný impulz krást",
+      "Napjetí před krádeží",
+      "Úleva při krádeži",
+      "Pocit viny a stud po"
+    ],
     "prubeh": "Chronický.",
     "onset": "Adolescence nebo dospělost.",
-    "diferencialni_diagnozy": ["F60.2", "F31", "F33"],
-    "mapovani": { "mkn11": "6C70.2", "dsm5": "312.32" }
+    "diferencialni_diagnozy": [
+      "F60.2",
+      "F31",
+      "F33"
+    ],
+    "mapovani": {
+      "mkn11": "6C70.2",
+      "dsm5": "312.32"
+    }
   },
   {
     "id": "F64",
@@ -312,12 +727,21 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Pohlavní identity",
     "popis": "Poruchy pohlavní identity. Pozn.: V MKN-11 byla transsexualita přesunuta do kapitoly o sexuálním zdraví jako non-patologický stav.",
-    "diagnosticka_kriteria": ["Viz specifické podkategorie"],
-    "priznaky": ["Dle specifické podkategorie"],
+    "diagnosticka_kriteria": [
+      "Viz specifické podkategorie"
+    ],
+    "priznaky": [
+      "Dle specifické podkategorie"
+    ],
     "prubeh": "Variabilní.",
     "onset": "Variabilní.",
-    "diferencialni_diagnozy": ["F65"],
-    "mapovani": { "mkn11": "HA60", "dsm5": "302.85" }
+    "diferencialni_diagnozy": [
+      "F65"
+    ],
+    "mapovani": {
+      "mkn11": "HA60",
+      "dsm5": "302.85"
+    }
   },
   {
     "id": "F64.0",
@@ -327,12 +751,26 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Pohlavní identity",
     "popis": "Touha žít a být přijímán jako příslušník opačného pohlaví, obvykle s přáním chirurgické nebo hormonální intervence. Pozn.: V MKN-11 překlasifikováno jako Pohlavní nesoulad (HA60) – není psychiatrická diagnóza.",
-    "diagnosticka_kriteria": ["Přání žít jako příslušník opačného pohlaví ≥ 2 roky", "Touha po chirurgické a hormonální změně pohlaví", "Není příznakem jiné duševní poruchy"],
-    "priznaky": ["Identifikace s opačným pohlavím", "Tíseň z vlastního pohlaví", "Přání hormonálně/chirurgicky změnit pohlaví"],
+    "diagnosticka_kriteria": [
+      "Přání žít jako příslušník opačného pohlaví ≥ 2 roky",
+      "Touha po chirurgické a hormonální změně pohlaví",
+      "Není příznakem jiné duševní poruchy"
+    ],
+    "priznaky": [
+      "Identifikace s opačným pohlavím",
+      "Tíseň z vlastního pohlaví",
+      "Přání hormonálně/chirurgicky změnit pohlaví"
+    ],
     "prubeh": "Celoživotní.",
     "onset": "Dětství nebo adolescence (identifikace), adulthood (léčba).",
-    "diferencialni_diagnozy": ["F64.1", "F65.1"],
-    "mapovani": { "mkn11": "HA60", "dsm5": "302.85" }
+    "diferencialni_diagnozy": [
+      "F64.1",
+      "F65.1"
+    ],
+    "mapovani": {
+      "mkn11": "HA60",
+      "dsm5": "302.85"
+    }
   },
   {
     "id": "F65",
@@ -342,12 +780,23 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Sexuální preference",
     "popis": "Sexuální vzrušení vyvoláváno neobvyklými objekty, situacemi nebo jedinci.",
-    "diagnosticka_kriteria": ["Opakující se intenzivní sexuální fantazie nebo touhy vztahující se k neobvyklým objektům nebo situacím", "Způsobují klinicky závažnou tíseň nebo narušení fungování nebo způsobují újmu druhým"],
-    "priznaky": ["Dle specifické podkategorie"],
+    "diagnosticka_kriteria": [
+      "Opakující se intenzivní sexuální fantazie nebo touhy vztahující se k neobvyklým objektům nebo situacím",
+      "Způsobují klinicky závažnou tíseň nebo narušení fungování nebo způsobují újmu druhým"
+    ],
+    "priznaky": [
+      "Dle specifické podkategorie"
+    ],
     "prubeh": "Chronický.",
     "onset": "Adolescence.",
-    "diferencialni_diagnozy": ["F64", "Parafilní poruchy vs. parafilní zájmy bez tíseně"],
-    "mapovani": { "mkn11": "6D30", "dsm5": "302.89" }
+    "diferencialni_diagnozy": [
+      "F64",
+      "Parafilní poruchy vs. parafilní zájmy bez tíseně"
+    ],
+    "mapovani": {
+      "mkn11": "6D30",
+      "dsm5": "302.89"
+    }
   },
   {
     "id": "F65.0",
@@ -357,12 +806,24 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Sexuální preference",
     "popis": "Užívání neživých předmětů jako stimulu k sexuálnímu vzrušení nebo uspokojení.",
-    "diagnosticka_kriteria": ["Sexuální vzrušení z neživých objektů", "Vzrušení nepostačuje k uspokojení bez předmětů nebo fantazií"],
-    "priznaky": ["Sexuální zájem o neživé předměty (boty, prádlo)", "Závislost na předmětu pro dosažení orgasmu"],
+    "diagnosticka_kriteria": [
+      "Sexuální vzrušení z neživých objektů",
+      "Vzrušení nepostačuje k uspokojení bez předmětů nebo fantazií"
+    ],
+    "priznaky": [
+      "Sexuální zájem o neživé předměty (boty, prádlo)",
+      "Závislost na předmětu pro dosažení orgasmu"
+    ],
     "prubeh": "Chronický.",
     "onset": "Adolescence.",
-    "diferencialni_diagnozy": ["F65.3", "F65.8"],
-    "mapovani": { "mkn11": "6D30.0", "dsm5": "302.81" }
+    "diferencialni_diagnozy": [
+      "F65.3",
+      "F65.8"
+    ],
+    "mapovani": {
+      "mkn11": "6D30.0",
+      "dsm5": "302.81"
+    }
   },
   {
     "id": "F65.4",
@@ -372,12 +833,25 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Sexuální preference",
     "popis": "Sexuální preference k dětem, obvykle předpubertálním nebo raně pubertálním.",
-    "diagnosticka_kriteria": ["Sexuální touha k dětem (prepubertální nebo raně pubertální)", "Jedinci je ≥ 16 let a o ≥ 5 let starší než oběť"],
-    "priznaky": ["Sexuální vzrušení dětmi", "Může být nebo nemusí jednat dle fantazií", "Různé typy: exkluzivní, neexkluzivní"],
+    "diagnosticka_kriteria": [
+      "Sexuální touha k dětem (prepubertální nebo raně pubertální)",
+      "Jedinci je ≥ 16 let a o ≥ 5 let starší než oběť"
+    ],
+    "priznaky": [
+      "Sexuální vzrušení dětmi",
+      "Může být nebo nemusí jednat dle fantazií",
+      "Různé typy: exkluzivní, neexkluzivní"
+    ],
     "prubeh": "Chronický.",
     "onset": "Adolescence.",
-    "diferencialni_diagnozy": ["F65.8", "F60.2"],
-    "mapovani": { "mkn11": "6D32", "dsm5": "302.2" }
+    "diferencialni_diagnozy": [
+      "F65.8",
+      "F60.2"
+    ],
+    "mapovani": {
+      "mkn11": "6D32",
+      "dsm5": "302.2"
+    }
   },
   {
     "id": "F66",
@@ -387,12 +861,24 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Sexuální orientace",
     "popis": "Poruchy způsobené egodystonní sexuální orientací nebo problémy se sexuálním vztahem.",
-    "diagnosticka_kriteria": ["Tíseň způsobená sexuální orientací nebo vývojem"],
-    "priznaky": ["Tíseň z vlastní sexuální orientace", "Konflikty ohledně identity"],
+    "diagnosticka_kriteria": [
+      "Tíseň způsobená sexuální orientací nebo vývojem"
+    ],
+    "priznaky": [
+      "Tíseň z vlastní sexuální orientace",
+      "Konflikty ohledně identity"
+    ],
     "prubeh": "Variabilní.",
     "onset": "Adolescence/mladá dospělost.",
-    "diferencialni_diagnozy": ["F64", "F41.1", "F32"],
-    "mapovani": { "mkn11": "HA60", "dsm5": "302.9" }
+    "diferencialni_diagnozy": [
+      "F64",
+      "F41.1",
+      "F32"
+    ],
+    "mapovani": {
+      "mkn11": "HA60",
+      "dsm5": "302.9"
+    }
   },
   {
     "id": "F68",
@@ -402,12 +888,22 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Jiné poruchy osobnosti",
     "popis": "Poruchy osobnosti a chování, nezařazené jinde.",
-    "diagnosticka_kriteria": ["Porucha osobnosti nebo chování", "Nesplněna kritéria výše"],
-    "priznaky": ["Dle specifické podkategorie"],
+    "diagnosticka_kriteria": [
+      "Porucha osobnosti nebo chování",
+      "Nesplněna kritéria výše"
+    ],
+    "priznaky": [
+      "Dle specifické podkategorie"
+    ],
     "prubeh": "Chronický.",
     "onset": "Variabilní.",
-    "diferencialni_diagnozy": ["F60–F66"],
-    "mapovani": { "mkn11": "6D1Y", "dsm5": "301.9" }
+    "diferencialni_diagnozy": [
+      "F60–F66"
+    ],
+    "mapovani": {
+      "mkn11": "6D1Y",
+      "dsm5": "301.9"
+    }
   },
   {
     "id": "F68.1",
@@ -417,12 +913,29 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Jiné poruchy osobnosti",
     "popis": "Opakované předstírání tělesných nebo duševních příznaků nebo sebepoškozování za účelem přijetí péče.",
-    "diagnosticka_kriteria": ["Úmyslné předstírání nebo vyvolávání příznaků", "Vnější motivace není patrná (na rozdíl od simulace)", "Pacient vyhledává lékařskou péči"],
-    "priznaky": ["Dramatická anamnéza", "Četné operace a hospitalizace", "Simulace nebo vyvolávání symptomů", "Cestování za léčbou", "Pseudologia fantastica"],
+    "diagnosticka_kriteria": [
+      "Úmyslné předstírání nebo vyvolávání příznaků",
+      "Vnější motivace není patrná (na rozdíl od simulace)",
+      "Pacient vyhledává lékařskou péči"
+    ],
+    "priznaky": [
+      "Dramatická anamnéza",
+      "Četné operace a hospitalizace",
+      "Simulace nebo vyvolávání symptomů",
+      "Cestování za léčbou",
+      "Pseudologia fantastica"
+    ],
     "prubeh": "Chronický. Factitious disorder imposed on another (Münchausen by proxy).",
     "onset": "Dospělost.",
-    "diferencialni_diagnozy": ["F45.0", "F60.2", "Malingering"],
-    "mapovani": { "mkn11": "6D50", "dsm5": "300.19" }
+    "diferencialni_diagnozy": [
+      "F45.0",
+      "F60.2",
+      "Malingering"
+    ],
+    "mapovani": {
+      "mkn11": "6D50",
+      "dsm5": "300.19"
+    }
   },
   {
     "id": "F69",
@@ -432,11 +945,21 @@
     "kategorie": "F60–F69 Poruchy osobnosti",
     "podkategorie": "Jiné poruchy osobnosti",
     "popis": "Porucha osobnosti bez dostatku informací pro specifičtější diagnózu.",
-    "diagnosticka_kriteria": ["Porucha osobnosti", "Nedostatečné informace pro specifičtější diagnózu"],
-    "priznaky": ["Porucha osobnosti neurčeného typu"],
+    "diagnosticka_kriteria": [
+      "Porucha osobnosti",
+      "Nedostatečné informace pro specifičtější diagnózu"
+    ],
+    "priznaky": [
+      "Porucha osobnosti neurčeného typu"
+    ],
     "prubeh": "Chronický.",
     "onset": "Variabilní.",
-    "diferencialni_diagnozy": ["F60–F68"],
-    "mapovani": { "mkn11": "6D1Z", "dsm5": "301.9" }
+    "diferencialni_diagnozy": [
+      "F60–F68"
+    ],
+    "mapovani": {
+      "mkn11": "6D1Z",
+      "dsm5": "301.9"
+    }
   }
 ]
