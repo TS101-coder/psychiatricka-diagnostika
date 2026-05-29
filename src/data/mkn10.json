@@ -4,7 +4,7 @@
     "kod": "F00",
     "nazev_cz": "Demence u Alzheimerovy nemoci",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Demence",
     "popis": "Primární degenerativní onemocnění mozku nejasné etiologie s charakteristickými neuropatologickými a neurochemickými rysy. Choroba začíná zpravidla plíživě a pomalu progreduje.",
     "diagnosticka_kriteria": [
@@ -45,9 +45,9 @@
   {
     "id": "F00.0",
     "kod": "F00.0",
-    "nazev_cz": "Demence u Alzheimerovy nemoci s časným začátkem",
+    "nazev_cz": "Demence u Alzheimerovy nemoci s časným nástupem",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Demence",
     "popis": "Demence u Alzheimerovy nemoci začínající před 65. rokem věku (Typ 2 dle dřívějšího označení). Relativně rychlá progrese s výraznými příznaky parietálního a frontálního poškození.",
     "diagnosticka_kriteria": [
@@ -85,9 +85,9 @@
   {
     "id": "F00.1",
     "kod": "F00.1",
-    "nazev_cz": "Demence u Alzheimerovy nemoci s pozdním začátkem",
+    "nazev_cz": "Demence u Alzheimerovy nemoci s pozdním nástupem",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Demence",
     "popis": "Demence u Alzheimerovy nemoci začínající po 65. roce věku. Pomalejší progrese, dominují poruchy paměti.",
     "diagnosticka_kriteria": [
@@ -123,9 +123,9 @@
   {
     "id": "F00.2",
     "kod": "F00.2",
-    "nazev_cz": "Demence u Alzheimerovy nemoci atypická nebo smíšená",
+    "nazev_cz": "Demence u Alzheimerovy nemoci, atypického nebo smíšeného typu",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Demence",
     "popis": "Demence nesplňující typické rysy F00.0 nebo F00.1, nebo smíšená Alzheimerova a vaskulární demence.",
     "diagnosticka_kriteria": [
@@ -159,7 +159,7 @@
   {
     "id": "F00.9",
     "kod": "F00.9",
-    "nazev_cz": "Demence při Alzheimerově nemoci NS",
+    "nazev_cz": "Demence u Alzheimerovy nemoci NS",
     "system": "MKN-10",
     "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Demence při Alzheimerově nemoci",
@@ -197,7 +197,7 @@
     "kod": "F01",
     "nazev_cz": "Vaskulární demence",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Demence",
     "popis": "Demence způsobená ischemickým, hypoxickým nebo hemoragickým poškozením mozkové tkáně. Druhá nejčastější příčina demence.",
     "diagnosticka_kriteria": [
@@ -236,7 +236,7 @@
     "kod": "F01.0",
     "nazev_cz": "Vaskulární demence s akutním začátkem",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Demence",
     "popis": "Rychle vznikající demence po sérii CMP nebo trombóze, embólii či hemoragii.",
     "diagnosticka_kriteria": [
@@ -268,7 +268,7 @@
     "kod": "F01.1",
     "nazev_cz": "Multiinfarktová demence",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Demence",
     "popis": "Demence vzniklá na podkladě opakovaných mozkových infarktů, převážně kortikálních.",
     "diagnosticka_kriteria": [
@@ -302,7 +302,7 @@
     "kod": "F01.2",
     "nazev_cz": "Subkortikální vaskulární demence",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Demence",
     "popis": "Demence na podkladě ischemického postižení bílé hmoty a bazálních ganglií bez kortikálních infarktů (Binswangerova choroba).",
     "diagnosticka_kriteria": [
@@ -442,9 +442,9 @@
   {
     "id": "F02",
     "kod": "F02",
-    "nazev_cz": "Demence u jiných nemocí",
+    "nazev_cz": "Demence u jiných nemocí zařazených jinde",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Demence",
     "popis": "Demence způsobená jinými specifickými onemocněními klasifikovanými jinde.",
     "diagnosticka_kriteria": [
@@ -475,9 +475,9 @@
   {
     "id": "F02.0",
     "kod": "F02.0",
-    "nazev_cz": "Demence u Pickovy nemoci",
+    "nazev_cz": "Demence u Pickovy choroby",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Demence",
     "popis": "Progresivní demence začínající ve středním věku s frontální a temporální atrofií. Součást frontotemporálních demencí.",
     "diagnosticka_kriteria": [
@@ -511,9 +511,9 @@
   {
     "id": "F02.1",
     "kod": "F02.1",
-    "nazev_cz": "Demence u Creutzfeldt-Jakobovy nemoci",
+    "nazev_cz": "Demence u Creutzfeldtovy–Jakobovy nemoci",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Demence",
     "popis": "Rychle progredující demence způsobená prionovou infekcí (přenosná spongiformní encefalopatie).",
     "diagnosticka_kriteria": [
@@ -551,7 +551,7 @@
     "kod": "F02.2",
     "nazev_cz": "Demence u Huntingtonovy nemoci",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Demence",
     "popis": "Demence při autozomálně dominantně dědičné neurodegenerativní chorobě s choreou a psychiatrickými příznaky.",
     "diagnosticka_kriteria": [
@@ -588,7 +588,7 @@
     "kod": "F02.3",
     "nazev_cz": "Demence u Parkinsonovy nemoci",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Demence",
     "popis": "Demence rozvíjející se v průběhu Parkinsonovy nemoci. Subkortikální demence s postižením frontálních funkcí.",
     "diagnosticka_kriteria": [
@@ -622,9 +622,9 @@
   {
     "id": "F02.4",
     "kod": "F02.4",
-    "nazev_cz": "Demence u HIV nemoci",
+    "nazev_cz": "Demence u onemocnění virem lidské imunodeficience [HIV]",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Demence",
     "popis": "Demence u pacientů s HIV infekcí způsobená přímým poškozením CNS virem nebo oportunními infekcemi.",
     "diagnosticka_kriteria": [
@@ -658,7 +658,7 @@
   {
     "id": "F02.8",
     "kod": "F02.8",
-    "nazev_cz": "Demence při jiných určených onemocněních",
+    "nazev_cz": "Demence u jiných určených nemocí zařazených jinde",
     "system": "MKN-10",
     "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Demence při jiných onemocněních",
@@ -694,7 +694,7 @@
     "kod": "F03",
     "nazev_cz": "Demence neurčená",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Demence",
     "popis": "Demence nesplňující kritéria pro specifický typ. Diagnóza per exclusionem.",
     "diagnosticka_kriteria": [
@@ -725,9 +725,9 @@
   {
     "id": "F04",
     "kod": "F04",
-    "nazev_cz": "Organický amnestický syndrom",
+    "nazev_cz": "Organický amnestický syndrom, který nebyl vyvolán alkoholem nebo jinými psychoaktivními látkami",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Organické poruchy",
     "popis": "Výrazná trvalá porucha paměti pro nedávné a vzdálenější události bez demence, způsobená organickým onemocněním. Korsakovův syndrom.",
     "diagnosticka_kriteria": [
@@ -765,9 +765,9 @@
   {
     "id": "F05",
     "kod": "F05",
-    "nazev_cz": "Delirium nezpůsobené alkoholem ani jinými psychoaktivními látkami",
+    "nazev_cz": "Delirium, které není vyvolané alkoholem nebo jinými psychoaktivními látkami",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Organické poruchy",
     "popis": "Etiologicky nespecifický organický mozkový syndrom charakterizovaný poruchou vědomí a pozornosti, vnímání, myšlení, paměti, psychomotoriky, emotivity a spánkového cyklu.",
     "diagnosticka_kriteria": [
@@ -810,9 +810,9 @@
   {
     "id": "F05.0",
     "kod": "F05.0",
-    "nazev_cz": "Delirium bez demence",
+    "nazev_cz": "Delirium, které nenasedá na demenci",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Organické poruchy",
     "popis": "Delirium u pacienta bez předchozí demence.",
     "diagnosticka_kriteria": [
@@ -841,9 +841,9 @@
   {
     "id": "F05.1",
     "kod": "F05.1",
-    "nazev_cz": "Delirium na podkladě demence",
+    "nazev_cz": "Delirium, nasedající na demenci",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Organické poruchy",
     "popis": "Delirium superponované na preexistující demenci.",
     "diagnosticka_kriteria": [
@@ -946,9 +946,9 @@
   {
     "id": "F06",
     "kod": "F06",
-    "nazev_cz": "Jiné duševní poruchy způsobené poškozením nebo dysfunkcí mozku nebo somatickou nemocí",
+    "nazev_cz": "Jiné duševní poruchy, způsobené poškozením mozku, jeho dysfunkcí a somatickou nemocí",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Organické poruchy",
     "popis": "Různorodé duševní poruchy prokazatelně způsobené onemocněním, poraněním nebo dysfunkcí mozku či somatickým onemocněním.",
     "diagnosticka_kriteria": [
@@ -980,7 +980,7 @@
     "kod": "F06.0",
     "nazev_cz": "Organická halucinóza",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Organické poruchy",
     "popis": "Porucha s přetrvávajícími nebo opakujícími se halucinacemi, nejčastěji zrakovými nebo sluchovými, při jasném vědomí.",
     "diagnosticka_kriteria": [
@@ -1014,9 +1014,9 @@
   {
     "id": "F06.1",
     "kod": "F06.1",
-    "nazev_cz": "Organická katatonická porucha",
+    "nazev_cz": "Organická katatonní porucha",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Organické poruchy",
     "popis": "Snížení (stupor) nebo zvýšení (excitace) psychomotorické aktivity organické etiologie.",
     "diagnosticka_kriteria": [
@@ -1049,9 +1049,9 @@
   {
     "id": "F06.2",
     "kod": "F06.2",
-    "nazev_cz": "Organická bludná (schizoformní) porucha",
+    "nazev_cz": "Organická porucha s bludy",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Organické poruchy",
     "popis": "Porucha s přetrvávajícími nebo opakujícími se bludy organické etiologie.",
     "diagnosticka_kriteria": [
@@ -1085,7 +1085,7 @@
     "kod": "F06.3",
     "nazev_cz": "Organické poruchy nálady (afektivní)",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Organické poruchy",
     "popis": "Porucha charakterizovaná změnou nálady (deprese nebo mánie) organické etiologie.",
     "diagnosticka_kriteria": [
@@ -1118,7 +1118,7 @@
     "kod": "F06.30",
     "nazev_cz": "Organická manická porucha",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Organické poruchy nálady",
     "popis": "Manická nebo hypomanická epizoda způsobená průkazným onemocněním, poraněním nebo dysfunkcí mozku nebo systémovým tělesným onemocněním.",
     "diagnosticka_kriteria": [
@@ -1150,7 +1150,7 @@
     "kod": "F06.31",
     "nazev_cz": "Organická bipolární afektivní porucha",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Organické poruchy nálady",
     "popis": "Střídání manických a depresivních epizod podmíněné průkazným organickým onemocněním mozku nebo systémovým tělesným onemocněním.",
     "diagnosticka_kriteria": [
@@ -1180,7 +1180,7 @@
     "kod": "F06.32",
     "nazev_cz": "Organická depresivní porucha",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Organické poruchy nálady",
     "popis": "Depresivní epizoda způsobená průkazným onemocněním, poraněním nebo dysfunkcí mozku nebo systémovým tělesným onemocněním.",
     "diagnosticka_kriteria": [
@@ -1212,7 +1212,7 @@
     "kod": "F06.33",
     "nazev_cz": "Organická smíšená afektivní porucha",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Organické poruchy nálady",
     "popis": "Smíšená manická a depresivní symptomatologie podmíněná organickým onemocněním; splněna kritéria F06.30 i F06.32 simultánně nebo v rychlém sledu.",
     "diagnosticka_kriteria": [
@@ -1242,7 +1242,7 @@
     "kod": "F06.4",
     "nazev_cz": "Organická úzkostná porucha",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Organické poruchy",
     "popis": "Porucha s generalizovanou úzkostí nebo panickými záchvaty organické etiologie.",
     "diagnosticka_kriteria": [
@@ -1311,7 +1311,7 @@
   {
     "id": "F06.6",
     "kod": "F06.6",
-    "nazev_cz": "Organická emocionálně labilní (astenická) porucha",
+    "nazev_cz": "Organická emoční labilita",
     "system": "MKN-10",
     "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Jiné duševní poruchy způsobené poškozením mozku",
@@ -1350,7 +1350,7 @@
   {
     "id": "F06.7",
     "kod": "F06.7",
-    "nazev_cz": "Mírná kognitivní porucha",
+    "nazev_cz": "Lehká porucha poznávání",
     "system": "MKN-10",
     "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Jiné duševní poruchy způsobené poškozením mozku",
@@ -1389,7 +1389,7 @@
   {
     "id": "F06.8",
     "kod": "F06.8",
-    "nazev_cz": "Jiné určené duševní poruchy způsobené poškozením mozku",
+    "nazev_cz": "Jiné určené duševní poruchy způsobené poškozením a dysfunkcí mozku",
     "system": "MKN-10",
     "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Jiné duševní poruchy způsobené poškozením mozku",
@@ -1416,7 +1416,7 @@
   {
     "id": "F06.9",
     "kod": "F06.9",
-    "nazev_cz": "NS duševní porucha způsobená poškozením mozku",
+    "nazev_cz": "Neurčená duševní porucha způsobená poškozením a dysfunkcí mozku",
     "system": "MKN-10",
     "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Jiné duševní poruchy způsobené poškozením mozku",
@@ -1443,9 +1443,9 @@
   {
     "id": "F07",
     "kod": "F07",
-    "nazev_cz": "Poruchy osobnosti a chování způsobené onemocněním, poraněním nebo dysfunkcí mozku",
+    "nazev_cz": "Poruchy osobnosti a chování způsobené onemocněním, poškozením a dysfunkcí mozku",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Organické poruchy",
     "popis": "Změna osobnosti jako důsledek organického poškození mozku.",
     "diagnosticka_kriteria": [
@@ -1479,7 +1479,7 @@
     "kod": "F07.0",
     "nazev_cz": "Organická porucha osobnosti",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Organické poruchy",
     "popis": "Výrazná změna osobnosti a chování po poškození CNS. Postihuje kognitivní, emoční a sociální funkce.",
     "diagnosticka_kriteria": [
@@ -1553,7 +1553,7 @@
     "kod": "F07.2",
     "nazev_cz": "Postkomoční syndrom",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Organické poruchy",
     "popis": "Syndrom po kraniotraumatu (obvykle dostatečně závažném k vyvolání ztráty vědomí), zahrnující různé obtíže.",
     "diagnosticka_kriteria": [
@@ -1589,7 +1589,7 @@
   {
     "id": "F07.8",
     "kod": "F07.8",
-    "nazev_cz": "Jiné organické poruchy osobnosti a chování způsobené onemocněním mozku",
+    "nazev_cz": "Jiné organické poruchy osobnosti a chování způsobené onemocněním, poškozením a dysfunkcí mozku",
     "system": "MKN-10",
     "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Poruchy osobnosti a chování způsobené onemocněním mozku",
@@ -1618,7 +1618,7 @@
   {
     "id": "F07.9",
     "kod": "F07.9",
-    "nazev_cz": "NS organická porucha osobnosti a chování způsobená onemocněním mozku",
+    "nazev_cz": "Organické poruchy osobnosti a chování, neurčené",
     "system": "MKN-10",
     "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Poruchy osobnosti a chování způsobené onemocněním mozku",
@@ -1647,7 +1647,7 @@
     "kod": "F09",
     "nazev_cz": "Neurčená organická nebo symptomatická duševní porucha",
     "system": "MKN-10",
-    "kategorie": "F00–F09 Organické duševní poruchy",
+    "kategorie": "F00–F09 Organické duševní poruchy včetně symptomatických",
     "podkategorie": "Organické poruchy",
     "popis": "Organická nebo symptomatická duševní porucha, která nesplňuje kritéria pro žádnou jinou specifickou kategorii.",
     "diagnosticka_kriteria": [
