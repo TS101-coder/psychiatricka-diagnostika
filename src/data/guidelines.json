@@ -459,5 +459,224 @@
       "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
       "SÚKL Databáze léčiv – ověřeno 2025"
     ]
+  },
+  {
+    "kod_mkn10": "F20",
+    "nazev_poruchy": "Schizofrenie",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Atypická (druhá generace) antipsychotika (SGA)",
+          "priklady_generik": ["risperidon", "olanzapin", "quetiapin", "aripiprazol", "ziprasidon", "amisulprid"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Všechny uvedené látky jsou registrovány v ČR. Aripiprazol, risperidon a paliperidol jsou dostupné také jako dlouhodobě působící injekce (LAI/depot) – výhodné při non-komplianci. Klozapin je vyhrazen pro rezistentní schizofrenii (viz 2. volba).",
+          "doporucene_davkovani_zahajovaci": "Risperidon: 1–2 mg/den, titrace na 4–6 mg/den. Olanzapin: 5–10 mg/den, cílová 10–20 mg/den. Quetiapin: 50 mg/den, titrace na 300–750 mg/den. Aripiprazol: 10–15 mg/den, cílová 15–30 mg/den. Amisulprid: 400–800 mg/den.",
+          "hlavni_nezadouci_ucinky": ["extrapyramidové příznaky (risperidon > olanzapin > quetiapin)", "metabolický syndrom (olanzapin, quetiapin – nejvyšší riziko)", "hyperprolaktinémie (risperidon, amisulprid)", "prodloužení QTc (ziprasidon, amisulprid)", "sedace (quetiapin, olanzapin)", "akatizie (aripiprazol, risperidon)"],
+          "kontraindikace": ["kóma nebo těžká CNS deprese", "feochromocytom (amisulprid)", "prodloužení QTc > 500 ms (ziprasidon)", "souběžná léčba léky prodlužujícími QT interval"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Kognitivně-behaviorální terapie (CBT) pro psychózu – redukce pozitivních příznaků a distres",
+        "Psychoedukace pacienta a rodiny (family therapy, psychoedukační skupiny)",
+        "Nácvik sociálních dovedností (social skills training)",
+        "Podporované zaměstnání (IPS – Individual Placement and Support)",
+        "Asertivní komunitní péče (ACT) u těžkých forem",
+        "Pohybová aktivita – vliv na negativní příznaky a metabolismus"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Klozapin – pro terapeuticky rezistentní schizofrenii",
+          "priklady_generik": ["klozapin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Registrován v ČR. Indikován po selhání alespoň dvou antipsychotik různých skupin v adekvátní dávce a době. Preskripce podléhá povinné registraci pacienta do systému monitoringu KO (hematologický monitoring). Preskripci mohou zahájit pouze psychiatři se zkušeností s klozapinem.",
+          "doporucene_davkovani_zahajovaci": "12,5–25 mg na noc, velmi pomalá titrace o 25–50 mg/týden. Cílová dávka 200–450 mg/den. Terapeutická hladina: 350–600 ng/ml.",
+          "hlavni_nezadouci_ucinky": ["agranulocytóza (1–2 %, vyžaduje pravidelný KO)", "myokarditida (první 4–8 týdnů)", "záchvaty (dávkově závislé, > 600 mg)", "hypersalivace", "sedace", "metabolický syndrom", "obstipace až ileus", "ortostatická hypotenze"],
+          "kontraindikace": ["agranulocytóza nebo granulocytopenie v anamnéze", "těžké onemocnění srdce (myokarditida)", "epilepsie neléčená antiepileptiky", "alkohol nebo jiné CNS depresanty", "souběžná léčba myelosupresivními látkami"],
+          "indikace_k_nasazeni": "Terapeuticky rezistentní schizofrenie (selhání ≥ 2 antipsychotik), suicidální riziko u schizofrenie nebo schizoafektivní poruchy."
+        },
+        {
+          "skupina_latek": "Konvenční (první generace) antipsychotika (FGA)",
+          "priklady_generik": ["haloperidol", "flufenazin", "zuklopentixol", "chlorpromazin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Haloperidol a zuklopentixol dostupné v ČR také jako depotní injekce (každé 2–4 týdny). FGA jsou účinná na pozitivní příznaky, ale mají vyšší riziko EPS a tardivní dyskineze. Vhodná volba při potřebě depotní formy nebo při intolerance SGA.",
+          "indikace_k_nasazeni": "Intolerance nebo nedostatečná účinnost SGA, potřeba depotní formy, ekonomické důvody."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Klozapin: Povinný hematologický monitoring (diferenciální KO) – týdně prvních 18 týdnů, poté měsíčně. Při poklesu ANC < 1500/mm³ okamžité vysazení. Riziko fatální agranulocytózy (0,1–0,2 %).",
+      "interakce": [
+        "Antipsychotika + benzodiazepiny i.v. – riziko kardiorespirační zástavy (zejména klozapin)",
+        "Klozapin + valproát – může zvýšit hladinu klozapinu, riziko záchvatů",
+        "Klozapin + fluvoxamin – dramatické zvýšení hladin klozapinu (inhibice CYP1A2), vyhnout se kombinaci nebo výrazně snížit dávku klozapinu",
+        "Klozapin + kouření – kouření indukuje CYP1A2, při zanechání kouření vzestup hladin",
+        "Antipsychotika prodlužující QT + další QT prodlužující léky – riziko torsade de pointes",
+        "Haloperidol + lithium – riziko neurotoxicity (monitorovat hladiny Li)"
+      ],
+      "monitoring": [
+        "Klozapin: KO s diferenciálem týdně (prvních 18 týdnů), pak měsíčně; hladiny klozapinu v séru (cíl 350–600 ng/ml)",
+        "Všechna antipsychotika: metabolický screening – BMI, obvod pasu, glykémie, lipidy – při zahájení, po 3 měsících, pak ročně",
+        "EKG – před zahájením a při dávkové změně (zejm. ziprasidon, amisulprid)",
+        "Prolaktin – symptomaticky nebo při podezření na hyperprolaktinémii (risperidon, amisulprid)",
+        "Extrapyramidové příznaky (AIMS škála pro tardivní dyskinezi) každých 6–12 měsíců",
+        "Krevní tlak (ortostatická hypotenze při zahájení)"
+      ]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Schizophrenia (2021)",
+      "NICE Guideline CG178: Psychosis and schizophrenia in adults (2014, aktualizace 2023)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F20.0",
+    "nazev_poruchy": "Paranoidní schizofrenie",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Atypická antipsychotika (SGA) – preferováno pro příznivější profil EPS",
+          "priklady_generik": ["risperidon", "aripiprazol", "olanzapin", "amisulprid"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Viz F20. Paranoidní forma s převahou pozitivních příznaků (bludy, halucinace) – dobrá odpověď na SGA. Risperidon a aripiprazol dostupné jako LAI pro udržovací léčbu.",
+          "doporucene_davkovani_zahajovaci": "Risperidon 4–6 mg/den, aripiprazol 15–30 mg/den, amisulprid 400–800 mg/den.",
+          "hlavni_nezadouci_ucinky": ["hyperprolaktinémie (risperidon, amisulprid)", "metabolický syndrom (olanzapin)", "akatizie (aripiprazol)"],
+          "kontraindikace": ["viz F20"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "CBT pro psychózu – práce s bludy a halucinacemi",
+        "Psychoedukace – náhled na nemoc, compliance",
+        "Rodinná terapie"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Klozapin nebo přechod na FGA depot",
+          "priklady_generik": ["klozapin", "haloperidol", "flufenazin", "zuklopentixol"],
+          "dostupnost_cr_sukl": true,
+          "indikace_k_nasazeni": "Rezistence na 2 SGA nebo zásadní problém s kompliancí (depot)."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Viz F20.",
+      "interakce": ["Viz F20."],
+      "monitoring": ["Viz F20."]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Schizophrenia (2021)",
+      "Psychiatrická společnost ČLS JEP",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F25",
+    "nazev_poruchy": "Schizoafektivní porucha",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Atypická antipsychotika s thymostabtilizujícím potenciálem",
+          "priklady_generik": ["olanzapin", "quetiapin", "aripiprazol", "risperidon"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Olanzapin a quetiapin mají registraci u bipolární poruchy i schizofrenie, jsou vhodnou volbou pro schizoafektivní poruchu. Quetiapin je zvláště indikován při depresivní složce.",
+          "doporucene_davkovani_zahajovaci": "Olanzapin: 10–20 mg/den. Quetiapin: 400–800 mg/den. Aripiprazol: 15–30 mg/den.",
+          "hlavni_nezadouci_ucinky": ["metabolický syndrom (olanzapin, quetiapin)", "sedace", "hyperprolaktinémie (risperidon)"],
+          "kontraindikace": ["viz F20"]
+        },
+        {
+          "skupina_latek": "Thymostabilizátory jako augmentace",
+          "priklady_generik": ["lithium", "valproát", "lamotrigin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Lithium a valproát jsou registrovány v ČR pro bipolární poruchu; kombinace s antipsychotikem je standardní přístup u schizoafektivní poruchy. Lamotrigin jako augmentace klozapinu má dobrou evidenci.",
+          "doporucene_davkovani_zahajovaci": "Lithium: 400–600 mg/den zahajovací, cílová hladina 0,6–0,8 mmol/l. Valproát: 500–1500 mg/den. Lamotrigin: titrace od 25 mg/den po 25 mg každé 2 týdny.",
+          "hlavni_nezadouci_ucinky": ["lithium: tremor, polydipsie, hypotyreóza, nefrotoxicita", "valproát: přírůstek hmotnosti, teratogenita (absolutní KI v těhotenství)", "lamotrigin: Stevens-Johnsonův syndrom (rychlá titrace)"],
+          "kontraindikace": ["lithium: těžká renální insuficience, těhotenství", "valproát: těhotenství, jaterní insuficience"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "CBT kombinující přístupy pro psychózu i afektivní poruchy",
+        "Psychoedukace – identifikace varovných příznaků relapsu",
+        "Rodinná terapie",
+        "Podpůrná psychoterapie"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Klozapin",
+          "priklady_generik": ["klozapin"],
+          "dostupnost_cr_sukl": true,
+          "indikace_k_nasazeni": "Rezistence na alespoň 2 léčebné kombinace nebo suicidální riziko."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Valproát: absolutní kontraindikace v těhotenství (teratogenita – neurální trubice, kognitivní poruchy plodu). Ženy v reprodukčním věku musí mít zajištěnou antikoncepci a písemné poučení (PREVENT program).",
+      "interakce": [
+        "Lithium + NSAID nebo ACE inhibitory – zvýšení hladin lithia, riziko toxicity",
+        "Lithium + diuretika (thiazidy) – zvýšení hladin lithia",
+        "Valproát + lamotrigin – valproát zdvojnásobuje hladiny lamotriginu (nutno titrovat pomaleji)",
+        "Valproát + klozapin – vzestup hladin klozapinu",
+        "Antipsychotika + lithium – riziko neurotoxicity (zejm. haloperidol)"
+      ],
+      "monitoring": [
+        "Lithium: sérové hladiny Li (0,6–0,8 mmol/l), renální funkce, TSH – při zahájení a každých 6 měsíců",
+        "Valproát: hladiny v séru, jaterní testy, KO, koagulace",
+        "Metabolický screening u antipsychotik (viz F20)",
+        "EKG, krevní tlak"
+      ]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Schizophrenia (2021)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F22",
+    "nazev_poruchy": "Poruchy s trvalými bludy",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Atypická antipsychotika",
+          "priklady_generik": ["risperidon", "olanzapin", "aripiprazol", "quetiapin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Registrovány v ČR pro schizofrenii; u poruch s bludy je použití off-label, ale klinicky standardní. Risperidon bývá preferován pro selektivní vliv na bludy. Compliance je klíčový problém – zvážit LAI formy.",
+          "doporucene_davkovani_zahajovaci": "Risperidon: 2–4 mg/den. Olanzapin: 5–10 mg/den. Nižší dávky než u schizofrenie.",
+          "hlavni_nezadouci_ucinky": ["hyperprolaktinémie (risperidon)", "metabolický syndrom (olanzapin)", "extrapyramidové příznaky"],
+          "kontraindikace": ["viz F20"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Kognitivně-behaviorální terapie zaměřená na bludy (CBTp)",
+        "Budování terapeutického vztahu – klíčové u nedůvěřivých pacientů",
+        "Podpůrná psychoterapie"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Konvenční antipsychotika",
+          "priklady_generik": ["haloperidol", "pimozid"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Pimozid je historicky spojován s terapií monosymptomatické hypochondrické psychózy (typ erotomanie, parasitózy), nicméně riziko QTc prodloužení omezuje jeho použití.",
+          "indikace_k_nasazeni": "Intolerance nebo selhání SGA."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Viz F20. Pimozid: riziko prodloužení QTc a interakcí s makrolidy, azolová antifungálika – kontraindikována kombinace.",
+      "interakce": ["viz F20", "Pimozid + inhibitory CYP3A4 (klarithromycin, ketokonazol) – absolutně kontraindikováno"],
+      "monitoring": ["EKG (zejm. pimozid)", "Viz F20 – metabolický screening"]
+    },
+    "zdroje": [
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025",
+      "Mace & Taylor, Delusional Disorder 2015"
+    ]
   }
 ]
