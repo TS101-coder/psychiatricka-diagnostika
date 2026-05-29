@@ -102,7 +102,7 @@
           ],
           "dostupnost_cr_sukl": true,
           "sukl_poznamka": "Totéž jako u F00. U časného nástupu (presenilní forma) jsou tytéž indikace. Doporučeno zahájit ihned po stanovení diagnózy. Vyšší procento geneticky podmíněných forem (mutace PSEN1, PSEN2, APP) – zvažte genetické vyšetření.",
-          "doporucene_davkovani_zahajovaci": "Shodné s F00 – viz výše. Sledujte toleranci u pracovně aktivních pacientů (vliv na kognitivní výkon při práci).",
+          "doporucene_davkovani_zahajovaci": "Donepezil: 5 mg 1× denně večer, po 4–6 týdnech zvýšit na 10 mg/den. Rivastigmin p.o.: 1,5 mg 2× denně s jídlem, titrace po 2 týdnech o 1,5 mg/den, cílová 3–6 mg 2× denně; náplast: 4,6 mg/24 h → po 4 týdnech 9,5 mg/24 h. Galantamin: 4 mg 2× denně, po 4 týdnech 8 mg 2× denně, cílová 8–12 mg 2× denně. U časného nástupu zahajovat léčbu co nejdříve po stanovení diagnózy. Časté familiární formy (PSEN1, PSEN2, APP) – zvážit genetické poradenství.",
           "hlavni_nezadouci_ucinky": [
             "nauzea",
             "průjem",
@@ -135,9 +135,12 @@
       ]
     },
     "zvlastni_upozorneni_a_bezpecnost": {
-      "black_box_warning": "Viz F00 – varování ohledně atypických antipsychotik u demence.",
+      "black_box_warning": "Atypická antipsychotika (risperidon, olanzapin, quetiapin) jsou u starších pacientů s demencí spojena se zvýšenou mortalitou (cerebrovaskulární příhody, pneumonie). Používat výhradně při závažných BPSD nereagujících na nefarmakologické intervence, v nejnižší dávce a nejkratší dobu.",
       "interakce": [
-        "Viz F00"
+        "AChEI + anticholinergika (oxybutynin, difenhydramin) – antagonistický efekt, zhoršení kognice",
+        "Donepezil/galantamin + inhibitory CYP2D6 nebo CYP3A4 (fluoxetin, paroxetin, ketokonazol) – možné zvýšení plazmatické hladiny AChEI",
+        "AChEI + betablokátory nebo antiarytmika – riziko bradykardie a AV bloku",
+        "Memantin + amantadin – riziko psychózy (kumulativní NMDA antagonismus)"
       ],
       "monitoring": [
         "Neuropsychologické vyšetření (MMSE, MoCA, případně podrobnější baterie) každých 6 měsíců",
@@ -354,12 +357,20 @@
       ]
     },
     "zvlastni_upozorneni_a_bezpecnost": {
-      "black_box_warning": "Viz F01.",
+      "black_box_warning": "Atypická antipsychotika u starších pacientů s vaskulární demencí – zvýšené riziko cerebrovaskulárních příhod (risperidon má specifické varování EMA). Risperidon jako jediné atypické antipsychotikum má schválení pro BPSD u vaskulární demence, ostatní jsou off-label. Používat v nejnižší dávce.",
       "interakce": [
-        "Viz F01"
+        "AChEI + anticholinergika (oxybutynin, trospium, difenhydramin) – antagonismus, zhoršení kognitivních funkcí",
+        "Donepezil + betablokátory – riziko bradykardie",
+        "Memantin + L-DOPA, dopaminergní látky – možné zesílení účinku",
+        "Antikoagulancia (warfarin, NOAC) + antiagregancia – zvýšené riziko krvácení při kombinaci (sekundární prevence CMP)"
       ],
       "monitoring": [
-        "Viz F01 – důraz na krevní tlak a neuroimaging"
+        "MMSE nebo MoCA každých 6–12 měsíců",
+        "EKG při zahájení AChEI, opakovat při klinické indikaci",
+        "Krevní tlak vsedě a vstoje – ortostatická hypotenze",
+        "MRI mozku nebo CT pro sledování progrese vaskulárních lézí",
+        "Renální funkce ročně (úprava dávky memantinu při GFR < 30)",
+        "Neuropsychiatrické příznaky (NPI škála) – behaviorální a psychotické příznaky demence"
       ]
     },
     "zdroje": [
@@ -429,7 +440,7 @@
       ]
     },
     "zvlastni_upozorneni_a_bezpecnost": {
-      "black_box_warning": "Viz F01.",
+      "black_box_warning": "Atypická antipsychotika u starších pacientů s vaskulární demencí – zvýšené riziko cerebrovaskulárních příhod (risperidon má specifické varování EMA). Risperidon jako jediné atypické antipsychotikum má schválení pro BPSD u vaskulární demence, ostatní jsou off-label. Používat v nejnižší dávce.",
       "interakce": [
         "Warfarin/DOAC + NSAID/ASA – zvýšené riziko krvácení",
         "Warfarin + mnohé léky psychiatrie (SSRI, antipsychotika) – monitoring INR",
@@ -728,7 +739,7 @@
             "amisulprid"
           ],
           "dostupnost_cr_sukl": true,
-          "sukl_poznamka": "Viz F20. Paranoidní forma s převahou pozitivních příznaků (bludy, halucinace) – dobrá odpověď na SGA. Risperidon a aripiprazol dostupné jako LAI pro udržovací léčbu.",
+          "sukl_poznamka": "Paranoidní schizofrenie s převahou halucinací a bludů má dobrou odpověď na SGA. Risperidon (Risperdal Consta LAI každé 2 týdny) a aripiprazol (Abilify Maintena LAI měsíčně) jsou dostupné jako dlouhodobě působící injekce – vhodné při problémech s compliancí. Paliperidol (aktivní metabolit risperidonu) dostupný jako LAI každé 4 týdny (Xeplion) nebo každé 3 měsíce (Trevicta).",
           "doporucene_davkovani_zahajovaci": "Risperidon 4–6 mg/den, aripiprazol 15–30 mg/den, amisulprid 400–800 mg/den.",
           "hlavni_nezadouci_ucinky": [
             "hyperprolaktinémie (risperidon, amisulprid)",
@@ -766,12 +777,19 @@
       ]
     },
     "zvlastni_upozorneni_a_bezpecnost": {
-      "black_box_warning": "Viz F20.",
+      "black_box_warning": "Klozapin: povinný hematologický monitoring (diferenciální KO) – týdně prvních 18 týdnů, pak měsíčně. Při poklesu ANC < 1500/mm³ okamžité vysazení. Riziko fatální agranulocytózy (0,1–0,2 %). Všechna antipsychotika u starších pacientů s demencí – zvýšená mortalita (FDA/EMA black box).",
       "interakce": [
-        "Viz F20."
+        "Antipsychotika + benzodiazepiny i.v. – riziko kardiorespirační zástavy",
+        "Antipsychotika prodlužující QT (haloperidol, ziprasidon) + makrolidy, azolová antifungálika, amiodaron – torsade de pointes",
+        "Risperidon + inhibitory CYP2D6 (fluoxetin, paroxetin) – zvýšení hladin risperidonu",
+        "Haloperidol + lithium – riziko neurotoxicity (monitorovat hladiny Li)"
       ],
       "monitoring": [
-        "Viz F20."
+        "Metabolický screening – BMI, obvod pasu, glykémie, lipidy – při zahájení, po 3 měsících, pak ročně",
+        "EKG (QTc) při zahájení a při změně dávky",
+        "Extrapyramidové příznaky – AIMS škála každých 6–12 měsíců",
+        "Prolaktin při symptomech hyperprolaktinémie (risperidon, amisulprid)",
+        "Krevní tlak – ortostatická hypotenze při zahájení"
       ]
     },
     "zdroje": [
@@ -861,7 +879,7 @@
       "monitoring": [
         "Lithium: sérové hladiny Li (0,6–0,8 mmol/l), renální funkce, TSH – při zahájení a každých 6 měsíců",
         "Valproát: hladiny v séru, jaterní testy, KO, koagulace",
-        "Metabolický screening u antipsychotik (viz F20)",
+        "Metabolický screening u antipsychotik – BMI, obvod pasu, glykémie nalačno, lipidy – při zahájení, po 3 měsících, pak ročně",
         "EKG, krevní tlak"
       ]
     },
@@ -922,7 +940,7 @@
       ]
     },
     "zvlastni_upozorneni_a_bezpecnost": {
-      "black_box_warning": "Viz F20. Pimozid: riziko prodloužení QTc a interakcí s makrolidy, azolová antifungálika – kontraindikována kombinace.",
+      "black_box_warning": "Pimozid: riziko prodloužení QTc a torsade de pointes – EKG před zahájením a při každé změně dávky. Kombinace pimozidu s makrolidy (klarithromycin, azithromycin) nebo azoly (ketokonazol, flukonazol) je absolutně kontraindikována – riziko fatální arytmie. Všechna antipsychotika: viz riziko metabolického syndromu a tardivní dyskineze.",
       "interakce": [
         "antipsychotika + benzodiazepiny i.v. – riziko kardiorespirační zástavy (zejm. klozapin)",
         "antipsychotika prodlužující QT + další QT prodlužující léky – riziko torsade de pointes",
@@ -931,8 +949,10 @@
         "Pimozid + inhibitory CYP3A4 (klarithromycin, ketokonazol) – absolutně kontraindikováno"
       ],
       "monitoring": [
-        "EKG (zejm. pimozid)",
-        "Viz F20 – metabolický screening"
+        "EKG (QTc) – zejm. při pimozidu, při dávce > 6 mg/den povinné",
+        "Metabolický screening – BMI, glykémie, lipidy – při zahájení, po 3 měsících, pak ročně",
+        "Extrapyramidové příznaky – AIMS škála každých 6–12 měsíců",
+        "Intenzita bludů – hodnotit každé 4–6 týdnů (PSYRATS nebo klinické hodnocení)"
       ]
     },
     "zdroje": [
@@ -1065,7 +1085,7 @@
           ],
           "dostupnost_cr_sukl": true,
           "sukl_poznamka": "Lithium je zlatý standard udržovací léčby bipolární poruchy 1 – snižuje riziko relapsů i suicidální riziko. Lamotrigin je zvláště účinný v prevenci depresivních epizod (slabší pro manické). Valproát vhodný při manické pólové dominanci a rychlém cyklování. Lamotrigin registrován v ČR pro prevenci epizod u BAP.",
-          "doporucene_davkovani_zahajovaci": "Lithium: cílová hladina 0,6–0,8 mmol/l v udržovací léčbě. Lamotrigin: velmi pomalá titrace od 25 mg/den (bez valproátu) nebo 12,5 mg/den (s valproátem), cílová dávka 100–400 mg/den. Valproát: viz F30.",
+          "doporucene_davkovani_zahajovaci": "Lithium: cílová hladina 0,6–0,8 mmol/l v udržovací léčbě. Lamotrigin: titrace od 25 mg/den (bez valproátu) nebo 12,5 mg/den (s valproátem), cílová dávka 100–400 mg/den. Valproát: 500–750 mg/den zahajovací, titrace na 1000–2500 mg/den, cílová hladina 50–120 mg/l.",
           "hlavni_nezadouci_ucinky": [
             "lithium: třes, polydipsie, polyurie, hypotyreóza, přírůstek hmotnosti, nefrotoxicita při dlouhodobém podávání",
             "valproát: přírůstek hmotnosti, vypadávání vlasů, sedace, hepatotoxicita, trombocytopenie, teratogenita",
@@ -1134,9 +1154,9 @@
       ]
     },
     "zvlastni_upozorneni_a_bezpecnost": {
-      "black_box_warning": "Antidepresiva v monoterapii jsou u bipolární poruchy kontraindikována – riziko přesmyku do mánie nebo rychlého cyklování. Pokud jsou nutná (těžká bipolární deprese), vždy v kombinaci s thymostabilizátorem. Valproát – viz F30.",
+      "black_box_warning": "Antidepresiva v monoterapii jsou u bipolární poruchy kontraindikována – riziko přesmyku do mánie nebo rychlého cyklování. Pokud jsou nutná (těžká bipolární deprese), vždy v kombinaci s thymostabilizátorem. Valproát: absolutní kontraindikace v těhotenství (teratogenita – neurální trubice, kardiovaskulární vady, kognitivní poruchy plodu). Ženy v reprodukčním věku musí mít zajištěnou účinnou antikoncepci a podepsat informovaný souhlas (PREVENT program).",
       "interakce": [
-        "Lithium + NSAID, diuretika, ACE inhibitory – viz F30",
+        "Lithium + NSAID (ibuprofen, diklofenak, naproxen) – snížení renální eliminace lithia, riziko toxicity (bolest hlavy, třes, zmatenost)",
         "Lamotrigin + valproát – zdvojnásobení hladin lamotriginu – titrovat na polovinu standardní dávky",
         "Lamotrigin + karbamazepin – snížení hladin lamotriginu (indukce CYP)",
         "Antidepresiva (SSRI, SNRI) + thymostabilizátor – riziko serotoninového syndromu nebo přesmyku"
@@ -1300,7 +1320,7 @@
           ],
           "dostupnost_cr_sukl": true,
           "sukl_poznamka": "Po druhé epizodě se doporučuje udržovací léčba minimálně 2 roky, po třetí epizodě nebo závažném průběhu je indikována dlouhodobá (celoživotní) profylaxe. Dávka udržovací léčby = akutní terapeutická dávka.",
-          "doporucene_davkovani_zahajovaci": "Viz F32. Udržovací dávka = plná terapeutická dávka.",
+          "doporucene_davkovani_zahajovaci": "Sertralin: 50 mg/den, titrace na 100–200 mg/den. Escitalopram: 10–20 mg/den. Venlafaxin XR: 75–225 mg/den. Udržovací dávka = plná terapeutická dávka – nesnižovat při remisi. Po 2. epizodě: léčba min. 2 roky. Po 3. epizodě nebo závažném průběhu: zvážit celoživotní profylaxi.",
           "hlavni_nezadouci_ucinky": [
             "nauzea a GI obtíže (zejm. na začátku léčby)",
             "sexuální dysfunkce (snížené libido, porucha orgasmu)",
@@ -1361,7 +1381,7 @@
       ]
     },
     "zvlastni_upozorneni_a_bezpecnost": {
-      "black_box_warning": "Viz F32. Náhlé vysazení antidepresiv po dlouhodobé léčbě způsobuje abstinenční syndrom (SSRI discontinuation syndrome) – postupné snižování dávky minimálně 4 týdny.",
+      "black_box_warning": "Náhlé vysazení antidepresiv po dlouhodobé léčbě způsobuje SSRI discontinuation syndrome (závratě, parestezie, úzkost, \"brain zaps\") – vysazovat postupně minimálně 4 týdny, u paroxetinu a venlafaxinu déle. FDA black box: SSRI/SNRI zvyšují riziko suicidálních myšlenek u mladistvých do 25 let – pečlivě monitorovat prvních 4–8 týdnů.",
       "interakce": [
         "SSRI + MAOI – absolutní kontraindikace (serotoninový syndrom)",
         "SSRI + tramadol – riziko serotoninového syndromu",
@@ -1372,7 +1392,7 @@
         "Pravidelné hodnocení depresivních příznaků (PHQ-9, MADRS) – každých 3–6 měsíců",
         "Sledování suicidálních myšlenek",
         "Adherence k léčbě",
-        "Lithium (při augmentaci) – viz F30",
+        "Lithium při augmentaci: sérové hladiny Li (cíl 0,6–0,8 mmol/l), renální funkce (kreatinin, eGFR), TSH – při zahájení a každých 6 měsíců",
         "Metabolické parametry u atypických antipsychotik"
       ]
     },
@@ -1397,7 +1417,7 @@
           ],
           "dostupnost_cr_sukl": true,
           "sukl_poznamka": "SSRI jsou lékem první volby. Efekt nastupuje pomaleji než u akutní deprese – hodnotit po 6–8 týdnech. Délka léčby minimálně 2 roky.",
-          "doporucene_davkovani_zahajovaci": "Viz F32.",
+          "doporucene_davkovani_zahajovaci": "Sertralin: zahájit 25–50 mg/den, cílová dávka 50–200 mg/den. Escitalopram: 10 mg/den, cílová 10–20 mg/den. Fluoxetin: 20 mg/den, cílová 20–60 mg/den. Efekt hodnotit po 6–8 týdnech – u dystymie je nástup účinku pomalejší než u akutní deprese. Léčba trvá minimálně 2 roky.",
           "hlavni_nezadouci_ucinky": [
             "nauzea a GI obtíže (zejm. na začátku léčby)",
             "sexuální dysfunkce (snížené libido, porucha orgasmu)",
@@ -1434,7 +1454,7 @@
       ]
     },
     "zvlastni_upozorneni_a_bezpecnost": {
-      "black_box_warning": "Viz F32. Dystymie je spojována s vyšším rizikem rozvoje velké depresivní epizody (double depression) – aktivní sledování.",
+      "black_box_warning": "FDA black box warning: SSRI zvyšují riziko suicidálních myšlenek a chování u dětí, adolescentů a mladých dospělých (do 25 let) – monitorovat intenzivně prvních 4–8 týdnů. Dystymie je spojena s vyšším rizikem rozvoje velké depresivní epizody (double depression) – aktivně sledovat zhoršení příznaků.",
       "interakce": [
         "SSRI + MAOI – absolutní kontraindikace (serotoninový syndrom)",
         "SSRI + tramadol – riziko serotoninového syndromu",
@@ -2565,7 +2585,7 @@
           ],
           "dostupnost_cr_sukl": true,
           "sukl_poznamka": "Polysubstanční závislost vyžaduje individualizovaný přístup. Prioritizovat detoxifikaci od látek s fyzickým abstinenčním syndromem (alkohol → benzodiazepiny; opiáty → buprenorfin nebo metadon). Stimulancia (kokain, metamfetamin) nemají specifickou farmakologickou léčbu – primárně psychosociální přístupy.",
-          "doporucene_davkovani_zahajovaci": "Dle dominantní substance – viz F10 (alkohol), F11 (opiáty).",
+          "doporucene_davkovani_zahajovaci": "Prioritizovat detoxifikaci od látek s fyzickým abstinenčním syndromem: Alkohol: diazepam 10–20 mg každé 1–2 h dle CIWA-Ar + thiamin 100 mg i.v. PŘED glukózou. Opiáty: buprenorfin/naloxon 2/0,5 mg s.l. při COWS ≥ 8, titrace na 8/2–24/6 mg/den. Sedativa (BZD): převod na diazepam v ekvivalentní dávce, pak postupné snižování o 10 %/1–2 týdny. Stimulancia a kanabinoidy: bez specifické detoxifikace, podpůrná péče.",
           "hlavni_nezadouci_ucinky": [
             "viz dle substance"
           ],
@@ -2600,7 +2620,10 @@
     "zvlastni_upozorneni_a_bezpecnost": {
       "black_box_warning": "Kombinace alkohol + opiáty nebo benzodiazepiny: extrémně vysoké riziko fatální respirační deprese – nejčastější příčina smrti při polysubstanční závislosti. Stimulancia (amfetaminy, kokain) + opiáty: riziko kardiovaskulárních komplikací.",
       "interakce": [
-        "Viz F10 a F11 dle specifické kombinace látek"
+        "Alkohol + opiáty nebo benzodiazepiny – synergistický útlum CNS, riziko fatální respirační deprese (nejčastější příčina smrti při polysubstanční závislosti)",
+        "Metadon + benzodiazepiny – zvláště nebezpečná kombinace (QTc + CNS deprese)",
+        "Stimulancia + MAOI – hypertenzní krize, serotoninový syndrom",
+        "Buprenorfin + plný opioidní agonista – precipitace abstinenčního syndromu pokud buprenorfin podán příliš brzy"
       ],
       "monitoring": [
         "Toxikologické testy (moč, krev) – průběžná kontrola",
@@ -2794,7 +2817,7 @@
             "bupropion: záchvaty při předávkování, suicidální myšlenky u adolescentů"
           ],
           "kontraindikace": [
-            "disulfiram: viz F10",
+            "disulfiram: závažná kardiovaskulární onemocnění, jaterní insuficience, psychóza, pacient neabstinoval < 24 h, těhotenství",
             "bupropion: bulimie, epilepsie, MAOI"
           ]
         }
@@ -3313,7 +3336,7 @@
             "olanzapin"
           ],
           "dostupnost_cr_sukl": true,
-          "sukl_poznamka": "Nízká dávka antipsychotika, krátkodobě. Primární pacient (induktor) vyžaduje léčbu jako pro poruchu s bludy (viz F22).",
+          "sukl_poznamka": "Nízká dávka atypického antipsychotika krátkodobě. Primární pacient (induktor) vyžaduje plnou léčbu poruchy s trvalými bludy: risperidon 2–4 mg/den nebo olanzapin 5–10 mg/den.",
           "doporucene_davkovani_zahajovaci": "Risperidon 1–3 mg/den.",
           "hlavni_nezadouci_ucinky": [
             "extrapyramidové příznaky – EPS (dystonie, parkinsonismus, akatizie)",
@@ -3342,14 +3365,15 @@
     "terapie_druhe_volby": {
       "farmakoterapie": [
         {
-          "skupina_latek": "Viz F22 (porucha s bludy) pro primárního pacienta",
+          "skupina_latek": "Plná léčba poruchy s bludy pro primárního pacienta (induktora)",
           "priklady_generik": [
             "risperidon",
             "olanzapin",
             "haloperidol"
           ],
           "dostupnost_cr_sukl": true,
-          "indikace_k_nasazeni": "Primární pacient vyžaduje plnou léčbu poruchy s bludy."
+          "indikace_k_nasazeni": "Primární pacient vyžaduje plnou léčbu poruchy s bludy.",
+          "sukl_poznamka": "Induktor vyžaduje léčbu jako F22 (poruchy s trvalými bludy): risperidon 2–4 mg/den nebo olanzapin 5–10 mg/den, dlouhodobě. Recipient po separaci a remisi – zvážit vysazení antipsychotika po 3–6 měsících."
         }
       ]
     },
@@ -4396,7 +4420,7 @@
           ],
           "dostupnost_cr_sukl": true,
           "sukl_poznamka": "U poruchy chování s komorbidním ADHD je léčba stimulancii (methylfenidát) klinicky indikována a zlepšuje i chování. Risperidon v nízké dávce pro agresivní chování – off-label u poruchy chování.",
-          "doporucene_davkovani_zahajovaci": "Methylfenidát: viz F90. Risperidon: 0,5–2 mg/den.",
+          "doporucene_davkovani_zahajovaci": "Methylfenidát (pokud komorbidní ADHD): 5 mg ráno, titrace o 5 mg/týden, cílová 0,5–1 mg/kg/den (max. 60 mg/den). Risperidon (pro agresi bez ADHD): 0,25–0,5 mg/den u dětí < 50 kg, 0,5–1 mg/den u dětí > 50 kg.",
           "hlavni_nezadouci_ucinky": [
             "methylfenidát: snížení chuti k jídlu, insomnie, bolest hlavy, zvýšení TK a TF, zpomalení růstu u dětí při dlouhodobém podávání",
             "risperidon: EPS, přírůstek hmotnosti, hyperprolaktinémie, sedace, metabolický syndrom"
@@ -4757,15 +4781,33 @@
         }
       ],
       "nefarmakologicka_terapie": [
-        "Viz F23"
+        "Klidné a strukturované prostředí v akutní fázi",
+        "Psychoedukace pacienta a rodiny po odeznění příznaků",
+        "Podpůrná psychoterapie",
+        "Sledování relapsu – rozpoznání prodromálních příznaků"
       ]
     },
     "terapie_druhe_volby": {
       "farmakoterapie": [
         {
-          "skupina_latek": "Viz F23",
-          "priklady_generik": [],
-          "dostupnost_cr_sukl": true
+          "skupina_latek": "Benzodiazepiny krátkodobě pro agitaci + zvážit klozapin u rezistentní formy",
+          "priklady_generik": [
+            "lorazepam",
+            "klozapin"
+          ],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Lorazepam 1–2 mg p.o. nebo i.m. pro akutní agitaci. Klozapin zvážit při rezistenci a selhání ≥ 2 antipsychotik.",
+          "doporucene_davkovani_zahajovaci": "Lorazepam: 1–2 mg p.o./i.m. krátkodobě.",
+          "hlavni_nezadouci_ucinky": [
+            "sedace",
+            "závislost (lorazepam)",
+            "agranulocytóza (klozapin)"
+          ],
+          "kontraindikace": [
+            "těžká respirační insuficience (lorazepam)",
+            "agranulocytóza v anamnéze (klozapin)"
+          ],
+          "indikace_k_nasazeni": "Akutní agitace nebo rezistence na 2 antipsychotika."
         }
       ]
     },
@@ -4801,8 +4843,8 @@
             "aripiprazol"
           ],
           "dostupnost_cr_sukl": true,
-          "sukl_poznamka": "Viz F20 (schizofrenie) pro kompletní léčebný postup. F29 kód použít pouze dočasně, než je stanovena přesnější diagnóza.",
-          "doporucene_davkovani_zahajovaci": "Viz F20.",
+          "sukl_poznamka": "F29 je dočasný kód – upřesnit diagnózu co nejdříve (schizofrenie F20, bipolární porucha s psychózou F31, organická psychóza F06, akutní stresová reakce s psychotickými příznaky F43). Zahájit léčbu atypickým antipsychotikem (risperidon 2–4 mg/den nebo olanzapin 5–10 mg/den). Všechny níže uvedené látky jsou registrovány v ČR.",
+          "doporucene_davkovani_zahajovaci": "Risperidon: 1–2 mg/den zahajovací, cílová 4–6 mg/den. Olanzapin: 5–10 mg/den zahajovací, cílová 10–20 mg/den. Quetiapin: 50 mg/den zahajovací, cílová 300–750 mg/den. Aripiprazol: 10–15 mg/den, cílová 15–30 mg/den.",
           "hlavni_nezadouci_ucinky": [
             "extrapyramidové příznaky – EPS (dystonie, parkinsonismus, akatizie)",
             "tardivní dyskineze při dlouhodobém podávání",
@@ -4822,15 +4864,34 @@
         }
       ],
       "nefarmakologicka_terapie": [
-        "Viz F20"
+        "Diferenciálně-diagnostická rozvaha – vyloučit organickou příčinu (MRI, EEG, laboratorní vyšetření)",
+        "Psychoedukace pacienta a rodiny",
+        "Klidné prostředí, minimalizace stresorů",
+        "Psychoterapeutická podpora po odeznění akutní fáze"
       ]
     },
     "terapie_druhe_volby": {
       "farmakoterapie": [
         {
-          "skupina_latek": "Viz F20",
-          "priklady_generik": [],
-          "dostupnost_cr_sukl": true
+          "skupina_latek": "Klozapin – při rezistenci na 2 antipsychotika",
+          "priklady_generik": [
+            "klozapin"
+          ],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Registrován v ČR. Povinný hematologický monitoring (KO s diferenciálem). Indikován po selhání ≥ 2 antipsychotik.",
+          "doporucene_davkovani_zahajovaci": "12,5 mg na noc, pomalá titrace na 200–450 mg/den.",
+          "hlavni_nezadouci_ucinky": [
+            "agranulocytóza",
+            "myokarditida",
+            "metabolický syndrom",
+            "záchvaty ve vyšších dávkách"
+          ],
+          "kontraindikace": [
+            "agranulocytóza v anamnéze",
+            "myokarditida",
+            "epilepsie bez antiepileptické léčby"
+          ],
+          "indikace_k_nasazeni": "Rezistence na ≥ 2 antipsychotika v adekvátní dávce a době (> 6 týdnů)."
         }
       ]
     },
@@ -4872,15 +4933,34 @@
         }
       ],
       "nefarmakologicka_terapie": [
-        "Viz F34.0 nebo F34.1"
+        "F34.0 Cyklotymie: psychoedukace o cyklech nálady, regulace spánku (IPSRT), CBT pro bipolární spektrum",
+        "F34.1 Dystymie: kognitivně-behaviorální terapie (CBT) – primárně doporučená, interpersonální terapie (IPT), fyzická aktivita"
       ]
     },
     "terapie_druhe_volby": {
       "farmakoterapie": [
         {
-          "skupina_latek": "Viz F34.0 nebo F34.1",
-          "priklady_generik": [],
-          "dostupnost_cr_sukl": true
+          "skupina_latek": "F34.0 (cyklotymie): thymostabilizátor; F34.1 (dystymie): SSRI nebo SNRI",
+          "priklady_generik": [
+            "lithium",
+            "lamotrigin",
+            "sertralin",
+            "escitalopram"
+          ],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "F34.0: lithium (cílová hladina 0,6–0,8 mmol/l) nebo lamotrigin (titrace od 25 mg/den na 100–200 mg/den). F34.1: sertralin 50–200 mg/den nebo escitalopram 10–20 mg/den, léčba minimálně 2 roky.",
+          "doporucene_davkovani_zahajovaci": "F34.0: lithium dle hladin. F34.1: sertralin 50 mg/den (titrace na 100–200 mg).",
+          "hlavni_nezadouci_ucinky": [
+            "lithium: třes, polyurie, hypotyreóza",
+            "lamotrigin: Stevens-Johnsonův syndrom při rychlé titraci",
+            "SSRI: nauzea, sexuální dysfunkce, insomnie"
+          ],
+          "kontraindikace": [
+            "lithium: GFR < 30, 1. trimestr těhotenství",
+            "valproát: těhotenství",
+            "SSRI: MAOI",
+            "lamotrigin: přecitlivělost"
+          ]
         }
       ]
     },
@@ -4928,9 +5008,25 @@
     "terapie_druhe_volby": {
       "farmakoterapie": [
         {
-          "skupina_latek": "Viz F31 nebo F32",
-          "priklady_generik": [],
-          "dostupnost_cr_sukl": true
+          "skupina_latek": "Thymostabilizátory (smíšená epizoda) nebo SSRI (rekurentní krátká deprese)",
+          "priklady_generik": [
+            "lamotrigin",
+            "valproát",
+            "sertralin"
+          ],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "F38.00 Smíšená epizoda: postupovat jako u bipolární poruchy (F31) – thymostabilizátor ± atypické antipsychotikum, NIKDY antidepresivum v monoterapii. Rekurentní krátká depresivní porucha: SSRI jako u F32.",
+          "doporucene_davkovani_zahajovaci": "Lamotrigin: od 25 mg/den, cílová 100–200 mg. Valproát: 500–1500 mg/den. Sertralin: 50–100 mg/den.",
+          "hlavni_nezadouci_ucinky": [
+            "valproát: teratogenita, přírůstek hmotnosti",
+            "lamotrigin: SJS při rychlé titraci",
+            "sertralin: nauzea, sexuální dysfunkce"
+          ],
+          "kontraindikace": [
+            "valproát: těhotenství (absolutní)",
+            "sertralin: MAOI",
+            "lamotrigin: přecitlivělost"
+          ]
         }
       ]
     },
@@ -4959,7 +5055,7 @@
             "escitalopram"
           ],
           "dostupnost_cr_sukl": true,
-          "sukl_poznamka": "Dočasný kód – upřesnit diagnózu. Přechodně léčit nejpravděpodobnější entitu (depresivní epizoda → viz F32, manie → viz F30)."
+          "sukl_poznamka": "Dočasný kód – upřesnit diagnózu co nejdříve. Přechodná léčba: Pokud obraz odpovídá depresivní epizodě → sertralin 50 mg/den nebo escitalopram 10 mg/den, titrace dle odpovědi, léčba min. 6 měsíců. Pokud obraz odpovídá manické epizodě → olanzapin 10 mg/den nebo lithium (cílová hladina 0,8–1,0 mmol/l). Pokud nelze odlišit polaritu → quetiapin 100–300 mg/den (thymostabilizující i antidepresivní efekt)."
         }
       ],
       "nefarmakologicka_terapie": [
@@ -5001,9 +5097,27 @@
     "terapie_druhe_volby": {
       "farmakoterapie": [
         {
-          "skupina_latek": "Viz F41.0, F41.1, F41.2",
-          "priklady_generik": [],
-          "dostupnost_cr_sukl": true
+          "skupina_latek": "SSRI nebo SNRI dle subkódu + buspiron nebo pregabalin pro GAD",
+          "priklady_generik": [
+            "escitalopram",
+            "sertralin",
+            "venlafaxin",
+            "buspiron",
+            "pregabalin"
+          ],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "F41.0 (Panická porucha): escitalopram 5–20 mg/den nebo sertralin 25–200 mg/den, začínat nízkou dávkou. F41.1 (GAD): escitalopram 10–20 mg/den, venlafaxin XR 75–225 mg/den, pregabalin 150–600 mg/den nebo buspiron 15–60 mg/den. F41.2 (Smíšená): SSRI + CBT.",
+          "doporucene_davkovani_zahajovaci": "F41.0 (panická porucha): escitalopram 5 mg/den → 10–20 mg/den; sertralin 25 mg/den → 50–200 mg/den. F41.1 (GAD): venlafaxin XR 75 mg/den → 150–225 mg/den; pregabalin 75 mg 2× denně → 150–600 mg/den; buspiron 5 mg 3× denně → 15–60 mg/den. F41.2 (smíšená): sertralin 50 mg/den nebo escitalopram 10 mg/den.",
+          "hlavni_nezadouci_ucinky": [
+            "SSRI/SNRI: nauzea, sexuální dysfunkce, insomnie",
+            "pregabalin: sedace, závratě, riziko závislosti",
+            "buspiron: závratě, bolest hlavy"
+          ],
+          "kontraindikace": [
+            "SSRI/SNRI: MAOI",
+            "pregabalin: závislost v anamnéze (relativní)",
+            "buspiron: MAOI, jaterní insuficience"
+          ]
         }
       ]
     },
@@ -5029,7 +5143,9 @@
         }
       ],
       "nefarmakologicka_terapie": [
-        "Viz F43.0, F43.1 nebo F43.2"
+        "F43.0 (Akutní stresová reakce): Psychological First Aid (PFA), podpůrné prostředí, sledování – farmakoterapie obvykle není nutná",
+        "F43.1 (PTSD): Trauma-fokusovaná CBT (TF-CBT) nebo EMDR – léčba první volby; farmakoterapie: sertralin nebo paroxetin",
+        "F43.2 (Adaptační porucha): krátkodobá CBT nebo supportivní psychoterapie, SSRI pouze při výrazných příznacích trvajících > 4 týdny"
       ]
     },
     "terapie_druhe_volby": {
@@ -5431,24 +5547,44 @@
             "lamotrigin"
           ],
           "dostupnost_cr_sukl": true,
-          "sukl_poznamka": "Viz F60 – přístup je stejný. Psychoterapie je primární léčbou. Farmakoterapie cílí na specifické symptomové dimenze."
+          "sukl_poznamka": "Smíšené poruchy osobnosti se léčí stejnými principy jako F60 (specifické poruchy osobnosti). Psychoterapie je primární: DBT, schema therapy nebo supportivní terapie. Farmakoterapie cílí na specifické symptomové dimenze: impulzivita → SSRI nebo lamotrigin; afektivní nestabilita → lamotrigin nebo valproát; mikropsychotické příznaky → nízká dávka antipsychotika."
         }
       ],
       "nefarmakologicka_terapie": [
-        "Viz F60 – DBT, schema therapy, supportivní terapie"
+        "Dialektická behaviorální terapie (DBT) – pro emoční dysregulaci a impulzivitu (primárně BPD rysy)",
+        "Schema therapy – pro maladaptivní kognitivní schémata",
+        "Supportivní psychoterapie – stabilizace a podpora",
+        "Skupinová terapie – sdílení zkušeností, sociální dovednosti"
       ]
     },
     "terapie_druhe_volby": {
       "farmakoterapie": [
         {
-          "skupina_latek": "Viz F60",
-          "priklady_generik": [],
-          "dostupnost_cr_sukl": true
+          "skupina_latek": "SSRI nebo thymostabilizátor dle dominujícího příznaku",
+          "priklady_generik": [
+            "sertralin",
+            "lamotrigin",
+            "valproát",
+            "aripiprazol"
+          ],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Sertralin 50–200 mg/den pro impulzivitu a dysforii. Lamotrigin 100–200 mg/den pro afektivní nestabilitu. Aripiprazol 5–15 mg/den pro mikropsychotické příznaky.",
+          "doporucene_davkovani_zahajovaci": "Sertralin: 50 mg/den. Lamotrigin: titrace od 25 mg/den. Aripiprazol: 5 mg/den.",
+          "hlavni_nezadouci_ucinky": [
+            "sertralin: nauzea, sexuální dysfunkce",
+            "lamotrigin: Stevens-Johnsonův syndrom při rychlé titraci",
+            "aripiprazol: akatizie"
+          ],
+          "kontraindikace": [
+            "sertralin: MAOI",
+            "lamotrigin: přecitlivělost",
+            "aripiprazol: kóma"
+          ]
         }
       ]
     },
     "zvlastni_upozorneni_a_bezpecnost": {
-      "black_box_warning": "Viz F60.",
+      "black_box_warning": "Benzodiazepiny jsou u poruch osobnosti kontraindikovány pro dlouhodobé použití – disinhibice, závislost, riziko předávkování. Suicidalita a parasuicidální chování – aktivně sledovat, zejm. u smíšených poruch s BPD rysy.",
       "interakce": [],
       "monitoring": [
         "suicidalita a parasuicidální chování",
@@ -5730,14 +5866,31 @@
     "terapie_prvni_volby": {
       "farmakoterapie": [
         {
-          "skupina_latek": "Viz F60 – přístup dle dominujícího příznaku",
-          "priklady_generik": [],
+          "skupina_latek": "Symptomatická farmakoterapie dle dominujícího příznaku",
+          "priklady_generik": [
+            "sertralin",
+            "aripiprazol",
+            "lamotrigin"
+          ],
           "dostupnost_cr_sukl": true,
-          "sukl_poznamka": "Dočasný kód – upřesnit diagnózu."
+          "sukl_poznamka": "Dočasný kód – upřesnit diagnózu. Do té doby léčit dle dominujícího příznakového okruhu: impulzivita/dysforie → SSRI; afektivní nestabilita → thymostabilizátor; mikropsychotické příznaky → nízká dávka antipsychotika.",
+          "doporucene_davkovani_zahajovaci": "Sertralin 50 mg/den. Aripiprazol 5–10 mg/den. Lamotrigin od 25 mg/den.",
+          "hlavni_nezadouci_ucinky": [
+            "sertralin: nauzea, sexuální dysfunkce",
+            "aripiprazol: akatizie, insomnie",
+            "lamotrigin: vyrážka"
+          ],
+          "kontraindikace": [
+            "sertralin: MAOI",
+            "aripiprazol: kóma",
+            "lamotrigin: přecitlivělost"
+          ]
         }
       ],
       "nefarmakologicka_terapie": [
-        "Viz F60"
+        "Strukturovaná psychoterapie dle nejbližší diagnostické skupiny",
+        "DBT nebo schema therapy pro emoční dysregulaci",
+        "Upřesnit diagnózu pro cílenou léčbu"
       ]
     },
     "terapie_druhe_volby": {
@@ -5758,30 +5911,61 @@
     "terapie_prvni_volby": {
       "farmakoterapie": [
         {
-          "skupina_latek": "Viz F70 – přístup je shodný, nižší dávky léků",
+          "skupina_latek": "Symptomatická farmakoterapie komorbidních poruch – nízké zahajovací dávky",
           "priklady_generik": [
             "risperidon",
-            "aripiprazol"
+            "aripiprazol",
+            "methylfenidát",
+            "sertralin"
           ],
           "dostupnost_cr_sukl": true,
-          "sukl_poznamka": "U středně těžké MR (IQ 35–49) jsou farmakologické principy shodné s F70. Zvýšená citlivost na nežádoucí účinky – zahajovat vždy nejnižší dávkou."
+          "sukl_poznamka": "U středně těžké MR (IQ 35–49) platí stejné principy jako u lehké MR. Zahajovat vždy nejnižší dávkou – zvýšená citlivost na nežádoucí účinky. Risperidon pro agitaci a sebepoškozování (0,25–1 mg/den). Methylfenidát pro ADHD (5 mg/den, pomalá titrace).",
+          "doporucene_davkovani_zahajovaci": "Risperidon: 0,125–0,5 mg/den (nižší dávky než u lehké MR). Aripiprazol: 2 mg/den. Methylfenidát: 5 mg ráno.",
+          "hlavni_nezadouci_ucinky": [
+            "risperidon: EPS, přírůstek hmotnosti, hyperprolaktinémie, sedace",
+            "aripiprazol: akatizie, insomnie",
+            "methylfenidát: snížení chuti k jídlu, insomnie"
+          ],
+          "kontraindikace": [
+            "risperidon: kóma, QTc > 500 ms, feochromocytom",
+            "methylfenidát: MAOI, glaukom, feochromocytom"
+          ]
         }
       ],
       "nefarmakologicka_terapie": [
-        "Viz F70 – speciální vzdělávání, behaviorální terapie, ergoterapie"
+        "Speciální vzdělávání a pedagogická podpora přizpůsobená stupni postižení",
+        "Behaviorální terapie – funkční analýza a redukce problémového chování",
+        "Logopedie – trénink komunikačních dovedností",
+        "Ergoterapie a fyzioterapie",
+        "Podpora rodiny a pečovatelů",
+        "Chráněné bydlení a pracovní rehabilitace"
       ]
     },
     "terapie_druhe_volby": {
       "farmakoterapie": [
         {
-          "skupina_latek": "Viz F70",
-          "priklady_generik": [],
-          "dostupnost_cr_sukl": true
+          "skupina_latek": "Atomoxetin pro ADHD nebo thymostabilizátor pro agresivitu",
+          "priklady_generik": [
+            "atomoxetin",
+            "valproát"
+          ],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Atomoxetin pro ADHD při kontraindikaci methylfenidátu. Valproát pro agresivitu – off-label.",
+          "doporucene_davkovani_zahajovaci": "Atomoxetin: 0,5 mg/kg/den, cílová 1,2 mg/kg/den. Valproát: 250–750 mg/den.",
+          "hlavni_nezadouci_ucinky": [
+            "atomoxetin: nauzea, zvýšení TK/TF, hepatotoxicita (vzácně)",
+            "valproát: přírůstek hmotnosti, sedace"
+          ],
+          "kontraindikace": [
+            "atomoxetin: MAOI, glaukom",
+            "valproát: těhotenství, jaterní insuficience"
+          ],
+          "indikace_k_nasazeni": "Komorbidní ADHD s kontraindikací stimulancií nebo přetrvávající agresivita."
         }
       ]
     },
     "zvlastni_upozorneni_a_bezpecnost": {
-      "black_box_warning": "Viz F70.",
+      "black_box_warning": "Zvýšená citlivost na nežádoucí účinky psychofarmak u středně těžké MR – zahajovat vždy nejnižší dostupnou dávkou. Benzodiazepiny mohou paradoxně zvyšovat agitaci a problémové chování.",
       "interakce": [],
       "monitoring": [
         "behaviorální hodnocení – ABC škála (Aberrant Behavior Checklist)",
@@ -5818,7 +6002,7 @@
       "farmakoterapie": []
     },
     "zvlastni_upozorneni_a_bezpecnost": {
-      "black_box_warning": "Viz F70 – zvýšená citlivost na NÚ.",
+      "black_box_warning": "Těžká MR (IQ 20–34) – zvýšená citlivost na nežádoucí účinky psychofarmak. Farmakoterapie jen při závažné agitaci nebo sebepoškozování, v nejnižší možné dávce. Benzodiazepiny mohou paradoxně zvyšovat agitaci.",
       "interakce": [],
       "monitoring": [
         "behaviorální hodnocení – ABC škála (Aberrant Behavior Checklist)",
@@ -5872,14 +6056,32 @@
     "terapie_prvni_volby": {
       "farmakoterapie": [
         {
-          "skupina_latek": "Viz F70–F73 dle závažnosti",
-          "priklady_generik": [],
+          "skupina_latek": "Symptomatická farmakoterapie dle přítomné komorbidity a závažnosti",
+          "priklady_generik": [
+            "risperidon",
+            "aripiprazol"
+          ],
           "dostupnost_cr_sukl": true,
-          "sukl_poznamka": "F78 – mentální retardace s přidruženými poruchami senzorů nebo motoriky (nesklasifikovatelná jinak)."
+          "sukl_poznamka": "F78 zahrnuje MR s přidruženými poruchami senzorů nebo motoriky, které komplikují klasifikaci. Přístup shodný s F70–F72 dle funkční úrovně. Vždy zahajovat nejnižší dávkou.",
+          "doporucene_davkovani_zahajovaci": "Risperidon: 0,125–1 mg/den dle tělesné hmotnosti a funkční úrovně.",
+          "hlavni_nezadouci_ucinky": [
+            "EPS",
+            "přírůstek hmotnosti",
+            "sedace",
+            "hyperprolaktinémie"
+          ],
+          "kontraindikace": [
+            "kóma",
+            "QTc > 500 ms",
+            "feochromocytom"
+          ]
         }
       ],
       "nefarmakologicka_terapie": [
-        "Viz F70"
+        "Multidisciplinární tým (psychiatr, neurolog, oftalmolog/audiolog, ergoterapeut, fyzioterapeut)",
+        "Speciální vzdělávání přizpůsobené smyslovému postižení (Braillovo písmo, znakový jazyk)",
+        "Alternativní komunikace (AAK)",
+        "Podpora rodiny"
       ]
     },
     "terapie_druhe_volby": {
@@ -5900,14 +6102,32 @@
     "terapie_prvni_volby": {
       "farmakoterapie": [
         {
-          "skupina_latek": "Viz F70 – obecný přístup k MR",
-          "priklady_generik": [],
+          "skupina_latek": "Symptomatická farmakoterapie dle přítomné komorbidity",
+          "priklady_generik": [
+            "risperidon",
+            "methylfenidát",
+            "sertralin"
+          ],
           "dostupnost_cr_sukl": true,
-          "sukl_poznamka": "Dočasný kód do upřesnění stupně."
+          "sukl_poznamka": "Dočasný kód – upřesnit stupeň MR psychologickým vyšetřením (IQ testy, Vineland). Farmakoterapie dle přítomné psychiatrické komorbidity (ADHD, agrese, deprese). Vždy zahajovat nejnižší dávkou.",
+          "doporucene_davkovani_zahajovaci": "Risperidon: 0,125–1 mg/den. Methylfenidát: 5 mg ráno. Sertralin: 12,5–25 mg/den.",
+          "hlavni_nezadouci_ucinky": [
+            "EPS (risperidon)",
+            "snížení chuti k jídlu (methylfenidát)",
+            "nauzea (sertralin)"
+          ],
+          "kontraindikace": [
+            "risperidon: kóma, QTc > 500 ms",
+            "methylfenidát: MAOI",
+            "sertralin: MAOI"
+          ]
         }
       ],
       "nefarmakologicka_terapie": [
-        "Viz F70"
+        "Psychologické vyšetření – stanovení IQ a adaptivního fungování (Vineland)",
+        "Speciální pedagogická podpora",
+        "Behaviorální intervence",
+        "Podpora rodiny a pečovatelů"
       ]
     },
     "terapie_druhe_volby": {
