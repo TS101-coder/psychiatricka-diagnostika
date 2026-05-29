@@ -9657,7 +9657,7 @@
     "kod": "F50",
     "nazev_cz": "Poruchy příjmu potravy",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Poruchy příjmu potravy",
     "popis": "Poruchy charakterizované narušeným příjmem potravy a distorzí vztahu k tělu a hmotnosti.",
     "diagnosticka_kriteria": [
@@ -9688,7 +9688,7 @@
     "kod": "F50.0",
     "nazev_cz": "Mentální anorexie",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Poruchy příjmu potravy",
     "popis": "Porucha charakterizovaná záměrným snižováním hmotnosti, vyvolaným nebo udržovaným samotným pacientem.",
     "diagnosticka_kriteria": [
@@ -9731,7 +9731,7 @@
     "kod": "F50.1",
     "nazev_cz": "Atypická mentální anorexie",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Poruchy příjmu potravy",
     "popis": "Porucha splňující některé, ale ne všechna kritéria mentální anorexie.",
     "diagnosticka_kriteria": [
@@ -9762,7 +9762,7 @@
     "kod": "F50.2",
     "nazev_cz": "Mentální bulimie",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Poruchy příjmu potravy",
     "popis": "Porucha charakterizovaná opakujícími se záchvaty přejídání a kompenzačními mechanismy.",
     "diagnosticka_kriteria": [
@@ -9805,7 +9805,7 @@
     "kod": "F50.3",
     "nazev_cz": "Atypická mentální bulimie",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Poruchy příjmu potravy",
     "popis": "Porucha splňující některá, ale ne všechna kritéria mentální bulimie.",
     "diagnosticka_kriteria": [
@@ -9834,7 +9834,7 @@
     "kod": "F50.4",
     "nazev_cz": "Přejídání spojené s jinými psychologickými poruchami",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Poruchy příjmu potravy",
     "popis": "Nadměrné jedení jako reakce na stresující události (binge eating disorder).",
     "diagnosticka_kriteria": [
@@ -9954,7 +9954,7 @@
     "kod": "F51",
     "nazev_cz": "Neorganické poruchy spánku",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Poruchy spánku",
     "popis": "Poruchy spánku primárně způsobené emočními příčinami.",
     "diagnosticka_kriteria": [
@@ -9985,9 +9985,9 @@
   {
     "id": "F51.0",
     "kod": "F51.0",
-    "nazev_cz": "Neorganická insomnie",
+    "nazev_cz": "Neorganická nespavost",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Poruchy spánku",
     "popis": "Porucha spánku s neschopností usnutí, udržení spánku nebo s příliš časným probuzením.",
     "diagnosticka_kriteria": [
@@ -10025,7 +10025,7 @@
   {
     "id": "F51.1",
     "kod": "F51.1",
-    "nazev_cz": "Neorganická hypersomnolence",
+    "nazev_cz": "Neorganická hypersomnie",
     "system": "MKN-10",
     "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
     "podkategorie": "Neorganické poruchy spánku",
@@ -10064,7 +10064,7 @@
   {
     "id": "F51.2",
     "kod": "F51.2",
-    "nazev_cz": "Neorganická porucha spánku a bdění",
+    "nazev_cz": "Neorganická porucha cyklu bdění a spánku",
     "system": "MKN-10",
     "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
     "podkategorie": "Neorganické poruchy spánku",
@@ -10099,9 +10099,9 @@
   {
     "id": "F51.3",
     "kod": "F51.3",
-    "nazev_cz": "Somnambulismus (náměsíčnictví)",
+    "nazev_cz": "Náměsíčnictví (somnambulismus)",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Poruchy spánku",
     "popis": "Stav změněného vědomí, při němž se kombinují jevy spánku a bdění. Pacient vstává z postele, chodí a provádí složité činnosti.",
     "diagnosticka_kriteria": [
@@ -10137,7 +10137,7 @@
   {
     "id": "F51.4",
     "kod": "F51.4",
-    "nazev_cz": "Děs ze spánku (pavor nocturnus)",
+    "nazev_cz": "Spánkové děsy (noční děsy)",
     "system": "MKN-10",
     "kategorie": "F50–F59 Behaviorální syndromes",
     "podkategorie": "Poruchy spánku",
@@ -10177,7 +10177,7 @@
     "kod": "F51.5",
     "nazev_cz": "Noční můry",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Poruchy spánku",
     "popis": "Noční sny vyvolávající úzkost nebo strach, které si pacient pamatuje.",
     "diagnosticka_kriteria": [
@@ -10265,7 +10265,7 @@
     "kod": "F52",
     "nazev_cz": "Sexuální dysfunkce nezpůsobené organickou poruchou nebo nemocí",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Sexuální dysfunkce",
     "popis": "Poruchy sexuální odpovědi nezpůsobené organickou příčinou.",
     "diagnosticka_kriteria": [
@@ -10295,9 +10295,9 @@
   {
     "id": "F52.0",
     "kod": "F52.0",
-    "nazev_cz": "Nedostatečný nebo ztracený zájem o sex (nedostatek sexuální touhy)",
+    "nazev_cz": "Nedostatek nebo ztráta sexuální žádostivosti",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Sexuální dysfunkce",
     "popis": "Snížené nebo chybějící sexuální touhy a chování.",
     "diagnosticka_kriteria": [
@@ -10329,7 +10329,7 @@
   {
     "id": "F52.1",
     "kod": "F52.1",
-    "nazev_cz": "Sexuální averze a nedostatek sexuálního potěšení",
+    "nazev_cz": "Odpor k sexu a nedostatek požitku ze sexuality",
     "system": "MKN-10",
     "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
     "podkategorie": "Sexuální dysfunkce",
@@ -10402,7 +10402,7 @@
   {
     "id": "F52.3",
     "kod": "F52.3",
-    "nazev_cz": "Orgasmická dysfunkce",
+    "nazev_cz": "Poruchy orgasmu",
     "system": "MKN-10",
     "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
     "podkategorie": "Sexuální dysfunkce",
@@ -10440,7 +10440,7 @@
     "kod": "F52.4",
     "nazev_cz": "Předčasná ejakulace",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Sexuální dysfunkce",
     "popis": "Neschopnost kontrolovat ejakulaci natolik, aby oba partneři mohli pohlavní styk vychutnat. Ejakulace nastává před zahájením pohlavního styku nebo velmi brzy po jeho zahájení, nebo i bez dostatečné erekce umožňující pohlavní styk.",
     "diagnosticka_kriteria": [
@@ -10545,7 +10545,7 @@
   {
     "id": "F52.7",
     "kod": "F52.7",
-    "nazev_cz": "Nadměrná sexuální apetence",
+    "nazev_cz": "Nadměrné sexuální nutkání",
     "system": "MKN-10",
     "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
     "podkategorie": "Sexuální dysfunkce",
@@ -10581,7 +10581,7 @@
   {
     "id": "F52.8",
     "kod": "F52.8",
-    "nazev_cz": "Jiné sexuální dysfunkce",
+    "nazev_cz": "Jiné sexuální poruchy, které nejsou způsobeny organickou poruchou nebo nemocí",
     "system": "MKN-10",
     "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
     "podkategorie": "Sexuální dysfunkce",
@@ -10607,7 +10607,7 @@
   {
     "id": "F52.9",
     "kod": "F52.9",
-    "nazev_cz": "Sexuální dysfunkce NS",
+    "nazev_cz": "Neurčená sexuální porucha, která není způsobena organickou poruchou nebo nemocí",
     "system": "MKN-10",
     "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
     "podkategorie": "Sexuální dysfunkce",
@@ -10633,9 +10633,9 @@
   {
     "id": "F53",
     "kod": "F53",
-    "nazev_cz": "Duševní poruchy a poruchy chování spojené se šestinedělím",
+    "nazev_cz": "Duševní poruchy a poruchy chování související se šestinedělím",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Poruchy šestinedělí",
     "popis": "Duševní poruchy vznikající v průběhu šestinedělí, nezařazené jinde.",
     "diagnosticka_kriteria": [
@@ -10665,9 +10665,9 @@
   {
     "id": "F53.0",
     "kod": "F53.0",
-    "nazev_cz": "Mírné duševní poruchy a poruchy chování spojené se šestinedělím (poporodní blues a lehká deprese)",
+    "nazev_cz": "Lehké duševní poruchy a poruchy chování v souvislosti se šestinedělím",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Poruchy šestinedělí",
     "popis": "Mírné afektivní příznaky v šestinedělí.",
     "diagnosticka_kriteria": [
@@ -10698,9 +10698,9 @@
   {
     "id": "F53.1",
     "kod": "F53.1",
-    "nazev_cz": "Závažné duševní poruchy a poruchy chování spojené se šestinedělím (poporodní psychóza)",
+    "nazev_cz": "Těžké duševní poruchy v souvislosti se šestinedělím",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Poruchy šestinedělí",
     "popis": "Závažná duševní porucha vznikající krátce po porodu – nejčastěji afektivní psychóza.",
     "diagnosticka_kriteria": [
@@ -10735,7 +10735,7 @@
   {
     "id": "F53.8",
     "kod": "F53.8",
-    "nazev_cz": "Jiné duševní poruchy a poruchy chování spojené s šestinedělím",
+    "nazev_cz": "Jiné duševní poruchy v souvislosti se šestinedělím",
     "system": "MKN-10",
     "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
     "podkategorie": "Poruchy duševního zdraví spojené s šestinedělím",
@@ -10764,7 +10764,7 @@
   {
     "id": "F53.9",
     "kod": "F53.9",
-    "nazev_cz": "NS duševní porucha spojená s šestinedělím",
+    "nazev_cz": "Puerperální duševní poruchy NS",
     "system": "MKN-10",
     "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
     "podkategorie": "Poruchy duševního zdraví spojené s šestinedělím",
@@ -10790,9 +10790,9 @@
   {
     "id": "F54",
     "kod": "F54",
-    "nazev_cz": "Psychologické a behaviorální faktory spojené s poruchami nebo nemocemi klasifikovanými jinde",
+    "nazev_cz": "Psychologické a behaviorální faktory spojené s chorobami nebo poruchami zařazenými jinde",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Psychosomatika",
     "popis": "Kód pro zaznamenání psychologických nebo behaviorálních faktorů přispívajících k somatickému onemocnění.",
     "diagnosticka_kriteria": [
@@ -10821,7 +10821,7 @@
     "kod": "F55",
     "nazev_cz": "Škodlivé užívání látek, které nezpůsobují závislost",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Škodlivé užívání",
     "popis": "Nadužívání antidepresiv, projímadel, analgetik nebo jiných látek nezpůsobujících závislost.",
     "diagnosticka_kriteria": [
@@ -11105,7 +11105,7 @@
     "kod": "F59",
     "nazev_cz": "Neurčené behaviorální syndromy spojené s fyziologickými poruchami a tělesnými faktory",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Jiné",
     "popis": "Behaviorální syndrom bez dostatku informací pro specifičtější diagnózu.",
     "diagnosticka_kriteria": [
@@ -11133,7 +11133,7 @@
     "kod": "F60",
     "nazev_cz": "Specifické poruchy osobnosti",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Závažné poruchy charakterové konstituce a behaviorálních tendencí jedince, zahrnující zpravidla více oblastí osobnosti. Jsou téměř vždy asociovány s výraznou osobní a sociální dezintegrací.",
     "diagnosticka_kriteria": [
@@ -11169,7 +11169,7 @@
     "kod": "F60.0",
     "nazev_cz": "Paranoidní porucha osobnosti",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Porucha osobnosti s přecitlivělostí, nedůvěřivostí, podezíravostí a tendencí ke vztahovačnosti.",
     "diagnosticka_kriteria": [
@@ -11206,7 +11206,7 @@
     "kod": "F60.1",
     "nazev_cz": "Schizoidní porucha osobnosti",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Porucha osobnosti s odtažeností od sociálních vztahů a omezeným rozsahem emocionálního vyjadřování.",
     "diagnosticka_kriteria": [
@@ -11242,7 +11242,7 @@
     "kod": "F60.2",
     "nazev_cz": "Disociální porucha osobnosti",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Porucha osobnosti s hrubým nesouladem mezi chováním a platnými společenskými normami. Synonyma: antisociální, psychopatická, sociopatická porucha.",
     "diagnosticka_kriteria": [
@@ -11279,7 +11279,7 @@
     "kod": "F60.3",
     "nazev_cz": "Emočně nestabilní porucha osobnosti",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Porucha osobnosti s výraznou tendencí jednat impulzivně bez předvídání následků, s nestabilní náladou.",
     "diagnosticka_kriteria": [
@@ -11314,7 +11314,7 @@
     "kod": "F60.30",
     "nazev_cz": "Impulzivní typ emočně nestabilní poruchy osobnosti",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Emočně nestabilní porucha osobnosti s dominantní impulzivitou a výbuchy násilí.",
     "diagnosticka_kriteria": [
@@ -11348,7 +11348,7 @@
     "kod": "F60.31",
     "nazev_cz": "Hraniční typ emočně nestabilní poruchy osobnosti (BPD)",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Hraniční porucha osobnosti – nejčastěji diagnostikovaná porucha osobnosti na psychiatrii.",
     "diagnosticka_kriteria": [
@@ -11388,7 +11388,7 @@
     "kod": "F60.4",
     "nazev_cz": "Histrionská porucha osobnosti",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Porucha osobnosti s výraznou emocionalitou, dramatičností a stálou snahou získat pozornost.",
     "diagnosticka_kriteria": [
@@ -11422,9 +11422,9 @@
   {
     "id": "F60.5",
     "kod": "F60.5",
-    "nazev_cz": "Anankastická (obsedantně kompulzivní) porucha osobnosti",
+    "nazev_cz": "Anankastická porucha osobnosti",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Porucha osobnosti s nadměrnou pečlivostí, perfekcionismem a rigiditou.",
     "diagnosticka_kriteria": [
@@ -11457,9 +11457,9 @@
   {
     "id": "F60.6",
     "kod": "F60.6",
-    "nazev_cz": "Anxiozní (vyhýbavá) porucha osobnosti",
+    "nazev_cz": "Anxiózní (vyhýbavá) porucha osobnosti",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Porucha osobnosti s trvalými pocity napjetí a obavami, nedůvěrou v sebe a potřebou být oblíben.",
     "diagnosticka_kriteria": [
@@ -11494,7 +11494,7 @@
     "kod": "F60.7",
     "nazev_cz": "Závislá porucha osobnosti",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Porucha osobnosti s nadměrnou potřebou být pečováno o sebe, pasivitou a submisivitou.",
     "diagnosticka_kriteria": [
@@ -11530,7 +11530,7 @@
     "kod": "F60.8",
     "nazev_cz": "Jiné specifické poruchy osobnosti",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Specifické poruchy osobnosti nezařazené jinde – narcistická, pasivně-agresivní, depresivní aj.",
     "diagnosticka_kriteria": [
@@ -11560,7 +11560,7 @@
     "kod": "F60.9",
     "nazev_cz": "Porucha osobnosti neurčená",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Porucha osobnosti bez dostatku informací pro specifičtější diagnózu nebo smíšená.",
     "diagnosticka_kriteria": [
@@ -11589,7 +11589,7 @@
     "kod": "F61",
     "nazev_cz": "Smíšené a jiné poruchy osobnosti",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Poruchy osobnosti",
     "popis": "Smíšené poruchy osobnosti nebo poruchy osobnosti způsobující tíseň, ale nesplňující kritéria žádné specifické kategorie.",
     "diagnosticka_kriteria": [
@@ -11615,9 +11615,9 @@
   {
     "id": "F62",
     "kod": "F62",
-    "nazev_cz": "Trvalé změny osobnosti, které nejsou způsobeny poškozením nebo chorobou mozku",
+    "nazev_cz": "Přetrvávající změny osobnosti, které nelze přisoudit poškození nebo nemoci mozku",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Změny osobnosti",
     "popis": "Trvalé změny osobnosti, které lze vysledovat jako následek extrémního nebo vleklého stresu, nebo jako následek závažné psychiatrické choroby.",
     "diagnosticka_kriteria": [
@@ -11649,9 +11649,9 @@
   {
     "id": "F62.0",
     "kod": "F62.0",
-    "nazev_cz": "Trvalá změna osobnosti po katastrofické zkušenosti",
+    "nazev_cz": "Přetrvávající změna osobnosti po katastrofické zkušenosti",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Změny osobnosti",
     "popis": "Trvalá změna osobnosti po extrémním traumatu (koncentrační tábor, mučení, katastrofy).",
     "diagnosticka_kriteria": [
@@ -11681,7 +11681,7 @@
   {
     "id": "F62.1",
     "kod": "F62.1",
-    "nazev_cz": "Trvalá změna osobnosti po psychiatrickém onemocnění",
+    "nazev_cz": "Přetrvávající změna osobnosti po psychiatrickém onemocnění",
     "system": "MKN-10",
     "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Trvalé změny osobnosti",
@@ -11714,7 +11714,7 @@
   {
     "id": "F62.8",
     "kod": "F62.8",
-    "nazev_cz": "Jiné trvalé změny osobnosti",
+    "nazev_cz": "Jiné přetrvávající změny osobnosti",
     "system": "MKN-10",
     "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Trvalé změny osobnosti",
@@ -11742,7 +11742,7 @@
   {
     "id": "F62.9",
     "kod": "F62.9",
-    "nazev_cz": "Trvalá změna osobnosti NS",
+    "nazev_cz": "Přetrvávající změna osobnosti NS",
     "system": "MKN-10",
     "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Trvalé změny osobnosti",
@@ -11768,9 +11768,9 @@
   {
     "id": "F63",
     "kod": "F63",
-    "nazev_cz": "Návykové a impulzivní poruchy",
+    "nazev_cz": "Nutkavé a impulzivní poruchy",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Impulzivní poruchy",
     "popis": "Poruchy charakterizované opakovanými činy bez jasné racionální motivace, které pacient nemůže kontrolovat.",
     "diagnosticka_kriteria": [
@@ -11801,7 +11801,7 @@
     "kod": "F63.0",
     "nazev_cz": "Patologické hráčství",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Impulzivní poruchy",
     "popis": "Trvalé a opakující se nevhodné hráčské chování, narušující osobní, rodinný nebo profesní život.",
     "diagnosticka_kriteria": [
@@ -11836,9 +11836,9 @@
   {
     "id": "F63.1",
     "kod": "F63.1",
-    "nazev_cz": "Patologické žhářství (pyromanie)",
+    "nazev_cz": "Patologické zakládání požárů (pyromanie)",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Impulzivní poruchy",
     "popis": "Opakované zakládání požárů bez zjevné motivace a fascinace ohněm.",
     "diagnosticka_kriteria": [
@@ -11869,9 +11869,9 @@
   {
     "id": "F63.2",
     "kod": "F63.2",
-    "nazev_cz": "Patologické krádeže (kleptomanie)",
+    "nazev_cz": "Patologické kradení (kleptomanie)",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Impulzivní poruchy",
     "popis": "Opakované krádeže bez motivace zisku, s napjetím před krádeží a úlevou po ní.",
     "diagnosticka_kriteria": [
@@ -11943,7 +11943,7 @@
   {
     "id": "F63.8",
     "kod": "F63.8",
-    "nazev_cz": "Jiné poruchy návyků a impulzů",
+    "nazev_cz": "Jiné nutkavé a impulzivní poruchy",
     "system": "MKN-10",
     "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Poruchy návyků a impulzů",
@@ -11974,7 +11974,7 @@
   {
     "id": "F63.9",
     "kod": "F63.9",
-    "nazev_cz": "Porucha návyků a impulzů NS",
+    "nazev_cz": "Nutkavá a impulzivní porucha NS",
     "system": "MKN-10",
     "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Poruchy návyků a impulzů",
@@ -12003,7 +12003,7 @@
     "kod": "F64",
     "nazev_cz": "Poruchy pohlavní identity",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Pohlavní identity",
     "popis": "Poruchy pohlavní identity. Pozn.: V MKN-11 byla transsexualita přesunuta do kapitoly o sexuálním zdraví jako non-patologický stav.",
     "diagnosticka_kriteria": [
@@ -12031,7 +12031,7 @@
     "kod": "F64.0",
     "nazev_cz": "Transsexualismus",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Pohlavní identity",
     "popis": "Touha žít a být přijímán jako příslušník opačného pohlaví, obvykle s přáním chirurgické nebo hormonální intervence. Pozn.: V MKN-11 překlasifikováno jako Pohlavní nesoulad (HA60) – není psychiatrická diagnóza.",
     "diagnosticka_kriteria": [
@@ -12062,7 +12062,7 @@
   {
     "id": "F64.1",
     "kod": "F64.1",
-    "nazev_cz": "Duální-rolový transvestitismus",
+    "nazev_cz": "Transvestitismus dvojí role",
     "system": "MKN-10",
     "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Poruchy pohlavní identity",
@@ -12186,7 +12186,7 @@
     "kod": "F65",
     "nazev_cz": "Poruchy sexuální preference (parafilie)",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Sexuální preference",
     "popis": "Sexuální vzrušení vyvoláváno neobvyklými objekty, situacemi nebo jedinci.",
     "diagnosticka_kriteria": [
@@ -12217,7 +12217,7 @@
     "kod": "F65.0",
     "nazev_cz": "Fetišismus",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Sexuální preference",
     "popis": "Užívání neživých předmětů jako stimulu k sexuálnímu vzrušení nebo uspokojení.",
     "diagnosticka_kriteria": [
@@ -12319,7 +12319,7 @@
   {
     "id": "F65.3",
     "kod": "F65.3",
-    "nazev_cz": "Voyeurismus",
+    "nazev_cz": "Voyerismus",
     "system": "MKN-10",
     "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Poruchy sexuální preference",
@@ -12357,7 +12357,7 @@
     "kod": "F65.4",
     "nazev_cz": "Pedofilie",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Sexuální preference",
     "popis": "Sexuální preference k dětem, obvykle předpubertálním nebo raně pubertálním.",
     "diagnosticka_kriteria": [
@@ -12512,7 +12512,7 @@
     "kod": "F66",
     "nazev_cz": "Psychologické a behaviorální poruchy spojené se sexuálním vývojem a orientací",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Sexuální orientace",
     "popis": "Poruchy způsobené egodystonní sexuální orientací nebo problémy se sexuálním vztahem.",
     "diagnosticka_kriteria": [
@@ -12541,7 +12541,7 @@
   {
     "id": "F66.0",
     "kod": "F66.0",
-    "nazev_cz": "Porucha sexuálního zrání",
+    "nazev_cz": "Porucha sexuálního vyzrávání",
     "system": "MKN-10",
     "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Psychologické a behaviorální poruchy spojené se sexuálním vývojem",
@@ -12603,7 +12603,7 @@
   {
     "id": "F66.2",
     "kod": "F66.2",
-    "nazev_cz": "Porucha sexuálního vztahu",
+    "nazev_cz": "Porucha sexuálních vztahů",
     "system": "MKN-10",
     "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Psychologické a behaviorální poruchy spojené se sexuálním vývojem",
@@ -12684,7 +12684,7 @@
     "kod": "F68",
     "nazev_cz": "Jiné poruchy osobnosti a chování u dospělých",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Jiné poruchy osobnosti",
     "popis": "Poruchy osobnosti a chování, nezařazené jinde.",
     "diagnosticka_kriteria": [
@@ -12710,7 +12710,7 @@
   {
     "id": "F68.0",
     "kod": "F68.0",
-    "nazev_cz": "Záměrné vyvolání nebo předstírání tělesných příznaků z psychologických důvodů",
+    "nazev_cz": "Zpracování somatických symptomů psychologickými vlivy",
     "system": "MKN-10",
     "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Jiné poruchy osobnosti a chování u dospělých",
@@ -12748,9 +12748,9 @@
   {
     "id": "F68.1",
     "kod": "F68.1",
-    "nazev_cz": "Úmyslné vyvolávání nebo předstírání příznaků nebo invalidity (Münchhausenův syndrom)",
+    "nazev_cz": "Záměrná produkce nebo předstírání symptomů nebo invalidity (Münchhausenův syndrom)",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Jiné poruchy osobnosti",
     "popis": "Opakované předstírání tělesných nebo duševních příznaků nebo sebepoškozování za účelem přijetí péče.",
     "diagnosticka_kriteria": [
@@ -12816,7 +12816,7 @@
     "kod": "F69",
     "nazev_cz": "Neurčená porucha osobnosti a chování u dospělých",
     "system": "MKN-10",
-    "kategorie": "F60–F69 Poruchy osobnosti",
+    "kategorie": "F60–F69 Poruchy osobnosti a chování u dospělých",
     "podkategorie": "Jiné poruchy osobnosti",
     "popis": "Porucha osobnosti bez dostatku informací pro specifičtější diagnózu.",
     "diagnosticka_kriteria": [
