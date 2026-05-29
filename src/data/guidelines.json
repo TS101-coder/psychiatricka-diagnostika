@@ -1300,5 +1300,224 @@
       "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
       "SÚKL Databáze léčiv – ověřeno 2025"
     ]
+  },
+  {
+    "kod_mkn10": "F10",
+    "nazev_poruchy": "Poruchy duševní a poruchy chování způsobené užíváním alkoholu",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Akutní detoxifikace – benzodiazepiny (prevence abstinenčního syndromu)",
+          "priklady_generik": ["diazepam", "chlordiazepoxid", "lorazepam"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Benzodiazepiny jsou zlatý standard léčby alkoholového abstinenčního syndromu. Diazepam a chlordiazepoxid s dlouhým poločasem – výhodné pro plynulý průběh. Lorazepam preferován u jaterní insuficience. Podávat dle CIWA-Ar škály.",
+          "doporucene_davkovani_zahajovaci": "Diazepam: 10–20 mg každé 1–2 h dle CIWA-Ar, cílová denní dávka 40–80 mg, postupná detoxifikace 7–10 dní. Lorazepam (jaterní insuficience): 1–2 mg každé 4–6 h.",
+          "hlavni_nezadouci_ucinky": ["sedace", "respirační deprese (při předávkování)", "paradoxní excitace"],
+          "kontraindikace": ["těžká respirační insuficience", "myasthenia gravis"]
+        },
+        {
+          "skupina_latek": "Thiamin (vitamin B1) – prevence Wernickeho encefalopatie",
+          "priklady_generik": ["thiamin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "KRITICKÉ: Thiamin musí být podán PŘED jakýmkoliv podáním glukózy – glukóza bez thiaminu může precipitovat Wernickeho encefalopatii. 100–300 mg i.v. nebo i.m. při příjmu, pak 100 mg denně.",
+          "doporucene_davkovani_zahajovaci": "100 mg i.v./i.m. při příjmu, pak 100 mg 3× denně p.o. minimálně 7 dní.",
+          "hlavni_nezadouci_ucinky": ["anafilaxe (vzácná, i.v. podání)"],
+          "kontraindikace": ["přecitlivělost"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Motivační rozhovor (Motivational Interviewing – MI)",
+        "Kognitivně-behaviorální terapie zaměřená na závislost",
+        "12-krokové programy (Anonymní alkoholici – AA)",
+        "Podpůrné skupiny a sociální intervence",
+        "Léčba komorbidních psychiatrických poruch"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Akamprosat – udržení abstinence (anticraving)",
+          "priklady_generik": ["akamprosat"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Registrován v ČR pro udržení abstinence u závislosti na alkoholu. Nasazuje se po dokončené detoxifikaci. Moduluje GABA/glutamát systém – snižuje craving. Bezpečný při jaterní insuficienci (eliminace renálně).",
+          "doporucene_davkovani_zahajovaci": "666 mg 3× denně (2 tablety 3× denně). Dávkovat dle tělesné hmotnosti: < 60 kg – 2 × 333 mg 2× denně.",
+          "hlavni_nezadouci_ucinky": ["průjem", "nauzea"],
+          "kontraindikace": ["těžká renální insuficience (GFR < 30)", "těžká jaterní insuficience"],
+          "indikace_k_nasazeni": "Udržení abstinence po detoxifikaci u alkohol-závislých pacientů s cílem abstinence."
+        },
+        {
+          "skupina_latek": "Naltrexon – blokáda opioidních receptorů, snížení craving",
+          "priklady_generik": ["naltrexon"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Registrován v ČR pro závislost na alkoholu i opiátech. Snižuje příjemné účinky alkoholu. Hepatotoxický v vysokých dávkách – monitorovat jaterní funkce. Nesmí být podáván pacientům užívajícím opiáty.",
+          "doporucene_davkovani_zahajovaci": "50 mg/den p.o. nebo injekce 380 mg i.m. 1× měsíčně (long-acting forma – Vivitrol, dostupnost v ČR ověřit).",
+          "hlavni_nezadouci_ucinky": ["nauzea", "bolest hlavy", "jaterní toxicita (vysoké dávky)", "insomnie"],
+          "kontraindikace": ["akutní hepatitida nebo jaterní selhání", "závislost na opiátech (precipituje akutní abstinenční syndrom)", "ALT/AST > 5× normy"],
+          "indikace_k_nasazeni": "Alkohol-závislí s cílem snížení konzumace nebo abstinence, bez závislosti na opiátech."
+        },
+        {
+          "skupina_latek": "Disulfiram – averze",
+          "priklady_generik": ["disulfiram"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Registrován v ČR. Inhibuje aldehyd-dehydrogenázu – při požití alkoholu způsobuje nepříjemnou reakci (flush, nauzea, tachykardie). Vyžaduje absolutní motivaci pacienta. Bezpečnostní rizika při neuvědomělém kontaktu s alkoholem (léky, potraviny).",
+          "doporucene_davkovani_zahajovaci": "250–500 mg/den p.o., minimálně 24 h po posledním požití alkoholu.",
+          "hlavni_nezadouci_ucinky": ["hepatotoxicita", "periferní neuropatie", "psychóza (vzácně)", "arytmie při disulfiram-alkohol reakci"],
+          "kontraindikace": ["závažné kardiovaskulární onemocnění", "jaterní insuficience", "psychóza", "pacient neabstinoval < 24 h", "těhotenství"],
+          "indikace_k_nasazeni": "Vysoce motivovaný pacient s cílem abstinence, vhodná supervize (partner, lékař)."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Wernickeho encefalopatie: Thiamin VŽDY před glukózou. Disulfiram: Upozornit na alkohol skrytý v lécích (sirupy, tinktury), dezinfekci, potravinách. Benzodiazepiny při detoxifikaci: riziko nadměrné sedace a respirační deprese – monitorovat.",
+      "interakce": [
+        "Disulfiram + metronidazol – psychotická reakce",
+        "Disulfiram + warfarin – zvýšení INR (inhibice metabolismu warfarinu)",
+        "Naltrexon + opioidní analgetika – zrušení analgetického účinku opioidů",
+        "Akamprosat + tetracykliny – snížení absorpce (časový odstup)"
+      ],
+      "monitoring": [
+        "CIWA-Ar škála při detoxifikaci (každé 1–4 h)",
+        "Jaterní funkce při nasazení a v průběhu léčby naltrexonem a disulfiramem",
+        "Craving – VAS škála nebo AUDIT-C",
+        "Elektrolyty a glukóza při detoxifikaci",
+        "Neurologický stav (Wernickeho příznaky: ataxie, okulomotorika, zmatenost)"
+      ]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Substance Use Disorders (2006)",
+      "NICE Guideline CG115: Alcohol use disorders (2011, aktualizace 2023)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F11",
+    "nazev_poruchy": "Poruchy způsobené užíváním opioidů",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Opioidní substituční terapie (OST) – metadon",
+          "priklady_generik": ["metadon"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Metadon je v ČR dostupný výhradně v rámci certifikovaných Center pro závislé (AT ambulance se zvláštním oprávněním). Podávání pod přímým dohledem. Silný opioidní agonista, dlouhý poločas (24–36 h). Riziko kumulace a prodloužení QTc.",
+          "doporucene_davkovani_zahajovaci": "Zahajovací dávka 10–30 mg/den dle klinického stavu, titrace po 5–10 mg každé 3–5 dní. Cílová dávka 60–120 mg/den.",
+          "hlavni_nezadouci_ucinky": ["sedace", "zácpa", "pocení", "QTc prodloužení (dávkově závislé)", "kumulace při předávkování"],
+          "kontraindikace": ["těžká respirační insuficience", "QTc > 500 ms", "kombinace s jinými QTc prodlužujícími látkami"]
+        },
+        {
+          "skupina_latek": "Opioidní substituční terapie (OST) – buprenorfin/naloxon",
+          "priklady_generik": ["buprenorfin/naloxon"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Kombinovaný přípravek buprenorfin/naloxon (Suboxone a generika) registrován v ČR. Parciální opioidní agonista – nižší riziko předávkování než metadon. Naloxon brání i.v. zneužití. Výhodný pro ambulantní léčbu.",
+          "doporucene_davkovani_zahajovaci": "Zahájit 24 h po poslední dávce krátkodobého opioidu nebo 48–72 h po poslední dávce metadonu (COWS ≥ 8–12). Zahajovací 2/0,5 mg sublingválně, cílová dávka 8/2–24/6 mg/den.",
+          "hlavni_nezadouci_ucinky": ["bolest hlavy", "zácpa", "insomnie", "pocení", "precipitace abstinenčního syndromu při předčasném zahájení"],
+          "kontraindikace": ["těžká jaterní insuficience", "zahájení u pacienta bez přítomnosti abstinenčních příznaků"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Harm reduction – výměnné programy jehel, testování drog",
+        "Motivační rozhovor",
+        "CBT zaměřená na závislost",
+        "Sociální a pracovní rehabilitace",
+        "Komunitní terapeutické programy"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Naltrexon – pro pacienty po detoxifikaci s cílem abstinence",
+          "priklady_generik": ["naltrexon"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Naltrexon blokuje opioidní receptory – při podání opioidu nenastane příjemný efekt. Nutné zajistit minimálně 7–10 dní abstinence od opioidů před zahájením (risk precipitace abstinenčního syndromu). Nízká adherence je hlavní omezení.",
+          "doporucene_davkovani_zahajovaci": "Začít naloxonovým testem (0,4–0,8 mg i.v./s.c.), pak naltrexon 25 mg 1. den, od 2. dne 50 mg/den.",
+          "hlavni_nezadouci_ucinky": ["nauzea", "bolest hlavy", "jaterní toxicita (vysoké dávky)", "nespavost"],
+          "kontraindikace": ["akutní hepatitida", "jaterní selhání", "nedostatečná abstinence (< 7 dní)", "ALT > 5× normy"],
+          "indikace_k_nasazeni": "Opioid-závislí pacienti po detoxifikaci s cílem trvalé abstinence a dobrou motivací."
+        },
+        {
+          "skupina_latek": "Léčba předávkování – naloxon (záchranná medicína)",
+          "priklady_generik": ["naloxon"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Naloxon nasal spray (Nyxoid) registrován v ČR. Distribuován v harm-reduction programech. Krátkodobý účinek (30–90 min) – sledovat pacienta, opakovat dávky.",
+          "doporucene_davkovani_zahajovaci": "0,4–2 mg i.v./i.m./s.c./intranazálně, opakovat každé 2–3 min dle potřeby.",
+          "hlavni_nezadouci_ucinky": ["precipitace abstinenčního syndromu", "agitace"],
+          "kontraindikace": [],
+          "indikace_k_nasazeni": "Akutní předávkování opioidy."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Metadon: Riziko respirační deprese a kumulace – zejm. při zahájení léčby a při souběžném užívání CNS depresantů (benzodiazepiny, alkohol). QTc monitoring povinný. Buprenorfin: Precipitace abstinenčního syndromu při předčasném zahájení léčby (COWS < 8). Naltrexon: Nesmí být podán pacientovi, který nedokončil plnou detoxifikaci.",
+      "interakce": [
+        "Metadon + benzodiazepiny nebo alkohol – synergistický útlum CNS, riziko fatálního předávkování",
+        "Metadon + QTc prodlužující léky (antipsychotika, antibiotika) – torsade de pointes",
+        "Metadon + rifampicin nebo karbamazepin – snížení hladin metadonu (CYP3A4 indukce)",
+        "Buprenorfin + benzodiazepiny – riziko respirační deprese (nižší než metadon, ale existující)"
+      ],
+      "monitoring": [
+        "COWS (Clinical Opiate Withdrawal Scale) při zahájení a detoxifikaci",
+        "EKG při zahájení metadonu a při dávkách > 100 mg/den",
+        "Jaterní funkce u buprenorfinu (hepatotoxicita při preexistující jaterní chorobě)",
+        "Toxikologické testy (moč) – potvrzení abstinence a compliance",
+        "Sociální fungování, bydlení, zaměstnanost"
+      ]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Opioid Use Disorder (2018)",
+      "NICE Guideline NG214: Drug misuse in over 16s (2007, aktualizace 2022)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F19",
+    "nazev_poruchy": "Poruchy způsobené užíváním více drog a jiných psychoaktivních látek",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Léčba dle dominantní substance + aditivní přístupy",
+          "priklady_generik": ["diazepam", "buprenorfin/naloxon", "naltrexon"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Polysubstanční závislost vyžaduje individualizovaný přístup. Prioritizovat detoxifikaci od látek s fyzickým abstinenčním syndromem (alkohol → benzodiazepiny; opiáty → buprenorfin nebo metadon). Stimulancia (kokain, metamfetamin) nemají specifickou farmakologickou léčbu – primárně psychosociální přístupy.",
+          "doporucene_davkovani_zahajovaci": "Dle dominantní substance – viz F10 (alkohol), F11 (opiáty).",
+          "hlavni_nezadouci_ucinky": ["viz dle substance"],
+          "kontraindikace": ["viz dle substance"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Motivační rozhovor",
+        "Harm reduction – minimalizace rizik při pokračujícím užívání",
+        "Strukturovaný rezidenční program (terapeutická komunita) u závažných případů",
+        "CBT pro závislost – techniky prevence relapsu",
+        "Léčba komorbidních psychiatrických poruch (duální diagnóza)"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Farmakoterapie komorbidních psychiatrických poruch (duální diagnóza)",
+          "priklady_generik": ["sertralin", "quetiapin", "valproát"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Léčba komorbidní deprese, bipolární poruchy nebo psychózy zásadně zlepšuje výsledky léčby závislosti. Preferovat léky s nízkým zneužitelným potenciálem (SSRI, antipsychotika, valproát).",
+          "indikace_k_nasazeni": "Komorbidní psychiatrická porucha (duální diagnóza) – léčit paralelně, ne až po vyléčení závislosti."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Kombinace alkohol + opiáty nebo benzodiazepiny: extrémně vysoké riziko fatální respirační deprese – nejčastější příčina smrti při polysubstanční závislosti. Stimulancia (amfetaminy, kokain) + opiáty: riziko kardiovaskulárních komplikací.",
+      "interakce": ["Viz F10 a F11 dle specifické kombinace látek"],
+      "monitoring": [
+        "Toxikologické testy (moč, krev) – průběžná kontrola",
+        "Psychiatrické komorbidity – pravidelné hodnocení (deprese, psychóza, ADHD)",
+        "Somatický stav – infekce (HIV, HCV, HBV), kardiovaskulární komplikace",
+        "Sociální situace a motivace"
+      ]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Substance Use Disorders (2006)",
+      "NICE NG214 (2007, aktualizace 2022)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
   }
 ]
