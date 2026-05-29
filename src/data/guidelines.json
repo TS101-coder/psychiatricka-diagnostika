@@ -678,5 +678,336 @@
       "SÚKL Databáze léčiv – ověřeno 2025",
       "Mace & Taylor, Delusional Disorder 2015"
     ]
+  },
+  {
+    "kod_mkn10": "F30",
+    "nazev_poruchy": "Manická epizoda",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Thymostabilizátory",
+          "priklady_generik": ["lithium", "valproát"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Lithium a valproát jsou registrovány v ČR pro léčbu manie. Lithium – účinné zejm. u euforické mánie; valproát (jako valproová kyselina nebo valproát sodný) – výhodný u smíšené mánie a při rychlém cyklování. Valproát absolutně kontraindikován v těhotenství.",
+          "doporucene_davkovani_zahajovaci": "Lithium: 600–900 mg/den ve 2–3 dávkách, cílová sérová hladina 0,8–1,0 mmol/l (akutní mánie). Valproát: 500–750 mg/den zahajovací, rychlá titrace na 1000–2500 mg/den, cílová hladina 50–120 mg/l.",
+          "hlavni_nezadouci_ucinky": ["lithium: třes, polydipsie, polyurie, hypotyreóza, přírůstek hmotnosti, nefrotoxicita při dlouhodobém podávání, toxicita při dehydrataci", "valproát: přírůstek hmotnosti, vypadávání vlasů, sedace, hepatotoxicita, trombocytopenie, teratogenita"],
+          "kontraindikace": ["lithium: těžká renální insuficience (GFR < 30), těhotenství (1. trimestr – Ebsteinova anomálie)", "valproát: těhotenství, jaterní insuficience, poruchy metabolismu mastných kyselin"]
+        },
+        {
+          "skupina_latek": "Atypická antipsychotika – rychlý účinek, vhodná kombinace s thymostabilizátorem",
+          "priklady_generik": ["olanzapin", "risperidon", "quetiapin", "aripiprazol", "ziprasidon"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Olanzapin, risperidon, quetiapin a aripiprazol mají registraci pro akutní mánii v ČR. Olanzapin i.m. dostupný pro akutní agitaci. V akutní fázi se kombinuje thymostabilizátor + antipsychotikum.",
+          "doporucene_davkovani_zahajovaci": "Olanzapin: 10–15 mg/den. Risperidon: 2–4 mg/den. Quetiapin: 300–400 mg/den. Aripiprazol: 15–30 mg/den.",
+          "hlavni_nezadouci_ucinky": ["metabolický syndrom (olanzapin)", "EPS (risperidon)", "sedace (quetiapin, olanzapin)", "akatizie (aripiprazol)"],
+          "kontraindikace": ["viz F20"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Hospitalizace při závažné nebo psychotické mánii",
+        "Strukturovaný program, omezení stimulace prostředí",
+        "Psychoedukace o bipolární poruše",
+        "Spánková hygiena a regulace cirkadiánního rytmu"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Karbamazepin – alternativní thymostabilizátor",
+          "priklady_generik": ["karbamazepin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Registrován v ČR pro mánii. Silný induktor CYP enzymů – mnoho lékových interakcí. Vyžaduje monitoraci KO a jaterních funkcí.",
+          "doporucene_davkovani_zahajovaci": "200 mg 2× denně, titrace na 400–600 mg 2× denně, cílová hladina 4–12 mg/l.",
+          "hlavni_nezadouci_ucinky": ["závratě", "diplopie", "ataxie", "agranulocytóza (vzácná)", "hepatotoxicita", "hyponatrémie", "Stevens-Johnsonův syndrom"],
+          "kontraindikace": ["AV blok", "útlum kostní dřeně v anamnéze", "porfyrie", "kombinace s MAOI"]
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Valproát: absolutní kontraindikace v těhotenství – riziko závažných vrozených vad (neurální trubice, kardiovaskulární) a kognitivního poškození plodu. PREVENT program. Lithium: úzké terapeutické okno – toxicita (třes, zmatenost, arytmie, renální selhání) při hladinách > 1,5 mmol/l; dehydratace (průjem, horko, diuretika) zvyšuje riziko.",
+      "interakce": [
+        "Lithium + NSAID (ibuprofen, diklofenak) – snížení renální eliminace lithia, riziko toxicity",
+        "Lithium + thiazidová diuretika – zvýšení hladin lithia",
+        "Lithium + ACE inhibitory/sartany – zvýšení hladin lithia",
+        "Valproát + lamotrigin – zdvojnásobení hladin lamotriginu",
+        "Karbamazepin + orální antikoncepce – snížení účinnosti OAC (CYP3A4 indukce)",
+        "Karbamazepin + lithium – riziko neurotoxicity"
+      ],
+      "monitoring": [
+        "Lithium: sérové hladiny (cíl 0,8–1,0 mmol/l v akutní fázi), renální funkce, TSH – při zahájení a každých 3–6 měsíců",
+        "Valproát: hladiny v séru, jaterní testy, KO, koagulace, těhotenský test u žen v reprodukčním věku",
+        "Karbamazepin: hladiny v séru, KO, jaterní testy, Na",
+        "EKG (lithium – arytmie, karbamazepin – AV blok)",
+        "Renální funkce, BMI, krevní tlak"
+      ]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Bipolar Disorder (2002, aktualizace 2010)",
+      "NICE Guideline CG185: Bipolar disorder (2014, aktualizace 2023)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F31",
+    "nazev_poruchy": "Bipolární afektivní porucha",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Thymostabilizátory – udržovací léčba",
+          "priklady_generik": ["lithium", "valproát", "lamotrigin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Lithium je zlatý standard udržovací léčby bipolární poruchy 1 – snižuje riziko relapsů i suicidální riziko. Lamotrigin je zvláště účinný v prevenci depresivních epizod (slabší pro manické). Valproát vhodný při manické pólové dominanci a rychlém cyklování. Lamotrigin registrován v ČR pro prevenci epizod u BAP.",
+          "doporucene_davkovani_zahajovaci": "Lithium: cílová hladina 0,6–0,8 mmol/l v udržovací léčbě. Lamotrigin: velmi pomalá titrace od 25 mg/den (bez valproátu) nebo 12,5 mg/den (s valproátem), cílová dávka 100–400 mg/den. Valproát: viz F30.",
+          "hlavni_nezadouci_ucinky": ["viz F30 pro lithium a valproát", "lamotrigin: Stevens-Johnsonův syndrom (rychlá titrace), závratě, diplopie"],
+          "kontraindikace": ["viz F30", "lamotrigin: rychlá titrace zvyšuje riziko SJS"]
+        },
+        {
+          "skupina_latek": "Atypická antipsychotika – udržovací léčba (zejm. s manickými epizodami)",
+          "priklady_generik": ["quetiapin", "aripiprazol", "olanzapin", "risperidon LAI"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Quetiapin je registrován v ČR pro udržovací léčbu BAP. Aripiprazol LAI (Abilify Maintena) dostupný. Olanzapin/fluoxetin kombinace (Symbyax) v USA, v ČR nutno kombinovat zvlášť.",
+          "doporucene_davkovani_zahajovaci": "Quetiapin: 300–400 mg/den. Aripiprazol: 15–30 mg/den.",
+          "hlavni_nezadouci_ucinky": ["metabolický syndrom", "sedace", "EPS"],
+          "kontraindikace": ["viz F20"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Kognitivně-behaviorální terapie pro bipolární poruchu (CBT-BP)",
+        "Psychoedukace pacienta a rodiny – rozpoznávání prodromů, adherence k léčbě",
+        "Interpersonální a sociálně-rytmická terapie (IPSRT) – regulace cirkadiánního rytmu",
+        "Rodinná terapie zaměřená (FFT – Family Focused Therapy)",
+        "Skupiny svépomoci (DOPOLAM, BIPO apod.)"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Karbamazepin nebo oxkarbazepin",
+          "priklady_generik": ["karbamazepin", "oxkarbazepin"],
+          "dostupnost_cr_sukl": true,
+          "indikace_k_nasazeni": "Intolerance nebo selhání lithia/valproátu, rychlé cyklování, smíšené stavy. Oxkarbazepin méně interakcí než karbamazepin."
+        },
+        {
+          "skupina_latek": "Klozapin – pro terapeuticky rezistentní BAP",
+          "priklady_generik": ["klozapin"],
+          "dostupnost_cr_sukl": true,
+          "indikace_k_nasazeni": "Selhání ≥ 3 léčebných režimů nebo persistentní suicidální riziko."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Antidepresiva v monoterapii jsou u bipolární poruchy kontraindikována – riziko přesmyku do mánie nebo rychlého cyklování. Pokud jsou nutná (těžká bipolární deprese), vždy v kombinaci s thymostabilizátorem. Valproát – viz F30.",
+      "interakce": [
+        "Lithium + NSAID, diuretika, ACE inhibitory – viz F30",
+        "Lamotrigin + valproát – zdvojnásobení hladin lamotriginu – titrovat na polovinu standardní dávky",
+        "Lamotrigin + karbamazepin – snížení hladin lamotriginu (indukce CYP)",
+        "Antidepresiva (SSRI, SNRI) + thymostabilizátor – riziko serotoninového syndromu nebo přesmyku"
+      ],
+      "monitoring": [
+        "Lithium: hladiny, renální funkce, TSH každých 6 měsíců",
+        "Lamotrigin: klinické sledování (kožní reakce), hladiny při podezření na toxicitu",
+        "Metabolický screening u antipsychotik",
+        "Pravidelné hodnocení náladového záznamu (mood chart)",
+        "Suicidalita – systematické hodnocení"
+      ]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Bipolar Disorder (2002, aktualizace 2010)",
+      "NICE Guideline CG185 (2014, aktualizace 2023)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F32",
+    "nazev_poruchy": "Depresivní epizoda",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Selektivní inhibitory zpětného vychytávání serotoninu (SSRI)",
+          "priklady_generik": ["sertralin", "escitalopram", "fluoxetin", "paroxetin", "citalopram", "fluvoxamin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Všechny SSRI jsou registrovány v ČR a jsou lékem první volby pro depresi. Sertralin a escitalopram mají nejpříznivější profil interakcí a jsou preferovány. Paroxetin má nejvíce anticholinergních NÚ a silný abstinenční syndrom. Fluoxetin má nejdelší poločas (výhodné při vynechání dávky).",
+          "doporucene_davkovani_zahajovaci": "Sertralin: 50 mg/den (lze zvýšit na 100–200 mg). Escitalopram: 10 mg/den (cílová 10–20 mg). Fluoxetin: 20 mg/den (cílová 20–60 mg). Citalopram: 20 mg/den (max 40 mg – limitováno QTc).",
+          "hlavni_nezadouci_ucinky": ["nauzea (zejm. na začátku)", "sexuální dysfunkce", "insomnie nebo ospalost", "přírůstek hmotnosti (paroxetin)", "abstinenční syndrom při vysazení (paroxetin > sertralin)", "prodloužení QTc (citalopram, escitalopram ve vyšších dávkách)"],
+          "kontraindikace": ["MAOI – kontraindikace kombinace (riziko serotoninového syndromu, wash-out 14 dní po MAOI nebo 5 týdnů po fluoxetinu)", "prodloužené QTc (citalopram > 40 mg, escitalopram > 20 mg)"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Kognitivně-behaviorální terapie (CBT) – stejná efektivita jako farmakoterapie u mírné až středně těžké deprese",
+        "Interpersonální terapie (IPT)",
+        "Behaviorální aktivace",
+        "Fyzická aktivita – prokázaná antidepresivní účinnost (alespoň 3× 45 min/týden)",
+        "Mindfulness-Based Cognitive Therapy (MBCT) – prevence relapsu"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "SNRI – inhibitory zpětného vychytávání serotoninu a noradrenalinu",
+          "priklady_generik": ["venlafaxin", "duloxetin", "milnacipran"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Venlafaxin a duloxetin registrovány v ČR pro depresi. Duloxetin také pro neuropatickou bolest a GAD. Venlafaxin zvyšuje krevní tlak ve vyšších dávkách – monitorovat.",
+          "doporucene_davkovani_zahajovaci": "Venlafaxin: 75 mg/den, titrace na 150–225 mg/den (XR forma). Duloxetin: 30 mg/den, cílová 60 mg/den.",
+          "hlavni_nezadouci_ucinky": ["hypertenze (venlafaxin – dávkově závislá)", "nauzea", "sexuální dysfunkce", "abstinenční syndrom (venlafaxin)"],
+          "kontraindikace": ["MAOI", "nekontrolovaná hypertenze (venlafaxin)"],
+          "indikace_k_nasazeni": "Nedostatečná odpověď na SSRI, deprese s bolestivou složkou (duloxetin), nebo deprese s únavou a anergie."
+        },
+        {
+          "skupina_latek": "Mirtazapin – noradrenergní a specificky serotoninergní antidepresivum (NaSSA)",
+          "priklady_generik": ["mirtazapin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Registrován v ČR. Výhodný u deprese s insomnií, anxietou a nechutenstvím. Výrazná sedace a přírůstek hmotnosti. Příznivý sexuální profil.",
+          "doporucene_davkovani_zahajovaci": "15 mg na noc, titrace na 30–45 mg/den.",
+          "hlavni_nezadouci_ucinky": ["sedace", "výrazný přírůstek hmotnosti", "zvýšená chuť k jídlu"],
+          "kontraindikace": ["MAOI"],
+          "indikace_k_nasazeni": "Deprese s insomnií, podváhou, anxietou; augmentace SSRI/SNRI."
+        },
+        {
+          "skupina_latek": "Agomelatin – melatoninový agonista a 5-HT2C antagonista",
+          "priklady_generik": ["agomelatin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Registrován v ČR. Příznivý profil – neovlivňuje sexuální funkce, pomáhá normalizovat spánek. Vyžaduje monitoraci jaterních enzymů. Kontraindikován při jaterní insuficienci.",
+          "doporucene_davkovani_zahajovaci": "25 mg na noc, po 2 týdnech možno zvýšit na 50 mg/den.",
+          "hlavni_nezadouci_ucinky": ["elevace jaterních enzymů (nutný monitoring ALT/AST)", "bolest hlavy", "závratě"],
+          "kontraindikace": ["jaterní insuficience", "kombinace s fluvoxaminem nebo ciprofloxacinem (inhibice CYP1A2)"],
+          "indikace_k_nasazeni": "Deprese s poruchou spánku, sexuální dysfunkce při SSRI/SNRI."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "FDA black box warning: Antidepresiva zvyšují riziko suicidálních myšlenek a chování u dětí, adolescentů a mladých dospělých (do 25 let) v počátku léčby. Pečlivě monitorovat prvních 4–8 týdnů. U dospělých > 65 let riziko naopak snižují. Tricyklická antidepresiva (TCA) – nebezpečné předávkování (arytmie), v ČR dnes výjimečně.",
+      "interakce": [
+        "SSRI/SNRI + tramadol – riziko serotoninového syndromu",
+        "SSRI/SNRI + MAOI – absolutní kontraindikace (serotoninový syndrom)",
+        "SSRI + warfarin – zvýšení INR (antiplateletový efekt SSRI)",
+        "Fluoxetin/paroxetin + tamoxifen – inhibice CYP2D6, snížení aktivace tamoxifenu (onkologické pacientky)",
+        "Citalopram/escitalopram + jiné QTc prodlužující léky – riziko torsade de pointes",
+        "Agomelatin + fluvoxamin nebo ciprofloxacin – dramatický vzestup hladin agomelatinu (absolutní KI)"
+      ],
+      "monitoring": [
+        "Suicidalita – prvních 4–8 týdnů zvýšená frekvence kontaktů",
+        "Odpověď na léčbu hodnotit po 2–4 týdnech (PHQ-9 nebo MADRS)",
+        "Agomelatin: ALT/AST před zahájením, po 3 a 6 týdnech, pak každých 6 měsíců",
+        "Krevní tlak u venlafaxinu",
+        "Hyponatrémie u starších pacientů při SSRI (SIADH)",
+        "EKG při citalopram > 40 mg nebo escitalopram > 20 mg"
+      ]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Major Depressive Disorder (2010, aktualizace 2019)",
+      "NICE Guideline CG90/CG91: Depression in adults (2009, aktualizace 2022)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F33",
+    "nazev_poruchy": "Rekurentní depresivní porucha",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "SSRI nebo SNRI – dlouhodobá udržovací léčba",
+          "priklady_generik": ["sertralin", "escitalopram", "venlafaxin", "duloxetin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Po druhé epizodě se doporučuje udržovací léčba minimálně 2 roky, po třetí epizodě nebo závažném průběhu je indikována dlouhodobá (celoživotní) profylaxe. Dávka udržovací léčby = akutní terapeutická dávka.",
+          "doporucene_davkovani_zahajovaci": "Viz F32. Udržovací dávka = plná terapeutická dávka.",
+          "hlavni_nezadouci_ucinky": ["viz F32"],
+          "kontraindikace": ["viz F32"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "MBCT (Mindfulness-Based Cognitive Therapy) – snižuje riziko relapsu srovnatelně s udržovací farmakoterapií u pacientů s ≥ 3 epizodami",
+        "CBT a IPT jako udržovací psychoterapie",
+        "Psychoedukace – rozpoznání prodromů relapsu",
+        "Fyzická aktivita – prokazatelný vliv na prevenci relapsu"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Augmentace thymostabilizátorem nebo atypickým antipsychotikem",
+          "priklady_generik": ["lithium", "quetiapin", "aripiprazol", "olanzapin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Augmentace lithiem nebo atypickým antipsychotikem u rezistentní nebo rekurentní deprese. Quetiapin a aripiprazol mají registraci pro augmentaci antidepresiv. Lithium – evidence pro prevenci suicidity.",
+          "indikace_k_nasazeni": "Nedostatečná odpověď na 2 antidepresiva v adekvátní dávce a době, nebo rekurentní deprese s vysokým rizikem relapsu."
+        },
+        {
+          "skupina_latek": "Esketamin – intranazální (pro terapeuticky rezistentní depresi)",
+          "priklady_generik": ["esketamin"],
+          "dostupnost_cr_sukl": false,
+          "sukl_poznamka": "Esketamin (Spravato) je schválen EMA a registrován v EU. V ČR je dostupnost omezena – nutno ověřit aktuální status úhrady a dostupnost v specializovaných centrech. Rychlý nástup účinku (hodiny). Podáván pouze ve zdravotnickém zařízení pod dohledem.",
+          "doporucene_davkovani_zahajovaci": "56 mg nebo 84 mg intranazálně 2× týdně po dobu 4 týdnů, pak 1× týdně.",
+          "hlavni_nezadouci_ucinky": ["disociace", "závratě", "nauzea", "sedace", "zvýšení krevního tlaku"],
+          "kontraindikace": ["aneurysma nebo vaskulární malformace CNS", "nekontrolovaná hypertenze", "psychóza v anamnéze"],
+          "indikace_k_nasazeni": "Terapeuticky rezistentní deprese (selhání ≥ 2 antidepresiv), akutní suicidální riziko."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Viz F32. Náhlé vysazení antidepresiv po dlouhodobé léčbě způsobuje abstinenční syndrom (SSRI discontinuation syndrome) – postupné snižování dávky minimálně 4 týdny.",
+      "interakce": ["viz F32"],
+      "monitoring": [
+        "Pravidelné hodnocení depresivních příznaků (PHQ-9, MADRS) – každých 3–6 měsíců",
+        "Sledování suicidálních myšlenek",
+        "Adherence k léčbě",
+        "Lithium (při augmentaci) – viz F30",
+        "Metabolické parametry u atypických antipsychotik"
+      ]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Major Depressive Disorder (2010, aktualizace 2019)",
+      "NICE CG90 (2009, aktualizace 2022)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F34.1",
+    "nazev_poruchy": "Dystymie",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "SSRI",
+          "priklady_generik": ["sertralin", "escitalopram", "fluoxetin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "SSRI jsou lékem první volby. Efekt nastupuje pomaleji než u akutní deprese – hodnotit po 6–8 týdnech. Délka léčby minimálně 2 roky.",
+          "doporucene_davkovani_zahajovaci": "Viz F32.",
+          "hlavni_nezadouci_ucinky": ["viz F32"],
+          "kontraindikace": ["viz F32"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Kognitivně-behaviorální terapie – primárně doporučená, zvláště pro dystymii",
+        "Interpersonální terapie (IPT)",
+        "Psychodynamická psychoterapie",
+        "Fyzická aktivita"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "SNRI nebo mirtazapin",
+          "priklady_generik": ["venlafaxin", "duloxetin", "mirtazapin"],
+          "dostupnost_cr_sukl": true,
+          "indikace_k_nasazeni": "Intolerance nebo nedostatečná odpověď na SSRI."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Viz F32. Dystymie je spojována s vyšším rizikem rozvoje velké depresivní epizody (double depression) – aktivní sledování.",
+      "interakce": ["viz F32"],
+      "monitoring": [
+        "Hodnocení symptomů po 6–8 týdnech léčby",
+        "Sledování rozvoje velké depresivní epizody",
+        "Adherence k dlouhodobé léčbě"
+      ]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Major Depressive Disorder (2010)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
   }
 ]
