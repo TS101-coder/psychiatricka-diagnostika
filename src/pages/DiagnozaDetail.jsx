@@ -1,6 +1,8 @@
 import { useParams, useNavigate } from 'react-router-dom'
 import { useDiagnoza, useDiagnozy } from '../hooks/useDiagnozy'
 import { getKategorieBarva, BARVA_CLASSES } from '../utils/helpers'
+import { useGuidelines } from '../hooks/useGuidelines'
+import GuidelinesSection from '../components/GuidelinesSection'
 
 export default function DiagnozaDetail() {
   const { id } = useParams()
@@ -22,6 +24,7 @@ export default function DiagnozaDetail() {
   const barva = getKategorieBarva(diagnoza.kategorie)
   const bc = BARVA_CLASSES[barva] || BARVA_CLASSES.gray
 
+  const guideline = useGuidelines(diagnoza?.id)
   const diferencialni = (diagnoza.diferencialni_diagnozy || [])
     .map(kod => diagnozy.find(d => d.id === kod))
     .filter(Boolean)
@@ -269,6 +272,12 @@ export default function DiagnozaDetail() {
               </div>
             </section>
           )}
+
+          {/* Guidelines – terapeutické postupy */}
+          {guideline && (
+            <GuidelinesSection guideline={guideline} />
+          )}
+
         </div>
       </div>
     </div>
