@@ -24,8 +24,24 @@
     ],
     "prubeh": "Chronický, progresivní. Průměrná délka přežití 8–10 let od diagnózy.",
     "onset": "Typicky po 65. roce (senilní forma), méně často před 65. rokem (presenilní forma).",
-    "diferencialni_diagnozy": ["F01", "F02", "F03", "F05"],
-    "mapovani": { "mkn11": "8A20", "dsm5": "331.0" }
+    "diferencialni_diagnozy": [
+      "F01",
+      "F02",
+      "F03",
+      "F05"
+    ],
+    "mapovani": {
+      "mkn11": "8A20",
+      "dsm5": "331.0"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ]
   },
   {
     "id": "F00.0",
@@ -51,8 +67,23 @@
     ],
     "prubeh": "Rychleji progredující než senilní forma.",
     "onset": "Před 65. rokem věku.",
-    "diferencialni_diagnozy": ["F00.1", "F01", "F02.0"],
-    "mapovani": { "mkn11": "8A20.0", "dsm5": "331.0" }
+    "diferencialni_diagnozy": [
+      "F00.1",
+      "F01",
+      "F02.0"
+    ],
+    "mapovani": {
+      "mkn11": "8A20.0",
+      "dsm5": "331.0"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ]
   },
   {
     "id": "F00.1",
@@ -76,8 +107,23 @@
     ],
     "prubeh": "Pomalejší než presenilní forma, průměrně 10–12 let.",
     "onset": "Po 65. roce věku.",
-    "diferencialni_diagnozy": ["F00.0", "F01", "F03"],
-    "mapovani": { "mkn11": "8A20.1", "dsm5": "331.0" }
+    "diferencialni_diagnozy": [
+      "F00.0",
+      "F01",
+      "F03"
+    ],
+    "mapovani": {
+      "mkn11": "8A20.1",
+      "dsm5": "331.0"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ]
   },
   {
     "id": "F00.2",
@@ -98,8 +144,23 @@
     ],
     "prubeh": "Variabilní dle podílu jednotlivých složek.",
     "onset": "Variabilní.",
-    "diferencialni_diagnozy": ["F00.0", "F00.1", "F01"],
-    "mapovani": { "mkn11": "8A20", "dsm5": "331.0" }
+    "diferencialni_diagnozy": [
+      "F00.0",
+      "F00.1",
+      "F01"
+    ],
+    "mapovani": {
+      "mkn11": "8A20",
+      "dsm5": "331.0"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ]
   },
   {
     "id": "F01",
@@ -125,8 +186,23 @@
     ],
     "prubeh": "Stupňovitý (schodovitý) pokles, možné stabilní periody.",
     "onset": "Typicky po CMP nebo TIA.",
-    "diferencialni_diagnozy": ["F00", "F02", "F03"],
-    "mapovani": { "mkn11": "8A21", "dsm5": "290.40" }
+    "diferencialni_diagnozy": [
+      "F00",
+      "F02",
+      "F03"
+    ],
+    "mapovani": {
+      "mkn11": "8A21",
+      "dsm5": "290.40"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ]
   },
   {
     "id": "F01.0",
@@ -136,12 +212,33 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Demence",
     "popis": "Rychle vznikající demence po sérii CMP nebo trombóze, embólii či hemoragii.",
-    "diagnosticka_kriteria": ["Splněna kritéria F01", "Nástup demence do 1 měsíce po akutní CMP"],
-    "priznaky": ["Náhlý nástup", "Příznaky dle lokalizace CMP", "Rychlý pokles"],
+    "diagnosticka_kriteria": [
+      "Splněna kritéria F01",
+      "Nástup demence do 1 měsíce po akutní CMP"
+    ],
+    "priznaky": [
+      "Náhlý nástup",
+      "Příznaky dle lokalizace CMP",
+      "Rychlý pokles"
+    ],
     "prubeh": "Obvykle následuje po závažné CMP.",
     "onset": "Akutně po cévní mozkové příhodě.",
-    "diferencialni_diagnozy": ["F01.1", "F05"],
-    "mapovani": { "mkn11": "8A21.0", "dsm5": "290.40" }
+    "diferencialni_diagnozy": [
+      "F01.1",
+      "F05"
+    ],
+    "mapovani": {
+      "mkn11": "8A21.0",
+      "dsm5": "290.40"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ]
   },
   {
     "id": "F01.1",
@@ -151,12 +248,35 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Demence",
     "popis": "Demence vzniklá na podkladě opakovaných mozkových infarktů, převážně kortikálních.",
-    "diagnosticka_kriteria": ["Splněna kritéria F01", "Postupný začátek po opakovaných ischemických příhodách", "CT/MRI průkaz mnohočetných infarktů"],
-    "priznaky": ["Stupňovitý kognitivní pokles", "Fokální kortikální příznaky", "Emoční labilita"],
+    "diagnosticka_kriteria": [
+      "Splněna kritéria F01",
+      "Postupný začátek po opakovaných ischemických příhodách",
+      "CT/MRI průkaz mnohočetných infarktů"
+    ],
+    "priznaky": [
+      "Stupňovitý kognitivní pokles",
+      "Fokální kortikální příznaky",
+      "Emoční labilita"
+    ],
     "prubeh": "Schodovitý, s remisemi a exacerbacemi.",
     "onset": "Po opakovaných TIA nebo malých CMP.",
-    "diferencialni_diagnozy": ["F01.0", "F01.2", "F00"],
-    "mapovani": { "mkn11": "8A21.1", "dsm5": "290.40" }
+    "diferencialni_diagnozy": [
+      "F01.0",
+      "F01.2",
+      "F00"
+    ],
+    "mapovani": {
+      "mkn11": "8A21.1",
+      "dsm5": "290.40"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ]
   },
   {
     "id": "F01.2",
@@ -166,12 +286,38 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Demence",
     "popis": "Demence na podkladě ischemického postižení bílé hmoty a bazálních ganglií bez kortikálních infarktů (Binswangerova choroba).",
-    "diagnosticka_kriteria": ["Splněna kritéria F01", "CT/MRI průkaz subkortikálního postižení", "Klinický obraz odpovídá subkortikálnímu postižení"],
-    "priznaky": ["Poruchy chůze", "Inkontinence moče", "Dysartrie", "Psychomotorické zpomalení", "Poruchy exekutivních funkcí", "Relativně zachovaná paměť"],
+    "diagnosticka_kriteria": [
+      "Splněna kritéria F01",
+      "CT/MRI průkaz subkortikálního postižení",
+      "Klinický obraz odpovídá subkortikálnímu postižení"
+    ],
+    "priznaky": [
+      "Poruchy chůze",
+      "Inkontinence moče",
+      "Dysartrie",
+      "Psychomotorické zpomalení",
+      "Poruchy exekutivních funkcí",
+      "Relativně zachovaná paměť"
+    ],
     "prubeh": "Plíživý, progresivní.",
     "onset": "Typicky u hypertoniků ve středním věku.",
-    "diferencialni_diagnozy": ["F01.1", "F02.3", "G20"],
-    "mapovani": { "mkn11": "8A21.2", "dsm5": "290.40" }
+    "diferencialni_diagnozy": [
+      "F01.1",
+      "F02.3",
+      "G20"
+    ],
+    "mapovani": {
+      "mkn11": "8A21.2",
+      "dsm5": "290.40"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ]
   },
   {
     "id": "F02",
@@ -181,12 +327,34 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Demence",
     "popis": "Demence způsobená jinými specifickými onemocněními klasifikovanými jinde.",
-    "diagnosticka_kriteria": ["Splněna obecná kritéria demence", "Prokázané specifické onemocnění jako příčina"],
-    "priznaky": ["Dle základního onemocnění", "Kognitivní decline", "Behaviorální změny"],
+    "diagnosticka_kriteria": [
+      "Splněna obecná kritéria demence",
+      "Prokázané specifické onemocnění jako příčina"
+    ],
+    "priznaky": [
+      "Dle základního onemocnění",
+      "Kognitivní decline",
+      "Behaviorální změny"
+    ],
     "prubeh": "Dle základní diagnózy.",
     "onset": "Dle základní diagnózy.",
-    "diferencialni_diagnozy": ["F00", "F01", "F03"],
-    "mapovani": { "mkn11": "8A22", "dsm5": "294.10" }
+    "diferencialni_diagnozy": [
+      "F00",
+      "F01",
+      "F03"
+    ],
+    "mapovani": {
+      "mkn11": "8A22",
+      "dsm5": "294.10"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ]
   },
   {
     "id": "F02.0",
@@ -196,12 +364,37 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Demence",
     "popis": "Progresivní demence začínající ve středním věku s frontální a temporální atrofií. Součást frontotemporálních demencí.",
-    "diagnosticka_kriteria": ["Progresivní demence", "Frontální a temporální příznaky", "CT/MRI atrofie frontálních/temporálních laloků"],
-    "priznaky": ["Změny osobnosti (apatia nebo dezinhibice)", "Poruchy sociálního chování", "Afázie", "Relativně zachovaná paměť v časné fázi", "Hyperoralita"],
+    "diagnosticka_kriteria": [
+      "Progresivní demence",
+      "Frontální a temporální příznaky",
+      "CT/MRI atrofie frontálních/temporálních laloků"
+    ],
+    "priznaky": [
+      "Změny osobnosti (apatia nebo dezinhibice)",
+      "Poruchy sociálního chování",
+      "Afázie",
+      "Relativně zachovaná paměť v časné fázi",
+      "Hyperoralita"
+    ],
     "prubeh": "Progresivní, průměrně 6–8 let.",
     "onset": "45–65 let.",
-    "diferencialni_diagnozy": ["F00.0", "F07.0", "F60"],
-    "mapovani": { "mkn11": "8A22.0", "dsm5": "331.11" }
+    "diferencialni_diagnozy": [
+      "F00.0",
+      "F07.0",
+      "F60"
+    ],
+    "mapovani": {
+      "mkn11": "8A22.0",
+      "dsm5": "331.11"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ]
   },
   {
     "id": "F02.1",
@@ -211,12 +404,39 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Demence",
     "popis": "Rychle progredující demence způsobená prionovou infekcí (přenosná spongiformní encefalopatie).",
-    "diagnosticka_kriteria": ["Rychle progredující demence", "Myoklonické záškuby", "Typický EEG nebo RT-QuIC v CSF", "Charakteristické MRI změny"],
-    "priznaky": ["Rychlý kognitivní pokles (týdny–měsíce)", "Myoklony", "Ataxie", "Pyramidové a extrapyramidové příznaky", "Kortikální slepota", "Akinetický mutismus v terminální fázi"],
+    "diagnosticka_kriteria": [
+      "Rychle progredující demence",
+      "Myoklonické záškuby",
+      "Typický EEG nebo RT-QuIC v CSF",
+      "Charakteristické MRI změny"
+    ],
+    "priznaky": [
+      "Rychlý kognitivní pokles (týdny–měsíce)",
+      "Myoklony",
+      "Ataxie",
+      "Pyramidové a extrapyramidové příznaky",
+      "Kortikální slepota",
+      "Akinetický mutismus v terminální fázi"
+    ],
     "prubeh": "Fatální, průměrně 6 měsíců od diagnózy.",
     "onset": "50–70 let (sporadická forma).",
-    "diferencialni_diagnozy": ["F00", "F02.2", "G35"],
-    "mapovani": { "mkn11": "8A22.1", "dsm5": "046.19" }
+    "diferencialni_diagnozy": [
+      "F00",
+      "F02.2",
+      "G35"
+    ],
+    "mapovani": {
+      "mkn11": "8A22.1",
+      "dsm5": "046.19"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ]
   },
   {
     "id": "F02.2",
@@ -226,12 +446,38 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Demence",
     "popis": "Demence při autozomálně dominantně dědičné neurodegenerativní chorobě s choreou a psychiatrickými příznaky.",
-    "diagnosticka_kriteria": ["Demence", "Chorea", "Rodinná anamnéza nebo pozitivní genetické vyšetření"],
-    "priznaky": ["Chorea", "Psychiatrické příznaky (deprese, psychóza)", "Subkortikální demence", "Poruchy exekutivních funkcí", "Iritabilita", "Poruchy chůze"],
+    "diagnosticka_kriteria": [
+      "Demence",
+      "Chorea",
+      "Rodinná anamnéza nebo pozitivní genetické vyšetření"
+    ],
+    "priznaky": [
+      "Chorea",
+      "Psychiatrické příznaky (deprese, psychóza)",
+      "Subkortikální demence",
+      "Poruchy exekutivních funkcí",
+      "Iritabilita",
+      "Poruchy chůze"
+    ],
     "prubeh": "Chronický, progresivní, 15–20 let.",
     "onset": "30–50 let.",
-    "diferencialni_diagnozy": ["F02.0", "G10", "F20"],
-    "mapovani": { "mkn11": "8A22.2", "dsm5": "294.10" }
+    "diferencialni_diagnozy": [
+      "F02.0",
+      "G10",
+      "F20"
+    ],
+    "mapovani": {
+      "mkn11": "8A22.2",
+      "dsm5": "294.10"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ]
   },
   {
     "id": "F02.3",
@@ -241,12 +487,37 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Demence",
     "popis": "Demence rozvíjející se v průběhu Parkinsonovy nemoci. Subkortikální demence s postižením frontálních funkcí.",
-    "diagnosticka_kriteria": ["Prokázaná Parkinsonova nemoc", "Demence vznikající po 1 roce od nástupu parkinsonismu"],
-    "priznaky": ["Psychomotorické zpomalení", "Poruchy exekutivních funkcí", "Zrakově-prostorové poruchy", "Halucinace (zejm. zrakové)", "Deprese", "Apatia"],
+    "diagnosticka_kriteria": [
+      "Prokázaná Parkinsonova nemoc",
+      "Demence vznikající po 1 roce od nástupu parkinsonismu"
+    ],
+    "priznaky": [
+      "Psychomotorické zpomalení",
+      "Poruchy exekutivních funkcí",
+      "Zrakově-prostorové poruchy",
+      "Halucinace (zejm. zrakové)",
+      "Deprese",
+      "Apatia"
+    ],
     "prubeh": "Pomalá progrese.",
     "onset": "Obvykle v pokročilé fázi Parkinsonovy nemoci.",
-    "diferencialni_diagnozy": ["Demence s Lewyho tělísky", "F00", "F02.0"],
-    "mapovani": { "mkn11": "8A22.3", "dsm5": "331.82" }
+    "diferencialni_diagnozy": [
+      "Demence s Lewyho tělísky",
+      "F00",
+      "F02.0"
+    ],
+    "mapovani": {
+      "mkn11": "8A22.3",
+      "dsm5": "331.82"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ]
   },
   {
     "id": "F02.4",
@@ -256,12 +527,37 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Demence",
     "popis": "Demence u pacientů s HIV infekcí způsobená přímým poškozením CNS virem nebo oportunními infekcemi.",
-    "diagnosticka_kriteria": ["Prokázaná HIV infekce", "Demence nesplňující kritéria jiné příčiny", "Laboratorní průkaz HIV v CSF"],
-    "priznaky": ["Subkortikální demence", "Psychomotorická retardace", "Poruchy koncentrace", "Apatia", "Poruchy chůze"],
+    "diagnosticka_kriteria": [
+      "Prokázaná HIV infekce",
+      "Demence nesplňující kritéria jiné příčiny",
+      "Laboratorní průkaz HIV v CSF"
+    ],
+    "priznaky": [
+      "Subkortikální demence",
+      "Psychomotorická retardace",
+      "Poruchy koncentrace",
+      "Apatia",
+      "Poruchy chůze"
+    ],
     "prubeh": "Zlepšení při antiretrovirové léčbě.",
     "onset": "V pokročilém stadiu HIV infekce (AIDS).",
-    "diferencialni_diagnozy": ["F00", "F02.8", "F06"],
-    "mapovani": { "mkn11": "8A22.4", "dsm5": "294.10" }
+    "diferencialni_diagnozy": [
+      "F00",
+      "F02.8",
+      "F06"
+    ],
+    "mapovani": {
+      "mkn11": "8A22.4",
+      "dsm5": "294.10"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ]
   },
   {
     "id": "F03",
@@ -271,12 +567,34 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Demence",
     "popis": "Demence nesplňující kritéria pro specifický typ. Diagnóza per exclusionem.",
-    "diagnosticka_kriteria": ["Splněna obecná kritéria demence", "Nedostatečné informace pro specifickou diagnózu"],
-    "priznaky": ["Porucha paměti", "Narušení dalších kognitivních funkcí", "Funkční pokles v ADL"],
+    "diagnosticka_kriteria": [
+      "Splněna obecná kritéria demence",
+      "Nedostatečné informace pro specifickou diagnózu"
+    ],
+    "priznaky": [
+      "Porucha paměti",
+      "Narušení dalších kognitivních funkcí",
+      "Funkční pokles v ADL"
+    ],
     "prubeh": "Dle základní příčiny.",
     "onset": "Variabilní.",
-    "diferencialni_diagnozy": ["F00", "F01", "F02"],
-    "mapovani": { "mkn11": "8A2Z", "dsm5": "294.20" }
+    "diferencialni_diagnozy": [
+      "F00",
+      "F01",
+      "F02"
+    ],
+    "mapovani": {
+      "mkn11": "8A2Z",
+      "dsm5": "294.20"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ]
   },
   {
     "id": "F04",
@@ -292,11 +610,25 @@
       "Chybění bezprostřední reprodukce, poruchy vědomí a celkového intelektu",
       "Objektivní průkaz organické příčiny"
     ],
-    "priznaky": ["Anterográdní amnézie", "Retrográdní amnézie", "Konfabulace", "Dezorientace časem", "Zachovaná bezprostřední paměť", "Zachovaná inteligence"],
+    "priznaky": [
+      "Anterográdní amnézie",
+      "Retrográdní amnézie",
+      "Konfabulace",
+      "Dezorientace časem",
+      "Zachovaná bezprostřední paměť",
+      "Zachovaná inteligence"
+    ],
     "prubeh": "Může být trvalý nebo částečně reverzibilní.",
     "onset": "Akutně po poškození (trauma, encefalitida, ischemie).",
-    "diferencialni_diagnozy": ["F10.6", "F44.0", "F00"],
-    "mapovani": { "mkn11": "6D70", "dsm5": "294.0" }
+    "diferencialni_diagnozy": [
+      "F10.6",
+      "F44.0",
+      "F00"
+    ],
+    "mapovani": {
+      "mkn11": "6D70",
+      "dsm5": "294.0"
+    }
   },
   {
     "id": "F05",
@@ -315,11 +647,29 @@
       "Kolísání příznaků v průběhu dne",
       "Průkaz organické příčiny"
     ],
-    "priznaky": ["Porucha vědomí (obluzení)", "Dezorientace", "Halucinace (zejm. zrakové)", "Neklid nebo stupor", "Třes", "Tachykardie", "Pocení", "Kolísání v průběhu dne", "Zhoršení v noci"],
+    "priznaky": [
+      "Porucha vědomí (obluzení)",
+      "Dezorientace",
+      "Halucinace (zejm. zrakové)",
+      "Neklid nebo stupor",
+      "Třes",
+      "Tachykardie",
+      "Pocení",
+      "Kolísání v průběhu dne",
+      "Zhoršení v noci"
+    ],
     "prubeh": "Akutní, obvykle reverzibilní při léčbě příčiny. Může trvat dny až týdny.",
     "onset": "Akutní (hodiny až dny).",
-    "diferencialni_diagnozy": ["F10.4", "F20", "F30", "F44"],
-    "mapovani": { "mkn11": "MB26.0", "dsm5": "293.0" }
+    "diferencialni_diagnozy": [
+      "F10.4",
+      "F20",
+      "F30",
+      "F44"
+    ],
+    "mapovani": {
+      "mkn11": "MB26.0",
+      "dsm5": "293.0"
+    }
   },
   {
     "id": "F05.0",
@@ -329,12 +679,24 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Organické poruchy",
     "popis": "Delirium u pacienta bez předchozí demence.",
-    "diagnosticka_kriteria": ["Splněna kritéria F05", "Žádná preexistující demence"],
-    "priznaky": ["Viz F05", "Obvykle plná remise po léčbě příčiny"],
+    "diagnosticka_kriteria": [
+      "Splněna kritéria F05",
+      "Žádná preexistující demence"
+    ],
+    "priznaky": [
+      "Viz F05",
+      "Obvykle plná remise po léčbě příčiny"
+    ],
     "prubeh": "Reverzibilní při správné léčbě.",
     "onset": "Akutní.",
-    "diferencialni_diagnozy": ["F05.1", "F10.4"],
-    "mapovani": { "mkn11": "MB26.0", "dsm5": "293.0" }
+    "diferencialni_diagnozy": [
+      "F05.1",
+      "F10.4"
+    ],
+    "mapovani": {
+      "mkn11": "MB26.0",
+      "dsm5": "293.0"
+    }
   },
   {
     "id": "F05.1",
@@ -344,12 +706,26 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Organické poruchy",
     "popis": "Delirium superponované na preexistující demenci.",
-    "diagnosticka_kriteria": ["Splněna kritéria F05", "Preexistující demence"],
-    "priznaky": ["Akutní zhoršení kognitivního stavu nad rámec demence", "Zvýšený neklid", "Halucinace"],
+    "diagnosticka_kriteria": [
+      "Splněna kritéria F05",
+      "Preexistující demence"
+    ],
+    "priznaky": [
+      "Akutní zhoršení kognitivního stavu nad rámec demence",
+      "Zvýšený neklid",
+      "Halucinace"
+    ],
     "prubeh": "Vyšší riziko komplikací, pomalejší ústup.",
     "onset": "Akutní na podkladě chronického onemocnění.",
-    "diferencialni_diagnozy": ["F05.0", "F00", "F01"],
-    "mapovani": { "mkn11": "MB26.0", "dsm5": "293.0" }
+    "diferencialni_diagnozy": [
+      "F05.0",
+      "F00",
+      "F01"
+    ],
+    "mapovani": {
+      "mkn11": "MB26.0",
+      "dsm5": "293.0"
+    }
   },
   {
     "id": "F06",
@@ -359,12 +735,25 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Organické poruchy",
     "popis": "Různorodé duševní poruchy prokazatelně způsobené onemocněním, poraněním nebo dysfunkcí mozku či somatickým onemocněním.",
-    "diagnosticka_kriteria": ["Průkaz organické příčiny", "Časová vazba mezi onemocněním a duševní poruchou", "Zlepšení nebo remise po léčbě základní příčiny"],
-    "priznaky": ["Dle typu poruchy (viz podkategorie F06.0–F06.9)"],
+    "diagnosticka_kriteria": [
+      "Průkaz organické příčiny",
+      "Časová vazba mezi onemocněním a duševní poruchou",
+      "Zlepšení nebo remise po léčbě základní příčiny"
+    ],
+    "priznaky": [
+      "Dle typu poruchy (viz podkategorie F06.0–F06.9)"
+    ],
     "prubeh": "Dle základní příčiny.",
     "onset": "Variabilní.",
-    "diferencialni_diagnozy": ["F30-F39", "F40-F48", "F20-F29"],
-    "mapovani": { "mkn11": "6D8Z", "dsm5": "293.89" }
+    "diferencialni_diagnozy": [
+      "F30-F39",
+      "F40-F48",
+      "F20-F29"
+    ],
+    "mapovani": {
+      "mkn11": "6D8Z",
+      "dsm5": "293.89"
+    }
   },
   {
     "id": "F06.0",
@@ -374,12 +763,29 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Organické poruchy",
     "popis": "Porucha s přetrvávajícími nebo opakujícími se halucinacemi, nejčastěji zrakovými nebo sluchovými, při jasném vědomí.",
-    "diagnosticka_kriteria": ["Přetrvávající nebo opakující se halucinace", "Jasné vědomí", "Průkaz organické příčiny", "Bez splnění kritérií pro delirium"],
-    "priznaky": ["Zrakové halucinace (nejčastěji)", "Sluchové halucinace", "Jasné vědomí", "Kritický náhled (variabilní)"],
+    "diagnosticka_kriteria": [
+      "Přetrvávající nebo opakující se halucinace",
+      "Jasné vědomí",
+      "Průkaz organické příčiny",
+      "Bez splnění kritérií pro delirium"
+    ],
+    "priznaky": [
+      "Zrakové halucinace (nejčastěji)",
+      "Sluchové halucinace",
+      "Jasné vědomí",
+      "Kritický náhled (variabilní)"
+    ],
     "prubeh": "Dle základní příčiny.",
     "onset": "Variabilní.",
-    "diferencialni_diagnozy": ["F20.0", "F10.5", "F05"],
-    "mapovani": { "mkn11": "6D8Z", "dsm5": "293.82" }
+    "diferencialni_diagnozy": [
+      "F20.0",
+      "F10.5",
+      "F05"
+    ],
+    "mapovani": {
+      "mkn11": "6D8Z",
+      "dsm5": "293.82"
+    }
   },
   {
     "id": "F06.1",
@@ -389,12 +795,28 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Organické poruchy",
     "popis": "Snížení (stupor) nebo zvýšení (excitace) psychomotorické aktivity organické etiologie.",
-    "diagnosticka_kriteria": ["Katatonické příznaky", "Průkaz organické příčiny", "Bez splnění kritérií pro delirium"],
-    "priznaky": ["Katatonní stupor nebo excitace", "Negativismus", "Mutismus", "Flexibilitas cerea"],
+    "diagnosticka_kriteria": [
+      "Katatonické příznaky",
+      "Průkaz organické příčiny",
+      "Bez splnění kritérií pro delirium"
+    ],
+    "priznaky": [
+      "Katatonní stupor nebo excitace",
+      "Negativismus",
+      "Mutismus",
+      "Flexibilitas cerea"
+    ],
     "prubeh": "Dle základní příčiny.",
     "onset": "Variabilní.",
-    "diferencialni_diagnozy": ["F20.2", "F30", "F05"],
-    "mapovani": { "mkn11": "6D8Z", "dsm5": "293.89" }
+    "diferencialni_diagnozy": [
+      "F20.2",
+      "F30",
+      "F05"
+    ],
+    "mapovani": {
+      "mkn11": "6D8Z",
+      "dsm5": "293.89"
+    }
   },
   {
     "id": "F06.2",
@@ -404,12 +826,27 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Organické poruchy",
     "popis": "Porucha s přetrvávajícími nebo opakujícími se bludy organické etiologie.",
-    "diagnosticka_kriteria": ["Bludy jako dominantní příznak", "Průkaz organické příčiny", "Trvání > 1 měsíc"],
-    "priznaky": ["Perzistující bludy", "Halucinace mohou být přítomny", "Jasné vědomí"],
+    "diagnosticka_kriteria": [
+      "Bludy jako dominantní příznak",
+      "Průkaz organické příčiny",
+      "Trvání > 1 měsíc"
+    ],
+    "priznaky": [
+      "Perzistující bludy",
+      "Halucinace mohou být přítomny",
+      "Jasné vědomí"
+    ],
     "prubeh": "Dle základní příčiny.",
     "onset": "Variabilní.",
-    "diferencialni_diagnozy": ["F20", "F22", "F06.0"],
-    "mapovani": { "mkn11": "6D8Z", "dsm5": "293.81" }
+    "diferencialni_diagnozy": [
+      "F20",
+      "F22",
+      "F06.0"
+    ],
+    "mapovani": {
+      "mkn11": "6D8Z",
+      "dsm5": "293.81"
+    }
   },
   {
     "id": "F06.3",
@@ -419,12 +856,26 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Organické poruchy",
     "popis": "Porucha charakterizovaná změnou nálady (deprese nebo mánie) organické etiologie.",
-    "diagnosticka_kriteria": ["Afektivní porucha splňující kritéria pro F30–F33", "Průkaz organické příčiny"],
-    "priznaky": ["Depresivní nebo manické příznaky", "Průkaz organické příčiny", "Časová vazba"],
+    "diagnosticka_kriteria": [
+      "Afektivní porucha splňující kritéria pro F30–F33",
+      "Průkaz organické příčiny"
+    ],
+    "priznaky": [
+      "Depresivní nebo manické příznaky",
+      "Průkaz organické příčiny",
+      "Časová vazba"
+    ],
     "prubeh": "Dle základní příčiny.",
     "onset": "Variabilní.",
-    "diferencialni_diagnozy": ["F32", "F30", "F06.4"],
-    "mapovani": { "mkn11": "6D8Z", "dsm5": "293.83" }
+    "diferencialni_diagnozy": [
+      "F32",
+      "F30",
+      "F06.4"
+    ],
+    "mapovani": {
+      "mkn11": "6D8Z",
+      "dsm5": "293.83"
+    }
   },
   {
     "id": "F06.4",
@@ -434,12 +885,27 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Organické poruchy",
     "popis": "Porucha s generalizovanou úzkostí nebo panickými záchvaty organické etiologie.",
-    "diagnosticka_kriteria": ["Úzkostné příznaky splňující kritéria pro F41", "Průkaz organické příčiny"],
-    "priznaky": ["Úzkost", "Panické záchvaty", "Autonomní příznaky", "Průkaz organické příčiny"],
+    "diagnosticka_kriteria": [
+      "Úzkostné příznaky splňující kritéria pro F41",
+      "Průkaz organické příčiny"
+    ],
+    "priznaky": [
+      "Úzkost",
+      "Panické záchvaty",
+      "Autonomní příznaky",
+      "Průkaz organické příčiny"
+    ],
     "prubeh": "Dle základní příčiny.",
     "onset": "Variabilní.",
-    "diferencialni_diagnozy": ["F41", "F06.3", "F40"],
-    "mapovani": { "mkn11": "6D8Z", "dsm5": "293.84" }
+    "diferencialni_diagnozy": [
+      "F41",
+      "F06.3",
+      "F40"
+    ],
+    "mapovani": {
+      "mkn11": "6D8Z",
+      "dsm5": "293.84"
+    }
   },
   {
     "id": "F07",
@@ -449,12 +915,27 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Organické poruchy",
     "popis": "Změna osobnosti jako důsledek organického poškození mozku.",
-    "diagnosticka_kriteria": ["Výrazná změna obvyklého premorbidního způsobu chování", "Průkaz organické příčiny"],
-    "priznaky": ["Změna osobnosti", "Behaviorální změny", "Emoční labilita", "Apatia nebo dezinhibice"],
+    "diagnosticka_kriteria": [
+      "Výrazná změna obvyklého premorbidního způsobu chování",
+      "Průkaz organické příčiny"
+    ],
+    "priznaky": [
+      "Změna osobnosti",
+      "Behaviorální změny",
+      "Emoční labilita",
+      "Apatia nebo dezinhibice"
+    ],
     "prubeh": "Chronický, dle rozsahu poškození.",
     "onset": "Po traumatu, nemoci nebo operaci CNS.",
-    "diferencialni_diagnozy": ["F60", "F02.0", "F06"],
-    "mapovani": { "mkn11": "6D8Y", "dsm5": "310.1" }
+    "diferencialni_diagnozy": [
+      "F60",
+      "F02.0",
+      "F06"
+    ],
+    "mapovani": {
+      "mkn11": "6D8Y",
+      "dsm5": "310.1"
+    }
   },
   {
     "id": "F07.0",
@@ -464,12 +945,29 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Organické poruchy",
     "popis": "Výrazná změna osobnosti a chování po poškození CNS. Postihuje kognitivní, emoční a sociální funkce.",
-    "diagnosticka_kriteria": ["≥ 2 z: snížená kapacita k cílevědomé činnosti, emoční změny, výbuchy, anankastické tendence, paranoia, narušení sexuality", "Průkaz organické příčiny"],
-    "priznaky": ["Dezinhibice", "Agresivita", "Apatia", "Paranoidní ideace", "Narušení sexuality", "Impulzivita"],
+    "diagnosticka_kriteria": [
+      "≥ 2 z: snížená kapacita k cílevědomé činnosti, emoční změny, výbuchy, anankastické tendence, paranoia, narušení sexuality",
+      "Průkaz organické příčiny"
+    ],
+    "priznaky": [
+      "Dezinhibice",
+      "Agresivita",
+      "Apatia",
+      "Paranoidní ideace",
+      "Narušení sexuality",
+      "Impulzivita"
+    ],
     "prubeh": "Chronický.",
     "onset": "Po frontálním poranění, encefalitidě, tumoru.",
-    "diferencialni_diagnozy": ["F60.2", "F02.0", "F60.3"],
-    "mapovani": { "mkn11": "6D8Y.0", "dsm5": "310.1" }
+    "diferencialni_diagnozy": [
+      "F60.2",
+      "F02.0",
+      "F60.3"
+    ],
+    "mapovani": {
+      "mkn11": "6D8Y.0",
+      "dsm5": "310.1"
+    }
   },
   {
     "id": "F07.2",
@@ -479,12 +977,31 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Organické poruchy",
     "popis": "Syndrom po kraniotraumatu (obvykle dostatečně závažném k vyvolání ztráty vědomí), zahrnující různé obtíže.",
-    "diagnosticka_kriteria": ["Anamnéza kraniotraumatu", "≥ 3 ze skupiny příznaků: bolesti hlavy, závratě, únava, podrážděnost, nespavost, koncentrační obtíže, paměťové obtíže, intolerance stresu/alkoholu/emocí"],
-    "priznaky": ["Bolesti hlavy", "Závratě", "Únava", "Podrážděnost", "Poruchy paměti a koncentrace", "Insomnie", "Úzkost", "Deprese"],
+    "diagnosticka_kriteria": [
+      "Anamnéza kraniotraumatu",
+      "≥ 3 ze skupiny příznaků: bolesti hlavy, závratě, únava, podrážděnost, nespavost, koncentrační obtíže, paměťové obtíže, intolerance stresu/alkoholu/emocí"
+    ],
+    "priznaky": [
+      "Bolesti hlavy",
+      "Závratě",
+      "Únava",
+      "Podrážděnost",
+      "Poruchy paměti a koncentrace",
+      "Insomnie",
+      "Úzkost",
+      "Deprese"
+    ],
     "prubeh": "Obvykle odeznívá do 3–6 měsíců, někdy přetrvává.",
     "onset": "Po kraniotraumatu.",
-    "diferencialni_diagnozy": ["F32", "F41.1", "F45"],
-    "mapovani": { "mkn11": "MB50.3", "dsm5": "310.89" }
+    "diferencialni_diagnozy": [
+      "F32",
+      "F41.1",
+      "F45"
+    ],
+    "mapovani": {
+      "mkn11": "MB50.3",
+      "dsm5": "310.89"
+    }
   },
   {
     "id": "F09",
@@ -494,11 +1011,22 @@
     "kategorie": "F00–F09 Organické duševní poruchy",
     "podkategorie": "Organické poruchy",
     "popis": "Organická nebo symptomatická duševní porucha, která nesplňuje kritéria pro žádnou jinou specifickou kategorii.",
-    "diagnosticka_kriteria": ["Průkaz organické příčiny", "Duševní porucha nesplňující kritéria pro F00–F07"],
-    "priznaky": ["Variabilní dle základní příčiny"],
+    "diagnosticka_kriteria": [
+      "Průkaz organické příčiny",
+      "Duševní porucha nesplňující kritéria pro F00–F07"
+    ],
+    "priznaky": [
+      "Variabilní dle základní příčiny"
+    ],
     "prubeh": "Variabilní.",
     "onset": "Variabilní.",
-    "diferencialni_diagnozy": ["F06", "F07"],
-    "mapovani": { "mkn11": "6D8Z", "dsm5": "293.89" }
+    "diferencialni_diagnozy": [
+      "F06",
+      "F07"
+    ],
+    "mapovani": {
+      "mkn11": "6D8Z",
+      "dsm5": "293.89"
+    }
   }
 ]
