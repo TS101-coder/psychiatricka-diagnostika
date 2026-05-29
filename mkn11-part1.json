@@ -1,0 +1,3049 @@
+[
+  {
+    "id": "6A00",
+    "kod": "6A00",
+    "nazev_cz": "Poruchy vývoje intelektu",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": "Poruchy intelektového vývoje",
+    "popis": "Etiologicky různorodé stavy vznikající v průběhu vývojového období, charakterizované výrazně podprůměrným intelektuálním fungováním a adaptivním chováním (přibližně 2 a více směrodatných odchylek pod průměrem).",
+    "diagnosticka_kriteria": [
+      "Výrazně podprůměrné intelektuální fungování (přibližně 2+ SD pod průměrem)",
+      "Deficity v adaptivním chování v konceptuální, sociální a praktické oblasti",
+      "Nástup v průběhu vývojového období"
+    ],
+    "priznaky": [
+      "Omezené kognitivní schopnosti",
+      "Problémy s učením",
+      "Omezená adaptivní funkce",
+      "Potíže s komunikací"
+    ],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F70",
+      "F71",
+      "F72",
+      "F73",
+      "F78",
+      "F79"
+    ]
+  },
+  {
+    "id": "6A00.0",
+    "kod": "6A00.0",
+    "nazev_cz": "Mírná porucha vývoje intelektu",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": "Poruchy intelektového vývoje",
+    "popis": "Přibližně 2–3 SD pod průměrem (0,1–2,3. percentil). Jedinci typicky zvládají základní jazykové a akademické dovednosti s obtížemi u složitějších pojmů.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F70"
+    ]
+  },
+  {
+    "id": "6A00.1",
+    "kod": "6A00.1",
+    "nazev_cz": "Středně těžká porucha vývoje intelektu",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": "Poruchy intelektového vývoje",
+    "popis": "Přibližně 3–4 SD pod průměrem (0,003–0,1. percentil). Omezená jazyková a akademická schopnost; zvládají základní sebeobsluhu s podporou.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F71"
+    ]
+  },
+  {
+    "id": "6A00.2",
+    "kod": "6A00.2",
+    "nazev_cz": "Těžká porucha vývoje intelektu",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": "Poruchy intelektového vývoje",
+    "popis": "Přibližně 4+ SD pod průměrem. Velmi omezená jazyková kapacita; mohou být přítomny motorické poruchy; základní sebeobsluha s intenzivní výukou.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F72"
+    ]
+  },
+  {
+    "id": "6A00.3",
+    "kod": "6A00.3",
+    "nazev_cz": "Hluboká porucha vývoje intelektu",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": "Poruchy intelektového vývoje",
+    "popis": "Přibližně 4+ SD pod průměrem. Silně omezená komunikace; dovednosti omezeny na základní konkrétní schopnosti; mohou být motorické a senzorické poruchy.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F73"
+    ]
+  },
+  {
+    "id": "6A00.4",
+    "kod": "6A00.4",
+    "nazev_cz": "Porucha vývoje intelektu, dočasná",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": "Přiřazuje se, pokud existuje důkaz poruchy, ale hodnocení nelze provést z důvodu věku nebo jiných stavů.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F78"
+    ]
+  },
+  {
+    "id": "6A00.Z",
+    "kod": "6A00.Z",
+    "nazev_cz": "Poruchy vývoje intelektu, neurčené",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F79"
+    ]
+  },
+  {
+    "id": "6A01",
+    "kod": "6A01",
+    "nazev_cz": "Vývojové poruchy řeči nebo jazyka",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": "Vývojové poruchy řeči a jazyka",
+    "popis": "Trvalé obtíže s nabýváním a používáním jazyka ve všech modalitách způsobené deficity v porozumění nebo produkci; jazykové schopnosti výrazně nižší oproti věkovým očekáváním.",
+    "diagnosticka_kriteria": [
+      "Trvalé obtíže s nabýváním a používáním jazyka (mluvená, psaná, nebo znaková)",
+      "Jazykové schopnosti výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového období",
+      "Není lépe vysvětlen smyslovým nebo motorickým deficitem"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F80"
+    ]
+  },
+  {
+    "id": "6A01.0",
+    "kod": "6A01.0",
+    "nazev_cz": "Vývojová porucha zvukové podoby řeči",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": "Obtíže s výslovností, při nichž srozumitelnost řeči je výrazně snížená oproti věkové normě.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F80.0"
+    ]
+  },
+  {
+    "id": "6A01.1",
+    "kod": "6A01.1",
+    "nazev_cz": "Vývojová porucha plynulosti řeči",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": "Přerušení normální plynulosti a časování řeči; opakování hlásek, slabik, slov; prolongace, bloky; zahrnuje koktavost.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F98.5"
+    ]
+  },
+  {
+    "id": "6A01.2",
+    "kod": "6A01.2",
+    "nazev_cz": "Vývojová porucha jazyka",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": "Výrazné obtíže s nabýváním, porozuměním nebo používáním jazyka.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F80.1",
+      "F80.2"
+    ]
+  },
+  {
+    "id": "6A01.20",
+    "kod": "6A01.20",
+    "nazev_cz": "Vývojová porucha jazyka s narušením receptivního a expresivního jazyka",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F80.2"
+    ]
+  },
+  {
+    "id": "6A01.21",
+    "kod": "6A01.21",
+    "nazev_cz": "Vývojová porucha jazyka s narušením převážně expresivního jazyka",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F80.1"
+    ]
+  },
+  {
+    "id": "6A01.22",
+    "kod": "6A01.22",
+    "nazev_cz": "Vývojová porucha jazyka s narušením převážně pragmatického jazyka",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F80.8"
+    ]
+  },
+  {
+    "id": "6A01.23",
+    "kod": "6A01.23",
+    "nazev_cz": "Vývojová porucha jazyka s jiným určeným narušením jazyka",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F80.8"
+    ]
+  },
+  {
+    "id": "6A01.Y",
+    "kod": "6A01.Y",
+    "nazev_cz": "Vývojové poruchy řeči nebo jazyka, jiné určené",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F80.8"
+    ]
+  },
+  {
+    "id": "6A01.Z",
+    "kod": "6A01.Z",
+    "nazev_cz": "Vývojové poruchy řeči nebo jazyka, neurčené",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F80.9"
+    ]
+  },
+  {
+    "id": "6A02",
+    "kod": "6A02",
+    "nazev_cz": "Porucha autistického spektra",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": "Autismus",
+    "popis": "Charakterizována přetrvávajícími deficity ve schopnosti zahájit a udržet oboustrannou sociální interakci a komunikaci a omezenými, opakujícími se a nepružnými vzorci chování, zájmů nebo aktivit.",
+    "diagnosticka_kriteria": [
+      "Přetrvávající deficity ve schopnosti zahájit a udržet oboustrannou sociální interakci a komunikaci",
+      "Omezené, opakující se a nepružné vzorce chování, zájmů nebo aktivit, které jsou pro věk atypické",
+      "Nástup v průběhu vývojového období, typicky v raném dětství",
+      "Příznaky způsobují výrazné funkční postižení"
+    ],
+    "priznaky": [
+      "Deficity v sociální komunikaci",
+      "Omezené zájmy",
+      "Repetitivní chování",
+      "Smyslová přecitlivělost nebo hyposenzitivita",
+      "Rigidní rutiny"
+    ],
+    "prubeh": "Celoživotní, ale příznaky se mohou měnit s věkem a intervencí.",
+    "onset": "Typicky v raném dětství, i když plné příznaky mohou být patrné až při větších sociálních nárocích.",
+    "mapovani_mkn10": [
+      "F84.0",
+      "F84.1",
+      "F84.5"
+    ]
+  },
+  {
+    "id": "6A02.0",
+    "kod": "6A02.0",
+    "nazev_cz": "Porucha autistického spektra bez poruchy vývoje intelektu a s mírným nebo žádným poškozením funkční řeči",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F84.5"
+    ]
+  },
+  {
+    "id": "6A02.1",
+    "kod": "6A02.1",
+    "nazev_cz": "Porucha autistického spektra s poruchou vývoje intelektu a s mírným nebo žádným poškozením funkční řeči",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F84.0"
+    ]
+  },
+  {
+    "id": "6A02.2",
+    "kod": "6A02.2",
+    "nazev_cz": "Porucha autistického spektra bez poruchy vývoje intelektu a se zhoršenou funkční řečí",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F84.0"
+    ]
+  },
+  {
+    "id": "6A02.3",
+    "kod": "6A02.3",
+    "nazev_cz": "Porucha autistického spektra s poruchou vývoje intelektu a s narušením funkční řeči",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F84.0"
+    ]
+  },
+  {
+    "id": "6A02.5",
+    "kod": "6A02.5",
+    "nazev_cz": "Porucha autistického spektra s poruchou vývoje intelektu a absencí funkční řeči",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F84.0"
+    ]
+  },
+  {
+    "id": "6A02.Y",
+    "kod": "6A02.Y",
+    "nazev_cz": "Porucha autistického spektra, jiná určená",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F84.8"
+    ]
+  },
+  {
+    "id": "6A02.Z",
+    "kod": "6A02.Z",
+    "nazev_cz": "Porucha autistického spektra, neurčená",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F84.9"
+    ]
+  },
+  {
+    "id": "6A03",
+    "kod": "6A03",
+    "nazev_cz": "Vývojová porucha učení",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": "Specifické poruchy učení",
+    "popis": "Trvalé a výrazné obtíže s nabýváním nebo používáním specifických akademických dovedností navzdory adekvátní vzdělávací příležitosti; dovednosti jsou výrazně nižší oproti věkovým a intelektovým očekáváním.",
+    "diagnosticka_kriteria": [
+      "Trvalé obtíže s nabýváním specifických akademických dovedností (čtení, psaní, matematika)",
+      "Výkon výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového/školního věku",
+      "Není lépe vysvětlen poruchou intelektového vývoje ani smyslovým deficitem"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F81"
+    ]
+  },
+  {
+    "id": "6A03.0",
+    "kod": "6A03.0",
+    "nazev_cz": "Vývojová porucha učení s poruchou čtení",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": "Přesnost a plynulost čtení výrazně pod věkovou normou; obtíže s dekódováním a rozpoznáváním slov (dyslexie).",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F81.0"
+    ]
+  },
+  {
+    "id": "6A03.1",
+    "kod": "6A03.1",
+    "nazev_cz": "Vývojová porucha učení s poruchou v písemném vyjadřování",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": "Přesnost a plynulost psaní výrazně pod věkovou normou; obtíže s pravopisem a gramatickým vyjádřením (dysortografie/dysgrafie).",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F81.1"
+    ]
+  },
+  {
+    "id": "6A03.2",
+    "kod": "6A03.2",
+    "nazev_cz": "Vývojová porucha učení s poruchou v matematice",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": "Obtíže s matematickými koncepty a výpočty výrazně pod věkovou normou (dyskalkulie).",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F81.2"
+    ]
+  },
+  {
+    "id": "6A03.3",
+    "kod": "6A03.3",
+    "nazev_cz": "Vývojová porucha učení s jinou určenou poruchou učení",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F81.8"
+    ]
+  },
+  {
+    "id": "6A03.Z",
+    "kod": "6A03.Z",
+    "nazev_cz": "Vývojová porucha učení, neurčená",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F81.9"
+    ]
+  },
+  {
+    "id": "6A04",
+    "kod": "6A04",
+    "nazev_cz": "Vývojová porucha motorické koordinace",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": "Motorické poruchy",
+    "popis": "Výrazné a trvalé obtíže s nabýváním a prováděním koordinovaných motorických dovedností výrazně pod věkovým a intelektovým očekáváním (dyspraxie).",
+    "diagnosticka_kriteria": [
+      "Výrazné obtíže s nabýváním a prováděním koordinovaných motorických dovedností",
+      "Dovednosti jsou výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového období",
+      "Způsobuje výrazné funkční postižení"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F82"
+    ]
+  },
+  {
+    "id": "6A05",
+    "kod": "6A05",
+    "nazev_cz": "Porucha pozornosti s hyperaktivitou",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": "ADHD",
+    "popis": "Přetrvávající vzorec nepozornosti a/nebo hyperaktivity-impulzivity s přímým negativním dopadem na fungování; příznaky se projevily před 12. rokem věku.",
+    "diagnosticka_kriteria": [
+      "Přetrvávající vzorec (nejméně 6 měsíců) nepozornosti a/nebo hyperaktivity-impulzivity",
+      "Příznaky mají přímý negativní dopad na akademické, pracovní nebo sociální fungování",
+      "Příznaky se projevily před 12. rokem věku a přesahují normální vývojovou variaci",
+      "Projevuje se v různých prostředích (domov, škola, práce)",
+      "Není lépe vysvětlen jinou duševní poruchou ani účinky látky"
+    ],
+    "priznaky": [
+      "Obtíže s udržením pozornosti",
+      "Snadná rozptylitelnost",
+      "Zapomínání",
+      "Motorický neklid",
+      "Impulzivita",
+      "Obtíže s organizací"
+    ],
+    "prubeh": "Příznaky přetrvávají do dospělosti u 50–70 % případů, i když hyperaktivita klesá.",
+    "onset": "Příznaky patrné před 12. rokem věku; typicky v raném dětství.",
+    "mapovani_mkn10": [
+      "F90",
+      "F90.0",
+      "F90.1"
+    ]
+  },
+  {
+    "id": "6A05.0",
+    "kod": "6A05.0",
+    "nazev_cz": "Porucha pozornosti s hyperaktivitou, s převládajícími projevy nepozornosti",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F90.0"
+    ]
+  },
+  {
+    "id": "6A05.1",
+    "kod": "6A05.1",
+    "nazev_cz": "Porucha pozornosti s hyperaktivitou, převážně hyperaktivní-impulzivní projev",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F90.1"
+    ]
+  },
+  {
+    "id": "6A05.2",
+    "kod": "6A05.2",
+    "nazev_cz": "Kombinovaná porucha pozornosti s hyperaktivitou",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F90.0",
+      "F90.1"
+    ]
+  },
+  {
+    "id": "6A05.Y",
+    "kod": "6A05.Y",
+    "nazev_cz": "Porucha pozornosti s hyperaktivitou, jiné určené projevy",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F90.8"
+    ]
+  },
+  {
+    "id": "6A05.Z",
+    "kod": "6A05.Z",
+    "nazev_cz": "Porucha pozornosti s hyperaktivitou s neurčenými projevy",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F90.9"
+    ]
+  },
+  {
+    "id": "6A06",
+    "kod": "6A06",
+    "nazev_cz": "Stereotypní pohybová porucha",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": "Pohybové poruchy",
+    "popis": "Opakující se, zdánlivě účelové a zdánlivě neintencionální pohyby, které se stávají ritualizovanými, s nástupem v raném vývojovém období.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F98.4"
+    ]
+  },
+  {
+    "id": "6A06.0",
+    "kod": "6A06.0",
+    "nazev_cz": "Stereotypní pohybová porucha bez sebepoškozování",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F98.4"
+    ]
+  },
+  {
+    "id": "6A06.1",
+    "kod": "6A06.1",
+    "nazev_cz": "Stereotypní pohybová porucha se sebepoškozováním",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F98.4"
+    ]
+  },
+  {
+    "id": "6A06.Z",
+    "kod": "6A06.Z",
+    "nazev_cz": "Stereotypní pohybová porucha, neurčená",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F98.4"
+    ]
+  },
+  {
+    "id": "6A0Y",
+    "kod": "6A0Y",
+    "nazev_cz": "Neurovývojové poruchy, jiné určené",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F88"
+    ]
+  },
+  {
+    "id": "6A0Z",
+    "kod": "6A0Z",
+    "nazev_cz": "Neurovývojové poruchy, neurčené",
+    "kategorie": "Neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F89"
+    ]
+  },
+  {
+    "id": "6A20",
+    "kod": "6A20",
+    "nazev_cz": "Schizofrenie",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": "Schizofrenie",
+    "popis": "Poruchy ve více mentálních modalitách: myšlení, vnímání, prožívání sebe, kognice, vůle, afekt, chování. Jádrové příznaky zahrnují trvalé bludy, halucinace, dezorganizaci myšlení a zážitky ovlivňování.",
+    "diagnosticka_kriteria": [
+      "Poruchy ve více mentálních modalitách: myšlení (bludy, dezorganizace), vnímání (halucinace), prožívání sebe (ovlivňování, pasivita), kognice, vůle (ztráta motivace), afekt (oploštění), chování",
+      "Jádrové příznaky: trvalé bludy, trvalé halucinace, dezorganizace myšlení, zážitky ovlivňování nebo kontroly",
+      "Příznaky přetrvávají nejméně 1 měsíc",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky na CNS"
+    ],
+    "priznaky": [
+      "Trvalé bludy",
+      "Halucinace (typicky sluchové)",
+      "Dezorganizace myšlení",
+      "Negativní příznaky",
+      "Oploštěný afekt",
+      "Alogie",
+      "Abulie",
+      "Anhedonie"
+    ],
+    "prubeh": "Chronický, s různými průběhy: kontinuální, epizodický, nebo s epizodami a remisemi.",
+    "onset": "Typicky pozdní adolescence až raná dospělost; muži dříve (18–25 let), ženy pozdněji (25–35 let).",
+    "mapovani_mkn10": [
+      "F20"
+    ]
+  },
+  {
+    "id": "6A20.0",
+    "kod": "6A20.0",
+    "nazev_cz": "Schizofrenie, první epizoda",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20"
+    ]
+  },
+  {
+    "id": "6A20.00",
+    "kod": "6A20.00",
+    "nazev_cz": "Schizofrenie, první epizoda, v současnosti symptomatická",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20"
+    ]
+  },
+  {
+    "id": "6A20.01",
+    "kod": "6A20.01",
+    "nazev_cz": "Schizofrenie, první epizoda, v částečné remisi",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20"
+    ]
+  },
+  {
+    "id": "6A20.02",
+    "kod": "6A20.02",
+    "nazev_cz": "Schizofrenie, první epizoda, v plné remisi",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20"
+    ]
+  },
+  {
+    "id": "6A20.0Z",
+    "kod": "6A20.0Z",
+    "nazev_cz": "Schizofrenie, první epizoda, neurčená",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20"
+    ]
+  },
+  {
+    "id": "6A20.1",
+    "kod": "6A20.1",
+    "nazev_cz": "Schizofrenie, opakované epizody",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20"
+    ]
+  },
+  {
+    "id": "6A20.10",
+    "kod": "6A20.10",
+    "nazev_cz": "Schizofrenie, opakované epizody, v současnosti symptomatická",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20"
+    ]
+  },
+  {
+    "id": "6A20.11",
+    "kod": "6A20.11",
+    "nazev_cz": "Schizofrenie, opakované epizody, v částečné remisi",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20.5"
+    ]
+  },
+  {
+    "id": "6A20.12",
+    "kod": "6A20.12",
+    "nazev_cz": "Schizofrenie, opakované epizody, v plné remisi",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20.5"
+    ]
+  },
+  {
+    "id": "6A20.1Z",
+    "kod": "6A20.1Z",
+    "nazev_cz": "Schizofrenie, opakované epizody, neurčená",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20"
+    ]
+  },
+  {
+    "id": "6A20.2",
+    "kod": "6A20.2",
+    "nazev_cz": "Schizofrenie, kontinuální",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20.5"
+    ]
+  },
+  {
+    "id": "6A20.20",
+    "kod": "6A20.20",
+    "nazev_cz": "Schizofrenie, kontinuální, v současnosti symptomatická",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20.5"
+    ]
+  },
+  {
+    "id": "6A20.21",
+    "kod": "6A20.21",
+    "nazev_cz": "Schizofrenie, kontinuální, v částečné remisi",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20.5"
+    ]
+  },
+  {
+    "id": "6A20.22",
+    "kod": "6A20.22",
+    "nazev_cz": "Schizofrenie, kontinuální, v plné remisi",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20.5"
+    ]
+  },
+  {
+    "id": "6A20.2Z",
+    "kod": "6A20.2Z",
+    "nazev_cz": "Schizofrenie, kontinuální, neurčená",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20.5"
+    ]
+  },
+  {
+    "id": "6A20.Y",
+    "kod": "6A20.Y",
+    "nazev_cz": "Schizofrenie, jiná určená",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20.8"
+    ]
+  },
+  {
+    "id": "6A20.Z",
+    "kod": "6A20.Z",
+    "nazev_cz": "Schizofrenie, neurčená",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20.9"
+    ]
+  },
+  {
+    "id": "6A21",
+    "kod": "6A21",
+    "nazev_cz": "Schizoafektivní porucha",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": "Schizoafektivní porucha",
+    "popis": "Epizodická porucha, při níž jsou v rámci téže epizody splněna diagnostická kritéria jak pro schizofrenii, tak pro manickou, smíšenou nebo středně těžkou či těžkou depresivní epizodu (simultánně nebo do několika dnů).",
+    "diagnosticka_kriteria": [
+      "V rámci téže epizody splněna kritéria pro schizofrenii i pro manickou, smíšenou nebo depresivní epizodu",
+      "Příznaky přetrvávají nejméně 1 měsíc",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F25"
+    ]
+  },
+  {
+    "id": "6A21.0",
+    "kod": "6A21.0",
+    "nazev_cz": "Schizoafektivní porucha, první epizoda",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F25"
+    ]
+  },
+  {
+    "id": "6A21.00",
+    "kod": "6A21.00",
+    "nazev_cz": "Schizoafektivní porucha, první epizoda, v současnosti symptomatická",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F25"
+    ]
+  },
+  {
+    "id": "6A21.01",
+    "kod": "6A21.01",
+    "nazev_cz": "Schizoafektivní porucha, první epizoda, v částečné remisi",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F25"
+    ]
+  },
+  {
+    "id": "6A21.02",
+    "kod": "6A21.02",
+    "nazev_cz": "Schizoafektivní porucha, první epizoda, v plné remisi",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F25"
+    ]
+  },
+  {
+    "id": "6A21.0Z",
+    "kod": "6A21.0Z",
+    "nazev_cz": "Schizoafektivní porucha, první epizoda, neurčená",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F25"
+    ]
+  },
+  {
+    "id": "6A21.1",
+    "kod": "6A21.1",
+    "nazev_cz": "Schizoafektivní porucha, opakované epizody",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F25"
+    ]
+  },
+  {
+    "id": "6A21.10",
+    "kod": "6A21.10",
+    "nazev_cz": "Schizoafektivní porucha, opakované epizody, v současnosti symptomatická",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F25"
+    ]
+  },
+  {
+    "id": "6A21.11",
+    "kod": "6A21.11",
+    "nazev_cz": "Schizoafektivní porucha, více epizod, v částečné remisi",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F25"
+    ]
+  },
+  {
+    "id": "6A21.12",
+    "kod": "6A21.12",
+    "nazev_cz": "Schizoafektivní porucha, opakované epizody, v plné remisi",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F25"
+    ]
+  },
+  {
+    "id": "6A21.1Z",
+    "kod": "6A21.1Z",
+    "nazev_cz": "Schizoafektivní porucha, opakované epizody, neurčená",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F25"
+    ]
+  },
+  {
+    "id": "6A21.2",
+    "kod": "6A21.2",
+    "nazev_cz": "Schizoafektivní porucha, kontinuální",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F25"
+    ]
+  },
+  {
+    "id": "6A21.20",
+    "kod": "6A21.20",
+    "nazev_cz": "Schizoafektivní porucha, kontinuální, v současnosti symptomatická",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F25"
+    ]
+  },
+  {
+    "id": "6A21.21",
+    "kod": "6A21.21",
+    "nazev_cz": "Schizoafektivní porucha, kontinuální, v částečné remisi",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F25"
+    ]
+  },
+  {
+    "id": "6A21.22",
+    "kod": "6A21.22",
+    "nazev_cz": "Schizoafektivní porucha, kontinuální, v plné remisi",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F25"
+    ]
+  },
+  {
+    "id": "6A21.2Z",
+    "kod": "6A21.2Z",
+    "nazev_cz": "Schizoafektivní porucha, kontinuální, neurčená",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F25"
+    ]
+  },
+  {
+    "id": "6A21.Y",
+    "kod": "6A21.Y",
+    "nazev_cz": "Schizoafektivní porucha, jiná určená",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F25.8"
+    ]
+  },
+  {
+    "id": "6A21.Z",
+    "kod": "6A21.Z",
+    "nazev_cz": "Schizoafektivní porucha, neurčená",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F25.9"
+    ]
+  },
+  {
+    "id": "6A22",
+    "kod": "6A22",
+    "nazev_cz": "Schizotypální porucha",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": "Schizotypální porucha",
+    "popis": "Trvalý vzorec trvající několik let s podivínstvím v chování, vzhledu a řeči, kognitivními a percepčními distorzemi, neobvyklými přesvědčeními a dyskomfortem v mezilidských vztazích.",
+    "diagnosticka_kriteria": [
+      "Trvalý vzorec trvající několik let: podivínství v chování, vzhledu a řeči",
+      "Kognitivní a percepční distorze, neobvyklá přesvědčení",
+      "Dyskomfort a snížená kapacita pro mezilidské vztahy",
+      "Stažený nebo nepřiměřený afekt, anhedonie",
+      "Příznaky nedosahují intenzity schizofrenie"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F21"
+    ]
+  },
+  {
+    "id": "6A23",
+    "kod": "6A23",
+    "nazev_cz": "Akutní a přechodná psychotická porucha",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": "Akutní psychóza",
+    "popis": "Akutní nástup psychotických příznaků (bludy, halucinace, dezorganizace, zmatenost) bez prodromu, dosahující maximální závažnosti do 2 týdnů; epizoda nepřesahuje 3 měsíce.",
+    "diagnosticka_kriteria": [
+      "Akutní nástup psychotických příznaků bez prodromu, dosahující maximální závažnosti do 2 týdnů",
+      "Příznaky se typicky rychle mění v povaze i intenzitě",
+      "Epizoda nepřesahuje 3 měsíce (typicky několik dní až 1 měsíc)",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F23"
+    ]
+  },
+  {
+    "id": "6A23.0",
+    "kod": "6A23.0",
+    "nazev_cz": "Akutní a přechodná psychotická porucha, první epizoda",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F23"
+    ]
+  },
+  {
+    "id": "6A23.00",
+    "kod": "6A23.00",
+    "nazev_cz": "Akutní a přechodná psychotická porucha, první epizoda, v současnosti symptomatická",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F23"
+    ]
+  },
+  {
+    "id": "6A23.01",
+    "kod": "6A23.01",
+    "nazev_cz": "Akutní a přechodná psychotická porucha, první epizoda, v částečné remisi",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F23"
+    ]
+  },
+  {
+    "id": "6A23.02",
+    "kod": "6A23.02",
+    "nazev_cz": "Akutní a přechodná psychotická porucha, první epizoda, v plné remisi",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F23"
+    ]
+  },
+  {
+    "id": "6A23.0Z",
+    "kod": "6A23.0Z",
+    "nazev_cz": "Akutní a přechodná psychotická porucha, první epizoda, neurčená",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F23"
+    ]
+  },
+  {
+    "id": "6A23.1",
+    "kod": "6A23.1",
+    "nazev_cz": "Akutní a přechodná psychotická porucha, opakované epizody",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F23"
+    ]
+  },
+  {
+    "id": "6A23.10",
+    "kod": "6A23.10",
+    "nazev_cz": "Akutní a přechodná psychotická porucha, opakované epizody, v současnosti symptomatická",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F23"
+    ]
+  },
+  {
+    "id": "6A23.11",
+    "kod": "6A23.11",
+    "nazev_cz": "Akutní a přechodná psychotická porucha, opakované epizody, v plné remisi",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F23"
+    ]
+  },
+  {
+    "id": "6A23.12",
+    "kod": "6A23.12",
+    "nazev_cz": "Akutní a přechodná psychotická porucha, více epizod, v plné remisi",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F23"
+    ]
+  },
+  {
+    "id": "6A23.1Z",
+    "kod": "6A23.1Z",
+    "nazev_cz": "Akutní a přechodná psychotická porucha, opakované epizody, neurčená",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F23"
+    ]
+  },
+  {
+    "id": "6A23.Y",
+    "kod": "6A23.Y",
+    "nazev_cz": "Akutní a přechodná psychotická porucha, jiná určená",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F23.8"
+    ]
+  },
+  {
+    "id": "6A23.Z",
+    "kod": "6A23.Z",
+    "nazev_cz": "Akutní a přechodná psychotická porucha, neurčená",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F23.9"
+    ]
+  },
+  {
+    "id": "6A24",
+    "kod": "6A24",
+    "nazev_cz": "Porucha s bludy",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": "Porucha s bludy",
+    "popis": "Rozvoj bludu nebo souboru příbuzných bludů, typicky přetrvávajících nejméně 3 měsíce; chybí jasné halucinace, negativní příznaky, dezorganizace myšlení nebo zážitky ovlivňování.",
+    "diagnosticka_kriteria": [
+      "Rozvoj bludu nebo souboru příbuzných bludů, typicky trvajících nejméně 3 měsíce",
+      "Chybí jasné a trvalé halucinace, negativní příznaky, dezorganizace myšlení nebo zážitky ovlivňování",
+      "Mimo chování přímo spojeného s bludem jsou afekt, řeč a chování typicky nezměněny",
+      "Nejsou projevem jiného onemocnění ani důsledkem účinků látky"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F22"
+    ]
+  },
+  {
+    "id": "6A24.0",
+    "kod": "6A24.0",
+    "nazev_cz": "Porucha s bludy, v současnosti symptomatická",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F22.0"
+    ]
+  },
+  {
+    "id": "6A24.1",
+    "kod": "6A24.1",
+    "nazev_cz": "Porucha s bludy, částečná remise",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F22"
+    ]
+  },
+  {
+    "id": "6A24.2",
+    "kod": "6A24.2",
+    "nazev_cz": "Porucha s bludy v plné remisi",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F22"
+    ]
+  },
+  {
+    "id": "6A24.Z",
+    "kod": "6A24.Z",
+    "nazev_cz": "Porucha s bludy, neurčená",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F22.9"
+    ]
+  },
+  {
+    "id": "6A25",
+    "kod": "6A25",
+    "nazev_cz": "Symptomatické projevy primárních psychotických poruch",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": "Specifikátor k dalšímu popisu příznaků u primárně psychotických poruch.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F28"
+    ]
+  },
+  {
+    "id": "6A25.0",
+    "kod": "6A25.0",
+    "nazev_cz": "Pozitivní příznaky u primárních psychotických poruch",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20"
+    ]
+  },
+  {
+    "id": "6A25.1",
+    "kod": "6A25.1",
+    "nazev_cz": "Negativní příznaky u primárních psychotických poruch",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20"
+    ]
+  },
+  {
+    "id": "6A25.2",
+    "kod": "6A25.2",
+    "nazev_cz": "Depresivní afektivní příznaky u primárních psychotických poruch",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20.4"
+    ]
+  },
+  {
+    "id": "6A25.3",
+    "kod": "6A25.3",
+    "nazev_cz": "Manické afektivní příznaky u primární psychotické poruchy",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F25.0"
+    ]
+  },
+  {
+    "id": "6A25.4",
+    "kod": "6A25.4",
+    "nazev_cz": "Psychomotorické příznaky u primárních psychotických poruch",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20.2"
+    ]
+  },
+  {
+    "id": "6A25.5",
+    "kod": "6A25.5",
+    "nazev_cz": "Kognitivní příznaky u primárních psychotických poruch",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20"
+    ]
+  },
+  {
+    "id": "6A2Y",
+    "kod": "6A2Y",
+    "nazev_cz": "Primární psychotická porucha, jiná určená",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F28"
+    ]
+  },
+  {
+    "id": "6A2Z",
+    "kod": "6A2Z",
+    "nazev_cz": "Primární psychotická porucha, neurčená",
+    "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F29"
+    ]
+  },
+  {
+    "id": "6A40",
+    "kod": "6A40",
+    "nazev_cz": "Katatonie přidružená k jiné duševní poruše",
+    "kategorie": "Katatonie",
+    "podkategorie": null,
+    "popis": "Katatonní syndrom (mutismus, strnulost, negativismus, stereotypie, echolalie apod.) vyskytující se v kontextu jiné duševní poruchy jako je schizofrenie, bipolární nebo depresivní porucha.",
+    "diagnosticka_kriteria": [
+      "Přítomnost katatonního syndromu (2+ ze symptomů: mutismus, strnulost, negativismus, stereotypie, manýry, katalepsie)",
+      "Katatonní příznaky jsou přidruženy k jiné duševní poruše",
+      "Příznaky nejsou lépe vysvětleny jinou příčinou"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20.2"
+    ]
+  },
+  {
+    "id": "6A41",
+    "kod": "6A41",
+    "nazev_cz": "Katatonie vyvolaná látkami nebo léky",
+    "kategorie": "Katatonie",
+    "podkategorie": null,
+    "popis": "Katatonní syndrom vyvolaný přímými fyziologickými účinky látky nebo léku.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20.2"
+    ]
+  },
+  {
+    "id": "6A4Z",
+    "kod": "6A4Z",
+    "nazev_cz": "Katatonie, neurčená",
+    "kategorie": "Katatonie",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F20.2"
+    ]
+  },
+  {
+    "id": "6A60",
+    "kod": "6A60",
+    "nazev_cz": "Bipolární porucha typu I",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": "Bipolární porucha I",
+    "popis": "Porucha nálady definovaná výskytem jedné nebo více manických nebo smíšených epizod. Manické epizody typicky střídají depresivní epizody.",
+    "diagnosticka_kriteria": [
+      "Jedna nebo více manických nebo smíšených epizod (nutná podmínka)",
+      "Manická epizoda: trvá nejméně 1 týden, extrémní zvýšení nebo dráždivost nálady + zvýšení aktivity",
+      "Smíšená epizoda: simultánní nebo rychle se střídající manické i depresivní příznaky, nejméně 2 týdny",
+      "Příznaky způsobují výrazné postižení nebo vyžadují hospitalizaci"
+    ],
+    "priznaky": [
+      "Zvýšená nebo dráždivá nálada",
+      "Snížená potřeba spánku",
+      "Zrychlené myšlení",
+      "Grandiozita",
+      "Impulzivita",
+      "Psychóza (v těžkých případech)"
+    ],
+    "prubeh": "Celoživotní epizodický průběh s depresivními epizodami trvajícími déle než manické.",
+    "onset": "Typicky mezi 18–25 lety; může začít kdykoli.",
+    "mapovani_mkn10": [
+      "F31"
+    ]
+  },
+  {
+    "id": "6A60.0",
+    "kod": "6A60.0",
+    "nazev_cz": "Bipolární porucha typu I, současná epizoda manická, bez psychotických příznaků",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.1"
+    ]
+  },
+  {
+    "id": "6A60.1",
+    "kod": "6A60.1",
+    "nazev_cz": "Bipolární porucha typu I, současná epizoda manická, s psychotickými příznaky",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.2"
+    ]
+  },
+  {
+    "id": "6A60.2",
+    "kod": "6A60.2",
+    "nazev_cz": "Bipolární porucha typu I, současná epizoda hypomanická",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.0"
+    ]
+  },
+  {
+    "id": "6A60.3",
+    "kod": "6A60.3",
+    "nazev_cz": "Bipolární porucha typu I, současná epizoda depresivní, mírná",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.3"
+    ]
+  },
+  {
+    "id": "6A60.4",
+    "kod": "6A60.4",
+    "nazev_cz": "Bipolární porucha typu I, současná epizoda depresivní, středně těžká bez psychotických příznaků",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.3"
+    ]
+  },
+  {
+    "id": "6A60.5",
+    "kod": "6A60.5",
+    "nazev_cz": "Bipolární porucha typu I, současná epizoda depresivní, středně těžká s psychotickými příznaky",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.3"
+    ]
+  },
+  {
+    "id": "6A60.6",
+    "kod": "6A60.6",
+    "nazev_cz": "Bipolární porucha typu I, současná epizoda depresivní, těžká bez psychotických příznaků",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.4"
+    ]
+  },
+  {
+    "id": "6A60.7",
+    "kod": "6A60.7",
+    "nazev_cz": "Bipolární porucha typu I, současná epizoda depresivní, těžká s psychotickými příznaky",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.5"
+    ]
+  },
+  {
+    "id": "6A60.8",
+    "kod": "6A60.8",
+    "nazev_cz": "Bipolární porucha typu I, současná epizoda depresivní, neurčená závažnost",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.3"
+    ]
+  },
+  {
+    "id": "6A60.9",
+    "kod": "6A60.9",
+    "nazev_cz": "Bipolární porucha typu I, současná epizoda smíšená, bez psychotických příznaků",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.6"
+    ]
+  },
+  {
+    "id": "6A60.A",
+    "kod": "6A60.A",
+    "nazev_cz": "Bipolární porucha typu I, současná epizoda smíšená s psychotickými příznaky",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.6"
+    ]
+  },
+  {
+    "id": "6A60.B",
+    "kod": "6A60.B",
+    "nazev_cz": "Bipolární porucha typu I, v částečné remisi, poslední epizoda manická nebo hypomanická",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.7"
+    ]
+  },
+  {
+    "id": "6A60.C",
+    "kod": "6A60.C",
+    "nazev_cz": "Bipolární porucha typu I, v částečné remisi, poslední epizoda depresivní",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.7"
+    ]
+  },
+  {
+    "id": "6A60.D",
+    "kod": "6A60.D",
+    "nazev_cz": "Bipolární porucha typu I, v částečné remisi, poslední epizoda smíšená",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.7"
+    ]
+  },
+  {
+    "id": "6A60.E",
+    "kod": "6A60.E",
+    "nazev_cz": "Bipolární porucha typu I, v částečné remisi, poslední epizoda neurčena",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.7"
+    ]
+  },
+  {
+    "id": "6A60.F",
+    "kod": "6A60.F",
+    "nazev_cz": "Bipolární porucha typu I, v současné době v plné remisi",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.7"
+    ]
+  },
+  {
+    "id": "6A60.Y",
+    "kod": "6A60.Y",
+    "nazev_cz": "Bipolární porucha typu I, jiná určená",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.8"
+    ]
+  },
+  {
+    "id": "6A60.Z",
+    "kod": "6A60.Z",
+    "nazev_cz": "Bipolární porucha typu I, neurčená",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.9"
+    ]
+  },
+  {
+    "id": "6A61",
+    "kod": "6A61",
+    "nazev_cz": "Bipolární porucha typu II",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": "Bipolární porucha II",
+    "popis": "Nejméně jedna hypomanická epizoda a nejméně jedna depresivní epizoda v anamnéze; žádná manická ani smíšená epizoda.",
+    "diagnosticka_kriteria": [
+      "Nejméně jedna hypomanická epizoda a nejméně jedna depresivní epizoda",
+      "Hypomanická epizoda: přetrvávající (nejméně několik dní) zvýšení nálady nebo dráždivosti + zvýšení aktivity; příznaky nejsou dostatečně závažné k výraznému narušení fungování",
+      "Žádná manická ani smíšená epizoda v anamnéze"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31"
+    ]
+  },
+  {
+    "id": "6A61.0",
+    "kod": "6A61.0",
+    "nazev_cz": "Bipolární porucha typu II, současná epizoda hypomanická",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.0"
+    ]
+  },
+  {
+    "id": "6A61.1",
+    "kod": "6A61.1",
+    "nazev_cz": "Bipolární porucha typu II, současná epizoda depresivní, mírná",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.3"
+    ]
+  },
+  {
+    "id": "6A61.2",
+    "kod": "6A61.2",
+    "nazev_cz": "Bipolární porucha typu II, současná epizoda depresivní, středně těžká bez psychotických příznaků",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.3"
+    ]
+  },
+  {
+    "id": "6A61.3",
+    "kod": "6A61.3",
+    "nazev_cz": "Bipolární porucha typu II, současná epizoda depresivní, středně závažná s psychotickými příznaky",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.3"
+    ]
+  },
+  {
+    "id": "6A61.4",
+    "kod": "6A61.4",
+    "nazev_cz": "Bipolární porucha typu II, současná epizoda depresivní, těžká bez psychotických příznaků",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.4"
+    ]
+  },
+  {
+    "id": "6A61.5",
+    "kod": "6A61.5",
+    "nazev_cz": "Bipolární porucha typu II, současná epizoda depresivní, těžká s psychotickými příznaky",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.5"
+    ]
+  },
+  {
+    "id": "6A61.6",
+    "kod": "6A61.6",
+    "nazev_cz": "Bipolární porucha typu II, současná epizoda depresivní, neurčená závažnost",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.3"
+    ]
+  },
+  {
+    "id": "6A61.7",
+    "kod": "6A61.7",
+    "nazev_cz": "Bipolární porucha typu II, v částečné remisi, nejnovější epizoda hypomanická",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.7"
+    ]
+  },
+  {
+    "id": "6A61.8",
+    "kod": "6A61.8",
+    "nazev_cz": "Bipolární porucha typu II, v částečné remisi, poslední epizoda depresivní",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.7"
+    ]
+  },
+  {
+    "id": "6A61.9",
+    "kod": "6A61.9",
+    "nazev_cz": "Bipolární porucha typu II, v částečné remisi, poslední epizoda nespecifikována",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.7"
+    ]
+  },
+  {
+    "id": "6A61.A",
+    "kod": "6A61.A",
+    "nazev_cz": "Bipolární porucha typu II, v současné době v plné remisi",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.7"
+    ]
+  },
+  {
+    "id": "6A61.Y",
+    "kod": "6A61.Y",
+    "nazev_cz": "Bipolární porucha typu II, jiná určená",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.8"
+    ]
+  },
+  {
+    "id": "6A61.Z",
+    "kod": "6A61.Z",
+    "nazev_cz": "Bipolární porucha typu II, neurčená",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.9"
+    ]
+  },
+  {
+    "id": "6A62",
+    "kod": "6A62",
+    "nazev_cz": "Cyklotymická porucha",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": "Cyklotymie",
+    "popis": "Přetrvávající nestabilita nálady po dobu nejméně 2 let se střídáním symptomů hypomanie a deprese, aniž by dosáhly plných kritérií pro příslušnou epizodu.",
+    "diagnosticka_kriteria": [
+      "Přetrvávající nestabilita nálady po dobu nejméně 2 let",
+      "Střídání symptomů hypomanie a deprese přítomných více času než ne",
+      "Žádná manická, smíšená ani depresivní epizoda v anamnéze",
+      "Způsobuje výraznou tíseň nebo funkční postižení"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F34.0"
+    ]
+  },
+  {
+    "id": "6A6Y",
+    "kod": "6A6Y",
+    "nazev_cz": "Bipolární nebo související poruchy, jiné určené",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.8"
+    ]
+  },
+  {
+    "id": "6A6Z",
+    "kod": "6A6Z",
+    "nazev_cz": "Bipolární nebo související poruchy, neurčené",
+    "kategorie": "Poruchy nálady – bipolární nebo příbuzné",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F31.9"
+    ]
+  },
+  {
+    "id": "6A70",
+    "kod": "6A70",
+    "nazev_cz": "Jediná epizoda depresivní poruchy",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": "Depresivní porucha",
+    "popis": "Přítomnost nebo anamnéza jedné depresivní epizody, pokud v anamnéze nejsou předchozí depresivní epizody.",
+    "diagnosticka_kriteria": [
+      "Depresivní nálada nebo snížený zájem o aktivity přítomné po většinu dne, téměř každý den, po dobu nejméně 2 týdnů",
+      "Doprovodné příznaky: obtíže se soustředěním, pocity bezcennosti nebo viny, beznaděj, myšlenky na smrt nebo sebevraždu, změny chuti k jídlu nebo spánku, únava",
+      "Žádná manická, hypomanická ani smíšená epizoda v anamnéze",
+      "Způsobuje výraznou tíseň nebo funkční postižení"
+    ],
+    "priznaky": [
+      "Depresivní nálada",
+      "Ztráta zájmu a radosti (anhedonie)",
+      "Únava",
+      "Poruchy spánku",
+      "Změny chuti k jídlu",
+      "Snížená koncentrace",
+      "Pocity viny",
+      "Myšlenky na smrt"
+    ],
+    "prubeh": "Průměrná délka epizody bez léčby je 6–12 měsíců.",
+    "onset": "Kdykoli, nejčastěji v dospělosti.",
+    "mapovani_mkn10": [
+      "F32"
+    ]
+  },
+  {
+    "id": "6A70.0",
+    "kod": "6A70.0",
+    "nazev_cz": "Jediná epizoda depresivní poruchy, mírná",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F32.0"
+    ]
+  },
+  {
+    "id": "6A70.1",
+    "kod": "6A70.1",
+    "nazev_cz": "Jediná epizoda depresivní poruchy, středně těžká, bez psychotických příznaků",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F32.1"
+    ]
+  },
+  {
+    "id": "6A70.2",
+    "kod": "6A70.2",
+    "nazev_cz": "Jediná epizoda depresivní poruchy, středně těžká, s psychotickými příznaky",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F32.3"
+    ]
+  },
+  {
+    "id": "6A70.3",
+    "kod": "6A70.3",
+    "nazev_cz": "Jediná epizoda depresivní poruchy, těžká, bez psychotických příznaků",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F32.2"
+    ]
+  },
+  {
+    "id": "6A70.4",
+    "kod": "6A70.4",
+    "nazev_cz": "Jediná epizoda depresivní poruchy, těžká, s psychotickými příznaky",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F32.3"
+    ]
+  },
+  {
+    "id": "6A70.5",
+    "kod": "6A70.5",
+    "nazev_cz": "Jediná epizoda depresivní poruchy, neurčená závažnost",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F32.9"
+    ]
+  },
+  {
+    "id": "6A70.6",
+    "kod": "6A70.6",
+    "nazev_cz": "Jediná epizoda depresivní poruchy, v současné době v částečné remisi",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F32.8"
+    ]
+  },
+  {
+    "id": "6A70.7",
+    "kod": "6A70.7",
+    "nazev_cz": "Jediná epizoda depresivní poruchy, v současné době v plné remisi",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F32.8"
+    ]
+  },
+  {
+    "id": "6A70.Y",
+    "kod": "6A70.Y",
+    "nazev_cz": "Jediná epizoda depresivní poruchy, jiná určená",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F32.8"
+    ]
+  },
+  {
+    "id": "6A70.Z",
+    "kod": "6A70.Z",
+    "nazev_cz": "Jediná epizoda depresivní poruchy, neurčená",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F32.9"
+    ]
+  },
+  {
+    "id": "6A71",
+    "kod": "6A71",
+    "nazev_cz": "Rekurentní depresivní porucha",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": "Rekurentní deprese",
+    "popis": "Anamnéza nejméně dvou depresivních epizod oddělených nejméně několika měsíci bez výrazné poruchy nálady; žádná manická, hypomanická ani smíšená epizoda.",
+    "diagnosticka_kriteria": [
+      "Anamnéza nejméně dvou depresivních epizod oddělených nejméně několika měsíci",
+      "Žádná manická, hypomanická ani smíšená epizoda v anamnéze",
+      "Každá epizoda splňuje kritéria depresivní poruchy"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F33"
+    ]
+  },
+  {
+    "id": "6A71.0",
+    "kod": "6A71.0",
+    "nazev_cz": "Rekurentní depresivní porucha, současná epizoda mírná",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F33.0"
+    ]
+  },
+  {
+    "id": "6A71.1",
+    "kod": "6A71.1",
+    "nazev_cz": "Rekurentní depresivní porucha, současná epizoda středně těžká, bez psychotických příznaků",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F33.1"
+    ]
+  },
+  {
+    "id": "6A71.2",
+    "kod": "6A71.2",
+    "nazev_cz": "Rekurentní depresivní porucha, současná epizoda středně těžká, s psychotickými příznaky",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F33.3"
+    ]
+  },
+  {
+    "id": "6A71.3",
+    "kod": "6A71.3",
+    "nazev_cz": "Rekurentní depresivní porucha, současná epizoda těžká, bez psychotických příznaků",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F33.2"
+    ]
+  },
+  {
+    "id": "6A71.4",
+    "kod": "6A71.4",
+    "nazev_cz": "Rekurentní depresivní porucha, současná epizoda těžká, s psychotickými příznaky",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F33.3"
+    ]
+  },
+  {
+    "id": "6A71.5",
+    "kod": "6A71.5",
+    "nazev_cz": "Rekurentní depresivní porucha, současná epizoda neurčené závažnosti",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F33.9"
+    ]
+  },
+  {
+    "id": "6A71.6",
+    "kod": "6A71.6",
+    "nazev_cz": "Rekurentní depresivní porucha, v současné době v částečné remisi",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F33.4"
+    ]
+  },
+  {
+    "id": "6A71.7",
+    "kod": "6A71.7",
+    "nazev_cz": "Rekurentní depresivní porucha, v současné době v plné remisi",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F33.4"
+    ]
+  },
+  {
+    "id": "6A71.Y",
+    "kod": "6A71.Y",
+    "nazev_cz": "Rekurentní depresivní porucha, jiná určená",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F33.8"
+    ]
+  },
+  {
+    "id": "6A71.Z",
+    "kod": "6A71.Z",
+    "nazev_cz": "Rekurentní depresivní porucha, neurčená",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F33.9"
+    ]
+  },
+  {
+    "id": "6A72",
+    "kod": "6A72",
+    "nazev_cz": "Dystymní porucha",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": "Dysthymie",
+    "popis": "Přetrvávající depresivní nálada trvající 2 roky nebo déle, přítomná po většinu dne, více dní než ne; v průběhu prvních 2 let nikdy nesplňuje kritéria pro depresivní epizodu.",
+    "diagnosticka_kriteria": [
+      "Přetrvávající depresivní nálada trvající 2+ roky, pro většinu dne, více dní než ne",
+      "V průběhu prvních 2 let nikdy nebyla depresivní epizoda dostatečně závažná",
+      "Žádná manická, smíšená ani hypomanická epizoda v anamnéze",
+      "Doprovodné příznaky: snížený zájem, koncentrace, sebeúcta, pesimismus, poruchy spánku a chuti k jídlu"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F34.1"
+    ]
+  },
+  {
+    "id": "6A73",
+    "kod": "6A73",
+    "nazev_cz": "Smíšená depresivní a úzkostná porucha",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": "Smíšená porucha",
+    "popis": "Příznaky deprese i úzkosti jsou současně přítomny, ale ani jeden soubor příznaků samostatně nesplňuje kritéria pro příslušnou poruchu; způsobují klinicky závažnou tíseň.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F41.2"
+    ]
+  },
+  {
+    "id": "6A7Y",
+    "kod": "6A7Y",
+    "nazev_cz": "Depresivní poruchy, jiné určené",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F32.8"
+    ]
+  },
+  {
+    "id": "6A7Z",
+    "kod": "6A7Z",
+    "nazev_cz": "Depresivní poruchy, neurčené",
+    "kategorie": "Poruchy nálady – depresivní",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F32.9"
+    ]
+  },
+  {
+    "id": "6A80",
+    "kod": "6A80",
+    "nazev_cz": "Symptomatické projevy a průběhové varianty epizod nálady",
+    "kategorie": "Poruchy nálady – specifikátory a průběh",
+    "podkategorie": null,
+    "popis": "Doplňkové kódy pro specifikaci průběhu a příznaků epizod nálady.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6A80.0",
+    "kod": "6A80.0",
+    "nazev_cz": "Výrazné úzkostné příznaky u epizod nálady",
+    "kategorie": "Poruchy nálady – specifikátory a průběh",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6A80.1",
+    "kod": "6A80.1",
+    "nazev_cz": "Panické záchvaty u epizod nálady",
+    "kategorie": "Poruchy nálady – specifikátory a průběh",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6A80.2",
+    "kod": "6A80.2",
+    "nazev_cz": "Současná depresivní epizoda, přetrvávající",
+    "kategorie": "Poruchy nálady – specifikátory a průběh",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6A80.3",
+    "kod": "6A80.3",
+    "nazev_cz": "Současná depresivní epizoda s melancholií",
+    "kategorie": "Poruchy nálady – specifikátory a průběh",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6A80.4",
+    "kod": "6A80.4",
+    "nazev_cz": "Sezónní průběh nástupu epizody nálady",
+    "kategorie": "Poruchy nálady – specifikátory a průběh",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6A80.5",
+    "kod": "6A80.5",
+    "nazev_cz": "Rychlé cyklování",
+    "kategorie": "Poruchy nálady – specifikátory a průběh",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F38.10"
+    ]
+  },
+  {
+    "id": "6A8Y",
+    "kod": "6A8Y",
+    "nazev_cz": "Poruchy nálady, jiné určené",
+    "kategorie": "Poruchy nálady – specifikátory a průběh",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F38.8"
+    ]
+  },
+  {
+    "id": "6A8Z",
+    "kod": "6A8Z",
+    "nazev_cz": "Poruchy nálady, neurčené",
+    "kategorie": "Poruchy nálady – specifikátory a průběh",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F39"
+    ]
+  },
+  {
+    "id": "6B00",
+    "kod": "6B00",
+    "nazev_cz": "Generalizovaná úzkostná porucha",
+    "kategorie": "Úzkostné poruchy nebo poruchy související se strachem",
+    "podkategorie": "GAD",
+    "popis": "Volná úzkostnost nebo nadměrné obavy z negativních událostí ve více životních doménách; příznaky přetrvávají nejméně několik měsíců.",
+    "diagnosticka_kriteria": [
+      "Volná úzkostnost nebo nadměrné obavy z negativních událostí ve více životních doménách (rodina, zdraví, finance, práce)",
+      "Doprovodné příznaky: svalové napětí nebo motorický neklid, autonomní hyperaktivita, nervozita, obtíže se soustředěním, dráždivost, poruchy spánku",
+      "Příznaky přetrvávají nejméně několik měsíců, přítomny více dní než ne",
+      "Způsobují výraznou tíseň nebo funkční postižení"
+    ],
+    "priznaky": [
+      "Nadměrné obavy",
+      "Svalové napětí",
+      "Únava",
+      "Poruchy spánku",
+      "Obtíže se soustředěním",
+      "Dráždivost",
+      "Palpitace"
+    ],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F41.1"
+    ]
+  },
+  {
+    "id": "6B01",
+    "kod": "6B01",
+    "nazev_cz": "Panická porucha",
+    "kategorie": "Úzkostné poruchy nebo poruchy související se strachem",
+    "podkategorie": "Panická porucha",
+    "popis": "Opakované neočekávané záchvaty paniky + přetrvávající obavy z opakování nebo chování zaměřené na jejich předcházení.",
+    "diagnosticka_kriteria": [
+      "Opakované neočekávané záchvaty paniky neomezené na konkrétní podněty ani situace",
+      "Záchvat paniky: intenzivní strach s rychlým nástupem palpitací, pocení, třesu, dušnosti, bolesti na hrudi, závratí, strachu z bezprostřední smrti",
+      "Přetrvávající obavy z opakování záchvatů nebo chování zaměřené na jejich předcházení",
+      "Způsobuje výrazné funkční postižení"
+    ],
+    "priznaky": [
+      "Náhlé záchvaty intenzivního strachu",
+      "Palpitace",
+      "Pocení",
+      "Třes",
+      "Dušnost",
+      "Bolest na hrudi",
+      "Závratě",
+      "Strach z bezprostřední smrti",
+      "Vyhýbavé chování"
+    ],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F41.0"
+    ]
+  },
+  {
+    "id": "6B02",
+    "kod": "6B02",
+    "nazev_cz": "Agorafobie",
+    "kategorie": "Úzkostné poruchy nebo poruchy související se strachem",
+    "podkategorie": null,
+    "popis": "Výrazná a nadměrná úzkost nebo strach v situacích, kde by útěk mohl být obtížný nebo pomoc nedostupná; aktivní vyhýbání se těmto situacím.",
+    "diagnosticka_kriteria": [
+      "Výrazná a nadměrná úzkost nebo strach v situacích, kde by útěk mohl být obtížný nebo pomoc nedostupná",
+      "Aktivní vyhýbání se takovým situacím nebo vstupování do nich s doprovodem nebo s intenzivním strachem",
+      "Příznaky přetrvávají nejméně několik měsíců a způsobují výraznou tíseň nebo funkční postižení"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F40.0",
+      "F40.00",
+      "F40.01"
+    ]
+  },
+  {
+    "id": "6B03",
+    "kod": "6B03",
+    "nazev_cz": "Specifická fobie",
+    "kategorie": "Úzkostné poruchy nebo poruchy související se strachem",
+    "podkategorie": null,
+    "popis": "Výrazná a nadměrná úzkost nebo strach konzistentně se objevující při expozici nebo anticipaci specifického objektu nebo situace (zvířata, výšky, krev, injekce, létání...).",
+    "diagnosticka_kriteria": [
+      "Výrazná a nadměrná úzkost nebo strach při expozici nebo anticipaci specifického podnětu",
+      "Strach je nepřiměřený skutečnému nebezpečí",
+      "Aktivní vyhýbání se nebo snášení s intenzivní úzkostí",
+      "Příznaky přetrvávají nejméně několik měsíců"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F40.2"
+    ]
+  },
+  {
+    "id": "6B04",
+    "kod": "6B04",
+    "nazev_cz": "Sociální úzkostná porucha",
+    "kategorie": "Úzkostné poruchy nebo poruchy související se strachem",
+    "podkategorie": "Sociální fobie",
+    "popis": "Výrazná a nadměrná úzkost nebo strach konzistentně se projevující v sociálních situacích s obavami z negativního hodnocení druhými.",
+    "diagnosticka_kriteria": [
+      "Výrazná a nadměrná úzkost nebo strach v sociálních situacích (konverzace, pozorování při jídle, vystupování)",
+      "Obavy z negativního hodnocení druhými (ponížení, ostuda, odmítnutí)",
+      "Aktivní vyhýbání se nebo snášení s intenzivní úzkostí",
+      "Příznaky přetrvávají nejméně několik měsíců"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F40.1"
+    ]
+  },
+  {
+    "id": "6B05",
+    "kod": "6B05",
+    "nazev_cz": "Separační úzkostná porucha",
+    "kategorie": "Úzkostné poruchy nebo poruchy související se strachem",
+    "podkategorie": null,
+    "popis": "Výrazná a nadměrná úzkost nebo strach ze separace od specifických osob citové vazby; přetrvává nejméně několik měsíců.",
+    "diagnosticka_kriteria": [
+      "Výrazná a nadměrná úzkost nebo strach ze separace od specifických osob citové vazby",
+      "Projevy: myšlenky na újmu připadajícím osobám, odmítání školy/práce, výrazná tíseň při separaci, odmítání spát mimo domov",
+      "Příznaky trvají nejméně několik měsíců a způsobují výraznou tíseň nebo funkční postižení"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F93.0"
+    ]
+  },
+  {
+    "id": "6B06",
+    "kod": "6B06",
+    "nazev_cz": "Selektivní mutismus",
+    "kategorie": "Úzkostné poruchy nebo poruchy související se strachem",
+    "podkategorie": null,
+    "popis": "Konzistentní selektivita v mluvení – dítě mluví v určitých situacích, ale ne v jiných; spojená se sociální úzkostí.",
+    "diagnosticka_kriteria": [
+      "Konzistentní selhání ve mluvení v specifických sociálních situacích navzdory schopnosti mluvit v jiných",
+      "Neschopnost mluvit je spojena se sociální úzkostí, ne s absencí znalosti jazyka",
+      "Přetrvává nejméně 1 měsíc (neomezeno na první měsíc školní docházky)",
+      "Způsobuje výrazné omezení vzdělávacích nebo pracovních výsledků nebo sociální komunikace"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F94.0"
+    ]
+  },
+  {
+    "id": "6B0Y",
+    "kod": "6B0Y",
+    "nazev_cz": "Úzkostné poruchy nebo poruchy související se strachem, jiné určené",
+    "kategorie": "Úzkostné poruchy nebo poruchy související se strachem",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F41.8"
+    ]
+  },
+  {
+    "id": "6B0Z",
+    "kod": "6B0Z",
+    "nazev_cz": "Úzkostné poruchy nebo poruchy související se strachem, neurčené",
+    "kategorie": "Úzkostné poruchy nebo poruchy související se strachem",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F41.9"
+    ]
+  }
+]

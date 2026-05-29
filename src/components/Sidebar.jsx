@@ -1,6 +1,7 @@
 import { NavLink, useNavigate } from 'react-router-dom'
 import { useKategorie, useDiagnozy } from '../hooks/useDiagnozy'
 import { useMkn11, getMkn11Barva, MKN11_BARVA_CLASSES } from '../hooks/useMkn11'
+import { useDsm5, getDsm5Color, DSM5_COLOR_CLASSES } from '../hooks/useDsm5'
 import { useState, useMemo } from 'react'
 
 // Colour dots per category
@@ -25,6 +26,7 @@ export default function Sidebar({ open }) {
   const kategorie  = useKategorie()
   const diagnozy   = useDiagnozy()
   const mkn11Data  = useMkn11()
+  const dsm5Data   = useDsm5()
   const navigate   = useNavigate()
 
   // MKN-10 sekce – defaultně otevřená
@@ -35,9 +37,22 @@ export default function Sidebar({ open }) {
   const [openRodic, setOpenRodic] = useState(new Set())
 
   // MKN-11 accordion
-  const [mkn11Open,    setMkn11Open]    = useState(false)  // celá MKN-11 sekce
+  const [mkn11Open,    setMkn11Open]    = useState(false)
   const [openMkn11Kat, setOpenMkn11Kat] = useState(new Set())
   const [openMkn11Kod, setOpenMkn11Kod] = useState(new Set())
+
+  // DSM-5 accordion
+  const [dsm5Open,    setDsm5Open]    = useState(false)
+  const [openDsm5Ch,  setOpenDsm5Ch]  = useState(new Set())
+
+  const dsm5Chapters = useMemo(() => {
+    const map = new Map()
+    for (const d of dsm5Data) {
+      if (!map.has(d.chapter)) map.set(d.chapter, [])
+      map.get(d.chapter).push(d)
+    }
+    return map
+  }, [dsm5Data])
 
   // MKN-11 kategorie a kódy
   const mkn11Kategorie = useMemo(() => {
@@ -343,6 +358,80 @@ export default function Sidebar({ open }) {
           </nav>
         )}
         </div>
+
+        {/* ════ DSM-5-TR SEKCE ════════════════════════════════════ */}
+        <div className="border-t-2 border-blue-200">
+          <button
+            onClick={() => setDsm5Open(v => !v)}
+            className="w-full flex items-center gap-2 px-3 py-2.5 text-left hover:bg-blue-50 bg-blue-50"
+          >
+            <span className="w-2 h-2 rounded-full shrink-0 bg-blue-600" />
+            <span className="text-xs font-bold text-blue-700 flex-1">DSM-5-TR</span>
+            <span className="text-xs text-blue-400 font-mono">APA</span>
+            <ChevronIcon open={dsm5Open} />
+          </button>
+
+          {dsm5Open && (
+            <div className="px-3 py-1 border-b border-blue-100">
+              <NavLink
+                to="/dsm5"
+                className={({ isActive }) =>
+                  `flex items-center gap-2 text-xs py-1.5 px-2 rounded transition-colors
+                   ${isActive ? 'bg-blue-100 text-blue-800 font-medium' : 'text-slate-600 hover:text-blue-700 hover:bg-blue-50'}`
+                }
+              >
+                <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 10h16M4 14h16M4 18h16" />
+                </svg>
+                Přehled DSM-5-TR
+              </NavLink>
+            </div>
+          )}
+
+          {dsm5Open && (
+            <nav className="overflow-y-auto max-h-96 py-1">
+              {[...dsm5Chapters.entries()].map(([ch, disorders]) => {
+                const chOpen = openDsm5Ch.has(ch)
+                const color = getDsm5Color(ch)
+                const bc = DSM5_COLOR_CLASSES[color] || DSM5_COLOR_CLASSES.gray
+
+                return (
+                  <div key={ch}>
+                    <button
+                      onClick={() => setOpenDsm5Ch(prev => {
+                        const next = new Set(prev)
+                        next.has(ch) ? next.delete(ch) : next.add(ch)
+                        return next
+                      })}
+                      className="w-full flex items-center gap-2 px-3 py-1.5 text-left hover:bg-slate-50"
+                    >
+                      <span className={`w-2 h-2 rounded-full shrink-0 ${bc.badge}`} />
+                      <span className="text-xs text-slate-600 font-medium flex-1 leading-tight">{ch}</span>
+                      <ChevronIcon open={chOpen} />
+                    </button>
+
+                    {chOpen && (
+                      <div className="ml-3 border-l-2 border-slate-100">
+                        {disorders.map(d => (
+                          <button
+                            key={d.id}
+                            onClick={() => navigate(`/dsm5/${d.id}`)}
+                            className="w-full flex items-center gap-2 pl-3 pr-2 py-1.5 text-left hover:bg-blue-50 hover:text-blue-700 rounded"
+                            title={d.name}
+                          >
+                            <span className="font-mono text-xs text-slate-400 shrink-0 w-10">{d.code}</span>
+                            <span className="text-xs text-slate-600 flex-1 leading-tight line-clamp-2">{d.name}</span>
+                          </button>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                )
+              })}
+            </nav>
+          )}
+        </div>
+
       </div>
     </aside>
   )

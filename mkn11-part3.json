@@ -1,0 +1,5627 @@
+[
+  {
+    "id": "6C40",
+    "kod": "6C40",
+    "nazev_cz": "Poruchy způsobené užíváním alkoholu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": "Poruchy způsobené užíváním alkoholu zahrnující škodlivé vzorce, závislost, intoxikaci, odvykací stav a alkoholem indukované poruchy.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F10"
+    ]
+  },
+  {
+    "id": "6C40.0",
+    "kod": "6C40.0",
+    "nazev_cz": "Škodlivé epizodické užívání způsobená/é užíváním alkoholu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F10.1"
+    ]
+  },
+  {
+    "id": "6C40.1",
+    "kod": "6C40.1",
+    "nazev_cz": "Škodlivý vzorec užívání způsobená/é užíváním alkoholu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F10.1"
+    ]
+  },
+  {
+    "id": "6C40.2",
+    "kod": "6C40.2",
+    "nazev_cz": "Závislost způsobená/é užíváním alkoholu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F10.2"
+    ]
+  },
+  {
+    "id": "6C40.3",
+    "kod": "6C40.3",
+    "nazev_cz": "Intoxikace způsobená/é užíváním alkoholu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F10.0"
+    ]
+  },
+  {
+    "id": "6C40.4",
+    "kod": "6C40.4",
+    "nazev_cz": "Odvykací stav způsobená/é užíváním alkoholu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F10.3"
+    ]
+  },
+  {
+    "id": "6C40.5",
+    "kod": "6C40.5",
+    "nazev_cz": "Delirium způsobená/é užíváním alkoholu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F10.4"
+    ]
+  },
+  {
+    "id": "6C40.6",
+    "kod": "6C40.6",
+    "nazev_cz": "Psychotická porucha způsobená/é užíváním alkoholu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F10.5"
+    ]
+  },
+  {
+    "id": "6C40.7",
+    "kod": "6C40.7",
+    "nazev_cz": "Porucha nálady způsobená/é užíváním alkoholu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F10.5"
+    ]
+  },
+  {
+    "id": "6C40.8",
+    "kod": "6C40.8",
+    "nazev_cz": "Úzkostná porucha způsobená/é užíváním alkoholu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F10.5"
+    ]
+  },
+  {
+    "id": "6C40.Y",
+    "kod": "6C40.Y",
+    "nazev_cz": "Jiné poruchy způsobená/é užíváním alkoholu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F10.8"
+    ]
+  },
+  {
+    "id": "6C40.Z",
+    "kod": "6C40.Z",
+    "nazev_cz": "Neurčené poruchy způsobená/é užíváním alkoholu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F10.9"
+    ]
+  },
+  {
+    "id": "6C41",
+    "kod": "6C41",
+    "nazev_cz": "Poruchy způsobené užíváním kanabisu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": "Porucha způsobená užíváním kanabisu, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12"
+    ]
+  },
+  {
+    "id": "6C41.0",
+    "kod": "6C41.0",
+    "nazev_cz": "Škodlivé epizodické užívání způsobená/é užíváním kanabisu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.1"
+    ]
+  },
+  {
+    "id": "6C41.1",
+    "kod": "6C41.1",
+    "nazev_cz": "Škodlivý vzorec užívání způsobená/é užíváním kanabisu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.1"
+    ]
+  },
+  {
+    "id": "6C41.2",
+    "kod": "6C41.2",
+    "nazev_cz": "Závislost způsobená/é užíváním kanabisu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.2"
+    ]
+  },
+  {
+    "id": "6C41.3",
+    "kod": "6C41.3",
+    "nazev_cz": "Intoxikace způsobená/é užíváním kanabisu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.0"
+    ]
+  },
+  {
+    "id": "6C41.4",
+    "kod": "6C41.4",
+    "nazev_cz": "Odvykací stav způsobená/é užíváním kanabisu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.3"
+    ]
+  },
+  {
+    "id": "6C41.5",
+    "kod": "6C41.5",
+    "nazev_cz": "Delirium způsobená/é užíváním kanabisu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.4"
+    ]
+  },
+  {
+    "id": "6C41.6",
+    "kod": "6C41.6",
+    "nazev_cz": "Psychotická porucha způsobená/é užíváním kanabisu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.5"
+    ]
+  },
+  {
+    "id": "6C41.7",
+    "kod": "6C41.7",
+    "nazev_cz": "Porucha nálady způsobená/é užíváním kanabisu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.5"
+    ]
+  },
+  {
+    "id": "6C41.8",
+    "kod": "6C41.8",
+    "nazev_cz": "Úzkostná porucha způsobená/é užíváním kanabisu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.5"
+    ]
+  },
+  {
+    "id": "6C41.Y",
+    "kod": "6C41.Y",
+    "nazev_cz": "Jiné poruchy způsobená/é užíváním kanabisu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.8"
+    ]
+  },
+  {
+    "id": "6C41.Z",
+    "kod": "6C41.Z",
+    "nazev_cz": "Neurčené poruchy způsobená/é užíváním kanabisu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.9"
+    ]
+  },
+  {
+    "id": "6C42",
+    "kod": "6C42",
+    "nazev_cz": "Poruchy způsobené užíváním syntetických kanabinoidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": "Porucha způsobená užíváním syntetických kanabinoidů, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12"
+    ]
+  },
+  {
+    "id": "6C42.0",
+    "kod": "6C42.0",
+    "nazev_cz": "Škodlivé epizodické užívání způsobená/é užíváním syntetických kanabinoidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.1"
+    ]
+  },
+  {
+    "id": "6C42.1",
+    "kod": "6C42.1",
+    "nazev_cz": "Škodlivý vzorec užívání způsobená/é užíváním syntetických kanabinoidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.1"
+    ]
+  },
+  {
+    "id": "6C42.2",
+    "kod": "6C42.2",
+    "nazev_cz": "Závislost způsobená/é užíváním syntetických kanabinoidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.2"
+    ]
+  },
+  {
+    "id": "6C42.3",
+    "kod": "6C42.3",
+    "nazev_cz": "Intoxikace způsobená/é užíváním syntetických kanabinoidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.0"
+    ]
+  },
+  {
+    "id": "6C42.4",
+    "kod": "6C42.4",
+    "nazev_cz": "Odvykací stav způsobená/é užíváním syntetických kanabinoidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.3"
+    ]
+  },
+  {
+    "id": "6C42.5",
+    "kod": "6C42.5",
+    "nazev_cz": "Delirium způsobená/é užíváním syntetických kanabinoidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.4"
+    ]
+  },
+  {
+    "id": "6C42.6",
+    "kod": "6C42.6",
+    "nazev_cz": "Psychotická porucha způsobená/é užíváním syntetických kanabinoidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.5"
+    ]
+  },
+  {
+    "id": "6C42.7",
+    "kod": "6C42.7",
+    "nazev_cz": "Porucha nálady způsobená/é užíváním syntetických kanabinoidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.5"
+    ]
+  },
+  {
+    "id": "6C42.8",
+    "kod": "6C42.8",
+    "nazev_cz": "Úzkostná porucha způsobená/é užíváním syntetických kanabinoidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.5"
+    ]
+  },
+  {
+    "id": "6C42.Y",
+    "kod": "6C42.Y",
+    "nazev_cz": "Jiné poruchy způsobená/é užíváním syntetických kanabinoidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.8"
+    ]
+  },
+  {
+    "id": "6C42.Z",
+    "kod": "6C42.Z",
+    "nazev_cz": "Neurčené poruchy způsobená/é užíváním syntetických kanabinoidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F12.9"
+    ]
+  },
+  {
+    "id": "6C43",
+    "kod": "6C43",
+    "nazev_cz": "Poruchy způsobené užíváním opioidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": "Porucha způsobená užíváním opioidů, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F11"
+    ]
+  },
+  {
+    "id": "6C43.0",
+    "kod": "6C43.0",
+    "nazev_cz": "Škodlivé epizodické užívání způsobená/é užíváním opioidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F11.1"
+    ]
+  },
+  {
+    "id": "6C43.1",
+    "kod": "6C43.1",
+    "nazev_cz": "Škodlivý vzorec užívání způsobená/é užíváním opioidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F11.1"
+    ]
+  },
+  {
+    "id": "6C43.2",
+    "kod": "6C43.2",
+    "nazev_cz": "Závislost způsobená/é užíváním opioidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F11.2"
+    ]
+  },
+  {
+    "id": "6C43.3",
+    "kod": "6C43.3",
+    "nazev_cz": "Intoxikace způsobená/é užíváním opioidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F11.0"
+    ]
+  },
+  {
+    "id": "6C43.4",
+    "kod": "6C43.4",
+    "nazev_cz": "Odvykací stav způsobená/é užíváním opioidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F11.3"
+    ]
+  },
+  {
+    "id": "6C43.5",
+    "kod": "6C43.5",
+    "nazev_cz": "Delirium způsobená/é užíváním opioidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F11.4"
+    ]
+  },
+  {
+    "id": "6C43.6",
+    "kod": "6C43.6",
+    "nazev_cz": "Psychotická porucha způsobená/é užíváním opioidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F11.5"
+    ]
+  },
+  {
+    "id": "6C43.7",
+    "kod": "6C43.7",
+    "nazev_cz": "Porucha nálady způsobená/é užíváním opioidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F11.5"
+    ]
+  },
+  {
+    "id": "6C43.8",
+    "kod": "6C43.8",
+    "nazev_cz": "Úzkostná porucha způsobená/é užíváním opioidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F11.5"
+    ]
+  },
+  {
+    "id": "6C43.Y",
+    "kod": "6C43.Y",
+    "nazev_cz": "Jiné poruchy způsobená/é užíváním opioidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F11.8"
+    ]
+  },
+  {
+    "id": "6C43.Z",
+    "kod": "6C43.Z",
+    "nazev_cz": "Neurčené poruchy způsobená/é užíváním opioidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F11.9"
+    ]
+  },
+  {
+    "id": "6C44",
+    "kod": "6C44",
+    "nazev_cz": "Poruchy způsobené užíváním sedativ, hypnotik nebo anxiolytik",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": "Porucha způsobená užíváním sedativ, hypnotik nebo anxiolytik, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F13"
+    ]
+  },
+  {
+    "id": "6C44.0",
+    "kod": "6C44.0",
+    "nazev_cz": "Škodlivé epizodické užívání způsobená/é užíváním sedativ, hypnotik nebo anxiolytik",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F13.1"
+    ]
+  },
+  {
+    "id": "6C44.1",
+    "kod": "6C44.1",
+    "nazev_cz": "Škodlivý vzorec užívání způsobená/é užíváním sedativ, hypnotik nebo anxiolytik",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F13.1"
+    ]
+  },
+  {
+    "id": "6C44.2",
+    "kod": "6C44.2",
+    "nazev_cz": "Závislost způsobená/é užíváním sedativ, hypnotik nebo anxiolytik",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F13.2"
+    ]
+  },
+  {
+    "id": "6C44.3",
+    "kod": "6C44.3",
+    "nazev_cz": "Intoxikace způsobená/é užíváním sedativ, hypnotik nebo anxiolytik",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F13.0"
+    ]
+  },
+  {
+    "id": "6C44.4",
+    "kod": "6C44.4",
+    "nazev_cz": "Odvykací stav způsobená/é užíváním sedativ, hypnotik nebo anxiolytik",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F13.3"
+    ]
+  },
+  {
+    "id": "6C44.5",
+    "kod": "6C44.5",
+    "nazev_cz": "Delirium způsobená/é užíváním sedativ, hypnotik nebo anxiolytik",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F13.4"
+    ]
+  },
+  {
+    "id": "6C44.6",
+    "kod": "6C44.6",
+    "nazev_cz": "Psychotická porucha způsobená/é užíváním sedativ, hypnotik nebo anxiolytik",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F13.5"
+    ]
+  },
+  {
+    "id": "6C44.7",
+    "kod": "6C44.7",
+    "nazev_cz": "Porucha nálady způsobená/é užíváním sedativ, hypnotik nebo anxiolytik",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F13.5"
+    ]
+  },
+  {
+    "id": "6C44.8",
+    "kod": "6C44.8",
+    "nazev_cz": "Úzkostná porucha způsobená/é užíváním sedativ, hypnotik nebo anxiolytik",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F13.5"
+    ]
+  },
+  {
+    "id": "6C44.Y",
+    "kod": "6C44.Y",
+    "nazev_cz": "Jiné poruchy způsobená/é užíváním sedativ, hypnotik nebo anxiolytik",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F13.8"
+    ]
+  },
+  {
+    "id": "6C44.Z",
+    "kod": "6C44.Z",
+    "nazev_cz": "Neurčené poruchy způsobená/é užíváním sedativ, hypnotik nebo anxiolytik",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F13.9"
+    ]
+  },
+  {
+    "id": "6C45",
+    "kod": "6C45",
+    "nazev_cz": "Poruchy způsobené užíváním kokainu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": "Porucha způsobená užíváním kokainu, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F14"
+    ]
+  },
+  {
+    "id": "6C45.0",
+    "kod": "6C45.0",
+    "nazev_cz": "Škodlivé epizodické užívání způsobená/é užíváním kokainu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F14.1"
+    ]
+  },
+  {
+    "id": "6C45.1",
+    "kod": "6C45.1",
+    "nazev_cz": "Škodlivý vzorec užívání způsobená/é užíváním kokainu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F14.1"
+    ]
+  },
+  {
+    "id": "6C45.2",
+    "kod": "6C45.2",
+    "nazev_cz": "Závislost způsobená/é užíváním kokainu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F14.2"
+    ]
+  },
+  {
+    "id": "6C45.3",
+    "kod": "6C45.3",
+    "nazev_cz": "Intoxikace způsobená/é užíváním kokainu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F14.0"
+    ]
+  },
+  {
+    "id": "6C45.4",
+    "kod": "6C45.4",
+    "nazev_cz": "Odvykací stav způsobená/é užíváním kokainu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F14.3"
+    ]
+  },
+  {
+    "id": "6C45.5",
+    "kod": "6C45.5",
+    "nazev_cz": "Delirium způsobená/é užíváním kokainu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F14.4"
+    ]
+  },
+  {
+    "id": "6C45.6",
+    "kod": "6C45.6",
+    "nazev_cz": "Psychotická porucha způsobená/é užíváním kokainu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F14.5"
+    ]
+  },
+  {
+    "id": "6C45.7",
+    "kod": "6C45.7",
+    "nazev_cz": "Porucha nálady způsobená/é užíváním kokainu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F14.5"
+    ]
+  },
+  {
+    "id": "6C45.8",
+    "kod": "6C45.8",
+    "nazev_cz": "Úzkostná porucha způsobená/é užíváním kokainu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F14.5"
+    ]
+  },
+  {
+    "id": "6C45.Y",
+    "kod": "6C45.Y",
+    "nazev_cz": "Jiné poruchy způsobená/é užíváním kokainu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F14.8"
+    ]
+  },
+  {
+    "id": "6C45.Z",
+    "kod": "6C45.Z",
+    "nazev_cz": "Neurčené poruchy způsobená/é užíváním kokainu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F14.9"
+    ]
+  },
+  {
+    "id": "6C46",
+    "kod": "6C46",
+    "nazev_cz": "Poruchy způsobené užíváním stimulancií (amfetaminy, metamfetamin)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": "Porucha způsobená užíváním stimulancií (amfetaminy, metamfetamin), zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15"
+    ]
+  },
+  {
+    "id": "6C46.0",
+    "kod": "6C46.0",
+    "nazev_cz": "Škodlivé epizodické užívání způsobená/é užíváním stimulancií (amfetaminy, metamfetamin)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.1"
+    ]
+  },
+  {
+    "id": "6C46.1",
+    "kod": "6C46.1",
+    "nazev_cz": "Škodlivý vzorec užívání způsobená/é užíváním stimulancií (amfetaminy, metamfetamin)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.1"
+    ]
+  },
+  {
+    "id": "6C46.2",
+    "kod": "6C46.2",
+    "nazev_cz": "Závislost způsobená/é užíváním stimulancií (amfetaminy, metamfetamin)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.2"
+    ]
+  },
+  {
+    "id": "6C46.3",
+    "kod": "6C46.3",
+    "nazev_cz": "Intoxikace způsobená/é užíváním stimulancií (amfetaminy, metamfetamin)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.0"
+    ]
+  },
+  {
+    "id": "6C46.4",
+    "kod": "6C46.4",
+    "nazev_cz": "Odvykací stav způsobená/é užíváním stimulancií (amfetaminy, metamfetamin)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.3"
+    ]
+  },
+  {
+    "id": "6C46.5",
+    "kod": "6C46.5",
+    "nazev_cz": "Delirium způsobená/é užíváním stimulancií (amfetaminy, metamfetamin)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.4"
+    ]
+  },
+  {
+    "id": "6C46.6",
+    "kod": "6C46.6",
+    "nazev_cz": "Psychotická porucha způsobená/é užíváním stimulancií (amfetaminy, metamfetamin)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.5"
+    ]
+  },
+  {
+    "id": "6C46.7",
+    "kod": "6C46.7",
+    "nazev_cz": "Porucha nálady způsobená/é užíváním stimulancií (amfetaminy, metamfetamin)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.5"
+    ]
+  },
+  {
+    "id": "6C46.8",
+    "kod": "6C46.8",
+    "nazev_cz": "Úzkostná porucha způsobená/é užíváním stimulancií (amfetaminy, metamfetamin)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.5"
+    ]
+  },
+  {
+    "id": "6C46.Y",
+    "kod": "6C46.Y",
+    "nazev_cz": "Jiné poruchy způsobená/é užíváním stimulancií (amfetaminy, metamfetamin)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.8"
+    ]
+  },
+  {
+    "id": "6C46.Z",
+    "kod": "6C46.Z",
+    "nazev_cz": "Neurčené poruchy způsobená/é užíváním stimulancií (amfetaminy, metamfetamin)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.9"
+    ]
+  },
+  {
+    "id": "6C47",
+    "kod": "6C47",
+    "nazev_cz": "Poruchy způsobené užíváním syntetických katinonů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": "Porucha způsobená užíváním syntetických katinonů, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15"
+    ]
+  },
+  {
+    "id": "6C47.0",
+    "kod": "6C47.0",
+    "nazev_cz": "Škodlivé epizodické užívání způsobená/é užíváním syntetických katinonů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.1"
+    ]
+  },
+  {
+    "id": "6C47.1",
+    "kod": "6C47.1",
+    "nazev_cz": "Škodlivý vzorec užívání způsobená/é užíváním syntetických katinonů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.1"
+    ]
+  },
+  {
+    "id": "6C47.2",
+    "kod": "6C47.2",
+    "nazev_cz": "Závislost způsobená/é užíváním syntetických katinonů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.2"
+    ]
+  },
+  {
+    "id": "6C47.3",
+    "kod": "6C47.3",
+    "nazev_cz": "Intoxikace způsobená/é užíváním syntetických katinonů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.0"
+    ]
+  },
+  {
+    "id": "6C47.4",
+    "kod": "6C47.4",
+    "nazev_cz": "Odvykací stav způsobená/é užíváním syntetických katinonů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.3"
+    ]
+  },
+  {
+    "id": "6C47.5",
+    "kod": "6C47.5",
+    "nazev_cz": "Delirium způsobená/é užíváním syntetických katinonů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.4"
+    ]
+  },
+  {
+    "id": "6C47.6",
+    "kod": "6C47.6",
+    "nazev_cz": "Psychotická porucha způsobená/é užíváním syntetických katinonů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.5"
+    ]
+  },
+  {
+    "id": "6C47.7",
+    "kod": "6C47.7",
+    "nazev_cz": "Porucha nálady způsobená/é užíváním syntetických katinonů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.5"
+    ]
+  },
+  {
+    "id": "6C47.8",
+    "kod": "6C47.8",
+    "nazev_cz": "Úzkostná porucha způsobená/é užíváním syntetických katinonů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.5"
+    ]
+  },
+  {
+    "id": "6C47.Y",
+    "kod": "6C47.Y",
+    "nazev_cz": "Jiné poruchy způsobená/é užíváním syntetických katinonů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.8"
+    ]
+  },
+  {
+    "id": "6C47.Z",
+    "kod": "6C47.Z",
+    "nazev_cz": "Neurčené poruchy způsobená/é užíváním syntetických katinonů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.9"
+    ]
+  },
+  {
+    "id": "6C48",
+    "kod": "6C48",
+    "nazev_cz": "Poruchy způsobené užíváním kofeinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": "Porucha způsobená užíváním kofeinu, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15"
+    ]
+  },
+  {
+    "id": "6C48.0",
+    "kod": "6C48.0",
+    "nazev_cz": "Škodlivé epizodické užívání způsobená/é užíváním kofeinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.1"
+    ]
+  },
+  {
+    "id": "6C48.1",
+    "kod": "6C48.1",
+    "nazev_cz": "Škodlivý vzorec užívání způsobená/é užíváním kofeinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.1"
+    ]
+  },
+  {
+    "id": "6C48.2",
+    "kod": "6C48.2",
+    "nazev_cz": "Závislost způsobená/é užíváním kofeinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.2"
+    ]
+  },
+  {
+    "id": "6C48.3",
+    "kod": "6C48.3",
+    "nazev_cz": "Intoxikace způsobená/é užíváním kofeinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.0"
+    ]
+  },
+  {
+    "id": "6C48.4",
+    "kod": "6C48.4",
+    "nazev_cz": "Odvykací stav způsobená/é užíváním kofeinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.3"
+    ]
+  },
+  {
+    "id": "6C48.5",
+    "kod": "6C48.5",
+    "nazev_cz": "Delirium způsobená/é užíváním kofeinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.4"
+    ]
+  },
+  {
+    "id": "6C48.6",
+    "kod": "6C48.6",
+    "nazev_cz": "Psychotická porucha způsobená/é užíváním kofeinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.5"
+    ]
+  },
+  {
+    "id": "6C48.7",
+    "kod": "6C48.7",
+    "nazev_cz": "Porucha nálady způsobená/é užíváním kofeinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.5"
+    ]
+  },
+  {
+    "id": "6C48.8",
+    "kod": "6C48.8",
+    "nazev_cz": "Úzkostná porucha způsobená/é užíváním kofeinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.5"
+    ]
+  },
+  {
+    "id": "6C48.Y",
+    "kod": "6C48.Y",
+    "nazev_cz": "Jiné poruchy způsobená/é užíváním kofeinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.8"
+    ]
+  },
+  {
+    "id": "6C48.Z",
+    "kod": "6C48.Z",
+    "nazev_cz": "Neurčené poruchy způsobená/é užíváním kofeinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F15.9"
+    ]
+  },
+  {
+    "id": "6C49",
+    "kod": "6C49",
+    "nazev_cz": "Poruchy způsobené užíváním halucinogenů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": "Porucha způsobená užíváním halucinogenů, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F16"
+    ]
+  },
+  {
+    "id": "6C49.0",
+    "kod": "6C49.0",
+    "nazev_cz": "Škodlivé epizodické užívání způsobená/é užíváním halucinogenů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F16.1"
+    ]
+  },
+  {
+    "id": "6C49.1",
+    "kod": "6C49.1",
+    "nazev_cz": "Škodlivý vzorec užívání způsobená/é užíváním halucinogenů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F16.1"
+    ]
+  },
+  {
+    "id": "6C49.2",
+    "kod": "6C49.2",
+    "nazev_cz": "Závislost způsobená/é užíváním halucinogenů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F16.2"
+    ]
+  },
+  {
+    "id": "6C49.3",
+    "kod": "6C49.3",
+    "nazev_cz": "Intoxikace způsobená/é užíváním halucinogenů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F16.0"
+    ]
+  },
+  {
+    "id": "6C49.4",
+    "kod": "6C49.4",
+    "nazev_cz": "Odvykací stav způsobená/é užíváním halucinogenů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F16.3"
+    ]
+  },
+  {
+    "id": "6C49.5",
+    "kod": "6C49.5",
+    "nazev_cz": "Delirium způsobená/é užíváním halucinogenů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F16.4"
+    ]
+  },
+  {
+    "id": "6C49.6",
+    "kod": "6C49.6",
+    "nazev_cz": "Psychotická porucha způsobená/é užíváním halucinogenů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F16.5"
+    ]
+  },
+  {
+    "id": "6C49.7",
+    "kod": "6C49.7",
+    "nazev_cz": "Porucha nálady způsobená/é užíváním halucinogenů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F16.5"
+    ]
+  },
+  {
+    "id": "6C49.8",
+    "kod": "6C49.8",
+    "nazev_cz": "Úzkostná porucha způsobená/é užíváním halucinogenů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F16.5"
+    ]
+  },
+  {
+    "id": "6C49.Y",
+    "kod": "6C49.Y",
+    "nazev_cz": "Jiné poruchy způsobená/é užíváním halucinogenů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F16.8"
+    ]
+  },
+  {
+    "id": "6C49.Z",
+    "kod": "6C49.Z",
+    "nazev_cz": "Neurčené poruchy způsobená/é užíváním halucinogenů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F16.9"
+    ]
+  },
+  {
+    "id": "6C4A",
+    "kod": "6C4A",
+    "nazev_cz": "Poruchy způsobené užíváním nikotinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": "Porucha způsobená užíváním nikotinu, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F17"
+    ]
+  },
+  {
+    "id": "6C4A.0",
+    "kod": "6C4A.0",
+    "nazev_cz": "Škodlivé epizodické užívání způsobená/é užíváním nikotinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F17.1"
+    ]
+  },
+  {
+    "id": "6C4A.1",
+    "kod": "6C4A.1",
+    "nazev_cz": "Škodlivý vzorec užívání způsobená/é užíváním nikotinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F17.1"
+    ]
+  },
+  {
+    "id": "6C4A.2",
+    "kod": "6C4A.2",
+    "nazev_cz": "Závislost způsobená/é užíváním nikotinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F17.2"
+    ]
+  },
+  {
+    "id": "6C4A.3",
+    "kod": "6C4A.3",
+    "nazev_cz": "Intoxikace způsobená/é užíváním nikotinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F17.0"
+    ]
+  },
+  {
+    "id": "6C4A.4",
+    "kod": "6C4A.4",
+    "nazev_cz": "Odvykací stav způsobená/é užíváním nikotinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F17.3"
+    ]
+  },
+  {
+    "id": "6C4A.5",
+    "kod": "6C4A.5",
+    "nazev_cz": "Delirium způsobená/é užíváním nikotinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F17.4"
+    ]
+  },
+  {
+    "id": "6C4A.6",
+    "kod": "6C4A.6",
+    "nazev_cz": "Psychotická porucha způsobená/é užíváním nikotinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F17.5"
+    ]
+  },
+  {
+    "id": "6C4A.7",
+    "kod": "6C4A.7",
+    "nazev_cz": "Porucha nálady způsobená/é užíváním nikotinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F17.5"
+    ]
+  },
+  {
+    "id": "6C4A.8",
+    "kod": "6C4A.8",
+    "nazev_cz": "Úzkostná porucha způsobená/é užíváním nikotinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F17.5"
+    ]
+  },
+  {
+    "id": "6C4A.Y",
+    "kod": "6C4A.Y",
+    "nazev_cz": "Jiné poruchy způsobená/é užíváním nikotinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F17.8"
+    ]
+  },
+  {
+    "id": "6C4A.Z",
+    "kod": "6C4A.Z",
+    "nazev_cz": "Neurčené poruchy způsobená/é užíváním nikotinu",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F17.9"
+    ]
+  },
+  {
+    "id": "6C4B",
+    "kod": "6C4B",
+    "nazev_cz": "Poruchy způsobené užíváním těkavých inhalantů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": "Porucha způsobená užíváním těkavých inhalantů, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F18"
+    ]
+  },
+  {
+    "id": "6C4B.0",
+    "kod": "6C4B.0",
+    "nazev_cz": "Škodlivé epizodické užívání způsobená/é užíváním těkavých inhalantů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F18.1"
+    ]
+  },
+  {
+    "id": "6C4B.1",
+    "kod": "6C4B.1",
+    "nazev_cz": "Škodlivý vzorec užívání způsobená/é užíváním těkavých inhalantů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F18.1"
+    ]
+  },
+  {
+    "id": "6C4B.2",
+    "kod": "6C4B.2",
+    "nazev_cz": "Závislost způsobená/é užíváním těkavých inhalantů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F18.2"
+    ]
+  },
+  {
+    "id": "6C4B.3",
+    "kod": "6C4B.3",
+    "nazev_cz": "Intoxikace způsobená/é užíváním těkavých inhalantů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F18.0"
+    ]
+  },
+  {
+    "id": "6C4B.4",
+    "kod": "6C4B.4",
+    "nazev_cz": "Odvykací stav způsobená/é užíváním těkavých inhalantů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F18.3"
+    ]
+  },
+  {
+    "id": "6C4B.5",
+    "kod": "6C4B.5",
+    "nazev_cz": "Delirium způsobená/é užíváním těkavých inhalantů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F18.4"
+    ]
+  },
+  {
+    "id": "6C4B.6",
+    "kod": "6C4B.6",
+    "nazev_cz": "Psychotická porucha způsobená/é užíváním těkavých inhalantů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F18.5"
+    ]
+  },
+  {
+    "id": "6C4B.7",
+    "kod": "6C4B.7",
+    "nazev_cz": "Porucha nálady způsobená/é užíváním těkavých inhalantů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F18.5"
+    ]
+  },
+  {
+    "id": "6C4B.8",
+    "kod": "6C4B.8",
+    "nazev_cz": "Úzkostná porucha způsobená/é užíváním těkavých inhalantů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F18.5"
+    ]
+  },
+  {
+    "id": "6C4B.Y",
+    "kod": "6C4B.Y",
+    "nazev_cz": "Jiné poruchy způsobená/é užíváním těkavých inhalantů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F18.8"
+    ]
+  },
+  {
+    "id": "6C4B.Z",
+    "kod": "6C4B.Z",
+    "nazev_cz": "Neurčené poruchy způsobená/é užíváním těkavých inhalantů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F18.9"
+    ]
+  },
+  {
+    "id": "6C4C",
+    "kod": "6C4C",
+    "nazev_cz": "Poruchy způsobené užíváním MDMA nebo příbuzných látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": "Porucha způsobená užíváním MDMA nebo příbuzných látek, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19"
+    ]
+  },
+  {
+    "id": "6C4C.0",
+    "kod": "6C4C.0",
+    "nazev_cz": "Škodlivé epizodické užívání způsobená/é užíváním MDMA nebo příbuzných látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.1"
+    ]
+  },
+  {
+    "id": "6C4C.1",
+    "kod": "6C4C.1",
+    "nazev_cz": "Škodlivý vzorec užívání způsobená/é užíváním MDMA nebo příbuzných látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.1"
+    ]
+  },
+  {
+    "id": "6C4C.2",
+    "kod": "6C4C.2",
+    "nazev_cz": "Závislost způsobená/é užíváním MDMA nebo příbuzných látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.2"
+    ]
+  },
+  {
+    "id": "6C4C.3",
+    "kod": "6C4C.3",
+    "nazev_cz": "Intoxikace způsobená/é užíváním MDMA nebo příbuzných látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.0"
+    ]
+  },
+  {
+    "id": "6C4C.4",
+    "kod": "6C4C.4",
+    "nazev_cz": "Odvykací stav způsobená/é užíváním MDMA nebo příbuzných látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.3"
+    ]
+  },
+  {
+    "id": "6C4C.5",
+    "kod": "6C4C.5",
+    "nazev_cz": "Delirium způsobená/é užíváním MDMA nebo příbuzných látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.4"
+    ]
+  },
+  {
+    "id": "6C4C.6",
+    "kod": "6C4C.6",
+    "nazev_cz": "Psychotická porucha způsobená/é užíváním MDMA nebo příbuzných látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.5"
+    ]
+  },
+  {
+    "id": "6C4C.7",
+    "kod": "6C4C.7",
+    "nazev_cz": "Porucha nálady způsobená/é užíváním MDMA nebo příbuzných látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.5"
+    ]
+  },
+  {
+    "id": "6C4C.8",
+    "kod": "6C4C.8",
+    "nazev_cz": "Úzkostná porucha způsobená/é užíváním MDMA nebo příbuzných látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.5"
+    ]
+  },
+  {
+    "id": "6C4C.Y",
+    "kod": "6C4C.Y",
+    "nazev_cz": "Jiné poruchy způsobená/é užíváním MDMA nebo příbuzných látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.8"
+    ]
+  },
+  {
+    "id": "6C4C.Z",
+    "kod": "6C4C.Z",
+    "nazev_cz": "Neurčené poruchy způsobená/é užíváním MDMA nebo příbuzných látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.9"
+    ]
+  },
+  {
+    "id": "6C4D",
+    "kod": "6C4D",
+    "nazev_cz": "Poruchy způsobené disociačními drogami (ketamin, PCP)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": "Porucha způsobená užíváním disociačních drog (ketamin, PCP), zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19"
+    ]
+  },
+  {
+    "id": "6C4D.0",
+    "kod": "6C4D.0",
+    "nazev_cz": "Škodlivé epizodické užívání způsobená/é užíváním disociačních drog (ketamin, PCP)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.1"
+    ]
+  },
+  {
+    "id": "6C4D.1",
+    "kod": "6C4D.1",
+    "nazev_cz": "Škodlivý vzorec užívání způsobená/é užíváním disociačních drog (ketamin, PCP)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.1"
+    ]
+  },
+  {
+    "id": "6C4D.2",
+    "kod": "6C4D.2",
+    "nazev_cz": "Závislost způsobená/é užíváním disociačních drog (ketamin, PCP)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.2"
+    ]
+  },
+  {
+    "id": "6C4D.3",
+    "kod": "6C4D.3",
+    "nazev_cz": "Intoxikace způsobená/é užíváním disociačních drog (ketamin, PCP)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.0"
+    ]
+  },
+  {
+    "id": "6C4D.4",
+    "kod": "6C4D.4",
+    "nazev_cz": "Odvykací stav způsobená/é užíváním disociačních drog (ketamin, PCP)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.3"
+    ]
+  },
+  {
+    "id": "6C4D.5",
+    "kod": "6C4D.5",
+    "nazev_cz": "Delirium způsobená/é užíváním disociačních drog (ketamin, PCP)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.4"
+    ]
+  },
+  {
+    "id": "6C4D.6",
+    "kod": "6C4D.6",
+    "nazev_cz": "Psychotická porucha způsobená/é užíváním disociačních drog (ketamin, PCP)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.5"
+    ]
+  },
+  {
+    "id": "6C4D.7",
+    "kod": "6C4D.7",
+    "nazev_cz": "Porucha nálady způsobená/é užíváním disociačních drog (ketamin, PCP)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.5"
+    ]
+  },
+  {
+    "id": "6C4D.8",
+    "kod": "6C4D.8",
+    "nazev_cz": "Úzkostná porucha způsobená/é užíváním disociačních drog (ketamin, PCP)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.5"
+    ]
+  },
+  {
+    "id": "6C4D.Y",
+    "kod": "6C4D.Y",
+    "nazev_cz": "Jiné poruchy způsobená/é užíváním disociačních drog (ketamin, PCP)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.8"
+    ]
+  },
+  {
+    "id": "6C4D.Z",
+    "kod": "6C4D.Z",
+    "nazev_cz": "Neurčené poruchy způsobená/é užíváním disociačních drog (ketamin, PCP)",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.9"
+    ]
+  },
+  {
+    "id": "6C4E",
+    "kod": "6C4E",
+    "nazev_cz": "Poruchy způsobené anabolickými androgennými steroidy",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": "Porucha způsobená užíváním anabolických androgenních steroidů, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19"
+    ]
+  },
+  {
+    "id": "6C4E.0",
+    "kod": "6C4E.0",
+    "nazev_cz": "Škodlivé epizodické užívání způsobená/é užíváním anabolických androgenních steroidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.1"
+    ]
+  },
+  {
+    "id": "6C4E.1",
+    "kod": "6C4E.1",
+    "nazev_cz": "Škodlivý vzorec užívání způsobená/é užíváním anabolických androgenních steroidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.1"
+    ]
+  },
+  {
+    "id": "6C4E.2",
+    "kod": "6C4E.2",
+    "nazev_cz": "Závislost způsobená/é užíváním anabolických androgenních steroidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.2"
+    ]
+  },
+  {
+    "id": "6C4E.3",
+    "kod": "6C4E.3",
+    "nazev_cz": "Intoxikace způsobená/é užíváním anabolických androgenních steroidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.0"
+    ]
+  },
+  {
+    "id": "6C4E.4",
+    "kod": "6C4E.4",
+    "nazev_cz": "Odvykací stav způsobená/é užíváním anabolických androgenních steroidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.3"
+    ]
+  },
+  {
+    "id": "6C4E.5",
+    "kod": "6C4E.5",
+    "nazev_cz": "Delirium způsobená/é užíváním anabolických androgenních steroidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.4"
+    ]
+  },
+  {
+    "id": "6C4E.6",
+    "kod": "6C4E.6",
+    "nazev_cz": "Psychotická porucha způsobená/é užíváním anabolických androgenních steroidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.5"
+    ]
+  },
+  {
+    "id": "6C4E.7",
+    "kod": "6C4E.7",
+    "nazev_cz": "Porucha nálady způsobená/é užíváním anabolických androgenních steroidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.5"
+    ]
+  },
+  {
+    "id": "6C4E.8",
+    "kod": "6C4E.8",
+    "nazev_cz": "Úzkostná porucha způsobená/é užíváním anabolických androgenních steroidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.5"
+    ]
+  },
+  {
+    "id": "6C4E.Y",
+    "kod": "6C4E.Y",
+    "nazev_cz": "Jiné poruchy způsobená/é užíváním anabolických androgenních steroidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.8"
+    ]
+  },
+  {
+    "id": "6C4E.Z",
+    "kod": "6C4E.Z",
+    "nazev_cz": "Neurčené poruchy způsobená/é užíváním anabolických androgenních steroidů",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.9"
+    ]
+  },
+  {
+    "id": "6C4F",
+    "kod": "6C4F",
+    "nazev_cz": "Poruchy způsobené nepsychoaktivními látkami",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": "Porucha způsobená užíváním nepsychoaktivních látek, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F55"
+    ]
+  },
+  {
+    "id": "6C4F.0",
+    "kod": "6C4F.0",
+    "nazev_cz": "Škodlivé epizodické užívání způsobená/é užíváním nepsychoaktivních látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F55.1"
+    ]
+  },
+  {
+    "id": "6C4F.1",
+    "kod": "6C4F.1",
+    "nazev_cz": "Škodlivý vzorec užívání způsobená/é užíváním nepsychoaktivních látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F55.1"
+    ]
+  },
+  {
+    "id": "6C4F.2",
+    "kod": "6C4F.2",
+    "nazev_cz": "Závislost způsobená/é užíváním nepsychoaktivních látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F55.2"
+    ]
+  },
+  {
+    "id": "6C4F.3",
+    "kod": "6C4F.3",
+    "nazev_cz": "Intoxikace způsobená/é užíváním nepsychoaktivních látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F55.0"
+    ]
+  },
+  {
+    "id": "6C4F.4",
+    "kod": "6C4F.4",
+    "nazev_cz": "Odvykací stav způsobená/é užíváním nepsychoaktivních látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F55.3"
+    ]
+  },
+  {
+    "id": "6C4F.5",
+    "kod": "6C4F.5",
+    "nazev_cz": "Delirium způsobená/é užíváním nepsychoaktivních látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F55.4"
+    ]
+  },
+  {
+    "id": "6C4F.6",
+    "kod": "6C4F.6",
+    "nazev_cz": "Psychotická porucha způsobená/é užíváním nepsychoaktivních látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F55.5"
+    ]
+  },
+  {
+    "id": "6C4F.7",
+    "kod": "6C4F.7",
+    "nazev_cz": "Porucha nálady způsobená/é užíváním nepsychoaktivních látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F55.5"
+    ]
+  },
+  {
+    "id": "6C4F.8",
+    "kod": "6C4F.8",
+    "nazev_cz": "Úzkostná porucha způsobená/é užíváním nepsychoaktivních látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F55.5"
+    ]
+  },
+  {
+    "id": "6C4F.Y",
+    "kod": "6C4F.Y",
+    "nazev_cz": "Jiné poruchy způsobená/é užíváním nepsychoaktivních látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F55.8"
+    ]
+  },
+  {
+    "id": "6C4F.Z",
+    "kod": "6C4F.Z",
+    "nazev_cz": "Neurčené poruchy způsobená/é užíváním nepsychoaktivních látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F55.9"
+    ]
+  },
+  {
+    "id": "6C4G",
+    "kod": "6C4G",
+    "nazev_cz": "Poruchy způsobené neznámými nebo neurčenými látkami",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": "Porucha způsobená užíváním neznámých nebo neurčených látek, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19"
+    ]
+  },
+  {
+    "id": "6C4G.0",
+    "kod": "6C4G.0",
+    "nazev_cz": "Škodlivé epizodické užívání způsobená/é užíváním neznámých nebo neurčených látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.1"
+    ]
+  },
+  {
+    "id": "6C4G.1",
+    "kod": "6C4G.1",
+    "nazev_cz": "Škodlivý vzorec užívání způsobená/é užíváním neznámých nebo neurčených látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.1"
+    ]
+  },
+  {
+    "id": "6C4G.2",
+    "kod": "6C4G.2",
+    "nazev_cz": "Závislost způsobená/é užíváním neznámých nebo neurčených látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.2"
+    ]
+  },
+  {
+    "id": "6C4G.3",
+    "kod": "6C4G.3",
+    "nazev_cz": "Intoxikace způsobená/é užíváním neznámých nebo neurčených látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.0"
+    ]
+  },
+  {
+    "id": "6C4G.4",
+    "kod": "6C4G.4",
+    "nazev_cz": "Odvykací stav způsobená/é užíváním neznámých nebo neurčených látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.3"
+    ]
+  },
+  {
+    "id": "6C4G.5",
+    "kod": "6C4G.5",
+    "nazev_cz": "Delirium způsobená/é užíváním neznámých nebo neurčených látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.4"
+    ]
+  },
+  {
+    "id": "6C4G.6",
+    "kod": "6C4G.6",
+    "nazev_cz": "Psychotická porucha způsobená/é užíváním neznámých nebo neurčených látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.5"
+    ]
+  },
+  {
+    "id": "6C4G.7",
+    "kod": "6C4G.7",
+    "nazev_cz": "Porucha nálady způsobená/é užíváním neznámých nebo neurčených látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.5"
+    ]
+  },
+  {
+    "id": "6C4G.8",
+    "kod": "6C4G.8",
+    "nazev_cz": "Úzkostná porucha způsobená/é užíváním neznámých nebo neurčených látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.5"
+    ]
+  },
+  {
+    "id": "6C4G.Y",
+    "kod": "6C4G.Y",
+    "nazev_cz": "Jiné poruchy způsobená/é užíváním neznámých nebo neurčených látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.8"
+    ]
+  },
+  {
+    "id": "6C4G.Z",
+    "kod": "6C4G.Z",
+    "nazev_cz": "Neurčené poruchy způsobená/é užíváním neznámých nebo neurčených látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.9"
+    ]
+  },
+  {
+    "id": "6C4H",
+    "kod": "6C4H",
+    "nazev_cz": "Poruchy způsobené užíváním vícero látek nebo jiných psychoaktivních látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": "Porucha způsobená užíváním vícero látek, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19"
+    ]
+  },
+  {
+    "id": "6C4H.0",
+    "kod": "6C4H.0",
+    "nazev_cz": "Škodlivé epizodické užívání způsobená/é užíváním vícero látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.1"
+    ]
+  },
+  {
+    "id": "6C4H.1",
+    "kod": "6C4H.1",
+    "nazev_cz": "Škodlivý vzorec užívání způsobená/é užíváním vícero látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.1"
+    ]
+  },
+  {
+    "id": "6C4H.2",
+    "kod": "6C4H.2",
+    "nazev_cz": "Závislost způsobená/é užíváním vícero látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.2"
+    ]
+  },
+  {
+    "id": "6C4H.3",
+    "kod": "6C4H.3",
+    "nazev_cz": "Intoxikace způsobená/é užíváním vícero látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.0"
+    ]
+  },
+  {
+    "id": "6C4H.4",
+    "kod": "6C4H.4",
+    "nazev_cz": "Odvykací stav způsobená/é užíváním vícero látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.3"
+    ]
+  },
+  {
+    "id": "6C4H.5",
+    "kod": "6C4H.5",
+    "nazev_cz": "Delirium způsobená/é užíváním vícero látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.4"
+    ]
+  },
+  {
+    "id": "6C4H.6",
+    "kod": "6C4H.6",
+    "nazev_cz": "Psychotická porucha způsobená/é užíváním vícero látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.5"
+    ]
+  },
+  {
+    "id": "6C4H.7",
+    "kod": "6C4H.7",
+    "nazev_cz": "Porucha nálady způsobená/é užíváním vícero látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.5"
+    ]
+  },
+  {
+    "id": "6C4H.8",
+    "kod": "6C4H.8",
+    "nazev_cz": "Úzkostná porucha způsobená/é užíváním vícero látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.5"
+    ]
+  },
+  {
+    "id": "6C4H.Y",
+    "kod": "6C4H.Y",
+    "nazev_cz": "Jiné poruchy způsobená/é užíváním vícero látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.8"
+    ]
+  },
+  {
+    "id": "6C4H.Z",
+    "kod": "6C4H.Z",
+    "nazev_cz": "Neurčené poruchy způsobená/é užíváním vícero látek",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.9"
+    ]
+  },
+  {
+    "id": "6C50",
+    "kod": "6C50",
+    "nazev_cz": "Porucha hraní hazardních her",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": "Přetrvávající nebo opakující se vzorec hazardní hry s narušenou kontrolou, narůstající prioritou hazardu a přetrvávání navzdory negativním důsledkům.",
+    "diagnosticka_kriteria": [
+      "Přetrvávající vzorec hazardní hry způsobující výrazné postižení",
+      "Narušená kontrola nad hazardní hrou",
+      "Zvyšující se priorita hazardu před ostatními životními zájmy",
+      "Přetrvávání navzdory negativním důsledkům",
+      "Obvykle patrné nejméně 12 měsíců"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F63.0"
+    ]
+  },
+  {
+    "id": "6C50.0",
+    "kod": "6C50.0",
+    "nazev_cz": "Porucha hraní hazardních her, převážně offline",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F63.0"
+    ]
+  },
+  {
+    "id": "6C50.1",
+    "kod": "6C50.1",
+    "nazev_cz": "Porucha hraní hazardních her, převážně online",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F63.0"
+    ]
+  },
+  {
+    "id": "6C50.Z",
+    "kod": "6C50.Z",
+    "nazev_cz": "Porucha hraní hazardních her, neurčená",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F63.0"
+    ]
+  },
+  {
+    "id": "6C51",
+    "kod": "6C51",
+    "nazev_cz": "Porucha hraní digitálních her",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": "Přetrvávající nebo opakující se vzorec hraní digitálních her s narušenou kontrolou, narůstající prioritou her a přetrvávání navzdory negativním důsledkům.",
+    "diagnosticka_kriteria": [
+      "Přetrvávající vzorec hraní her způsobující výrazné postižení nebo tíseň",
+      "Narušená kontrola nad hraním her",
+      "Zvyšující se priorita hraní před ostatními aktivitami",
+      "Přetrvávání navzdory negativním důsledkům",
+      "Obvykle patrné nejméně 12 měsíců"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F63.8"
+    ]
+  },
+  {
+    "id": "6C51.0",
+    "kod": "6C51.0",
+    "nazev_cz": "Porucha hraní digitálních her, převážně online",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F63.8"
+    ]
+  },
+  {
+    "id": "6C51.1",
+    "kod": "6C51.1",
+    "nazev_cz": "Porucha hraní digitálních her, převážně offline",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F63.8"
+    ]
+  },
+  {
+    "id": "6C51.Z",
+    "kod": "6C51.Z",
+    "nazev_cz": "Porucha hraní digitálních her, neurčená",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F63.8"
+    ]
+  },
+  {
+    "id": "6C5Y",
+    "kod": "6C5Y",
+    "nazev_cz": "Poruchy způsobené návykovým chováním, jiné určené",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F63.8"
+    ]
+  },
+  {
+    "id": "6C5Z",
+    "kod": "6C5Z",
+    "nazev_cz": "Poruchy způsobené návykovým chováním, neurčené",
+    "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F63.9"
+    ]
+  },
+  {
+    "id": "6C70",
+    "kod": "6C70",
+    "nazev_cz": "Pyromanie",
+    "kategorie": "Poruchy kontroly impulzů",
+    "podkategorie": null,
+    "popis": "Záměrné a cílevědomé zakládání požárů opakovaně; napětí nebo vzrušení před činem; fascinace ohněm; úleva nebo satisfakce po zapálení.",
+    "diagnosticka_kriteria": [
+      "Záměrné zakládání požárů opakovaně",
+      "Napětí nebo vzrušení před zakládáním požáru",
+      "Fascinace, zájem nebo přitažlivost ohněm",
+      "Úleva nebo satisfakce po zapálení",
+      "Není způsobeno finančním ziskem, pomstou nebo bludy"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F63.1"
+    ]
+  },
+  {
+    "id": "6C71",
+    "kod": "6C71",
+    "nazev_cz": "Kleptomanie",
+    "kategorie": "Poruchy kontroly impulzů",
+    "podkategorie": null,
+    "popis": "Opakující se selhání v odolání impulzu ke kradení předmětů, které nejsou nutné pro osobní použití ani pro jejich finanční hodnotu.",
+    "diagnosticka_kriteria": [
+      "Opakující se selhání v odolání impulzu ke kradení věcí",
+      "Věci nejsou nutné pro osobní použití ani pro jejich finanční hodnotu",
+      "Narůstající napětí bezprostředně před krádeží",
+      "Pocit uspokojení nebo úlevy při krádeži",
+      "Krádež není způsobena hněvem, pomstou ani reakcí na bludy"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F63.2"
+    ]
+  },
+  {
+    "id": "6C72",
+    "kod": "6C72",
+    "nazev_cz": "Kompulzivní porucha sexuálního chování",
+    "kategorie": "Poruchy kontroly impulzů",
+    "podkategorie": null,
+    "popis": "Přetrvávající vzorec nekontrolovatelného intenzivního, opakujícího se sexuálního impulzu vedoucího k opakovanému sexuálnímu chování způsobujícímu tíseň nebo postižení.",
+    "diagnosticka_kriteria": [
+      "Přetrvávající vzorec intenzivního, opakujícího se sexuálního impulzu nebo nutkání",
+      "Opakované sexuální chování způsobující tíseň nebo závažné funkční postižení",
+      "Sexuální chování se stalo prioritou; zanedbávání zdraví nebo jiných aktivit",
+      "Příznaky přetrvávají nejméně 6 měsíců"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F52.7",
+      "F63.8"
+    ]
+  },
+  {
+    "id": "6C73",
+    "kod": "6C73",
+    "nazev_cz": "Intermitentní výbušná porucha",
+    "kategorie": "Poruchy kontroly impulzů",
+    "podkategorie": null,
+    "popis": "Opakující se epizody verbální nebo fyzické agresivity výrazně nepřiměřené provokaci nebo spouštěcím environmentálním podnětům.",
+    "diagnosticka_kriteria": [
+      "Opakující se epizody verbální nebo fyzické agresivity nepřiměřené spouštěči",
+      "Impulzivní agresivní činy vedou k fyzické újmě nebo majetkové škodě nebo verbální agresi",
+      "Epizody nejsou projevem jiné duševní poruchy lépe vysvětlující agresivní chování"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F63.8"
+    ]
+  },
+  {
+    "id": "6C7Y",
+    "kod": "6C7Y",
+    "nazev_cz": "Poruchy kontroly impulzů, jiné určené",
+    "kategorie": "Poruchy kontroly impulzů",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F63.8"
+    ]
+  },
+  {
+    "id": "6C7Z",
+    "kod": "6C7Z",
+    "nazev_cz": "Poruchy kontroly impulzů, neurčené",
+    "kategorie": "Poruchy kontroly impulzů",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F63.9"
+    ]
+  },
+  {
+    "id": "6C90",
+    "kod": "6C90",
+    "nazev_cz": "Porucha opozičního vzdoru",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": "Přetrvávající vzorec (≥6 měsíců) vzdorovitého, neposlušného, provokativního nebo zlostného chování přesahující vývojové normy; s nebo bez chronické dráždivosti.",
+    "diagnosticka_kriteria": [
+      "Přetrvávající vzorec (≥6 měsíců) výrazně vzdorovitého, neposlušného, provokativního nebo zlostného chování",
+      "Chování přesahuje vývojové normy a způsobuje výrazné funkční postižení",
+      "Přítomno v různých prostředích"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.3"
+    ]
+  },
+  {
+    "id": "6C90.0",
+    "kod": "6C90.0",
+    "nazev_cz": "Porucha opozičního vzdoru s chronickou podrážděností a hněvem",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.3"
+    ]
+  },
+  {
+    "id": "6C90.00",
+    "kod": "6C90.00",
+    "nazev_cz": "Porucha opozičního vzdoru s chronickou podrážděností a hněvem, s omezenými prosociálními emocemi",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.3"
+    ]
+  },
+  {
+    "id": "6C90.01",
+    "kod": "6C90.01",
+    "nazev_cz": "Porucha opozičního vzdoru s chronickou podrážděností a hněvem, s typickými prosociálními emocemi",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.3"
+    ]
+  },
+  {
+    "id": "6C90.0Z",
+    "kod": "6C90.0Z",
+    "nazev_cz": "Porucha opozičního vzdoru s chronickou podrážděností a hněvem, neurčená",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.3"
+    ]
+  },
+  {
+    "id": "6C90.1",
+    "kod": "6C90.1",
+    "nazev_cz": "Porucha opozičního vzdoru bez chronické podrážděnosti a hněvu",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.3"
+    ]
+  },
+  {
+    "id": "6C90.10",
+    "kod": "6C90.10",
+    "nazev_cz": "Porucha opozičního vzdoru bez chronické podrážděnosti a hněvu, s omezenými prosociálními emocemi",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.3"
+    ]
+  },
+  {
+    "id": "6C90.11",
+    "kod": "6C90.11",
+    "nazev_cz": "Porucha opozičního vzdoru bez chronické podrážděnosti a hněvu, s typickými prosociálními emocemi",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.3"
+    ]
+  },
+  {
+    "id": "6C90.1Z",
+    "kod": "6C90.1Z",
+    "nazev_cz": "Porucha opozičního vzdoru bez chronické podrážděnosti a hněvu, neurčená",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.3"
+    ]
+  },
+  {
+    "id": "6C90.Z",
+    "kod": "6C90.Z",
+    "nazev_cz": "Porucha opozičního vzdoru, neurčená",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.3"
+    ]
+  },
+  {
+    "id": "6C91",
+    "kod": "6C91",
+    "nazev_cz": "Disociální porucha",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": "Opakující se a přetrvávající vzorec chování (≥12 měsíců) při němž jsou porušována základní práva ostatních nebo hlavní věkově přiměřené normy, pravidla nebo zákony.",
+    "diagnosticka_kriteria": [
+      "Opakující se a přetrvávající vzorec chování porušující práva ostatních nebo společenské normy",
+      "Zahrnuje: agresi vůči lidem nebo zvířatům, ničení majetku, podvod nebo krádeže, závažné porušování pravidel",
+      "Vzorec přetrvává nejméně 12 měsíců",
+      "Způsobuje výrazné funkční postižení"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91"
+    ]
+  },
+  {
+    "id": "6C91.0",
+    "kod": "6C91.0",
+    "nazev_cz": "Disociální porucha nastupující v dětství",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.0"
+    ]
+  },
+  {
+    "id": "6C91.00",
+    "kod": "6C91.00",
+    "nazev_cz": "Disociální porucha nastupující v dětství, s omezenými prosociálními emocemi",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.0"
+    ]
+  },
+  {
+    "id": "6C91.01",
+    "kod": "6C91.01",
+    "nazev_cz": "Disociální porucha nastupující v dětství, s typickými prosociálními emocemi",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.0"
+    ]
+  },
+  {
+    "id": "6C91.0Z",
+    "kod": "6C91.0Z",
+    "nazev_cz": "Disociální porucha nastupující v dětství, neurčená",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.0"
+    ]
+  },
+  {
+    "id": "6C91.1",
+    "kod": "6C91.1",
+    "nazev_cz": "Disociální porucha nastupující v dospívání",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.1"
+    ]
+  },
+  {
+    "id": "6C91.10",
+    "kod": "6C91.10",
+    "nazev_cz": "Disociální porucha nastupující v dospívání, s omezenými prosociálními emocemi",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.1"
+    ]
+  },
+  {
+    "id": "6C91.11",
+    "kod": "6C91.11",
+    "nazev_cz": "Disociální porucha nastupující v dospívání, s typickými prosociálními emocemi",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.1"
+    ]
+  },
+  {
+    "id": "6C91.1Y",
+    "kod": "6C91.1Y",
+    "nazev_cz": "Disociální porucha nastupující v dospívání, jiné určené",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.1"
+    ]
+  },
+  {
+    "id": "6C91.Z",
+    "kod": "6C91.Z",
+    "nazev_cz": "Disociální porucha, neurčená",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.9"
+    ]
+  },
+  {
+    "id": "6C9Y",
+    "kod": "6C9Y",
+    "nazev_cz": "Rušivé chování nebo disociální poruchy, jiné určené",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.8"
+    ]
+  },
+  {
+    "id": "6C9Z",
+    "kod": "6C9Z",
+    "nazev_cz": "Rušivé chování nebo disociální poruchy, neurčené",
+    "kategorie": "Rušivé chování nebo disociální poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F91.9"
+    ]
+  },
+  {
+    "id": "6D10",
+    "kod": "6D10",
+    "nazev_cz": "Porucha osobnosti",
+    "kategorie": "Poruchy osobnosti a související rysy",
+    "podkategorie": null,
+    "popis": "Trvalá porucha projevující se problémy ve fungování vlastního já a/nebo mezilidskými dysfunkcemi; přetrvává nejméně 2 roky; maladaptivní vzorce v různých situacích.",
+    "diagnosticka_kriteria": [
+      "Trvalá porucha ve fungování vlastního já (identita, sebeúcta, sebeurčení) a/nebo mezilidskými dysfunkcemi",
+      "Porucha přetrvává nejméně 2 roky a je patrná v širokém spektru situací",
+      "Projevuje se maladaptivními vzorci kognice, emocionálního prožívání a chování",
+      "Způsobuje výraznou tíseň nebo funkční postižení",
+      "Není způsobena jiným duševním onemocněním ani účinky látky"
+    ],
+    "priznaky": [],
+    "prubeh": "Trvalý vzorec od adolescence nebo ranné dospělosti.",
+    "onset": "Typicky do 25 let.",
+    "mapovani_mkn10": [
+      "F60"
+    ]
+  },
+  {
+    "id": "6D10.0",
+    "kod": "6D10.0",
+    "nazev_cz": "Lehká forma poruchy osobnosti",
+    "kategorie": "Poruchy osobnosti a související rysy",
+    "podkategorie": null,
+    "popis": "Problémy ve fungování vlastního já nebo mezilidské dysfunkce přítomny, ale obecné kapacity fungování zachovány.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F60.9"
+    ]
+  },
+  {
+    "id": "6D10.1",
+    "kod": "6D10.1",
+    "nazev_cz": "Středně těžká porucha osobnosti",
+    "kategorie": "Poruchy osobnosti a související rysy",
+    "podkategorie": null,
+    "popis": "Výrazné problémy ve fungování vlastního já nebo mezilidské dysfunkce v více oblastech.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F60.9"
+    ]
+  },
+  {
+    "id": "6D10.2",
+    "kod": "6D10.2",
+    "nazev_cz": "Těžká porucha osobnosti",
+    "kategorie": "Poruchy osobnosti a související rysy",
+    "podkategorie": null,
+    "popis": "Závažné a rozsáhlé problémy ve fungování vlastního já nebo mezilidské dysfunkce.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F60.9"
+    ]
+  },
+  {
+    "id": "6D10.Z",
+    "kod": "6D10.Z",
+    "nazev_cz": "Porucha osobnosti, neurčená tíže",
+    "kategorie": "Poruchy osobnosti a související rysy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F60.9"
+    ]
+  },
+  {
+    "id": "6D11",
+    "kod": "6D11",
+    "nazev_cz": "Výrazné osobnostní rysy nebo vzorce",
+    "kategorie": "Poruchy osobnosti a související rysy",
+    "podkategorie": null,
+    "popis": "Osobnostní rysy nebo vzorce, které jsou klinicky pozoruhodné, ale nedosahují plných kritérií pro poruchu osobnosti.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F60.8"
+    ]
+  },
+  {
+    "id": "6D11.0",
+    "kod": "6D11.0",
+    "nazev_cz": "Negativní afektivita u poruch osobnosti nebo osobnostních obtížích",
+    "kategorie": "Poruchy osobnosti a související rysy",
+    "podkategorie": null,
+    "popis": "Tendence prožívat širokou škálu negativních emocí nepřiměřenou situaci; zahrnuje emocionální nestabilitu, úzkostnost, separační úzkost, nízké sebevědomí.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F60.3"
+    ]
+  },
+  {
+    "id": "6D11.1",
+    "kod": "6D11.1",
+    "nazev_cz": "Odtažitost u poruchy osobnosti nebo osobnostních obtíží",
+    "kategorie": "Poruchy osobnosti a související rysy",
+    "podkategorie": null,
+    "popis": "Tendence udržovat si sociální distanci; zahrnuje sociální odtažitost, omezené emocionální prožívání a vyjadřování.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F60.1"
+    ]
+  },
+  {
+    "id": "6D11.2",
+    "kod": "6D11.2",
+    "nazev_cz": "Disocialita u poruchy osobnosti nebo osobnostních obtíží",
+    "kategorie": "Poruchy osobnosti a související rysy",
+    "podkategorie": null,
+    "popis": "Nezájem o práva a pocity druhých; zahrnuje bezohlednost, agresi, neschopnost empatie.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F60.2"
+    ]
+  },
+  {
+    "id": "6D11.3",
+    "kod": "6D11.3",
+    "nazev_cz": "Dezinhibice u poruchy osobnosti nebo osobnostních obtíží",
+    "kategorie": "Poruchy osobnosti a související rysy",
+    "podkategorie": null,
+    "popis": "Tendence k impulzivnímu jednání bez reflexe; zahrnuje impulzivitu, lehkomyslnost, neschopnost plánovat.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F60.3"
+    ]
+  },
+  {
+    "id": "6D11.4",
+    "kod": "6D11.4",
+    "nazev_cz": "Anankasmus u poruchy osobnosti nebo osobnostních obtíží",
+    "kategorie": "Poruchy osobnosti a související rysy",
+    "podkategorie": null,
+    "popis": "Úzce zaměřené perfekcionistické a rigidní chování; zahrnuje rigidní perfekcionismus, kontrolu, lpění na pravidlech, neflexibilitu.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F60.5"
+    ]
+  },
+  {
+    "id": "6D11.5",
+    "kod": "6D11.5",
+    "nazev_cz": "Hraniční vzorec",
+    "kategorie": "Poruchy osobnosti a související rysy",
+    "podkategorie": null,
+    "popis": "Vzorec zahrnující intenzivní nestabilní vztahy, sebepoškozenicí nebo suicidální chování, nestabilní sebeobraz, chronické pocity prázdnoty, intenzivní emocionální dysregulaci.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F60.31"
+    ]
+  },
+  {
+    "id": "6D1Y",
+    "kod": "6D1Y",
+    "nazev_cz": "Poruchy osobnosti nebo příbuzné rysy, jiné určené",
+    "kategorie": "Poruchy osobnosti a související rysy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F60.8"
+    ]
+  },
+  {
+    "id": "6D1Z",
+    "kod": "6D1Z",
+    "nazev_cz": "Poruchy osobnosti nebo příbuzné rysy, neurčené",
+    "kategorie": "Poruchy osobnosti a související rysy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F60.9"
+    ]
+  },
+  {
+    "id": "6D30",
+    "kod": "6D30",
+    "nazev_cz": "Exhibicionistická porucha",
+    "kategorie": "Parafilní poruchy",
+    "podkategorie": null,
+    "popis": "Přetrvávající a intenzivní vzorec sexuálního vzrušení z odhalování genitálií nebo pohlavního styku nesouhlasícím jedincům; způsobuje tíseň nebo realizovaný jednáním.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F65.2"
+    ]
+  },
+  {
+    "id": "6D31",
+    "kod": "6D31",
+    "nazev_cz": "Voyeristická porucha",
+    "kategorie": "Parafilní poruchy",
+    "podkategorie": null,
+    "popis": "Přetrvávající a intenzivní sexuální vzrušení z pozorování jiné osoby svlékající se nebo zapojené do sexuální aktivity bez jejího vědomí.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F65.3"
+    ]
+  },
+  {
+    "id": "6D32",
+    "kod": "6D32",
+    "nazev_cz": "Pedofilní porucha",
+    "kategorie": "Parafilní poruchy",
+    "podkategorie": null,
+    "popis": "Přetrvávající, intenzivní a opakující se sexuální vzrušení zaměřené na prepubertální děti; způsobuje tíseň nebo je realizované.",
+    "diagnosticka_kriteria": [
+      "Přetrvávající, intenzivní a opakující se sexuální vzrušení zaměřené na prepubertální děti",
+      "Způsobuje klinicky závažnou tíseň nebo je realizované nebo je ohroženy bezpečnost dítěte",
+      "Jedinec je ve věku ≥16 let a nejméně 5 let starší než dítě"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F65.4"
+    ]
+  },
+  {
+    "id": "6D33",
+    "kod": "6D33",
+    "nazev_cz": "Porucha sexuálního sadismu",
+    "kategorie": "Parafilní poruchy",
+    "podkategorie": null,
+    "popis": "Přetrvávající, intenzivní a opakující se vzorec sexuálního vzrušení z působení fyzické nebo psychické bolesti, ponižování nebo utrpení nesouhlasícímu jedinci.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F65.5"
+    ]
+  },
+  {
+    "id": "6D34",
+    "kod": "6D34",
+    "nazev_cz": "Frotteuristická porucha",
+    "kategorie": "Parafilní poruchy",
+    "podkategorie": null,
+    "popis": "Přetrvávající, intenzivní a opakující se vzorec sexuálního vzrušení z dotýkání nebo tření se o nesouhlasícího jedince.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F65.8"
+    ]
+  },
+  {
+    "id": "6D35",
+    "kod": "6D35",
+    "nazev_cz": "Jiné parafilní poruchy s účastí nesouhlasících osob",
+    "kategorie": "Parafilní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F65.8"
+    ]
+  },
+  {
+    "id": "6D36",
+    "kod": "6D36",
+    "nazev_cz": "Parafilní porucha s chováním o samotě nebo s účastí souhlasících osob",
+    "kategorie": "Parafilní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F65.6",
+      "F65.8"
+    ]
+  },
+  {
+    "id": "6D3Z",
+    "kod": "6D3Z",
+    "nazev_cz": "Parafilní poruchy, neurčené",
+    "kategorie": "Parafilní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F65.9"
+    ]
+  },
+  {
+    "id": "6D50",
+    "kod": "6D50",
+    "nazev_cz": "Faktitivní porucha zaměřená na sebe sama",
+    "kategorie": "Faktitivní porucha",
+    "podkategorie": null,
+    "popis": "Záměrné předstírání, napodobování nebo vyvolávání fyzických nebo psychologických příznaků nebo poranění bez zjevného vnějšího motivu (ne pro finanční zisk).",
+    "diagnosticka_kriteria": [
+      "Záměrné předstírání nebo způsobování fyzických nebo psychologických příznaků",
+      "Chování není motivováno jinými vnějšími odměnami (finanční zisk, vyhnutí se závazku)",
+      "Chování přetrvává i po konfrontaci"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F68.1"
+    ]
+  },
+  {
+    "id": "6D51",
+    "kod": "6D51",
+    "nazev_cz": "Faktitivní porucha zaměřená na druhou osobu",
+    "kategorie": "Faktitivní porucha",
+    "podkategorie": null,
+    "popis": "Záměrné předstírání, napodobování nebo vyvolávání příznaků u jiné osoby (typicky dítě), nikoliv u sebe samotného (Münchhausenův syndrom by proxy).",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F68.1"
+    ]
+  },
+  {
+    "id": "6D5Z",
+    "kod": "6D5Z",
+    "nazev_cz": "Faktitivní porucha, neurčená",
+    "kategorie": "Faktitivní porucha",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F68.1"
+    ]
+  },
+  {
+    "id": "6D70",
+    "kod": "6D70",
+    "nazev_cz": "Delirium",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": "Porucha pozornosti, orientace a vědomí rozvíjející se v krátké době (hodiny až dny); příznaky typicky kolísají v průběhu dne.",
+    "diagnosticka_kriteria": [
+      "Porucha pozornosti, orientace a vědomí rozvíjející se v krátké době",
+      "Příznaky typicky kolísají v průběhu dne",
+      "Může zahrnovat kognitivní deficity, behaviorální nebo emocionální poruchy, narušení cyklu spánku a bdění",
+      "Příčina: jiné onemocnění, psychoaktivní látky/léky nebo kombinace"
+    ],
+    "priznaky": [
+      "Zmatenost",
+      "Dezorientace",
+      "Kolísání vědomí",
+      "Halucinace (typicky zrakové)",
+      "Neklid nebo ospalost",
+      "Poruchy spánku"
+    ],
+    "prubeh": "Typicky reverzibilní při léčbě příčiny; trvá dny až týdny.",
+    "onset": null,
+    "mapovani_mkn10": [
+      "F05"
+    ]
+  },
+  {
+    "id": "6D70.0",
+    "kod": "6D70.0",
+    "nazev_cz": "Delirium způsobené onemocněním zařazeným jinde",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F05.0",
+      "F05.1"
+    ]
+  },
+  {
+    "id": "6D70.1",
+    "kod": "6D70.1",
+    "nazev_cz": "Delirium způsobené psychoaktivními látkami včetně léků",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F10.4"
+    ]
+  },
+  {
+    "id": "6D70.2",
+    "kod": "6D70.2",
+    "nazev_cz": "Delirium způsobené vícero etiologickými faktory",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F05.8"
+    ]
+  },
+  {
+    "id": "6D70.Y",
+    "kod": "6D70.Y",
+    "nazev_cz": "Delirium, jiná určená příčina",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F05.8"
+    ]
+  },
+  {
+    "id": "6D70.Z",
+    "kod": "6D70.Z",
+    "nazev_cz": "Delirium, neurčená nebo neznámá příčina",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F05.9"
+    ]
+  },
+  {
+    "id": "6D71",
+    "kod": "6D71",
+    "nazev_cz": "Mírná neurokognitivní porucha",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": "Mírný pokles kognitivního výkonu z předchozí úrovně; každodenní aktivity zachovány, ale mohou vyžadovat větší úsilí.",
+    "diagnosticka_kriteria": [
+      "Mírný pokles kognitivního výkonu z předchozí úrovně (typicky 1–2 SD pod normou)",
+      "Každodenní aktivity jsou zachovány, ale mohou vyžadovat větší úsilí nebo kompenzační strategie",
+      "Příznaky nejsou způsobeny delirantním stavem ani jinou duševní poruchou"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.7"
+    ]
+  },
+  {
+    "id": "6D72",
+    "kod": "6D72",
+    "nazev_cz": "Amnestická porucha",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": "Výrazná porucha paměti bez jiného výrazného kognitivního postižení; obtíže s pořizováním, učením nebo uchováváním nových informací.",
+    "diagnosticka_kriteria": [
+      "Výrazná porucha paměti bez poruchy vědomí nebo deliria",
+      "Obtíže s pořizováním, učením nebo uchováváním nových informací; recentní paměť typicky více postižena",
+      "Bez jiného výrazného kognitivního postižení (diferenciace od demence)",
+      "Způsobuje výrazné funkční postižení"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F04"
+    ]
+  },
+  {
+    "id": "6D72.0",
+    "kod": "6D72.0",
+    "nazev_cz": "Amnestická porucha způsobená onemocněními zařazenými jinde",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F04"
+    ]
+  },
+  {
+    "id": "6D72.1",
+    "kod": "6D72.1",
+    "nazev_cz": "Amnestická porucha způsobená psychoaktivními látkami včetně léků",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F10.6"
+    ]
+  },
+  {
+    "id": "6D72.10",
+    "kod": "6D72.10",
+    "nazev_cz": "Amnestická porucha způsobená užíváním alkoholu",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F10.6"
+    ]
+  },
+  {
+    "id": "6D72.11",
+    "kod": "6D72.11",
+    "nazev_cz": "Amnestická porucha způsobená užíváním sedativ, hypnotik nebo anxiolytik",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F13.6"
+    ]
+  },
+  {
+    "id": "6D72.12",
+    "kod": "6D72.12",
+    "nazev_cz": "Amnestická porucha způsobená jinou určenou psychoaktivní látkou včetně léků",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.6"
+    ]
+  },
+  {
+    "id": "6D72.13",
+    "kod": "6D72.13",
+    "nazev_cz": "Amnestická porucha způsobená užíváním těkavých látek",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F18.6"
+    ]
+  },
+  {
+    "id": "6D72.Y",
+    "kod": "6D72.Y",
+    "nazev_cz": "Amnestická porucha, jiná určená příčina",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F04"
+    ]
+  },
+  {
+    "id": "6D72.Z",
+    "kod": "6D72.Z",
+    "nazev_cz": "Amnestická porucha, neznámá nebo neurčená příčina",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F04"
+    ]
+  },
+  {
+    "id": "6D80",
+    "kod": "6D80",
+    "nazev_cz": "Demence způsobená Alzheimerovou chorobou",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": "Primárně degenerativní demence s plíživým nástupem a postupnou progresí; typicky začíná poruchou paměti.",
+    "diagnosticka_kriteria": [
+      "Plíživý nástup; první stížností je typicky porucha paměti",
+      "Pomalý, ale trvalý pokles kognitivního výkonu z předchozí úrovně",
+      "Zhoršení v dalších kognitivních doménách (exekutivní funkce, jazyk, pozornost, visuopercepce)",
+      "Pozitivní genetické testování, rodinná anamnéza nebo zobrazovací metody podporují diagnózu"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F00"
+    ]
+  },
+  {
+    "id": "6D80.0",
+    "kod": "6D80.0",
+    "nazev_cz": "Demence způsobená Alzheimerovou chorobou, s časným nástupem",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F00.0"
+    ]
+  },
+  {
+    "id": "6D80.1",
+    "kod": "6D80.1",
+    "nazev_cz": "Demence způsobená Alzheimerovou chorobou, s pozdním nástupem",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F00.1"
+    ]
+  },
+  {
+    "id": "6D80.2",
+    "kod": "6D80.2",
+    "nazev_cz": "Demence způsobená Alzheimerovou chorobou, smíšený typ s cerebrovaskulárním onemocněním",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F00.2"
+    ]
+  },
+  {
+    "id": "6D80.3",
+    "kod": "6D80.3",
+    "nazev_cz": "Demence způsobená Alzheimerovou chorobou, smíšený typ s jinými nevaskulárními etiologiemi",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F00.2"
+    ]
+  },
+  {
+    "id": "6D80.Z",
+    "kod": "6D80.Z",
+    "nazev_cz": "Demence způsobená Alzheimerovou chorobou, s neznámým nebo neurčeným nástupem",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F00.9"
+    ]
+  },
+  {
+    "id": "6D81",
+    "kod": "6D81",
+    "nazev_cz": "Demence způsobená cerebrovaskulárním onemocněním",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": "Demence způsobená ischemickým nebo hemoragickým poškozením mozkového parenchymu; nástup kognitivních deficitů časově spojen s cerebrovaskulárními příhodami.",
+    "diagnosticka_kriteria": [
+      "Nástup kognitivních deficitů časově spojen s cerebrovaskulárními příhodami",
+      "Kognitivní pokles typicky nejzřetelnější v rychlosti zpracování informací, pozornosti a frontálně-exekutivní oblasti",
+      "Průkaz cerebrovaskulárního onemocnění z anamnézy, vyšetření a neuroimagingu"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F01"
+    ]
+  },
+  {
+    "id": "6D82",
+    "kod": "6D82",
+    "nazev_cz": "Demence způsobená onemocněním Lewyho tělísek",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": "Demence s fluktuující kognicí, zrakovými halucinacemi, parkinsonismem a poruchami spánku ve fázi REM.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F02.8"
+    ]
+  },
+  {
+    "id": "6D83",
+    "kod": "6D83",
+    "nazev_cz": "Frontotemporální demence",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": "Progresivní demence s frontální nebo temporální lobární degenerací; dominují změny osobnosti a chování nebo jazykové poruchy.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F02.0"
+    ]
+  },
+  {
+    "id": "6D84",
+    "kod": "6D84",
+    "nazev_cz": "Demence způsobená psychoaktivními látkami včetně léků",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F10.7",
+      "F19.7"
+    ]
+  },
+  {
+    "id": "6D84.0",
+    "kod": "6D84.0",
+    "nazev_cz": "Demence způsobená užíváním alkoholu",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F10.7"
+    ]
+  },
+  {
+    "id": "6D84.1",
+    "kod": "6D84.1",
+    "nazev_cz": "Demence způsobená užíváním sedativ, hypnotik nebo anxiolytik",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F13.7"
+    ]
+  },
+  {
+    "id": "6D84.2",
+    "kod": "6D84.2",
+    "nazev_cz": "Demence způsobená používáním těkavých látek",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F18.7"
+    ]
+  },
+  {
+    "id": "6D84.Y",
+    "kod": "6D84.Y",
+    "nazev_cz": "Demence způsobená jinými určenými psychoaktivními látkami",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F19.7"
+    ]
+  },
+  {
+    "id": "6D85",
+    "kod": "6D85",
+    "nazev_cz": "Demence způsobená onemocněními zařazenými jinde",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F02"
+    ]
+  },
+  {
+    "id": "6D85.0",
+    "kod": "6D85.0",
+    "nazev_cz": "Demence způsobená Parkinsonovou chorobou",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F02.3"
+    ]
+  },
+  {
+    "id": "6D85.1",
+    "kod": "6D85.1",
+    "nazev_cz": "Demence způsobená Huntingtonovou chorobou",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F02.2"
+    ]
+  },
+  {
+    "id": "6D85.2",
+    "kod": "6D85.2",
+    "nazev_cz": "Demence způsobená expozicí těžkým kovům a dalším toxinům",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F02.8"
+    ]
+  },
+  {
+    "id": "6D85.3",
+    "kod": "6D85.3",
+    "nazev_cz": "Demence způsobená virem lidské imunodeficience",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F02.4"
+    ]
+  },
+  {
+    "id": "6D85.4",
+    "kod": "6D85.4",
+    "nazev_cz": "Demence způsobená roztroušenou sklerózou",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F02.8"
+    ]
+  },
+  {
+    "id": "6D85.5",
+    "kod": "6D85.5",
+    "nazev_cz": "Demence způsobená prionovým onemocněním",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F02.1"
+    ]
+  },
+  {
+    "id": "6D85.6",
+    "kod": "6D85.6",
+    "nazev_cz": "Demence způsobená normotenzním hydrocefalem",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F02.8"
+    ]
+  },
+  {
+    "id": "6D85.7",
+    "kod": "6D85.7",
+    "nazev_cz": "Demence způsobená poraněním hlavy",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F02.8"
+    ]
+  },
+  {
+    "id": "6D85.8",
+    "kod": "6D85.8",
+    "nazev_cz": "Demence způsobená pelagrou",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F02.8"
+    ]
+  },
+  {
+    "id": "6D85.9",
+    "kod": "6D85.9",
+    "nazev_cz": "Demence způsobená Downovým syndromem",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F02.8"
+    ]
+  },
+  {
+    "id": "6D85.Y",
+    "kod": "6D85.Y",
+    "nazev_cz": "Demence způsobená jinými určenými onemocněními zařazenými jinde",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F02.8"
+    ]
+  },
+  {
+    "id": "6D86",
+    "kod": "6D86",
+    "nazev_cz": "Demence s poruchami chování nebo psychickými poruchami",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06"
+    ]
+  },
+  {
+    "id": "6D86.0",
+    "kod": "6D86.0",
+    "nazev_cz": "Demence s psychotickými příznaky",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.2"
+    ]
+  },
+  {
+    "id": "6D86.1",
+    "kod": "6D86.1",
+    "nazev_cz": "Demence s příznaky poruchy nálady",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.3"
+    ]
+  },
+  {
+    "id": "6D86.2",
+    "kod": "6D86.2",
+    "nazev_cz": "Demence s příznaky úzkosti",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.4"
+    ]
+  },
+  {
+    "id": "6D86.3",
+    "kod": "6D86.3",
+    "nazev_cz": "Demence s projevem apatie",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.6"
+    ]
+  },
+  {
+    "id": "6D86.4",
+    "kod": "6D86.4",
+    "nazev_cz": "Demence s projevy agitovanosti nebo agrese",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F07"
+    ]
+  },
+  {
+    "id": "6D86.5",
+    "kod": "6D86.5",
+    "nazev_cz": "Demence s projevy dezinhibice",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F07.0"
+    ]
+  },
+  {
+    "id": "6D86.6",
+    "kod": "6D86.6",
+    "nazev_cz": "Demence s projevy toulavosti",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F07"
+    ]
+  },
+  {
+    "id": "6D86.Y",
+    "kod": "6D86.Y",
+    "nazev_cz": "Demence s poruchami chování nebo psychickými poruchami, jiné určené",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.8"
+    ]
+  },
+  {
+    "id": "6D86.Z",
+    "kod": "6D86.Z",
+    "nazev_cz": "Demence s poruchami chování nebo psychickými poruchami, neurčené",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.9"
+    ]
+  },
+  {
+    "id": "6D8Y",
+    "kod": "6D8Y",
+    "nazev_cz": "Demence, jiná určená příčina",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F02.8"
+    ]
+  },
+  {
+    "id": "6D8Z",
+    "kod": "6D8Z",
+    "nazev_cz": "Demence, neznámá nebo neurčená příčina",
+    "kategorie": "Neurokognitivní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F03"
+    ]
+  },
+  {
+    "id": "6E60",
+    "kod": "6E60",
+    "nazev_cz": "Sekundární neurovývojový syndrom",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06"
+    ]
+  },
+  {
+    "id": "6E60.0",
+    "kod": "6E60.0",
+    "nazev_cz": "Sekundární řečový nebo jazykový syndrom",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06"
+    ]
+  },
+  {
+    "id": "6E60.Y",
+    "kod": "6E60.Y",
+    "nazev_cz": "Sekundární neurovývojový syndrom, jiný určený",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.8"
+    ]
+  },
+  {
+    "id": "6E60.Z",
+    "kod": "6E60.Z",
+    "nazev_cz": "Sekundární neurovývojový syndrom, neurčený",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.9"
+    ]
+  },
+  {
+    "id": "6E61",
+    "kod": "6E61",
+    "nazev_cz": "Sekundární psychotický syndrom",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.2"
+    ]
+  },
+  {
+    "id": "6E61.0",
+    "kod": "6E61.0",
+    "nazev_cz": "Sekundární psychotický syndrom s halucinacemi",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.0"
+    ]
+  },
+  {
+    "id": "6E61.1",
+    "kod": "6E61.1",
+    "nazev_cz": "Sekundární psychotický syndrom s bludy",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.2"
+    ]
+  },
+  {
+    "id": "6E61.2",
+    "kod": "6E61.2",
+    "nazev_cz": "Sekundární psychotický syndrom s halucinacemi a bludy",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.2"
+    ]
+  },
+  {
+    "id": "6E61.3",
+    "kod": "6E61.3",
+    "nazev_cz": "Sekundární psychotický syndrom s neurčenými příznaky",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.9"
+    ]
+  },
+  {
+    "id": "6E62",
+    "kod": "6E62",
+    "nazev_cz": "Sekundární porucha nálady",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.3"
+    ]
+  },
+  {
+    "id": "6E62.0",
+    "kod": "6E62.0",
+    "nazev_cz": "Syndrom symptomatické poruchy nálady, s příznaky deprese",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.32"
+    ]
+  },
+  {
+    "id": "6E62.1",
+    "kod": "6E62.1",
+    "nazev_cz": "Syndrom symptomatické poruchy nálady, s příznaky mánie",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.30"
+    ]
+  },
+  {
+    "id": "6E62.2",
+    "kod": "6E62.2",
+    "nazev_cz": "Syndrom symptomatické poruchy nálady, se smíšenými příznaky",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.33"
+    ]
+  },
+  {
+    "id": "6E62.3",
+    "kod": "6E62.3",
+    "nazev_cz": "Syndrom symptomatické poruchy nálady, s blíže neurčenými příznaky",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.3"
+    ]
+  },
+  {
+    "id": "6E63",
+    "kod": "6E63",
+    "nazev_cz": "Syndrom symptomatické úzkosti",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.4"
+    ]
+  },
+  {
+    "id": "6E64",
+    "kod": "6E64",
+    "nazev_cz": "Sekundární obsedantně-kompulzivní nebo příbuzný syndrom",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.8"
+    ]
+  },
+  {
+    "id": "6E65",
+    "kod": "6E65",
+    "nazev_cz": "Sekundární disociativní syndrom",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.5"
+    ]
+  },
+  {
+    "id": "6E66",
+    "kod": "6E66",
+    "nazev_cz": "Syndrom sekundární kontroly impulzů",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F07"
+    ]
+  },
+  {
+    "id": "6E67",
+    "kod": "6E67",
+    "nazev_cz": "Sekundární neurokognitivní syndrom",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.7"
+    ]
+  },
+  {
+    "id": "6E68",
+    "kod": "6E68",
+    "nazev_cz": "Sekundární změna osobnosti",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F07.0"
+    ]
+  },
+  {
+    "id": "6E69",
+    "kod": "6E69",
+    "nazev_cz": "Syndrom symptomatické katatonie",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.1"
+    ]
+  },
+  {
+    "id": "6E6Y",
+    "kod": "6E6Y",
+    "nazev_cz": "Sekundární psychický nebo behaviorální syndrom, jiný určený",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.8"
+    ]
+  },
+  {
+    "id": "6E6Z",
+    "kod": "6E6Z",
+    "nazev_cz": "Sekundární psychický nebo behaviorální syndrom, neurčený",
+    "kategorie": "Sekundární duševní nebo behaviorální syndromy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F06.9"
+    ]
+  },
+  {
+    "id": "6E20",
+    "kod": "6E20",
+    "nazev_cz": "Duševní poruchy spojené s těhotenstvím, porodem nebo šestinedělím, bez psychotických příznaků",
+    "kategorie": "Ostatní duševní, behaviorální nebo neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": "Duševní nebo behaviorální poruchy s nástupem v průběhu těhotenství nebo do 6 týdnů po porodu; bez psychotických příznaků.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F53.0"
+    ]
+  },
+  {
+    "id": "6E21",
+    "kod": "6E21",
+    "nazev_cz": "Duševní nebo behaviorální poruchy spojené s těhotenstvím, porodem nebo šestinedělím, s psychotickými příznaky",
+    "kategorie": "Ostatní duševní, behaviorální nebo neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": "Závažné duševní poruchy s psychotickými příznaky spojené s těhotenstvím nebo šestinedělím.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F53.1"
+    ]
+  },
+  {
+    "id": "6E2Z",
+    "kod": "6E2Z",
+    "nazev_cz": "Duševní poruchy spojené s těhotenstvím, porodem nebo šestinedělím, neurčené",
+    "kategorie": "Ostatní duševní, behaviorální nebo neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F53.9"
+    ]
+  },
+  {
+    "id": "6E40",
+    "kod": "6E40",
+    "nazev_cz": "Psychologické faktory nebo faktory chování ovlivňující poruchy nebo onemocnění zařazené jinde",
+    "kategorie": "Ostatní duševní, behaviorální nebo neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": "Psychologické nebo behaviorální faktory, které negativně ovlivňují průběh nebo léčbu jiného onemocnění.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F54"
+    ]
+  },
+  {
+    "id": "6E40.0",
+    "kod": "6E40.0",
+    "nazev_cz": "Duševní porucha ovlivňující poruchy nebo onemocnění zařazené jinde",
+    "kategorie": "Ostatní duševní, behaviorální nebo neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F54"
+    ]
+  },
+  {
+    "id": "6E40.1",
+    "kod": "6E40.1",
+    "nazev_cz": "Psychologické příznaky ovlivňující poruchy nebo onemocnění zařazené jinde",
+    "kategorie": "Ostatní duševní, behaviorální nebo neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F54"
+    ]
+  },
+  {
+    "id": "6E40.2",
+    "kod": "6E40.2",
+    "nazev_cz": "Osobnostní rysy nebo styl zvládání situací ovlivňující poruchy nebo onemocnění zařazené jinde",
+    "kategorie": "Ostatní duševní, behaviorální nebo neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F54"
+    ]
+  },
+  {
+    "id": "6E40.3",
+    "kod": "6E40.3",
+    "nazev_cz": "Maladaptivní chování ovlivňující poruchy nebo onemocnění zařazené jinde",
+    "kategorie": "Ostatní duševní, behaviorální nebo neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F54"
+    ]
+  },
+  {
+    "id": "6E40.4",
+    "kod": "6E40.4",
+    "nazev_cz": "Fyziologická reakce související se stresem ovlivňující poruchy nebo onemocnění zařazené jinde",
+    "kategorie": "Ostatní duševní, behaviorální nebo neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F54"
+    ]
+  },
+  {
+    "id": "6E40.Y",
+    "kod": "6E40.Y",
+    "nazev_cz": "Psychologické faktory nebo faktory chování ovlivňující onemocnění, jiné určené",
+    "kategorie": "Ostatní duševní, behaviorální nebo neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F54"
+    ]
+  },
+  {
+    "id": "6E40.Z",
+    "kod": "6E40.Z",
+    "nazev_cz": "Psychologické faktory nebo faktory chování ovlivňující onemocnění, neurčené",
+    "kategorie": "Ostatní duševní, behaviorální nebo neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F54"
+    ]
+  },
+  {
+    "id": "6E8Y",
+    "kod": "6E8Y",
+    "nazev_cz": "Duševní, behaviorální nebo neurovývojové poruchy, jiné určené",
+    "kategorie": "Ostatní duševní, behaviorální nebo neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F99"
+    ]
+  },
+  {
+    "id": "6E8Z",
+    "kod": "6E8Z",
+    "nazev_cz": "Duševní, behaviorální nebo neurovývojové poruchy, neurčené",
+    "kategorie": "Ostatní duševní, behaviorální nebo neurovývojové poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F99"
+    ]
+  }
+]

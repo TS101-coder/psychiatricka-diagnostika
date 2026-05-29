@@ -1,0 +1,1709 @@
+[
+  {
+    "id": "6B20",
+    "kod": "6B20",
+    "nazev_cz": "Obsedantně-kompulzivní porucha",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": "Přetrvávající obsese nebo kompulze nebo obojí; jsou časově náročné nebo způsobují výraznou tíseň.",
+    "diagnosticka_kriteria": [
+      "Přetrvávající obsese nebo kompulze nebo nejčastěji obojí",
+      "Obsese: opakující se vtíravé myšlenky, obrazy nebo impulzy asociované s úzkostí",
+      "Kompulze: opakující se chování nebo mentální akty v reakci na obsesi nebo podle přísných pravidel",
+      "Obsese a kompulze jsou časově náročné (>1 hod/den) nebo způsobují výraznou tíseň či funkční postižení"
+    ],
+    "priznaky": [
+      "Vtíravé myšlenky",
+      "Rituální chování",
+      "Mytí rukou",
+      "Kontrolování",
+      "Počítání",
+      "Potřeba symetrie"
+    ],
+    "prubeh": "Chronický, bez léčby postupně narůstající; s léčbou výrazné zlepšení.",
+    "onset": "Typicky v adolescenci nebo ranné dospělosti.",
+    "mapovani_mkn10": [
+      "F42"
+    ]
+  },
+  {
+    "id": "6B20.0",
+    "kod": "6B20.0",
+    "nazev_cz": "Obsedantně-kompulzivní porucha s dostatečným až dobrým náhledem",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F42.9"
+    ]
+  },
+  {
+    "id": "6B20.1",
+    "kod": "6B20.1",
+    "nazev_cz": "Obsedantně-kompulzivní porucha s nedostatečným až chybějícím náhledem",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F42.9"
+    ]
+  },
+  {
+    "id": "6B20.Z",
+    "kod": "6B20.Z",
+    "nazev_cz": "Obsedantně-kompulzivní porucha, neurčená",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F42.9"
+    ]
+  },
+  {
+    "id": "6B21",
+    "kod": "6B21",
+    "nazev_cz": "Tělesná dysmorfická porucha",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": "Přetrvávající zaobírání se jedním nebo více vnímanými defekty nebo vadami fyzického vzhledu, které jsou ostatními nepozorovatelné nebo se jeví jako nepatrné.",
+    "diagnosticka_kriteria": [
+      "Přetrvávající zaobírání se vnímanými defekty nebo vadami fyzického vzhledu nepozorovatelné ostatními",
+      "Opakované chování v reakci na toto zaobírání (kontrolování v zrcadle, maskování, vyhledávání ujištění)",
+      "Způsobuje výraznou tíseň nebo funkční postižení"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F45.2"
+    ]
+  },
+  {
+    "id": "6B21.0",
+    "kod": "6B21.0",
+    "nazev_cz": "Tělesná dysmorfická porucha s dostatečným až dobrým náhledem",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F45.2"
+    ]
+  },
+  {
+    "id": "6B21.1",
+    "kod": "6B21.1",
+    "nazev_cz": "Tělesná dysmorfická porucha s nedostatečným až chybějícím náhledem",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F45.2"
+    ]
+  },
+  {
+    "id": "6B21.Z",
+    "kod": "6B21.Z",
+    "nazev_cz": "Tělesná dysmorfická porucha, neurčená",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F45.2"
+    ]
+  },
+  {
+    "id": "6B22",
+    "kod": "6B22",
+    "nazev_cz": "Čichová vztahovačná porucha",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": "Přetrvávající přesvědčení o vydávání nepříjemného tělesného zápachu, který ostatní nevnímají; doprovázeno opakujícím se chováním v reakci na toto přesvědčení.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F45.8"
+    ]
+  },
+  {
+    "id": "6B22.0",
+    "kod": "6B22.0",
+    "nazev_cz": "Čichová vztahovačná porucha s dostatečným až dobrým náhledem",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6B22.1",
+    "kod": "6B22.1",
+    "nazev_cz": "Čichová vztahovačná porucha s nedostatečným až chybějícím náhledem",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6B22.Z",
+    "kod": "6B22.Z",
+    "nazev_cz": "Čichová vztahovačná porucha, neurčená",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6B23",
+    "kod": "6B23",
+    "nazev_cz": "Hypochondrická porucha",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": "Přetrvávající obavy nebo přesvědčení o přítomnosti závažného onemocnění; doprovázené nadměrným zdravotnickým vyhledáváním nebo vyhýbáním se.",
+    "diagnosticka_kriteria": [
+      "Přetrvávající obavy o přítomnost závažného, progresivního nebo život ohrožujícího onemocnění",
+      "Opakované zdravotnické vyhledávání nebo vyhýbání se lékařům ze strachu z diagnózy",
+      "Příznaky přetrvávají nejméně několik měsíců",
+      "Způsobují výraznou tíseň nebo funkční postižení"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F45.2"
+    ]
+  },
+  {
+    "id": "6B23.0",
+    "kod": "6B23.0",
+    "nazev_cz": "Hypochondrická porucha s dostatečným až dobrým náhledem",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F45.2"
+    ]
+  },
+  {
+    "id": "6B23.1",
+    "kod": "6B23.1",
+    "nazev_cz": "Hypochondrická porucha s nedostatečným až chybějícím náhledem",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F45.2"
+    ]
+  },
+  {
+    "id": "6B23.Z",
+    "kod": "6B23.Z",
+    "nazev_cz": "Hypochondrická porucha, neurčená",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F45.2"
+    ]
+  },
+  {
+    "id": "6B24",
+    "kod": "6B24",
+    "nazev_cz": "Porucha hromadění",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": "Přetrvávající obtíže s vyhazováním věcí bez ohledu na jejich skutečnou hodnotu; doprovázené vnímáním potřeby věci uchovat a tísní spojenou s jejich vyhazováním.",
+    "diagnosticka_kriteria": [
+      "Přetrvávající obtíže s vyhazováním věcí bez ohledu na jejich skutečnou hodnotu",
+      "Vnímání potřeby věci zachovat a tíseň spojenou s vyhazováním",
+      "Nahromadění věcí způsobuje přeplnění životního prostoru",
+      "Způsobuje výraznou tíseň nebo funkční postižení"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F63.8"
+    ]
+  },
+  {
+    "id": "6B24.0",
+    "kod": "6B24.0",
+    "nazev_cz": "Porucha hromadění s dostatečným až dobrým náhledem",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6B24.1",
+    "kod": "6B24.1",
+    "nazev_cz": "Porucha hromadění s nedostatečným až chybějícím náhledem",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6B24.Z",
+    "kod": "6B24.Z",
+    "nazev_cz": "Porucha hromadění, neurčená",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6B25",
+    "kod": "6B25",
+    "nazev_cz": "Repetitivní poruchy chování zaměřené na tělo",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": "Opakující se kompulzivní chování zaměřené na tělo způsobující tíseň nebo funkční postižení.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F63.8"
+    ]
+  },
+  {
+    "id": "6B25.0",
+    "kod": "6B25.0",
+    "nazev_cz": "Trichotilomanie",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": "Opakované vytrhávání vlastních vlasů s výsledným vypadáváním vlasů.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F63.3"
+    ]
+  },
+  {
+    "id": "6B25.1",
+    "kod": "6B25.1",
+    "nazev_cz": "Exkoriační porucha",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": "Opakované drbání nebo škrábání kůže způsobující kožní léze.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F63.8"
+    ]
+  },
+  {
+    "id": "6B25.Y",
+    "kod": "6B25.Y",
+    "nazev_cz": "Repetitivní poruchy chování zaměřené na tělo, jiné určené",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F63.8"
+    ]
+  },
+  {
+    "id": "6B25.Z",
+    "kod": "6B25.Z",
+    "nazev_cz": "Repetitivní poruchy chování zaměřené na tělo, neurčené",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6B2Y",
+    "kod": "6B2Y",
+    "nazev_cz": "Obsedantně-kompulzivní nebo příbuzné poruchy, jiné určené",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F42.8"
+    ]
+  },
+  {
+    "id": "6B2Z",
+    "kod": "6B2Z",
+    "nazev_cz": "Obsedantně-kompulzivní nebo příbuzné poruchy, neurčené",
+    "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F42.9"
+    ]
+  },
+  {
+    "id": "6B40",
+    "kod": "6B40",
+    "nazev_cz": "Posttraumatická stresová porucha",
+    "kategorie": "Poruchy specificky spojené se stresem",
+    "podkategorie": null,
+    "popis": "Porucha vznikající po expozici extrémně ohrožující nebo hrůzné události; charakterizovaná znovuprožíváním, vyhýbáním se a přetrvávajícím vnímáním zvýšeného ohrožení.",
+    "diagnosticka_kriteria": [
+      "Expozice extrémně ohrožující nebo hrůzné události",
+      "Znovuprožívání: živé vtíravé vzpomínky, flashbacky nebo noční můry s intenzivním strachem",
+      "Vyhýbání se: myšlenkám a vzpomínkám nebo situacím, které událost připomínají",
+      "Přetrvávající vnímání zvýšeného aktuálního ohrožení: hypervigilance nebo zvýšená startovací reakce",
+      "Příznaky přetrvávají nejméně několik týdnů a způsobují výrazné funkční postižení"
+    ],
+    "priznaky": [
+      "Flashbacky",
+      "Noční můry",
+      "Hypervigilance",
+      "Vyhýbání se spouštěčům",
+      "Emocionální otupělost",
+      "Poruchy spánku"
+    ],
+    "prubeh": "Chronický bez léčby; se správnou léčbou (EMDR, CBT) dobré výsledky.",
+    "onset": "Do 6 měsíců od traumatické události.",
+    "mapovani_mkn10": [
+      "F43.1"
+    ]
+  },
+  {
+    "id": "6B41",
+    "kod": "6B41",
+    "nazev_cz": "Komplexní posttraumatická stresová porucha",
+    "kategorie": "Poruchy specificky spojené se stresem",
+    "podkategorie": null,
+    "popis": "Rozvinutá po expozici extrémně ohrožující nebo hrůzné události nebo sérii takových událostí, typicky prolongovaných nebo opakujících se; zahrnuje příznaky PTSD + poruchy v afektivní regulaci, sebepojetí a vztazích.",
+    "diagnosticka_kriteria": [
+      "Splněna kritéria PTSD (6B40)",
+      "Těžké a přetrvávající problémy s regulací afektu",
+      "Přetrvávající negativní přesvědčení o sobě samém (pocity bezcennosti, selhání, studu)",
+      "Přetrvávající obtíže s udržením vztahů a pocitem blízkosti s druhými"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F43.1"
+    ]
+  },
+  {
+    "id": "6B42",
+    "kod": "6B42",
+    "nazev_cz": "Prodloužené truchlení",
+    "kategorie": "Poruchy specificky spojené se stresem",
+    "podkategorie": null,
+    "popis": "Perzistentní a pervazivní zármutek nad ztrátou osoby přesahující normativní kulturní a sociální normy; intenzivní touha po zemřelém a obtíže přijmout ztrátu přetrvávající >6 měsíců.",
+    "diagnosticka_kriteria": [
+      "Smrt blízké osoby",
+      "Přetrvávající a pervazivní zármutek přesahující normativní kulturní a sociální normy (>6 měsíců)",
+      "Intenzivní touha po zemřelém nebo přetrvávající zaobírání se zemřelým",
+      "Způsobuje výraznou tíseň nebo funkční postižení"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F43.8"
+    ]
+  },
+  {
+    "id": "6B43",
+    "kod": "6B43",
+    "nazev_cz": "Porucha přizpůsobení",
+    "kategorie": "Poruchy specificky spojené se stresem",
+    "podkategorie": null,
+    "popis": "Maladaptivní reakce na identifikovatelný psychosociální stresor nebo více stresorů, typicky do 1 měsíce; příznaky obvykle odezní do 6 měsíců.",
+    "diagnosticka_kriteria": [
+      "Maladaptivní reakce na identifikovatelný psychosociální stresor nebo více stresorů, typicky do 1 měsíce",
+      "Zaobírání se stresorem nebo selhání adaptace způsobující výrazné funkční postižení",
+      "Příznaky nejsou lépe vysvětleny jinou duševní poruchou",
+      "Příznaky obvykle odezní do 6 měsíců"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F43.2"
+    ]
+  },
+  {
+    "id": "6B44",
+    "kod": "6B44",
+    "nazev_cz": "Reaktivní porucha příchylnosti",
+    "kategorie": "Poruchy specificky spojené se stresem",
+    "podkategorie": null,
+    "popis": "Hrubě abnormální vzorce připoutání v raném dětství vznikající v kontextu hrubě nedostatečné péče; dítě se neuchyluje k pečovateli pro útěchu.",
+    "diagnosticka_kriteria": [
+      "Hrubě abnormální vzorce připoutání vzniklé v kontextu hrubě nedostatečné péče",
+      "Dítě se ani při dostupném pečovateli k němu neuchyluje pro útěchu nebo podporu",
+      "Zřídka projevuje chování hledající bezpečí u kohokoliv z dospělých",
+      "Lze diagnostikovat pouze u dětí; rysy se rozvíjejí do 5. roku věku"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F94.1"
+    ]
+  },
+  {
+    "id": "6B45",
+    "kod": "6B45",
+    "nazev_cz": "Dezinhibovaná porucha sociální angažovanosti",
+    "kategorie": "Poruchy specificky spojené se stresem",
+    "podkategorie": null,
+    "popis": "Vzorec chování, při němž dítě aktivně přistupuje k dospělým cizincům a projevuje dezinhibované sociální chování; vzniká v kontextu hrubě nedostatečné péče.",
+    "diagnosticka_kriteria": [
+      "Vzorec dezinhibovaného chování vůči neznámým dospělým",
+      "Vzniklý v kontextu hrubě nedostatečné péče (zanedbávání, institucionalizace)",
+      "Chybí přiměřená opatrnost vůči cizím lidem",
+      "Lze diagnostikovat pouze u dětí; rozvíjí se do 5. roku věku"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F94.2"
+    ]
+  },
+  {
+    "id": "6B4Y",
+    "kod": "6B4Y",
+    "nazev_cz": "Poruchy specificky spojené se stresem, jiné určené",
+    "kategorie": "Poruchy specificky spojené se stresem",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F43.8"
+    ]
+  },
+  {
+    "id": "6B4Z",
+    "kod": "6B4Z",
+    "nazev_cz": "Poruchy specificky spojené se stresem, neurčené",
+    "kategorie": "Poruchy specificky spojené se stresem",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F43.9"
+    ]
+  },
+  {
+    "id": "6B60",
+    "kod": "6B60",
+    "nazev_cz": "Disociativní porucha s neurologickými příznaky",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": "Disociativní příznaky neurologického charakteru (motorické, senzorické, kognitivní nebo záchvatové) způsobené psychologickými faktory; příznaky neodpovídají neurologickému onemocnění.",
+    "diagnosticka_kriteria": [
+      "Přítomnost neurologických příznaků (pohybové, senzorické, kognitivní nebo záchvatové)",
+      "Pozitivní klinické příznaky disociace",
+      "Příznaky nejsou vysvětleny neurologickým onemocněním",
+      "Způsobují výraznou tíseň nebo funkční postižení"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44"
+    ]
+  },
+  {
+    "id": "6B60.0",
+    "kod": "6B60.0",
+    "nazev_cz": "Disociativní porucha s neurologickými příznaky, s poruchou zraku",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.6"
+    ]
+  },
+  {
+    "id": "6B60.1",
+    "kod": "6B60.1",
+    "nazev_cz": "Disociativní porucha s neurologickými příznaky, s poruchou sluchu",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.6"
+    ]
+  },
+  {
+    "id": "6B60.2",
+    "kod": "6B60.2",
+    "nazev_cz": "Disociativní porucha s neurologickými příznaky, se závratěmi nebo motáním hlavy",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.6"
+    ]
+  },
+  {
+    "id": "6B60.3",
+    "kod": "6B60.3",
+    "nazev_cz": "Disociativní porucha s neurologickými příznaky, s jinými senzorickými poruchami",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.6"
+    ]
+  },
+  {
+    "id": "6B60.4",
+    "kod": "6B60.4",
+    "nazev_cz": "Disociativní porucha s neurologickými příznaky, s neepileptickými záchvaty",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.5"
+    ]
+  },
+  {
+    "id": "6B60.5",
+    "kod": "6B60.5",
+    "nazev_cz": "Disociativní porucha s neurologickými příznaky, s poruchou řeči",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.8"
+    ]
+  },
+  {
+    "id": "6B60.6",
+    "kod": "6B60.6",
+    "nazev_cz": "Disociativní porucha s neurologickými příznaky, s parézou nebo slabostí",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.4"
+    ]
+  },
+  {
+    "id": "6B60.7",
+    "kod": "6B60.7",
+    "nazev_cz": "Disociativní porucha s neurologickými příznaky, s poruchou chůze",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.4"
+    ]
+  },
+  {
+    "id": "6B60.8",
+    "kod": "6B60.8",
+    "nazev_cz": "Disociativní porucha s neurologickými příznaky, s poruchou pohybu",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.4"
+    ]
+  },
+  {
+    "id": "6B60.80",
+    "kod": "6B60.80",
+    "nazev_cz": "Disociativní porucha s neurologickými příznaky, s choreou",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6B60.81",
+    "kod": "6B60.81",
+    "nazev_cz": "Disociativní porucha s neurologickými příznaky, s myoklonem",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6B60.82",
+    "kod": "6B60.82",
+    "nazev_cz": "Disociativní porucha s neurologickými příznaky, s tremorem",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6B60.83",
+    "kod": "6B60.83",
+    "nazev_cz": "Disociativní porucha s neurologickými příznaky, s dystonií",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6B60.84",
+    "kod": "6B60.84",
+    "nazev_cz": "Disociativní neurologická symptomatická porucha, s křečemi obličeje",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6B60.85",
+    "kod": "6B60.85",
+    "nazev_cz": "Disociativní porucha s neurologickými příznaky, s parkinsonismem",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6B60.8Y",
+    "kod": "6B60.8Y",
+    "nazev_cz": "Disociativní porucha s neurologickými příznaky, s jinou určenou poruchou pohybu",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6B60.8Z",
+    "kod": "6B60.8Z",
+    "nazev_cz": "Disociativní porucha s neurologickými příznaky, s neurčenou poruchou pohybu",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": []
+  },
+  {
+    "id": "6B60.9",
+    "kod": "6B60.9",
+    "nazev_cz": "Disociativní porucha s neurologickými příznaky, s kognitivními příznaky",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.8"
+    ]
+  },
+  {
+    "id": "6B60.Y",
+    "kod": "6B60.Y",
+    "nazev_cz": "Disociativní porucha s neurologickými příznaky, jiná určená",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.8"
+    ]
+  },
+  {
+    "id": "6B60.Z",
+    "kod": "6B60.Z",
+    "nazev_cz": "Disociativní porucha s neurologickými příznaky, neurčená",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.9"
+    ]
+  },
+  {
+    "id": "6B61",
+    "kod": "6B61",
+    "nazev_cz": "Disociativní amnézie",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": "Neschopnost vybavit si důležité autobiografické vzpomínky, typicky z nedávno prožitých traumatických nebo stresujících událostí; zapomínání je nepřiměřené normální zapomnětlivosti.",
+    "diagnosticka_kriteria": [
+      "Neschopnost vybavit si důležité autobiografické vzpomínky, typicky traumatické nebo stresující",
+      "Zapomínání je nepřiměřené normální zapomnětlivosti",
+      "Příznaky nejsou způsobeny neurologickým onemocněním, látkou ani jinou disociativní poruchou",
+      "Způsobuje výrazné funkční postižení"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.0",
+      "F44.1"
+    ]
+  },
+  {
+    "id": "6B61.0",
+    "kod": "6B61.0",
+    "nazev_cz": "Disociativní amnézie s disociativní fugou",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.1"
+    ]
+  },
+  {
+    "id": "6B61.1",
+    "kod": "6B61.1",
+    "nazev_cz": "Disociativní amnézie bez disociativní fugy",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.0"
+    ]
+  },
+  {
+    "id": "6B61.Z",
+    "kod": "6B61.Z",
+    "nazev_cz": "Disociativní amnézie, neurčená",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.0"
+    ]
+  },
+  {
+    "id": "6B62",
+    "kod": "6B62",
+    "nazev_cz": "Porucha transu",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": "Epizody výrazného omezení nebo ztráty vědomí vlastní identity a plného uvědomění si okolí; opakující se nebo trvalé, mimovolní a nežádoucí.",
+    "diagnosticka_kriteria": [
+      "Epizody výrazného omezení nebo ztráty vědomí vlastní identity a plného uvědomění si okolí",
+      "Příznaky jsou opakující se nebo trvalé",
+      "Jsou nepodmíněné a nežádoucí (netvoří součást přijímaných rituálů nebo praxe)",
+      "Způsobují klinicky závažnou tíseň nebo funkční postižení"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.3"
+    ]
+  },
+  {
+    "id": "6B63",
+    "kod": "6B63",
+    "nazev_cz": "Porucha posedlosti a transu",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": "Epizody transu při nichž se v osobnosti projevuje cizí síla nebo bytost; mimovolní a nežádoucí mimo přijímané kulturní nebo náboženské kontexty.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.3"
+    ]
+  },
+  {
+    "id": "6B64",
+    "kod": "6B64",
+    "nazev_cz": "Disociativní porucha identity",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": "Narušení identity charakterizované dvěma nebo více odlišnými osobnostními stavy nebo identitami; doprovázené opakujícími se mezerami v paměti, chování a myšlení.",
+    "diagnosticka_kriteria": [
+      "Dvě nebo více odlišných osobnostních stavů nebo identit",
+      "Opakující se mezery v paměti každodenních událostí, osobních informací nebo traumatických událostí",
+      "Příznaky způsobují výraznou tíseň nebo funkční postižení",
+      "Nejsou součástí přijímaných kulturních nebo náboženských praktik"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.8"
+    ]
+  },
+  {
+    "id": "6B65",
+    "kod": "6B65",
+    "nazev_cz": "Částečná disociativní porucha identity",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": "Méně kompletní forma disociativní poruchy identity s méně výraznými přepínáními, přítomností jediné dominantní identity.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.8"
+    ]
+  },
+  {
+    "id": "6B66",
+    "kod": "6B66",
+    "nazev_cz": "Porucha depersonalizace a derealizace",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": "Přetrvávající nebo opakující se zážitky depersonalizace nebo derealizace; testování reality je zachováno.",
+    "diagnosticka_kriteria": [
+      "Přetrvávající nebo opakující se zážitky depersonalizace nebo derealizace",
+      "Depersonalizace: prožívání vlastního já jako cizího nebo neskutečného, odtažitost od vlastních myšlenek, pocitů nebo těla",
+      "Derealizace: prožívání okolí jako cizího, neskutečného, mlhavého nebo vizuálně zkresleného",
+      "Testování reality je zachováno (diferenciace od psychózy)",
+      "Způsobuje výraznou tíseň nebo funkční postižení"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F48.1"
+    ]
+  },
+  {
+    "id": "6B6Y",
+    "kod": "6B6Y",
+    "nazev_cz": "Disociativní poruchy, jiné určené",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.8"
+    ]
+  },
+  {
+    "id": "6B6Z",
+    "kod": "6B6Z",
+    "nazev_cz": "Disociativní poruchy, neurčené",
+    "kategorie": "Disociativní poruchy",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F44.9"
+    ]
+  },
+  {
+    "id": "6B80",
+    "kod": "6B80",
+    "nazev_cz": "Mentální anorexie",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": "Výrazně nízká tělesná hmotnost; přetrvávající chování zaměřené na zabránění obnovy hmotnosti; nízká hmotnost nebo tvar těla jsou ústřední pro hodnocení vlastní hodnoty.",
+    "diagnosticka_kriteria": [
+      "Výrazně nízká tělesná hmotnost (BMI < 18,5 kg/m² u dospělých nebo < 5. percentil u dětí)",
+      "Přetrvávající chování zaměřené na zabránění obnovy hmotnosti (omezování jídla, zvracení, laxativa, cvičení)",
+      "Nízká hmotnost nebo tvar těla jsou ústřední pro hodnocení vlastní hodnoty nebo nepřesně vnímány jako normální nebo nadměrné"
+    ],
+    "priznaky": [
+      "Výrazně nízká hmotnost",
+      "Strach z přibírání",
+      "Narušené vnímání těla",
+      "Omezování jídla",
+      "Amenorea (u žen)"
+    ],
+    "prubeh": "Chronický s různými průběhy; vysoká mortalita (5–10 %).",
+    "onset": "Typicky adolescence.",
+    "mapovani_mkn10": [
+      "F50.0",
+      "F50.1"
+    ]
+  },
+  {
+    "id": "6B80.0",
+    "kod": "6B80.0",
+    "nazev_cz": "Anorexia nervosa s významně nízkou tělesnou hmotností",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F50.0"
+    ]
+  },
+  {
+    "id": "6B80.00",
+    "kod": "6B80.00",
+    "nazev_cz": "Anorexia nervosa s významně nízkou tělesnou hmotností, restriktivní typ",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F50.0"
+    ]
+  },
+  {
+    "id": "6B80.01",
+    "kod": "6B80.01",
+    "nazev_cz": "Mentální anorexie s významně nízkou tělesnou hmotností, typ s přejídáním a vyprazdňováním",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F50.0"
+    ]
+  },
+  {
+    "id": "6B80.0Z",
+    "kod": "6B80.0Z",
+    "nazev_cz": "Anorexia nervosa s významně nízkou tělesnou hmotností, neurčená",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F50.0"
+    ]
+  },
+  {
+    "id": "6B80.1",
+    "kod": "6B80.1",
+    "nazev_cz": "Mentální anorexie s nebezpečně nízkou tělesnou hmotností",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": "BMI < 14,0 kg/m² u dospělých; spojeno s vysokým rizikem mortality.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F50.0"
+    ]
+  },
+  {
+    "id": "6B80.10",
+    "kod": "6B80.10",
+    "nazev_cz": "Mentální anorexie s nebezpečně nízkou tělesnou hmotností, restriktivní typ",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F50.0"
+    ]
+  },
+  {
+    "id": "6B80.11",
+    "kod": "6B80.11",
+    "nazev_cz": "Mentální anorexie s nebezpečně nízkou tělesnou hmotností, typ s přejídáním a vyprazdňováním",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F50.0"
+    ]
+  },
+  {
+    "id": "6B80.1Z",
+    "kod": "6B80.1Z",
+    "nazev_cz": "Mentální anorexie s nebezpečně nízkou tělesnou hmotností, neurčená",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F50.0"
+    ]
+  },
+  {
+    "id": "6B80.2",
+    "kod": "6B80.2",
+    "nazev_cz": "Mentální anorexie v zotavení s normální tělesnou hmotností",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F50.1"
+    ]
+  },
+  {
+    "id": "6B80.Y",
+    "kod": "6B80.Y",
+    "nazev_cz": "Mentální anorexie, jiná určená",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F50.1"
+    ]
+  },
+  {
+    "id": "6B80.Z",
+    "kod": "6B80.Z",
+    "nazev_cz": "Mentální anorexie, neurčená",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F50.9"
+    ]
+  },
+  {
+    "id": "6B81",
+    "kod": "6B81",
+    "nazev_cz": "Mentální bulimie",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": "Časté opakující se epizody záchvatovitého přejídání + kompenzační chování + zaobírání se tvarem těla nebo hmotností.",
+    "diagnosticka_kriteria": [
+      "Časté opakující se epizody záchvatovitého přejídání (≥1×/týden, ≥1 měsíc)",
+      "Subjektivní ztráta kontroly nad jídlem při záchvatu",
+      "Opakující se kompenzační chování (zvracení, laxativa, nadměrné cvičení)",
+      "Zaobírání se tvarem těla nebo hmotností silně ovlivňuje vlastní hodnocení",
+      "Nesplňuje kritéria pro anorexii nervózu"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F50.2",
+      "F50.3"
+    ]
+  },
+  {
+    "id": "6B81.0",
+    "kod": "6B81.0",
+    "nazev_cz": "Mentální bulimie, bez purging chování",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F50.2"
+    ]
+  },
+  {
+    "id": "6B81.1",
+    "kod": "6B81.1",
+    "nazev_cz": "Mentální bulimie, s purging chováním",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F50.2"
+    ]
+  },
+  {
+    "id": "6B81.Z",
+    "kod": "6B81.Z",
+    "nazev_cz": "Mentální bulimie, neurčená",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F50.9"
+    ]
+  },
+  {
+    "id": "6B82",
+    "kod": "6B82",
+    "nazev_cz": "Záchvatovitá porucha příjmu potravy",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": "Časté opakující se epizody záchvatovitého přejídání + ztráta kontroly nad jídlem; bez pravidelného kompenzačního chování.",
+    "diagnosticka_kriteria": [
+      "Časté opakující se epizody záchvatovitého přejídání (≥1×/týden, ≥3 měsíce)",
+      "Ztráta kontroly nad jídlem: neschopnost zastavit nebo omezit množství",
+      "Bez pravidelného kompenzačního chování (diferenciace od bulimie)",
+      "Způsobuje výraznou tíseň nebo funkční postižení"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F50.4"
+    ]
+  },
+  {
+    "id": "6B83",
+    "kod": "6B83",
+    "nazev_cz": "Vyhýbavá a restriktivní porucha příjmu potravy",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": "Přetrvávající porucha příjmu potravy/stravování vedoucí k selhání plnit adekvátní výživové nebo energetické potřeby; nesouvisí s narušeným vnímáním těla.",
+    "diagnosticka_kriteria": [
+      "Přetrvávající porucha příjmu potravy vedoucí k selhání plnit výživové nebo energetické potřeby",
+      "Výsledkem je jedno nebo více z: výrazný pokles hmotnosti, výrazný výživový nedostatek, závislost na enterální výživě, výrazné narušení psychosociálního fungování",
+      "Nesouvisí s narušeným vnímáním těla nebo hmotnosti (diferenciace od anorexie)"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F98.2"
+    ]
+  },
+  {
+    "id": "6B84",
+    "kod": "6B84",
+    "nazev_cz": "Pika",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": "Pravidelná konzumace nenutričních látek nebo nepotravinových předmětů u jedince, který dosáhl vývojového věku pro rozlišování jedlého a nejedlého (cca 2 roky).",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F98.3"
+    ]
+  },
+  {
+    "id": "6B85",
+    "kod": "6B85",
+    "nazev_cz": "Porucha ruminace a regurgitace",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": "Opakované regurgitace jídla, které může být znovu přežvýkáno, znovu spolknuto nebo vyplivnuto; bez příčinné trávicí poruchy.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F98.2"
+    ]
+  },
+  {
+    "id": "6B8Y",
+    "kod": "6B8Y",
+    "nazev_cz": "Poruchy příjmu potravy a stravovacího chování, jiné určené",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F50.8"
+    ]
+  },
+  {
+    "id": "6B8Z",
+    "kod": "6B8Z",
+    "nazev_cz": "Poruchy příjmu potravy a stravovacího chování, neurčené",
+    "kategorie": "Poruchy příjmu potravy a stravovacího chování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F50.9"
+    ]
+  },
+  {
+    "id": "6C00",
+    "kod": "6C00",
+    "nazev_cz": "Enuréza",
+    "kategorie": "Poruchy vylučování",
+    "podkategorie": null,
+    "popis": "Opakované mimovolní nebo záměrné pomočování u jedince, u něhož lze očekávat, že bude kontinentní.",
+    "diagnosticka_kriteria": [
+      "Opakované mimovolní nebo záměrné pomočování (≥2× týdně po ≥3 měsíce nebo způsobující klinicky závažnou tíseň)",
+      "Chronologický nebo vývojový věk ≥5 let",
+      "Není způsobeno tělesnou nemocí"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F98.0"
+    ]
+  },
+  {
+    "id": "6C00.0",
+    "kod": "6C00.0",
+    "nazev_cz": "Noční enuréza",
+    "kategorie": "Poruchy vylučování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F98.0"
+    ]
+  },
+  {
+    "id": "6C00.1",
+    "kod": "6C00.1",
+    "nazev_cz": "Denní enuréza",
+    "kategorie": "Poruchy vylučování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F98.0"
+    ]
+  },
+  {
+    "id": "6C00.2",
+    "kod": "6C00.2",
+    "nazev_cz": "Noční a denní enuréza",
+    "kategorie": "Poruchy vylučování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F98.0"
+    ]
+  },
+  {
+    "id": "6C00.Z",
+    "kod": "6C00.Z",
+    "nazev_cz": "Enuréza, neurčená",
+    "kategorie": "Poruchy vylučování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F98.0"
+    ]
+  },
+  {
+    "id": "6C01",
+    "kod": "6C01",
+    "nazev_cz": "Enkopréza",
+    "kategorie": "Poruchy vylučování",
+    "podkategorie": null,
+    "popis": "Opakované záměrné nebo mimovolní vyprazdňování stolice na nevhodných místech u jedince s chronologickým nebo vývojovým věkem ≥4 let.",
+    "diagnosticka_kriteria": [
+      "Opakované záměrné nebo mimovolní vyprazdňování stolice na nevhodných místech",
+      "Výskyt ≥1× měsíčně po ≥3 měsíce",
+      "Chronologický nebo vývojový věk ≥4 let",
+      "Není způsobeno tělesnou nemocí"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F98.1"
+    ]
+  },
+  {
+    "id": "6C01.0",
+    "kod": "6C01.0",
+    "nazev_cz": "Enkopréza se zácpou nebo inkontinencí z přeplnění",
+    "kategorie": "Poruchy vylučování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F98.1"
+    ]
+  },
+  {
+    "id": "6C01.1",
+    "kod": "6C01.1",
+    "nazev_cz": "Enkopréza bez zácpy nebo inkontinence z přeplnění",
+    "kategorie": "Poruchy vylučování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F98.1"
+    ]
+  },
+  {
+    "id": "6C01.Z",
+    "kod": "6C01.Z",
+    "nazev_cz": "Enkopréza, neurčená",
+    "kategorie": "Poruchy vylučování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F98.1"
+    ]
+  },
+  {
+    "id": "6C0Z",
+    "kod": "6C0Z",
+    "nazev_cz": "Poruchy vylučování, neurčené",
+    "kategorie": "Poruchy vylučování",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F98.9"
+    ]
+  },
+  {
+    "id": "6C20",
+    "kod": "6C20",
+    "nazev_cz": "Porucha tělesné úzkosti",
+    "kategorie": "Poruchy tělesné úzkosti nebo tělesných prožitků",
+    "podkategorie": null,
+    "popis": "Přítomnost tělesných příznaků způsobujících tíseň a nadměrná pozornost věnovaná příznakům; přetrvávající po dobu nejméně několika měsíců.",
+    "diagnosticka_kriteria": [
+      "Přítomnost tělesných příznaků způsobujících tíseň a nadměrná pozornost věnovaná příznakům",
+      "Opakované kontakty se zdravotními službami nepřiměřené charakteru obtíží",
+      "Příznaky přetrvávají po většinu dní nejméně několik měsíců",
+      "Způsobují výraznou tíseň nebo funkční postižení"
+    ],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F45"
+    ]
+  },
+  {
+    "id": "6C20.0",
+    "kod": "6C20.0",
+    "nazev_cz": "Mírná porucha tělesné úzkosti",
+    "kategorie": "Poruchy tělesné úzkosti nebo tělesných prožitků",
+    "podkategorie": null,
+    "popis": "Méně než 1 hodina denní preokupace; žádné výrazné funkční postižení.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F45.0"
+    ]
+  },
+  {
+    "id": "6C20.1",
+    "kod": "6C20.1",
+    "nazev_cz": "Středně těžká porucha tělesné úzkosti",
+    "kategorie": "Poruchy tělesné úzkosti nebo tělesných prožitků",
+    "podkategorie": null,
+    "popis": "Více než 1 hodina denní preokupace; středně těžké funkční postižení.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F45.0"
+    ]
+  },
+  {
+    "id": "6C20.2",
+    "kod": "6C20.2",
+    "nazev_cz": "Těžká porucha tělesné úzkosti",
+    "kategorie": "Poruchy tělesné úzkosti nebo tělesných prožitků",
+    "podkategorie": null,
+    "popis": "Pervazivní preokupace stávající se ústřední v životě; závažné funkční postižení.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F45.0"
+    ]
+  },
+  {
+    "id": "6C20.Z",
+    "kod": "6C20.Z",
+    "nazev_cz": "Porucha tělesné úzkosti, neurčená",
+    "kategorie": "Poruchy tělesné úzkosti nebo tělesných prožitků",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F45.9"
+    ]
+  },
+  {
+    "id": "6C21",
+    "kod": "6C21",
+    "nazev_cz": "Dysforie tělesné integrity",
+    "kategorie": "Poruchy tělesné úzkosti nebo tělesných prožitků",
+    "podkategorie": null,
+    "popis": "Intenzivní a přetrvávající touha po amputaci specifické části těla (typicky zdravé končetiny) přetrvávající od adolescence nebo ranné dospělosti.",
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F48.8"
+    ]
+  },
+  {
+    "id": "6C2Y",
+    "kod": "6C2Y",
+    "nazev_cz": "Poruchy tělesné úzkosti nebo tělesných prožitků, jiné určené",
+    "kategorie": "Poruchy tělesné úzkosti nebo tělesných prožitků",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F45.8"
+    ]
+  },
+  {
+    "id": "6C2Z",
+    "kod": "6C2Z",
+    "nazev_cz": "Poruchy tělesné úzkosti nebo tělesných prožitků, neurčené",
+    "kategorie": "Poruchy tělesné úzkosti nebo tělesných prožitků",
+    "podkategorie": null,
+    "popis": null,
+    "diagnosticka_kriteria": [],
+    "priznaky": [],
+    "prubeh": null,
+    "onset": null,
+    "mapovani_mkn10": [
+      "F45.9"
+    ]
+  }
+]
