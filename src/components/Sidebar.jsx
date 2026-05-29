@@ -1,6 +1,7 @@
 import { NavLink, useNavigate } from 'react-router-dom'
 import { useKategorie, useDiagnozy } from '../hooks/useDiagnozy'
-import { useState } from 'react'
+import { useMkn11, getMkn11Barva, MKN11_BARVA_CLASSES } from '../hooks/useMkn11'
+import { useState, useMemo } from 'react'
 
 // Colour dots per category
 const BARVA_MAP = {
@@ -21,13 +22,39 @@ function ChevronIcon({ open }) {
 }
 
 export default function Sidebar({ open }) {
-  const kategorie = useKategorie()
-  const diagnozy  = useDiagnozy()
-  const navigate  = useNavigate()
+  const kategorie  = useKategorie()
+  const diagnozy   = useDiagnozy()
+  const mkn11Data  = useMkn11()
+  const navigate   = useNavigate()
 
-  // Independent accordion: any number of categories and parent codes can be open at once
+  // MKN-10 accordion
   const [openKat,   setOpenKat]   = useState(new Set())
   const [openRodic, setOpenRodic] = useState(new Set())
+
+  // MKN-11 accordion
+  const [mkn11Open,    setMkn11Open]    = useState(false)  // celá MKN-11 sekce
+  const [openMkn11Kat, setOpenMkn11Kat] = useState(new Set())
+  const [openMkn11Kod, setOpenMkn11Kod] = useState(new Set())
+
+  // MKN-11 kategorie a kódy
+  const mkn11Kategorie = useMemo(() => {
+    const map = new Map()
+    for (const d of mkn11Data) {
+      if (d.id.includes('.')) continue  // přeskočit subkódy
+      if (!map.has(d.kategorie)) map.set(d.kategorie, [])
+      map.get(d.kategorie).push(d)
+    }
+    return map
+  }, [mkn11Data])
+
+  // Subkódy pro daný rodičovský kód MKN-11
+  function mkn11Subkody(parentId) {
+    return mkn11Data.filter(d => {
+      if (!d.id.startsWith(parentId + '.')) return false
+      const rest = d.id.slice(parentId.length + 1)
+      return !rest.includes('.')  // jen přímé subkódy
+    })
+  }
 
   if (!open) return null
 
@@ -172,6 +199,119 @@ export default function Sidebar({ open }) {
           )
         })}
       </nav>
+
+      {/* ════ MKN-11 SEKCE ════════════════════════════════════════ */}
+      <div className="border-t-2 border-green-200 mt-2">
+        {/* Záhlaví MKN-11 sekce */}
+        <button
+          onClick={() => setMkn11Open(v => !v)}
+          className="w-full flex items-center gap-2 px-3 py-2.5 text-left hover:bg-green-50 bg-green-50"
+        >
+          <span className="w-2 h-2 rounded-full shrink-0 bg-green-500" />
+          <span className="text-xs font-bold text-green-700 flex-1">MKN-11</span>
+          <span className="text-xs text-green-500 font-mono">06</span>
+          <ChevronIcon open={mkn11Open} />
+        </button>
+
+        {/* Odkaz na přehled MKN-11 */}
+        {mkn11Open && (
+          <div className="px-3 py-1 border-b border-green-100">
+            <NavLink
+              to="/mkn11"
+              className={({ isActive }) =>
+                `flex items-center gap-2 text-xs py-1.5 px-2 rounded transition-colors
+                 ${isActive ? 'bg-green-100 text-green-800 font-medium' : 'text-slate-600 hover:text-green-700 hover:bg-green-50'}`
+              }
+            >
+              <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 10h16M4 14h16M4 18h16" />
+              </svg>
+              Přehled MKN-11
+            </NavLink>
+          </div>
+        )}
+
+        {/* Strom MKN-11 */}
+        {mkn11Open && (
+          <nav className="overflow-y-auto max-h-96 py-1">
+            <div className="px-3 py-1 text-xs font-semibold text-green-500 uppercase tracking-wider">
+              Kapitola 06 – Duševní poruchy
+            </div>
+            {[...mkn11Kategorie.entries()].map(([kat, kody]) => {
+              const katOpen = openMkn11Kat.has(kat)
+              const barva = getMkn11Barva(kat)
+              const bc = MKN11_BARVA_CLASSES[barva] || MKN11_BARVA_CLASSES.gray
+
+              return (
+                <div key={kat}>
+                  {/* Level 1: Kategorie */}
+                  <button
+                    onClick={() => setOpenMkn11Kat(prev => {
+                      const next = new Set(prev)
+                      next.has(kat) ? next.delete(kat) : next.add(kat)
+                      return next
+                    })}
+                    className="w-full flex items-center gap-2 px-3 py-1.5 text-left hover:bg-slate-50"
+                  >
+                    <span className={`w-2 h-2 rounded-full shrink-0 ${bc.badge}`} />
+                    <span className="text-xs text-slate-600 font-medium flex-1 leading-tight">{kat}</span>
+                    <ChevronIcon open={katOpen} />
+                  </button>
+
+                  {/* Level 2: Hlavní kódy */}
+                  {katOpen && (
+                    <div className="ml-3 border-l-2 border-slate-100">
+                      {kody.map(kod => {
+                        const subs = mkn11Subkody(kod.id)
+                        const hasSubs = subs.length > 0
+                        const kodOpen = openMkn11Kod.has(kod.id)
+
+                        return (
+                          <div key={kod.id}>
+                            <button
+                              onClick={() => hasSubs
+                                ? setOpenMkn11Kod(prev => {
+                                    const next = new Set(prev)
+                                    next.has(kod.id) ? next.delete(kod.id) : next.add(kod.id)
+                                    return next
+                                  })
+                                : navigate(`/mkn11/${kod.id}`)
+                              }
+                              className="w-full flex items-center gap-2 pl-3 pr-2 py-1.5 text-left hover:bg-green-50 hover:text-green-700 rounded"
+                              title={kod.nazev_cz}
+                            >
+                              <span className="font-mono text-xs text-slate-400 shrink-0 w-10">{kod.kod}</span>
+                              <span className="text-xs text-slate-600 flex-1 leading-tight line-clamp-2">{kod.nazev_cz}</span>
+                              {hasSubs && <ChevronIcon open={kodOpen} />}
+                            </button>
+
+                            {/* Level 3: Subkódy */}
+                            {hasSubs && kodOpen && (
+                              <div className="ml-4 border-l-2 border-slate-100">
+                                {subs.map(sub => (
+                                  <button
+                                    key={sub.id}
+                                    onClick={() => navigate(`/mkn11/${sub.id}`)}
+                                    className="w-full flex items-center gap-2 pl-3 pr-2 py-1.5 text-left hover:bg-green-50 hover:text-green-700 rounded"
+                                    title={sub.nazev_cz}
+                                  >
+                                    <span className="font-mono text-xs text-slate-400 shrink-0 w-12">{sub.kod}</span>
+                                    <span className="text-xs text-slate-600 flex-1 leading-tight line-clamp-2">{sub.nazev_cz}</span>
+                                  </button>
+                                ))}
+                              </div>
+                            )}
+                          </div>
+                        )
+                      })}
+                    </div>
+                  )}
+                </div>
+              )
+            })}
+          </nav>
+        )}
+      </div>
     </aside>
   )
 }
