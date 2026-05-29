@@ -13056,13 +13056,13 @@
       "Parafilní poruchy vs. parafilní zájmy bez tíseně"
     ],
     "mapovani": {
-      "mkn11": "6D30",
+      "mkn11": "6D36",
       "dsm5": "302.89"
     },
     "kriteria_mkn11": [
-      "Výrazně podprůměrné intelektuální fungování s deficity v adaptivním chování (2+ SD pod průměrem)",
-      "Nástup v průběhu vývojového období",
-      "Zahrnuje různé etiologie; specifikováno stupněm závažnosti"
+      "Intenzivni sexualni vzruseni z nechovani, predmetu nebo situaci, ktere jsou obmezeny na aktivity o samote nebo interakce se souhlasicimi dospelymi osobami (napr. fetisismus, transvesticka porucha, sexualni masochismus)",
+      "Parafilie zpusobuje klinicky vyznamnou tisen jedinci nebo je spojena s rizikem ubytí skody na zdravi jedince nebo partnera",
+      "Parafilie trvá nejmenej 6 mesicu"
     ]
   },
   {
@@ -13088,12 +13088,13 @@
       "F65.8"
     ],
     "mapovani": {
-      "mkn11": "6D30.0",
+      "mkn11": "6D36",
       "dsm5": "302.81"
     },
     "kriteria_mkn11": [
-      "Splněna kritéria pro poruchu intelektového vývoje (6D30)",
-      "Porucha způsobená specificky identifikovanou příčinou (genetická, prenatální, perinatální apod.)"
+      "Splněna obecná kritéria pro parafilní poruchu",
+      "Dominantní parafilní zájem: intenzivní sexuální vzrušení z neživých předmětů nebo specifických negenitálních částí těla (fetišismus)",
+      "Parafilní zájem způsobuje klinicky významnou tíseň nebo funkční postižení, NEBO byl uskutečněn vuči nesouhlasící osobě"
     ]
   },
   {
@@ -13122,13 +13123,13 @@
       "F64.1"
     ],
     "mapovani": {
-      "mkn11": "6D32",
+      "mkn11": "6D36",
       "dsm5": "302.3"
     },
     "kriteria_mkn11": [
-      "Trvalé a výrazné obtíže s nabýváním nebo používáním specifických akademických dovedností (čtení, psaní, počítání) navzdory adekvátní vzdělávací příležitosti",
-      "Dovednosti výrazně nižší oproti věkovým a intelektovým očekáváním",
-      "Nástup v průběhu vývojového/školního věku"
+      "Splněna obecná kritéria pro parafilní poruchu",
+      "Dominantní parafilní zájem: intenzivní sexuální vzrušení z oblékání do šatů opačného pohlaví (transvestitismus)",
+      "Parafilní zájem způsobuje klinicky významnou tíseň nebo funkční postižení"
     ]
   },
   {
@@ -13160,13 +13161,13 @@
       "F60"
     ],
     "mapovani": {
-      "mkn11": "6D32",
+      "mkn11": "6D30",
       "dsm5": "302.4"
     },
     "kriteria_mkn11": [
-      "Trvalé a výrazné obtíže s nabýváním nebo používáním specifických akademických dovedností (čtení, psaní, počítání) navzdory adekvátní vzdělávací příležitosti",
-      "Dovednosti výrazně nižší oproti věkovým a intelektovým očekáváním",
-      "Nástup v průběhu vývojového/školního věku"
+      "Splněna obecná kritéria pro parafilní poruchu",
+      "Dominantní parafilní zájem: intenzivní sexuální vzrušení z odhalování genitálů neznamym osobam",
+      "Jedinec toto chování uskutečnil vůči nesouhlasícím osobám, NEBO způsobuje klinicky významnou tíseň nebo funkční postižení"
     ]
   },
   {
@@ -13196,13 +13197,13 @@
       "F65.0"
     ],
     "mapovani": {
-      "mkn11": "6D32",
+      "mkn11": "6D31",
       "dsm5": "302.82"
     },
     "kriteria_mkn11": [
-      "Trvalé a výrazné obtíže s nabýváním nebo používáním specifických akademických dovedností (čtení, psaní, počítání) navzdory adekvátní vzdělávací příležitosti",
-      "Dovednosti výrazně nižší oproti věkovým a intelektovým očekáváním",
-      "Nástup v průběhu vývojového/školního věku"
+      "Splněna obecná kritéria pro parafilní poruchu",
+      "Dominantní parafilní zájem: intenzivní sexuální vzrušení ze sledování jiných osob při intimních nebo sexuálních aktivitách bez jejich vědomí",
+      "Jedinec toto chování uskutečnil vůči nesouhlasícím osobám, NEBO způsobuje klinicky významnou tíseň nebo funkční postižení"
     ]
   },
   {
@@ -13233,9 +13234,9 @@
       "dsm5": "302.2"
     },
     "kriteria_mkn11": [
-      "Trvalé a výrazné obtíže s nabýváním nebo používáním specifických akademických dovedností (čtení, psaní, počítání) navzdory adekvátní vzdělávací příležitosti",
-      "Dovednosti výrazně nižší oproti věkovým a intelektovým očekáváním",
-      "Nástup v průběhu vývojového/školního věku"
+      "Splněna obecná kritéria pro parafilní poruchu",
+      "Dominantní parafilní zájem: intenzivní sexuální vzrušení z prepubertálních dětí nebo dospívajících",
+      "Parafilní zájem byl uskutečněn (pohlavní zneužívání dítěte), NEBO způsobuje klinicky významnou tíseň jedinci, který jej odmítá"
     ]
   },
   {
@@ -13264,13 +13265,13 @@
       "konsensuální BDSM"
     ],
     "mapovani": {
-      "mkn11": "6D32",
+      "mkn11": "6D33",
       "dsm5": "302.84"
     },
     "kriteria_mkn11": [
-      "Trvalé a výrazné obtíže s nabýváním nebo používáním specifických akademických dovedností (čtení, psaní, počítání) navzdory adekvátní vzdělávací příležitosti",
-      "Dovednosti výrazně nižší oproti věkovým a intelektovým očekáváním",
-      "Nástup v průběhu vývojového/školního věku"
+      "Splněna obecná kritéria pro parafilní poruchu",
+      "Dominantní parafilní zájem: intenzivní sexuální vzrušení z fyzického nebo psychického utrpení druhé osoby (sadismus) nebo ze svého vlastního utrpení (masochismus)",
+      "Sadistická varianta: chování uskutečněno vůči nesouhlasícím osobám NEBO způsobuje tíseň; masochistická: posuzuje se přítomnost klinicky závažné tísně nebo rizika poškození"
     ]
   },
   {
@@ -13297,9 +13298,14 @@
       "F65.2"
     ],
     "mapovani": {
-      "mkn11": null,
+      "mkn11": "6D35",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Intenzivni sexualni vzruseni z nechovani, predmetu nebo situaci, ktere zahrnuji interakci s nesouhlasicimi osobami (krome pripad klasifikovanych jako voyeuristicka porucha, exhibicionisticka porucha, sexualni sadismus nebo frotteurismus)",
+      "Jedinec toto chovani uskutecnil vuci nesouhlasicim osobam NEBO tato parafilie zpusobuje klinicky vyznamnou tisen nebo funkcni postizeni jedince",
+      "Parafilie trvá nejmenej 6 mesicu"
+    ]
   },
   {
     "id": "F65.8",
@@ -13325,13 +13331,13 @@
       "F65.2"
     ],
     "mapovani": {
-      "mkn11": "6D32",
+      "mkn11": "6D35",
       "dsm5": null
     },
     "kriteria_mkn11": [
-      "Trvalé a výrazné obtíže s nabýváním nebo používáním specifických akademických dovedností (čtení, psaní, počítání) navzdory adekvátní vzdělávací příležitosti",
-      "Dovednosti výrazně nižší oproti věkovým a intelektovým očekáváním",
-      "Nástup v průběhu vývojového/školního věku"
+      "Splněna obecná kritéria pro parafilní poruchu",
+      "Jiný specificky určený parafilní zájem nezahrnující nezletilé ani nesouhlasící osoby (kategorie 6D35)",
+      "Parafilní zájem způsobuje klinicky významnou tíseň nebo funkční postižení jedinci"
     ]
   },
   {
@@ -13356,9 +13362,12 @@
       "F65.2"
     ],
     "mapovani": {
-      "mkn11": null,
+      "mkn11": "6D3Z",
       "dsm5": "302.9"
-    }
+    },
+    "kriteria_mkn11": [
+      "Viz 6D3Z: Parafilní poruchy, neurčené"
+    ]
   },
   {
     "id": "F66",
