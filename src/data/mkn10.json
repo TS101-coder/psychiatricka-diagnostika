@@ -5199,7 +5199,7 @@
     "kod": "F20.8",
     "nazev_cz": "Jiná schizofrenie",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie, schizotypní poruchy a poruchy s bludy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Schizofrenie",
     "popis": "Schizofrenie nespadající do žádné ze specifických podtypů (F20.0–F20.6).",
     "diagnosticka_kriteria": [
@@ -5229,7 +5229,7 @@
     "kod": "F20.9",
     "nazev_cz": "Schizofrenie NS",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie, schizotypní poruchy a poruchy s bludy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Schizofrenie",
     "popis": "Neurčená schizofrenie; splněna obecná kritéria, typ nelze upřesnit.",
     "diagnosticka_kriteria": [
@@ -5366,7 +5366,7 @@
     "kod": "F22.8",
     "nazev_cz": "Ostatní poruchy s přetrvávajícími bludy",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie, schizotypní poruchy a poruchy s bludy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Přetrvávající poruchy s bludy",
     "popis": "Jiné dlouhodobé poruchy s bludy nespadající pod F22.0 (paranoia).",
     "diagnosticka_kriteria": [
@@ -5396,7 +5396,7 @@
     "kod": "F22.9",
     "nazev_cz": "Perzistující porucha s bludy NS",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie, schizotypní poruchy a poruchy s bludy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Přetrvávající poruchy s bludy",
     "popis": "Neurčená přetrvávající porucha s bludy.",
     "diagnosticka_kriteria": [
@@ -5461,7 +5461,7 @@
     "kod": "F23.0",
     "nazev_cz": "Akutní polymorfní psychotická porucha bez symptomů schizofrenie",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie, schizotypní poruchy a poruchy s bludy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Akutní a přechodné psychotické poruchy",
     "popis": "Akutní psychóza s rychle se měnícími, polymorfními příznaky bez splnění kritérií schizofrenie. Příznaky jsou výrazně nestabilní a proměnlivé.",
     "diagnosticka_kriteria": [
@@ -5503,7 +5503,7 @@
     "kod": "F23.1",
     "nazev_cz": "Akutní polymorfní psychotická porucha se symptomy schizofrenie",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie, schizotypní poruchy a poruchy s bludy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Akutní a přechodné psychotické poruchy",
     "popis": "Splňuje kritéria F23.0 (polymorfní psychóza), ale souběžně jsou přítomny příznaky schizofrenie (bludy kontroly, typické halucinace). Pokud příznaky schizofrenie přetrvají > 1 měsíc, je třeba překlasifikovat na schizofrenii.",
     "diagnosticka_kriteria": [
@@ -5543,7 +5543,7 @@
     "kod": "F23.2",
     "nazev_cz": "Akutní psychotická porucha podobná schizofrenii",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie, schizotypní poruchy a poruchy s bludy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Akutní a přechodné psychotické poruchy",
     "popis": "Akutní psychotická epizoda splňující symptomatická kritéria schizofrenie, ale trvající méně než 1 měsíc. Příznaky nejsou polymorfní jako u F23.0.",
     "diagnosticka_kriteria": [
@@ -5582,7 +5582,7 @@
     "kod": "F23.3",
     "nazev_cz": "Jiné akutní psychotické poruchy převážně s bludy",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie, schizotypní poruchy a poruchy s bludy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Akutní a přechodné psychotické poruchy",
     "popis": "Akutní psychóza s dominantními stabilními bludy, bez polymorfních příznaků typických pro F23.0. Halucinace jsou méně výrazné.",
     "diagnosticka_kriteria": [
@@ -5621,7 +5621,7 @@
     "kod": "F23.8",
     "nazev_cz": "Jiné akutní a přechodné psychotické poruchy",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie, schizotypní poruchy a poruchy s bludy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Akutní a přechodné psychotické poruchy",
     "popis": "Jiné akutní psychotické poruchy nespadající do výše uvedených kategorií F23.0–F23.3.",
     "diagnosticka_kriteria": [
@@ -5650,7 +5650,7 @@
     "kod": "F23.9",
     "nazev_cz": "Akutní a přechodná psychotická porucha NS",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie, schizotypní poruchy a poruchy s bludy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Akutní a přechodné psychotické poruchy",
     "popis": "Neurčená akutní a přechodná psychotická porucha.",
     "diagnosticka_kriteria": [
@@ -5814,7 +5814,7 @@
     "kod": "F25.2",
     "nazev_cz": "Schizoafektivní porucha, smíšený typ",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie, schizotypní poruchy a poruchy s bludy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Schizoafektivní poruchy",
     "popis": "Epizoda splňující kritéria schizoafektivní poruchy, při níž jsou souběžně výrazné příznaky jak manické, tak depresivní spolu se schizofrenními příznaky.",
     "diagnosticka_kriteria": [
@@ -5852,7 +5852,7 @@
     "kod": "F25.8",
     "nazev_cz": "Jiné schizoafektivní poruchy",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie, schizotypní poruchy a poruchy s bludy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Schizoafektivní poruchy",
     "popis": "Schizoafektivní poruchy nespadající pod F25.0–F25.2.",
     "diagnosticka_kriteria": [
@@ -5879,7 +5879,7 @@
     "kod": "F25.9",
     "nazev_cz": "Schizoafektivní porucha NS",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie, schizotypní poruchy a poruchy s bludy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Schizoafektivní poruchy",
     "popis": "Neurčená schizoafektivní porucha.",
     "diagnosticka_kriteria": [
@@ -9869,7 +9869,7 @@
     "kod": "F50.5",
     "nazev_cz": "Zvracení spojené s jinými psychologickými poruchami",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Poruchy příjmu potravy",
     "popis": "Opakované zvracení, ke kterému dochází v rámci disociativních poruch (F44), hypochondrické poruchy (F45.2) nebo v těhotenství. Odlišit od F50.2 (bulimie nervosa).",
     "diagnosticka_kriteria": [
@@ -9900,7 +9900,7 @@
     "kod": "F50.8",
     "nazev_cz": "Jiné poruchy příjmu potravy",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Poruchy příjmu potravy",
     "popis": "Jiné poruchy příjmu potravy nespadající do F50.0–F50.5, jako je pica u dospělých nebo ortorexie.",
     "diagnosticka_kriteria": [
@@ -9928,7 +9928,7 @@
     "kod": "F50.9",
     "nazev_cz": "Porucha příjmu potravy NS",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Poruchy příjmu potravy",
     "popis": "Neurčená porucha příjmu potravy.",
     "diagnosticka_kriteria": [
@@ -10027,7 +10027,7 @@
     "kod": "F51.1",
     "nazev_cz": "Neorganická hypersomnie",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Neorganické poruchy spánku",
     "popis": "Nadměrná denní ospalost nebo prodloužená noční spánková epizoda bez organické příčiny, v nepřítomnosti narkolepsie.",
     "diagnosticka_kriteria": [
@@ -10066,7 +10066,7 @@
     "kod": "F51.2",
     "nazev_cz": "Neorganická porucha cyklu bdění a spánku",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Neorganické poruchy spánku",
     "popis": "Porucha cirkadiánního rytmu bez organické příčiny — spánek–bdění cyklus je posunut nebo rozvolněn.",
     "diagnosticka_kriteria": [
@@ -10139,7 +10139,7 @@
     "kod": "F51.4",
     "nazev_cz": "Spánkové děsy (noční děsy)",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromes",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Poruchy spánku",
     "popis": "Noční epizody silného strachu, neklidu a autonomní aktivace, typicky v první třetině noci (NREM spánek).",
     "diagnosticka_kriteria": [
@@ -10211,7 +10211,7 @@
     "kod": "F51.8",
     "nazev_cz": "Jiné neorganické poruchy spánku",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Neorganické poruchy spánku",
     "popis": "Jiné parasomnické nebo dyssomnické poruchy bez organické příčiny.",
     "diagnosticka_kriteria": [
@@ -10238,7 +10238,7 @@
     "kod": "F51.9",
     "nazev_cz": "Neorganická porucha spánku NS",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Neorganické poruchy spánku",
     "popis": "Neurčená neorganická porucha spánku.",
     "diagnosticka_kriteria": [
@@ -10331,7 +10331,7 @@
     "kod": "F52.1",
     "nazev_cz": "Odpor k sexu a nedostatek požitku ze sexuality",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Sexuální dysfunkce",
     "popis": "Buď prospect sexu vyvolává silný negativní afekt (averze) nebo sexuální akty neprovázeny potěšením (anedonická sexualita), přestože probíhají normálně.",
     "diagnosticka_kriteria": [
@@ -10367,7 +10367,7 @@
     "kod": "F52.2",
     "nazev_cz": "Selhání genitální odpovědi",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Sexuální dysfunkce",
     "popis": "U mužů: erektilní dysfunkce (neschopnost dosáhnout nebo udržet erekci). U žen: selhání lubrikační odpovědi.",
     "diagnosticka_kriteria": [
@@ -10404,7 +10404,7 @@
     "kod": "F52.3",
     "nazev_cz": "Poruchy orgasmu",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Sexuální dysfunkce",
     "popis": "Přetrvávající nebo opakující se zpomalení, absence nebo předčasnost orgasmu.",
     "diagnosticka_kriteria": [
@@ -10476,7 +10476,7 @@
     "kod": "F52.5",
     "nazev_cz": "Neorganický vaginismus",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Sexuální dysfunkce",
     "popis": "Mimovolní spasmus svalů pochvy při pokusu o penetraci, znemožňující nebo ztěžující pohlavní styk. Bez organické příčiny.",
     "diagnosticka_kriteria": [
@@ -10512,7 +10512,7 @@
     "kod": "F52.6",
     "nazev_cz": "Neorganická dyspareunie",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Sexuální dysfunkce",
     "popis": "Bolest při pohlavním styku bez organické příčiny. Může se vyskytovat u mužů i žen.",
     "diagnosticka_kriteria": [
@@ -10547,7 +10547,7 @@
     "kod": "F52.7",
     "nazev_cz": "Nadměrné sexuální nutkání",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Sexuální dysfunkce",
     "popis": "Výrazně zvýšená sexuální touha způsobující distres nebo interpersonální problémy.",
     "diagnosticka_kriteria": [
@@ -10583,7 +10583,7 @@
     "kod": "F52.8",
     "nazev_cz": "Jiné sexuální poruchy, které nejsou způsobeny organickou poruchou nebo nemocí",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Sexuální dysfunkce",
     "popis": "Sexuální dysfunkce nespadající do F52.0–F52.7.",
     "diagnosticka_kriteria": [
@@ -10609,7 +10609,7 @@
     "kod": "F52.9",
     "nazev_cz": "Neurčená sexuální porucha, která není způsobena organickou poruchou nebo nemocí",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Sexuální dysfunkce",
     "popis": "Neurčená sexuální dysfunkce.",
     "diagnosticka_kriteria": [
@@ -10737,7 +10737,7 @@
     "kod": "F53.8",
     "nazev_cz": "Jiné duševní poruchy v souvislosti se šestinedělím",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Poruchy duševního zdraví spojené s šestinedělím",
     "popis": "Jiné duševní poruchy spojené s porodem nebo šestinedělím nespadající do F53.0 (mírné) nebo F53.1 (závažné). Zahrnuje poporodní anxiózní poruchy nebo poporodní PTSD.",
     "diagnosticka_kriteria": [
@@ -10766,7 +10766,7 @@
     "kod": "F53.9",
     "nazev_cz": "Puerperální duševní poruchy NS",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Poruchy duševního zdraví spojené s šestinedělím",
     "popis": "Neurčená duševní porucha spojená s šestinedělím.",
     "diagnosticka_kriteria": [
@@ -10851,7 +10851,7 @@
     "kod": "F55.0",
     "nazev_cz": "Zneužívání antidepresiv",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Zneužívání látek bez závislosti",
     "popis": "Opakované a škodlivé užívání antidepresiv bez lékařského doporučení nebo nad doporučenou dávku.",
     "diagnosticka_kriteria": [
@@ -10880,7 +10880,7 @@
     "kod": "F55.1",
     "nazev_cz": "Zneužívání laxativ",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Zneužívání látek bez závislosti",
     "popis": "Opakované nadměrné užívání laxativ mimo léčebnou indikaci, často asociované s poruchami příjmu potravy.",
     "diagnosticka_kriteria": [
@@ -10911,7 +10911,7 @@
     "kod": "F55.2",
     "nazev_cz": "Zneužívání analgetik",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Zneužívání látek bez závislosti",
     "popis": "Nadměrné užívání analgetik (aspirinu, paracetamolu, NSAID) mimo léčebnou indikaci nebo nad doporučenou dávku.",
     "diagnosticka_kriteria": [
@@ -10940,7 +10940,7 @@
     "kod": "F55.3",
     "nazev_cz": "Zneužívání antacid",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Zneužívání látek bez závislosti",
     "popis": "Nadměrné a škodlivé užívání antacid.",
     "diagnosticka_kriteria": [
@@ -10967,7 +10967,7 @@
     "kod": "F55.4",
     "nazev_cz": "Zneužívání vitamínů",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Zneužívání látek bez závislosti",
     "popis": "Nadměrné užívání vitamínů způsobující hypervitaminózu.",
     "diagnosticka_kriteria": [
@@ -10994,7 +10994,7 @@
     "kod": "F55.5",
     "nazev_cz": "Zneužívání steroidů a hormonů",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Zneužívání látek bez závislosti",
     "popis": "Nadměrné užívání anabolických steroidů nebo jiných hormonů mimo léčebnou indikaci (doping).",
     "diagnosticka_kriteria": [
@@ -11025,7 +11025,7 @@
     "kod": "F55.6",
     "nazev_cz": "Zneužívání rostlinných nebo lidových léků",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Zneužívání látek bez závislosti",
     "popis": "Nadměrné nebo škodlivé užívání bylinkových přípravků nebo tradičních léků.",
     "diagnosticka_kriteria": [
@@ -11052,7 +11052,7 @@
     "kod": "F55.8",
     "nazev_cz": "Zneužívání jiných látek",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Zneužívání látek bez závislosti",
     "popis": "Zneužívání jiných látek nezpůsobujících závislost, jako jsou projímadla, léky na hubnutí nebo jiné.",
     "diagnosticka_kriteria": [
@@ -11079,7 +11079,7 @@
     "kod": "F55.9",
     "nazev_cz": "Zneužívání NS látky",
     "system": "MKN-10",
-    "kategorie": "F50–F59 Behaviorální syndromy spojené s fyziologickými poruchami",
+    "kategorie": "F50–F59 Syndromy poruch chování spojené s fyziologickými poruchami a somatickými faktory",
     "podkategorie": "Zneužívání látek bez závislosti",
     "popis": "Neurčené zneužívání látky nezpůsobující závislost.",
     "diagnosticka_kriteria": [
@@ -14708,7 +14708,7 @@
     "kod": "F90.8",
     "nazev_cz": "Jiné hyperkinetické poruchy",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Hyperkinetické poruchy",
     "popis": "Hyperkinetické poruchy nespadající do F90.0 nebo F90.1.",
     "diagnosticka_kriteria": [
@@ -14736,7 +14736,7 @@
     "kod": "F90.9",
     "nazev_cz": "Hyperkinetická porucha NS",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Hyperkinetické poruchy",
     "popis": "Neurčená hyperkinetická porucha.",
     "diagnosticka_kriteria": [
@@ -14799,7 +14799,7 @@
     "kod": "F91.0",
     "nazev_cz": "Porucha chování vázaná na vztah k rodině",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Poruchy chování",
     "popis": "Dissociální nebo agresivní chování omezené výhradně nebo téměř výhradně na domácí prostředí a interakce s rodinnými příslušníky.",
     "diagnosticka_kriteria": [
@@ -14834,7 +14834,7 @@
     "kod": "F91.1",
     "nazev_cz": "Nesocializovaná porucha chování",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Poruchy chování",
     "popis": "Přetrvávající dissociální nebo agresivní chování bez integrace do skupiny vrstevníků. Dítě nemá nebo neudržuje přátelství.",
     "diagnosticka_kriteria": [
@@ -14872,7 +14872,7 @@
     "kod": "F91.2",
     "nazev_cz": "Socializovaná porucha chování",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Poruchy chování",
     "popis": "Přetrvávající dissociální nebo agresivní chování u dětí, která jsou dobře integrována do skupiny vrstevníků (delikventní skupiny).",
     "diagnosticka_kriteria": [
@@ -14945,7 +14945,7 @@
     "kod": "F91.8",
     "nazev_cz": "Jiné poruchy chování",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Poruchy chování",
     "popis": "Jiné poruchy chování nespadající do F91.0–F91.3.",
     "diagnosticka_kriteria": [
@@ -14972,7 +14972,7 @@
     "kod": "F91.9",
     "nazev_cz": "Porucha chování NS",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Poruchy chování",
     "popis": "Neurčená porucha chování.",
     "diagnosticka_kriteria": [
@@ -14998,7 +14998,7 @@
     "kod": "F92",
     "nazev_cz": "Smíšené poruchy chování a emocí",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Smíšené poruchy chování a emocí",
     "popis": "Skupina poruch charakterizovaná kombinací trvale agresivního, dissociálního nebo vzdorovitého chování S výraznými příznaky deprese, úzkosti nebo jiných emočních poruch. Vyžaduje splnění obou složek.",
     "diagnosticka_kriteria": [
@@ -15036,7 +15036,7 @@
     "kod": "F92.0",
     "nazev_cz": "Depresivní porucha chování",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Smíšené poruchy chování a emocí",
     "popis": "Splňuje kritéria poruchy chování (F91) i depresivní epizody (F32 nebo F33). Agresivní a dissociální chování souběžně s depresivní náladou, anhedonií a sebeobviňováním.",
     "diagnosticka_kriteria": [
@@ -15075,7 +15075,7 @@
     "kod": "F92.8",
     "nazev_cz": "Jiné smíšené poruchy chování a emocí",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Smíšené poruchy chování a emocí",
     "popis": "Kombinace poruchy chování s úzkostnou poruchou nebo jinými emočními poruchami (nikoliv primárně depresí).",
     "diagnosticka_kriteria": [
@@ -15112,7 +15112,7 @@
     "kod": "F92.9",
     "nazev_cz": "Smíšená porucha chování a emocí NS",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Smíšené poruchy chování a emocí",
     "popis": "Neurčená smíšená porucha chování a emocí.",
     "diagnosticka_kriteria": [
@@ -15237,7 +15237,7 @@
     "kod": "F93.2",
     "nazev_cz": "Sociální anxiózní porucha v dětství",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Emocionální poruchy s počátkem v dětství",
     "popis": "Přetrvávající výrazná úzkost v sociálních situacích s cizími lidmi (dospělými nebo vrstevníky), při zachované normální vazby k rodičům.",
     "diagnosticka_kriteria": [
@@ -15276,7 +15276,7 @@
     "kod": "F93.3",
     "nazev_cz": "Porucha sourozenecké rivality",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Emocionální poruchy s počátkem v dětství",
     "popis": "Výrazné emocionální poruchy po narození mladšího sourozence projevující se negativismem, záchvaty vzteku nebo regresí (pomočování).",
     "diagnosticka_kriteria": [
@@ -15308,7 +15308,7 @@
     "kod": "F93.8",
     "nazev_cz": "Jiné emocionální poruchy s počátkem v dětství",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Emocionální poruchy s počátkem v dětství",
     "popis": "Jiné emocionální poruchy s počátkem v dětství nespadající do F93.0–F93.3.",
     "diagnosticka_kriteria": [
@@ -15336,7 +15336,7 @@
     "kod": "F93.9",
     "nazev_cz": "Emocionální porucha s počátkem v dětství NS",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Emocionální poruchy s počátkem v dětství",
     "popis": "Neurčená emocionální porucha s počátkem v dětství.",
     "diagnosticka_kriteria": [
@@ -15428,7 +15428,7 @@
     "kod": "F94.1",
     "nazev_cz": "Reaktivní porucha příchylnosti v dětství",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Poruchy sociálního fungování s počátkem v dětství",
     "popis": "Trvale abnormální vzorec navazování vztahů s výraznou inhibicí, hypervigilancí, strachem a smutkem. Závisí na patogenní péči v raném dětství.",
     "diagnosticka_kriteria": [
@@ -15467,7 +15467,7 @@
     "kod": "F94.2",
     "nazev_cz": "Porucha desinhibovaných vztahů u dětí",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Poruchy sociálního fungování s počátkem v dětství",
     "popis": "Difuzní, nediferencované chování navazování vztahů bez výběru – dítě se váže na kohokoliv, bez odlišení blízkých od cizích.",
     "diagnosticka_kriteria": [
@@ -15505,7 +15505,7 @@
     "kod": "F94.8",
     "nazev_cz": "Jiné poruchy sociálního fungování s počátkem v dětství",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Poruchy sociálního fungování s počátkem v dětství",
     "popis": "Jiné poruchy sociálního fungování s počátkem v dětství.",
     "diagnosticka_kriteria": [
@@ -15531,7 +15531,7 @@
     "kod": "F94.9",
     "nazev_cz": "Porucha sociálního fungování s počátkem v dětství NS",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Poruchy sociálního fungování s počátkem v dětství",
     "popis": "Neurčená porucha sociálního fungování s počátkem v dětství.",
     "diagnosticka_kriteria": [
@@ -15591,7 +15591,7 @@
     "kod": "F95.0",
     "nazev_cz": "Přechodná tiková porucha",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Tikové poruchy",
     "popis": "Tiky jednoho nebo více typů přetrvávající méně než 12 měsíců. Nejčastější forma tikové poruchy u dětí.",
     "diagnosticka_kriteria": [
@@ -15626,7 +15626,7 @@
     "kod": "F95.1",
     "nazev_cz": "Chronické motorické nebo vokální tiky",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Tikové poruchy",
     "popis": "Motorické nebo vokální tiky (nikoli obojí), trvající déle než 12 měsíců.",
     "diagnosticka_kriteria": [
@@ -15699,7 +15699,7 @@
     "kod": "F95.8",
     "nazev_cz": "Jiné tikové poruchy",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Tikové poruchy",
     "popis": "Jiné tikové poruchy nespadající do F95.0–F95.2.",
     "diagnosticka_kriteria": [
@@ -15727,7 +15727,7 @@
     "kod": "F95.9",
     "nazev_cz": "Tiková porucha NS",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Tikové poruchy",
     "popis": "Neurčená tiková porucha.",
     "diagnosticka_kriteria": [
@@ -15846,7 +15846,7 @@
     "kod": "F98.2",
     "nazev_cz": "Poruchy příjmu potravy v kojeneckém a dětském věku",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Jiné poruchy chování s počátkem v dětství",
     "popis": "Různorodé poruchy příjmu potravy v dětství nezpůsobené organicky: odmítání jídla, výběrovost, přejídání. Odlišit od F50.",
     "diagnosticka_kriteria": [
@@ -15884,7 +15884,7 @@
     "kod": "F98.3",
     "nazev_cz": "Pika kojenců a dětí",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Jiné poruchy chování s počátkem v dětství",
     "popis": "Přetrvávající pojídání nejedlých látek (hlína, písek, barvy, tkaniny). Způsobuje zdravotní rizika.",
     "diagnosticka_kriteria": [
@@ -15921,7 +15921,7 @@
     "kod": "F98.4",
     "nazev_cz": "Stereotypní pohybové poruchy",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Jiné poruchy chování s počátkem v dětství",
     "popis": "Záměrné, opakované, stereotypní nepurpozivní pohyby (kývání těla, třepání rukami, bouchání hlavou) způsobující sebepoškozování nebo interferující s normálními aktivitami.",
     "diagnosticka_kriteria": [
@@ -15961,7 +15961,7 @@
     "kod": "F98.5",
     "nazev_cz": "Koktavost (zadrhávání v řeči)",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Jiné poruchy chování s počátkem v dětství",
     "popis": "Porucha plynulosti řeči charakterizovaná opakováním nebo prodlužováním zvuků, slabik nebo slov, nebo přestávkami a zámlkami narušujícími rytmický tok řeči.",
     "diagnosticka_kriteria": [
@@ -15999,7 +15999,7 @@
     "kod": "F98.6",
     "nazev_cz": "Breptavost",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Jiné poruchy chování s počátkem v dětství",
     "popis": "Vysoké tempo řeči s narušením plynulosti bez opakování, charakteristické pro breptavost (cluttering). Řeč je nesrozumitelná z důvodu rychlosti.",
     "diagnosticka_kriteria": [
@@ -16031,7 +16031,7 @@
     "kod": "F98.8",
     "nazev_cz": "Jiné určené poruchy chování s počátkem v dětství a dospívání",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Jiné poruchy chování s počátkem v dětství",
     "popis": "Jiné určené poruchy chování s počátkem v dětství nespadající do jiných kategorií.",
     "diagnosticka_kriteria": [
@@ -16057,7 +16057,7 @@
     "kod": "F98.9",
     "nazev_cz": "Neurčená porucha chování s počátkem v dětství a dospívání",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Jiné poruchy chování s počátkem v dětství",
     "popis": "Neurčená porucha chování s počátkem v dětství.",
     "diagnosticka_kriteria": [
