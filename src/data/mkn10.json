@@ -4902,7 +4902,7 @@
     "kod": "F20",
     "nazev_cz": "Schizofrenie",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Schizofrenie",
     "popis": "Závažná duševní porucha charakterizovaná distorzí myšlení a vnímání a nepřiměřenými nebo otupělými afekty. Jasné vědomí a intelektuální kapacita zpravidla zachovány.",
     "diagnosticka_kriteria": [
@@ -4940,7 +4940,7 @@
     "kod": "F20.0",
     "nazev_cz": "Paranoidní schizofrenie",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Schizofrenie",
     "popis": "Nejčastější typ schizofrenie. Dominují relativně stabilní, zpravidla paranoidní bludy, obvykle doprovázené halucinacemi, zejména sluchovými.",
     "diagnosticka_kriteria": [
@@ -4977,7 +4977,7 @@
     "kod": "F20.1",
     "nazev_cz": "Hebefrenní schizofrenie (dezorganizovaná)",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Schizofrenie",
     "popis": "Forma schizofrenie s prominentní afektivní dezorganizací, dezorganizovaným myšlením a chováním. Nejméně příznivá prognóza.",
     "diagnosticka_kriteria": [
@@ -5016,7 +5016,7 @@
     "kod": "F20.2",
     "nazev_cz": "Katatonní schizofrenie",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Schizofrenie",
     "popis": "Forma schizofrenie s dominantními psychomotorickými poruchami – stuporem nebo excitací.",
     "diagnosticka_kriteria": [
@@ -5055,7 +5055,7 @@
     "kod": "F20.3",
     "nazev_cz": "Nediferencovaná schizofrenie",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Schizofrenie",
     "popis": "Schizofrenie splňující obecná kritéria, ale nespadající do žádného specifického podtypu nebo splňující kritéria více podtypů.",
     "diagnosticka_kriteria": [
@@ -5088,7 +5088,7 @@
     "kod": "F20.4",
     "nazev_cz": "Postschizofrenní deprese",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Schizofrenie",
     "popis": "Depresivní epizoda vznikající po odeznění akutní fáze schizofrenie. Zvýšené riziko sebevraždy.",
     "diagnosticka_kriteria": [
@@ -5126,7 +5126,7 @@
     "kod": "F20.5",
     "nazev_cz": "Reziduální schizofrenie",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Schizofrenie",
     "popis": "Chronické stadium schizofrenie s přechodem od floridní psychózy k dominanci negativních příznaků a funkčního deficitu.",
     "diagnosticka_kriteria": [
@@ -5160,9 +5160,9 @@
   {
     "id": "F20.6",
     "kod": "F20.6",
-    "nazev_cz": "Simplexní schizofrenie",
+    "nazev_cz": "Schizophrenia simplex",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Schizofrenie",
     "popis": "Nenápadný, plíživý rozvoj bizarního chování, neschopnosti splňovat sociální požadavky a pokles výkonu bez výrazných psychotických příznaků.",
     "diagnosticka_kriteria": [
@@ -5257,7 +5257,7 @@
     "kod": "F21",
     "nazev_cz": "Schizotypní porucha",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Poruchy schizofrenního spektra",
     "popis": "Porucha s excentrickým chováním a anomáliemi myšlení a afektu, podobnými schizofrenii, ale bez typických schizofrenních příznaků.",
     "diagnosticka_kriteria": [
@@ -5294,9 +5294,9 @@
   {
     "id": "F22",
     "kod": "F22",
-    "nazev_cz": "Trvalé poruchy s bludy",
+    "nazev_cz": "Poruchy s trvalými bludy",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Poruchy s bludy",
     "popis": "Skupina poruch, pro něž jsou charakteristické trvalé bludy jako dominantní nebo jediný klinický příznak.",
     "diagnosticka_kriteria": [
@@ -5330,9 +5330,9 @@
   {
     "id": "F22.0",
     "kod": "F22.0",
-    "nazev_cz": "Paranoia (porucha s bludy)",
+    "nazev_cz": "Porucha s bludy",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Poruchy s bludy",
     "popis": "Trvalá porucha s erotomanickými, grandiózními, žárliveckými, pronásledovatelskými nebo somatickými bludy.",
     "diagnosticka_kriteria": [
@@ -5364,7 +5364,7 @@
   {
     "id": "F22.8",
     "kod": "F22.8",
-    "nazev_cz": "Jiné perzistující poruchy s bludy",
+    "nazev_cz": "Ostatní poruchy s přetrvávajícími bludy",
     "system": "MKN-10",
     "kategorie": "F20–F29 Schizofrenie, schizotypní poruchy a poruchy s bludy",
     "podkategorie": "Přetrvávající poruchy s bludy",
@@ -5394,7 +5394,7 @@
   {
     "id": "F22.9",
     "kod": "F22.9",
-    "nazev_cz": "Přetrvávající porucha s bludy NS",
+    "nazev_cz": "Perzistující porucha s bludy NS",
     "system": "MKN-10",
     "kategorie": "F20–F29 Schizofrenie, schizotypní poruchy a poruchy s bludy",
     "podkategorie": "Přetrvávající poruchy s bludy",
@@ -5421,7 +5421,7 @@
     "kod": "F23",
     "nazev_cz": "Akutní a přechodné psychotické poruchy",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Akutní psychózy",
     "popis": "Heterogenní skupina poruch charakterizovaná akutním nástupem psychotických příznaků a rychlou (do měsíce) remisí.",
     "diagnosticka_kriteria": [
@@ -5459,7 +5459,7 @@
   {
     "id": "F23.0",
     "kod": "F23.0",
-    "nazev_cz": "Akutní polymorfní psychotická porucha bez příznaků schizofrenie",
+    "nazev_cz": "Akutní polymorfní psychotická porucha bez symptomů schizofrenie",
     "system": "MKN-10",
     "kategorie": "F20–F29 Schizofrenie, schizotypní poruchy a poruchy s bludy",
     "podkategorie": "Akutní a přechodné psychotické poruchy",
@@ -5501,7 +5501,7 @@
   {
     "id": "F23.1",
     "kod": "F23.1",
-    "nazev_cz": "Akutní polymorfní psychotická porucha s příznaky schizofrenie",
+    "nazev_cz": "Akutní polymorfní psychotická porucha se symptomy schizofrenie",
     "system": "MKN-10",
     "kategorie": "F20–F29 Schizofrenie, schizotypní poruchy a poruchy s bludy",
     "podkategorie": "Akutní a přechodné psychotické poruchy",
@@ -5541,7 +5541,7 @@
   {
     "id": "F23.2",
     "kod": "F23.2",
-    "nazev_cz": "Akutní schizofreniiformní psychotická porucha",
+    "nazev_cz": "Akutní psychotická porucha podobná schizofrenii",
     "system": "MKN-10",
     "kategorie": "F20–F29 Schizofrenie, schizotypní poruchy a poruchy s bludy",
     "podkategorie": "Akutní a přechodné psychotické poruchy",
@@ -5580,7 +5580,7 @@
   {
     "id": "F23.3",
     "kod": "F23.3",
-    "nazev_cz": "Jiná akutní psychotická porucha s převážně bludy",
+    "nazev_cz": "Jiné akutní psychotické poruchy převážně s bludy",
     "system": "MKN-10",
     "kategorie": "F20–F29 Schizofrenie, schizotypní poruchy a poruchy s bludy",
     "podkategorie": "Akutní a přechodné psychotické poruchy",
@@ -5678,7 +5678,7 @@
     "kod": "F24",
     "nazev_cz": "Indukovaná porucha s bludy",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Poruchy s bludy",
     "popis": "Sdílená bludy mezi dvěma nebo více osobami s blízkým emocionálním vztahem. Folie à deux.",
     "diagnosticka_kriteria": [
@@ -5711,7 +5711,7 @@
     "kod": "F25",
     "nazev_cz": "Schizoafektivní poruchy",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Schizoafektivní poruchy",
     "popis": "Epizodické poruchy, při nichž jsou výrazně přítomny jak afektivní, tak schizofrenní příznaky, a to buď současně, nebo v bezprostřední posloupnosti.",
     "diagnosticka_kriteria": [
@@ -5745,7 +5745,7 @@
     "kod": "F25.0",
     "nazev_cz": "Schizoafektivní porucha, manický typ",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Schizoafektivní poruchy",
     "popis": "Epizoda s výraznými manickými příznaky a schizofrenními příznaky.",
     "diagnosticka_kriteria": [
@@ -5779,7 +5779,7 @@
     "kod": "F25.1",
     "nazev_cz": "Schizoafektivní porucha, depresivní typ",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Schizoafektivní poruchy",
     "popis": "Epizoda s výraznými depresivními příznaky a schizofrenními příznaky.",
     "diagnosticka_kriteria": [
@@ -5906,7 +5906,7 @@
     "kod": "F28",
     "nazev_cz": "Jiné neorganické psychotické poruchy",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Jiné psychózy",
     "popis": "Psychotické poruchy, které nesplňují kritéria pro schizofrenii, poruchy s bludy nebo afektivní poruchy.",
     "diagnosticka_kriteria": [
@@ -5938,7 +5938,7 @@
     "kod": "F29",
     "nazev_cz": "Neurčená neorganická psychóza",
     "system": "MKN-10",
-    "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
+    "kategorie": "F20–F29 Schizofrenie, poruchy schizotypální a poruchy s bludy",
     "podkategorie": "Jiné psychózy",
     "popis": "Psychóza bez dostatečných informací pro specifickou diagnózu.",
     "diagnosticka_kriteria": [
