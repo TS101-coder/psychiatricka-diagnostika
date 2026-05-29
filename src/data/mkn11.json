@@ -3587,7 +3587,13 @@
     "kategorie": "Poruchy nálady – depresivní",
     "podkategorie": "Smíšená porucha",
     "popis": "Příznaky deprese i úzkosti jsou současně přítomny, ale ani jeden soubor příznaků samostatně nesplňuje kritéria pro příslušnou poruchu; způsobují klinicky závažnou tíseň.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Pritomnost depresivnich i uzkostnich priznaku po vetsinu dni po dobu nejmenej 2 tydnu; ani jeden soubor neni dostatecne intenzivni ani persistentni, aby samostatne splnoval kriteria pro depresivni nebo uzkostnou poruchu",
+      "Depresivni priznaky: depresivni nalada, ztrata zajmu nebo poteseni, unava, poruchy spanku, snizena koncentrace, pokles sebevednomi",
+      "Uzkostne priznaky: nervozita, napeti, obavy, strach, vegetativni projevy (palpitace, poceni, tres)",
+      "Symptomy zpusobuji klinicky vyznamnou tisen nebo funkcni postizeni v osobnim, socialnim nebo profesnim fungovani",
+      "Symptomy nejsou zpusobeny fyziologickymi ucinky latky nebo leku ani jinym zdravotnim stavem"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -4118,7 +4124,12 @@
     "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
     "podkategorie": null,
     "popis": "Přetrvávající přesvědčení o vydávání nepříjemného tělesného zápachu, který ostatní nevnímají; doprovázeno opakujícím se chováním v reakci na toto přesvědčení.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Pretrvavajici presvedceni o vydavani urazliveho telesneho pachu ze sveho tela, ktere ostatni vnimaji jako odpudive; presvedceni neni zjevne bludne povahy (kriticky nahlizeni je zachovano)",
+      "Presvedceni vede k opakovane kontrole vlastniho tela, nadmerne hygiene, vyhybani se socialnim situacim nebo pozadavkum na ujisteni od druhych",
+      "Symptomy zpusobuji klinicky vyznamnou tisen nebo funkcni postizeni",
+      "Symptomy nejsou lepe vysvetleny jinou dusevni poruchou (telesna dysmorficka porucha, schizofrenie nebo jine primarne psychoticke onemocneni)"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -4338,7 +4349,12 @@
     "kategorie": "Obsedantně-kompulzivní nebo příbuzné poruchy",
     "podkategorie": null,
     "popis": "Opakující se kompulzivní chování zaměřené na tělo způsobující tíseň nebo funkční postižení.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Opakovane chovani zamerenena telo (napr. okusovani nehtu, sani rtu, rytmicke pohyby), ktere se neklasifikuje jako trichotilomanie ani ekskoriace",
+      "Jedinec se opakovane pokousel toto chovani omezit nebo prestat",
+      "Chovani zpusobuje klinicky vyznamnou tisen, funkcni postizeni nebo fyzicke poskozeni tkani",
+      "Chovani neni lepe vysvetleno jinou poruchou (tikova porucha, OCD, stereotypni pohybova porucha)"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -5150,7 +5166,13 @@
     "kategorie": "Disociativní poruchy",
     "podkategorie": null,
     "popis": "Epizody transu při nichž se v osobnosti projevuje cizí síla nebo bytost; mimovolní a nežádoucí mimo přijímané kulturní nebo náboženské kontexty.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Stavy transu s vyraznou zmenou vedomi nebo ztratou osobni identity; pozornost a uvedomeni jsou zuzeny nebo zamereny na omezenou oblast",
+      "V prubehu techto stavu ma jedinec pocit byt ovladan, ovlivnovan nebo nahrazen jinou silou, duchem, bozstvem nebo osobou",
+      "Epizody jsou mimovolni, nezadouci a zpusobuji klinicky vyznamnou tisen nebo funkcni postizeni",
+      "Porucha neni soucasti prijatych kolektivnich nebo kulturnich praktik ani nabozensky motivovanych ritualu",
+      "Symptomy nejsou zpusobeny fyziologickymi ucinky latky, zdravotnim stavem ani jinou dusevni poruchou"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -5185,7 +5207,12 @@
     "kategorie": "Disociativní poruchy",
     "podkategorie": null,
     "popis": "Méně kompletní forma disociativní poruchy identity s méně výraznými přepínáními, přítomností jediné dominantní identity.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Naruseni identity s existenci dvou nebo vice odlisnych stavu osobnosti (disociativnich identit); tyto jsou mene vyrazne a prepinani mene nahle nez u plne disociativni poruchy identity (6B64)",
+      "Alternativni stavy identity se neprojevuji ve verejnem vedomem jednani, ale vnitrne ovlivnuji mysleni, city nebo chovani jedince (napr. jako vnitrni hlasy nebo zakusenosti z pohledu tretich osob)",
+      "Symptomy jsou mimovolni a zpusobuji klinicky vyznamnou tisen nebo funkcni postizeni",
+      "Symptomy nejsou zpusobeny fyziologickymi ucinky latky ani zdravotnim stavem"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -5638,7 +5665,12 @@
     "kategorie": "Poruchy příjmu potravy a stravovacího chování",
     "podkategorie": null,
     "popis": "Pravidelná konzumace nenutričních látek nebo nepotravinových předmětů u jedince, který dosáhl vývojového věku pro rozlišování jedlého a nejedlého (cca 2 roky).",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Pretrvavajici prijem nepotravinovych latek (hlina, kreta, sadra, papir, popel, barvivo, tkanina, kameny, drat, kosti, uhel, kovy, musle, led nebo jine inerntni ci prirodni latky)",
+      "Prijem nepotravinovych latek je nevhodny pro vyvojove stadium jedince (diagnostikovano po 2. roce veku)",
+      "Prijem nepotravinovych latek neni soucasti kulturne nebo spolecensky normativni praxe",
+      "Pokud se pika vyskytuje v kontextu jine dusevni poruchy, je dostatecne zavazna pro samostatnou klinickou pozornost"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -5653,7 +5685,12 @@
     "kategorie": "Poruchy příjmu potravy a stravovacího chování",
     "podkategorie": null,
     "popis": "Opakované regurgitace jídla, které může být znovu přežvýkáno, znovu spolknuto nebo vyplivnuto; bez příčinné trávicí poruchy.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Opakovana regurgitace a opetovne zjevkani nebo polykani nedavno pozrene potravy, ktera neni doprovazena nevolnosti ani gastroenterologickym onemocnenim",
+      "Opakujici se regurgitace neni zpusobena soubeznymi zdravotnimi stavy (gastroezofagealni reflux) ani jinou poruchou prijmu potravy",
+      "Symptomy pretrvavaji nejmenej 1 mesic",
+      "Pokud se porucha vyskytuje v kontextu jine dusevni poruchy, je dostatecne zavazna pro klinickou pozornost"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
