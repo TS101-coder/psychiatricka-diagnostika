@@ -5968,9 +5968,9 @@
   {
     "id": "F30",
     "kod": "F30",
-    "nazev_cz": "Manická epizoda",
+    "nazev_cz": "Manická fáze",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Manické poruchy",
     "popis": "Epizoda výrazně povznesené, expanzivní nebo podrážděné nálady s přidruženými příznaky, trvající alespoň 1 týden.",
     "diagnosticka_kriteria": [
@@ -6010,7 +6010,7 @@
     "kod": "F30.0",
     "nazev_cz": "Hypomanie",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Manické poruchy",
     "popis": "Méně závažný stupeň mánie bez psychotických příznaků a bez závažného narušení fungování.",
     "diagnosticka_kriteria": [
@@ -6046,9 +6046,9 @@
   {
     "id": "F30.1",
     "kod": "F30.1",
-    "nazev_cz": "Mánie bez psychotických příznaků",
+    "nazev_cz": "Manie bez psychotických symptomů",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Manické poruchy",
     "popis": "Plná manická epizoda bez bludů nebo halucinací.",
     "diagnosticka_kriteria": [
@@ -6079,9 +6079,9 @@
   {
     "id": "F30.2",
     "kod": "F30.2",
-    "nazev_cz": "Mánie s psychotickými příznaky",
+    "nazev_cz": "Manie s psychotickými symptomy",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Manické poruchy",
     "popis": "Manická epizoda s bludy nebo halucinacemi. Bludy jsou zpravidla kongruentní s náladou (grandiózní, náboženské).",
     "diagnosticka_kriteria": [
@@ -6113,9 +6113,9 @@
   {
     "id": "F30.8",
     "kod": "F30.8",
-    "nazev_cz": "Jiné manické epizody",
+    "nazev_cz": "Jiné manické fáze",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Manická epizoda",
     "popis": "Manické epizody nespadající do F30.0 (hypomanie), F30.1 (mánie bez psychózy) nebo F30.2 (mánie s psychózou).",
     "diagnosticka_kriteria": [
@@ -6149,9 +6149,9 @@
   {
     "id": "F30.9",
     "kod": "F30.9",
-    "nazev_cz": "Manická epizoda NS",
+    "nazev_cz": "Manická fáze NS",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Manická epizoda",
     "popis": "Neurčená manická epizoda.",
     "diagnosticka_kriteria": [
@@ -6184,7 +6184,7 @@
     "kod": "F31",
     "nazev_cz": "Bipolární afektivní porucha",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Bipolární poruchy",
     "popis": "Porucha charakterizovaná opakujícími se (≥ 2) epizodami výrazné poruchy nálady – manickými, hypomanickými nebo depresivními.",
     "diagnosticka_kriteria": [
@@ -6217,9 +6217,9 @@
   {
     "id": "F31.0",
     "kod": "F31.0",
-    "nazev_cz": "Bipolární porucha, současná epizoda hypomanie",
+    "nazev_cz": "Bipolární afektivní porucha, současná fáze je hypomanická",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Bipolární poruchy",
     "popis": "Bipolární porucha v hyposmanické fázi.",
     "diagnosticka_kriteria": [
@@ -6247,9 +6247,9 @@
   {
     "id": "F31.1",
     "kod": "F31.1",
-    "nazev_cz": "Bipolární afektivní porucha, aktuální manická epizoda bez psychotických příznaků",
+    "nazev_cz": "Bipolární afektivní porucha, současná fáze manická bez psychotických symptomů",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Bipolární afektivní porucha",
     "popis": "Aktuální epizoda splňuje kritéria pro mánii (F30.1) bez psychotických příznaků. V anamnéze nejméně jedna jiná afektivní epizoda.",
     "diagnosticka_kriteria": [
@@ -6287,9 +6287,9 @@
   {
     "id": "F31.2",
     "kod": "F31.2",
-    "nazev_cz": "Bipolární afektivní porucha, aktuální manická epizoda s psychotickými příznaky",
+    "nazev_cz": "Bipolární afektivní porucha, současná fáze manická s psychotickými symptomy",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Bipolární afektivní porucha",
     "popis": "Aktuální manická epizoda s bludy nebo halucinacemi. V anamnéze nejméně jedna jiná afektivní epizoda.",
     "diagnosticka_kriteria": [
@@ -6326,9 +6326,9 @@
   {
     "id": "F31.3",
     "kod": "F31.3",
-    "nazev_cz": "Bipolární porucha, současná epizoda střední nebo mírné deprese",
+    "nazev_cz": "Bipolární afektivní porucha, současná fáze lehká nebo střední deprese",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Bipolární poruchy",
     "popis": "Bipolární porucha v depresivní fázi bez psychotických příznaků.",
     "diagnosticka_kriteria": [
@@ -6360,9 +6360,9 @@
   {
     "id": "F31.4",
     "kod": "F31.4",
-    "nazev_cz": "Bipolární afektivní porucha, aktuální těžká depresivní epizoda bez psychotických příznaků",
+    "nazev_cz": "Bipolární afektivní porucha, současná fáze těžké deprese bez psychotických symptomů",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Bipolární afektivní porucha",
     "popis": "Aktuální těžká depresivní epizoda bez psychotických příznaků u pacienta s bipolární poruchou v anamnéze.",
     "diagnosticka_kriteria": [
@@ -6398,9 +6398,9 @@
   {
     "id": "F31.5",
     "kod": "F31.5",
-    "nazev_cz": "Bipolární porucha, současná epizoda těžké deprese s psychotickými příznaky",
+    "nazev_cz": "Bipolární afektivní porucha, současná fáze těžké deprese s psychotickými symptomy",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Bipolární poruchy",
     "popis": "Bipolární porucha v těžké depresivní fázi s psychotickými příznaky.",
     "diagnosticka_kriteria": [
@@ -6431,9 +6431,9 @@
   {
     "id": "F31.6",
     "kod": "F31.6",
-    "nazev_cz": "Bipolární afektivní porucha, aktuální smíšená epizoda",
+    "nazev_cz": "Bipolární afektivní porucha, současná fáze smíšená",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Bipolární afektivní porucha",
     "popis": "Smíšená epizoda charakterizovaná souběžnými nebo rychle se střídajícími manickými a depresivními příznaky. Diagnosticky nejkomplexnější typ bipolární poruchy.",
     "diagnosticka_kriteria": [
@@ -6470,9 +6470,9 @@
   {
     "id": "F31.7",
     "kod": "F31.7",
-    "nazev_cz": "Bipolární afektivní porucha, aktuálně v remisi",
+    "nazev_cz": "Bipolární afektivní porucha, v současné době v remisi",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Bipolární afektivní porucha",
     "popis": "Pacient s bipolární poruchou v anamnéze, který v současnosti nesplňuje kritéria pro žádnou afektivní epizodu jakékoliv závažnosti.",
     "diagnosticka_kriteria": [
@@ -6505,7 +6505,7 @@
     "kod": "F31.8",
     "nazev_cz": "Jiné bipolární afektivní poruchy",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Bipolární afektivní porucha",
     "popis": "Bipolární poruchy nespadající do F31.0–F31.7, včetně bipolární poruchy II a rychle cyklujících forem.",
     "diagnosticka_kriteria": [
@@ -6539,7 +6539,7 @@
     "kod": "F31.9",
     "nazev_cz": "Bipolární afektivní porucha NS",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Bipolární afektivní porucha",
     "popis": "Neurčená bipolární afektivní porucha.",
     "diagnosticka_kriteria": [
@@ -6564,9 +6564,9 @@
   {
     "id": "F32",
     "kod": "F32",
-    "nazev_cz": "Depresivní epizoda",
+    "nazev_cz": "Depresivní fáze",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Depresivní poruchy",
     "popis": "Epizoda trvající ≥ 2 týdny s depresivní náladou, ztrátou zájmu a energie jako základními příznaky.",
     "diagnosticka_kriteria": [
@@ -6607,9 +6607,9 @@
   {
     "id": "F32.0",
     "kod": "F32.0",
-    "nazev_cz": "Lehká depresivní epizoda",
+    "nazev_cz": "Lehká depresivní fáze",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Depresivní poruchy",
     "popis": "Depresivní epizoda s minimálním počtem příznaků a mírným funkčním postižením.",
     "diagnosticka_kriteria": [
@@ -6643,9 +6643,9 @@
   {
     "id": "F32.1",
     "kod": "F32.1",
-    "nazev_cz": "Středně těžká depresivní epizoda",
+    "nazev_cz": "Středně těžká depresivní fáze",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Depresivní poruchy",
     "popis": "Depresivní epizoda se závažnějšími příznaky a výraznějším funkčním postižením.",
     "diagnosticka_kriteria": [
@@ -6678,9 +6678,9 @@
   {
     "id": "F32.2",
     "kod": "F32.2",
-    "nazev_cz": "Těžká depresivní epizoda bez psychotických příznaků",
+    "nazev_cz": "Těžká depresivní fáze bez psychotických příznaků",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Depresivní poruchy",
     "popis": "Závažná depresivní epizoda s vysokým suicidálním rizikem, bez bludů nebo halucinací.",
     "diagnosticka_kriteria": [
@@ -6716,9 +6716,9 @@
   {
     "id": "F32.3",
     "kod": "F32.3",
-    "nazev_cz": "Těžká depresivní epizoda s psychotickými příznaky",
+    "nazev_cz": "Těžká depresivní fáze s psychotickými příznaky",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Depresivní poruchy",
     "popis": "Nejzávažnější forma depresivní epizody s bludy nebo halucinacemi.",
     "diagnosticka_kriteria": [
@@ -6751,9 +6751,9 @@
   {
     "id": "F32.8",
     "kod": "F32.8",
-    "nazev_cz": "Jiné depresivní epizody",
+    "nazev_cz": "Jiné depresivní fáze",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Depresivní epizoda",
     "popis": "Depresivní epizody, které nesplňují plně kritéria pro F32.0–F32.3, ale přesto způsobují klinicky významný distres nebo funkční omezení. Zahrnuje smíšené epizody s úzkostí a depresí (maskovaná deprese).",
     "diagnosticka_kriteria": [
@@ -6787,9 +6787,9 @@
   {
     "id": "F32.9",
     "kod": "F32.9",
-    "nazev_cz": "Depresivní epizoda NS",
+    "nazev_cz": "Depresivní fáze NS",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Depresivní epizoda",
     "popis": "Neurčená depresivní epizoda.",
     "diagnosticka_kriteria": [
@@ -6820,9 +6820,9 @@
   {
     "id": "F33",
     "kod": "F33",
-    "nazev_cz": "Rekurentní depresivní porucha",
+    "nazev_cz": "Periodická depresivní porucha",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Depresivní poruchy",
     "popis": "Porucha s opakujícími se depresivními epizodami bez anamnézy hypomanie nebo mánie.",
     "diagnosticka_kriteria": [
@@ -6855,9 +6855,9 @@
   {
     "id": "F33.0",
     "kod": "F33.0",
-    "nazev_cz": "Rekurentní depresivní porucha, současná epizoda lehká",
+    "nazev_cz": "Periodická depresivní porucha, současná fáze je lehká",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Depresivní poruchy",
     "popis": "Rekurentní depresivní porucha v lehké epizodě.",
     "diagnosticka_kriteria": [
@@ -6885,9 +6885,9 @@
   {
     "id": "F33.1",
     "kod": "F33.1",
-    "nazev_cz": "Rekurentní depresivní porucha, současná epizoda středně těžká",
+    "nazev_cz": "Periodická depresivní porucha, současná fáze je středně těžká",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Depresivní poruchy",
     "popis": "Rekurentní depresivní porucha v středně těžké epizodě.",
     "diagnosticka_kriteria": [
@@ -6916,9 +6916,9 @@
   {
     "id": "F33.2",
     "kod": "F33.2",
-    "nazev_cz": "Rekurentní depresivní porucha, současná epizoda těžká bez psychotických příznaků",
+    "nazev_cz": "Periodická depresivní porucha, současná fáze je těžká bez psychotických symptomů",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Depresivní poruchy",
     "popis": "Rekurentní depresivní porucha v těžké epizodě bez psychózy.",
     "diagnosticka_kriteria": [
@@ -6946,9 +6946,9 @@
   {
     "id": "F33.3",
     "kod": "F33.3",
-    "nazev_cz": "Rekurentní depresivní porucha, současná epizoda těžká s psychotickými příznaky",
+    "nazev_cz": "Periodická depresivní porucha, současná fáze je těžká s psychotickými příznaky",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Depresivní poruchy",
     "popis": "Rekurentní depresivní porucha v nejtěžší epizodě s psychotickými příznaky.",
     "diagnosticka_kriteria": [
@@ -6976,9 +6976,9 @@
   {
     "id": "F33.4",
     "kod": "F33.4",
-    "nazev_cz": "Rekurentní depresivní porucha, aktuálně v remisi",
+    "nazev_cz": "Periodická depresivní porucha, v současné době v remisi",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Rekurentní depresivní porucha",
     "popis": "Pacient s rekurentní depresivní poruchou v anamnéze, který v současnosti nesplňuje kritéria pro depresivní epizodu jakékoliv závažnosti.",
     "diagnosticka_kriteria": [
@@ -7010,9 +7010,9 @@
   {
     "id": "F33.8",
     "kod": "F33.8",
-    "nazev_cz": "Jiné rekurentní depresivní poruchy",
+    "nazev_cz": "Jiné periodické depresivní poruchy",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Rekurentní depresivní porucha",
     "popis": "Rekurentní depresivní poruchy nespadající do F33.0–F33.4.",
     "diagnosticka_kriteria": [
@@ -7043,9 +7043,9 @@
   {
     "id": "F33.9",
     "kod": "F33.9",
-    "nazev_cz": "Rekurentní depresivní porucha NS",
+    "nazev_cz": "Periodická depresivní porucha NS",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Rekurentní depresivní porucha",
     "popis": "Neurčená rekurentní depresivní porucha.",
     "diagnosticka_kriteria": [
@@ -7074,9 +7074,9 @@
   {
     "id": "F34",
     "kod": "F34",
-    "nazev_cz": "Trvalé poruchy nálady (afektivní)",
+    "nazev_cz": "Perzistentní afektivní poruchy (poruchy nálady)",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Trvalé poruchy nálady",
     "popis": "Trvalé a zpravidla kolísající poruchy nálady, z nichž každá epizoda sama o sobě nesplňuje kritéria pro manickou nebo depresivní epizodu.",
     "diagnosticka_kriteria": [
@@ -7110,7 +7110,7 @@
     "kod": "F34.0",
     "nazev_cz": "Cyklotymie",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Trvalé poruchy nálady",
     "popis": "Chronická nestabilita nálady s mnoha periodami lehké deprese a lehké elevace, žádná z nichž není dostatečně závažná pro bipolární epizodu.",
     "diagnosticka_kriteria": [
@@ -7145,7 +7145,7 @@
     "kod": "F34.1",
     "nazev_cz": "Dystymie",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Trvalé poruchy nálady",
     "popis": "Chronická depresivní nálada trvající ≥ 2 roky, méně závažná než rekurentní depresivní porucha.",
     "diagnosticka_kriteria": [
@@ -7180,9 +7180,9 @@
   {
     "id": "F34.8",
     "kod": "F34.8",
-    "nazev_cz": "Jiné přetrvávající afektivní poruchy",
+    "nazev_cz": "Jiné perzistentní afektivní poruchy",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Přetrvávající afektivní poruchy",
     "popis": "Přetrvávající poruchy nálady nespadající do F34.0 (cyklotymie) nebo F34.1 (dystymie).",
     "diagnosticka_kriteria": [
@@ -7207,9 +7207,9 @@
   {
     "id": "F34.9",
     "kod": "F34.9",
-    "nazev_cz": "Přetrvávající afektivní porucha NS",
+    "nazev_cz": "Perzistentní afektivní porucha NS",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Přetrvávající afektivní poruchy",
     "popis": "Neurčená přetrvávající afektivní porucha.",
     "diagnosticka_kriteria": [
@@ -7235,7 +7235,7 @@
     "kod": "F38",
     "nazev_cz": "Jiné poruchy nálady",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Jiné afektivní poruchy",
     "popis": "Poruchy nálady nesplňující kritéria pro výše uvedené kategorie.",
     "diagnosticka_kriteria": [
@@ -7265,7 +7265,7 @@
     "kod": "F38.0",
     "nazev_cz": "Jiné jednotlivé afektivní poruchy",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Jiné afektivní poruchy",
     "popis": "Afektivní poruchy tvořené jedinou epizodou (nikoliv rekurentní), nespadající do F30–F33. Zahrnuje smíšenou afektivní epizodu.",
     "diagnosticka_kriteria": [
@@ -7293,7 +7293,7 @@
     "kod": "F38.00",
     "nazev_cz": "Smíšená afektivní epizoda",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Jiné afektivní poruchy",
     "popis": "Epizoda s příznaky mánie i deprese současně nebo střídajícími se rychle (dysforická mánie, agitovaná deprese).",
     "diagnosticka_kriteria": [
@@ -7326,9 +7326,9 @@
   {
     "id": "F38.1",
     "kod": "F38.1",
-    "nazev_cz": "Jiné opakující se afektivní poruchy",
+    "nazev_cz": "Jiné periodické afektivní poruchy",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Jiné afektivní poruchy",
     "popis": "Opakující se afektivní poruchy, které nesplňují kritéria pro rekurentní depresivní poruchu (F33) nebo jiné specifické kategorie.",
     "diagnosticka_kriteria": [
@@ -7356,7 +7356,7 @@
     "kod": "F38.10",
     "nazev_cz": "Krátká rekurentní depresivní porucha",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Jiné afektivní poruchy",
     "popis": "Opakující se krátké depresivní epizody (2–3 dny) přibližně jednou měsíčně bez zřejmé vazby na menstruační cyklus.",
     "diagnosticka_kriteria": [
@@ -7386,7 +7386,7 @@
     "kod": "F38.80",
     "nazev_cz": "Jiné určené afektivní poruchy",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Jiné afektivní poruchy",
     "popis": "Určené afektivní poruchy nespadající do jiných kategorií.",
     "diagnosticka_kriteria": [
@@ -7413,7 +7413,7 @@
     "kod": "F39",
     "nazev_cz": "Neurčená porucha nálady",
     "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
+    "kategorie": "F30–F39 Afektivní poruchy (poruchy nálady)",
     "podkategorie": "Jiné afektivní poruchy",
     "popis": "Porucha nálady bez dostatku informací pro specifičtější diagnózu.",
     "diagnosticka_kriteria": [
