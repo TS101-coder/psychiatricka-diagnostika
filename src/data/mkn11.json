@@ -3976,6 +3976,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F42.9"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Obsedantně-kompulzivní porucha (MKN-11 6B20)",
+    "obecna_kriteria": [
+      "Přetrvávající obsese nebo kompulze nebo nejčastěji obojí",
+      "Obsese: opakující se vtíravé myšlenky, obrazy nebo impulzy asociované s úzkostí",
+      "Kompulze: opakující se chování nebo mentální akty v reakci na obsesi nebo podle přísných pravidel",
+      "Obsese a kompulze jsou časově náročné (>1 hod/den) nebo způsobují výraznou tíseň či funkční postižení"
     ]
   },
   {
@@ -3991,6 +3998,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F42.9"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Obsedantně-kompulzivní porucha (MKN-11 6B20)",
+    "obecna_kriteria": [
+      "Přetrvávající obsese nebo kompulze nebo nejčastěji obojí",
+      "Obsese: opakující se vtíravé myšlenky, obrazy nebo impulzy asociované s úzkostí",
+      "Kompulze: opakující se chování nebo mentální akty v reakci na obsesi nebo podle přísných pravidel",
+      "Obsese a kompulze jsou časově náročné (>1 hod/den) nebo způsobují výraznou tíseň či funkční postižení"
     ]
   },
   {
@@ -4006,6 +4020,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F42.9"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Obsedantně-kompulzivní porucha (MKN-11 6B20)",
+    "obecna_kriteria": [
+      "Přetrvávající obsese nebo kompulze nebo nejčastěji obojí",
+      "Obsese: opakující se vtíravé myšlenky, obrazy nebo impulzy asociované s úzkostí",
+      "Kompulze: opakující se chování nebo mentální akty v reakci na obsesi nebo podle přísných pravidel",
+      "Obsese a kompulze jsou časově náročné (>1 hod/den) nebo způsobují výraznou tíseň či funkční postižení"
     ]
   },
   {
@@ -4040,6 +4061,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F45.2"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Tělesná dysmorfická porucha (MKN-11 6B21)",
+    "obecna_kriteria": [
+      "Přetrvávající zaobírání se vnímanými defekty nebo vadami fyzického vzhledu nepozorovatelné ostatními",
+      "Opakované chování v reakci na toto zaobírání (kontrolování v zrcadle, maskování, vyhledávání ujištění)",
+      "Způsobuje výraznou tíseň nebo funkční postižení"
     ]
   },
   {
@@ -4055,6 +4082,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F45.2"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Tělesná dysmorfická porucha (MKN-11 6B21)",
+    "obecna_kriteria": [
+      "Přetrvávající zaobírání se vnímanými defekty nebo vadami fyzického vzhledu nepozorovatelné ostatními",
+      "Opakované chování v reakci na toto zaobírání (kontrolování v zrcadle, maskování, vyhledávání ujištění)",
+      "Způsobuje výraznou tíseň nebo funkční postižení"
     ]
   },
   {
@@ -4070,6 +4103,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F45.2"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Tělesná dysmorfická porucha (MKN-11 6B21)",
+    "obecna_kriteria": [
+      "Přetrvávající zaobírání se vnímanými defekty nebo vadami fyzického vzhledu nepozorovatelné ostatními",
+      "Opakované chování v reakci na toto zaobírání (kontrolování v zrcadle, maskování, vyhledávání ujištění)",
+      "Způsobuje výraznou tíseň nebo funkční postižení"
     ]
   },
   {
@@ -4159,6 +4198,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F45.2"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Hypochondrická porucha (MKN-11 6B23)",
+    "obecna_kriteria": [
+      "Přetrvávající obavy o přítomnost závažného, progresivního nebo život ohrožujícího onemocnění",
+      "Opakované zdravotnické vyhledávání nebo vyhýbání se lékařům ze strachu z diagnózy",
+      "Příznaky přetrvávají nejméně několik měsíců",
+      "Způsobují výraznou tíseň nebo funkční postižení"
     ]
   },
   {
@@ -4174,6 +4220,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F45.2"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Hypochondrická porucha (MKN-11 6B23)",
+    "obecna_kriteria": [
+      "Přetrvávající obavy o přítomnost závažného, progresivního nebo život ohrožujícího onemocnění",
+      "Opakované zdravotnické vyhledávání nebo vyhýbání se lékařům ze strachu z diagnózy",
+      "Příznaky přetrvávají nejméně několik měsíců",
+      "Způsobují výraznou tíseň nebo funkční postižení"
     ]
   },
   {
@@ -4189,6 +4242,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F45.2"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Hypochondrická porucha (MKN-11 6B23)",
+    "obecna_kriteria": [
+      "Přetrvávající obavy o přítomnost závažného, progresivního nebo život ohrožujícího onemocnění",
+      "Opakované zdravotnické vyhledávání nebo vyhýbání se lékařům ze strachu z diagnózy",
+      "Příznaky přetrvávají nejméně několik měsíců",
+      "Způsobují výraznou tíseň nebo funkční postižení"
     ]
   },
   {
@@ -4222,7 +4282,14 @@
     "priznaky": [],
     "prubeh": null,
     "onset": null,
-    "mapovani_mkn10": []
+    "mapovani_mkn10": [],
+    "obecna_kriteria_nazev": "Obecná kritéria: Porucha hromadění (MKN-11 6B24)",
+    "obecna_kriteria": [
+      "Přetrvávající obtíže s vyhazováním věcí bez ohledu na jejich skutečnou hodnotu",
+      "Vnímání potřeby věci zachovat a tíseň spojenou s vyhazováním",
+      "Nahromadění věcí způsobuje přeplnění životního prostoru",
+      "Způsobuje výraznou tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "6B24.1",
@@ -4235,7 +4302,14 @@
     "priznaky": [],
     "prubeh": null,
     "onset": null,
-    "mapovani_mkn10": []
+    "mapovani_mkn10": [],
+    "obecna_kriteria_nazev": "Obecná kritéria: Porucha hromadění (MKN-11 6B24)",
+    "obecna_kriteria": [
+      "Přetrvávající obtíže s vyhazováním věcí bez ohledu na jejich skutečnou hodnotu",
+      "Vnímání potřeby věci zachovat a tíseň spojenou s vyhazováním",
+      "Nahromadění věcí způsobuje přeplnění životního prostoru",
+      "Způsobuje výraznou tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "6B24.Z",
@@ -4248,7 +4322,14 @@
     "priznaky": [],
     "prubeh": null,
     "onset": null,
-    "mapovani_mkn10": []
+    "mapovani_mkn10": [],
+    "obecna_kriteria_nazev": "Obecná kritéria: Porucha hromadění (MKN-11 6B24)",
+    "obecna_kriteria": [
+      "Přetrvávající obtíže s vyhazováním věcí bez ohledu na jejich skutečnou hodnotu",
+      "Vnímání potřeby věci zachovat a tíseň spojenou s vyhazováním",
+      "Nahromadění věcí způsobuje přeplnění životního prostoru",
+      "Způsobuje výraznou tíseň nebo funkční postižení"
+    ]
   },
   {
     "id": "6B25",
