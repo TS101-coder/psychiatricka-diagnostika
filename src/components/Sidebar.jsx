@@ -215,16 +215,26 @@ export default function Sidebar({ open }) {
                     return (
                       <div key={rod.id}>
 
-                        {/* Parent code row — jeden klik: rozbalí podkódy nebo přejde na detail */}
-                        <button
-                          onClick={() => hasSubs ? toggleRodic(rod.id) : navigate(`/diagnoza/${rod.id}`)}
-                          className="w-full flex items-center gap-2 pl-3 pr-2 py-1.5 text-left hover:bg-blue-50 hover:text-blue-700 rounded"
-                          title={rod.nazev_cz}
-                        >
-                          <span className="font-mono text-xs text-slate-400 shrink-0 w-8">{rod.kod}</span>
-                          <span className="text-xs text-slate-600 flex-1 leading-tight line-clamp-2">{rod.nazev_cz}</span>
-                          {hasSubs && <ChevronIcon open={rodOpen} />}
-                        </button>
+                        {/* Parent code row — text naviguje, šipka rozbaluje */}
+                        <div className="flex items-center rounded hover:bg-blue-50 group">
+                          <button
+                            onClick={() => navigate(`/diagnoza/${rod.id}`)}
+                            className="flex items-center gap-2 pl-3 py-1.5 flex-1 text-left hover:text-blue-700 min-w-0"
+                            title={rod.nazev_cz}
+                          >
+                            <span className="font-mono text-xs text-slate-400 shrink-0 w-8">{rod.kod}</span>
+                            <span className="text-xs text-slate-600 group-hover:text-blue-700 flex-1 leading-tight line-clamp-2">{rod.nazev_cz}</span>
+                          </button>
+                          {hasSubs && (
+                            <button
+                              onClick={() => toggleRodic(rod.id)}
+                              className="px-2 py-1.5 shrink-0 hover:text-blue-700"
+                              title="Zobrazit podkódy"
+                            >
+                              <ChevronIcon open={rodOpen} />
+                            </button>
+                          )}
+                        </div>
 
                         {/* ── Level 3: podkódy ──────────────────────────── */}
                         {hasSubs && rodOpen && (
@@ -323,22 +333,30 @@ export default function Sidebar({ open }) {
 
                         return (
                           <div key={kod.id}>
-                            <button
-                              onClick={() => hasSubs
-                                ? setOpenMkn11Kod(prev => {
+                            {/* MKN-11 parent row — text naviguje, šipka rozbaluje */}
+                            <div className="flex items-center rounded hover:bg-green-50 group">
+                              <button
+                                onClick={() => navigate(`/mkn11/${kod.id}`)}
+                                className="flex items-center gap-2 pl-3 py-1.5 flex-1 text-left min-w-0"
+                                title={kod.nazev_cz}
+                              >
+                                <span className="font-mono text-xs text-slate-400 shrink-0 w-10">{kod.kod}</span>
+                                <span className="text-xs text-slate-600 group-hover:text-green-700 flex-1 leading-tight line-clamp-2">{kod.nazev_cz}</span>
+                              </button>
+                              {hasSubs && (
+                                <button
+                                  onClick={() => setOpenMkn11Kod(prev => {
                                     const next = new Set(prev)
                                     next.has(kod.id) ? next.delete(kod.id) : next.add(kod.id)
                                     return next
-                                  })
-                                : navigate(`/mkn11/${kod.id}`)
-                              }
-                              className="w-full flex items-center gap-2 pl-3 pr-2 py-1.5 text-left hover:bg-green-50 hover:text-green-700 rounded"
-                              title={kod.nazev_cz}
-                            >
-                              <span className="font-mono text-xs text-slate-400 shrink-0 w-10">{kod.kod}</span>
-                              <span className="text-xs text-slate-600 flex-1 leading-tight line-clamp-2">{kod.nazev_cz}</span>
-                              {hasSubs && <ChevronIcon open={kodOpen} />}
-                            </button>
+                                  })}
+                                  className="px-2 py-1.5 shrink-0 hover:text-green-700"
+                                  title="Zobrazit podkódy"
+                                >
+                                  <ChevronIcon open={kodOpen} />
+                                </button>
+                              )}
+                            </div>
 
                             {/* Level 3: Subkódy */}
                             {hasSubs && kodOpen && (
