@@ -14236,7 +14236,7 @@
       "F72"
     ],
     "mapovani": {
-      "mkn11": "6A03",
+      "mkn11": "6A00.3",
       "dsm5": "318.2"
     },
     "kriteria_mkn11": [
@@ -15945,13 +15945,12 @@
       "F32"
     ],
     "mapovani": {
-      "mkn11": "6C93",
+      "mkn11": "6C91",
       "dsm5": null
     },
     "kriteria_mkn11": [
-      "Přerušovaná explozivní porucha: opakující se epizody verbální nebo fyzické agresivity výrazně nepřiměřené provokaci nebo spouštěcím environmentálním podnětům",
-      "Impulzivní agresivní činy vedou ke způsobení fyzické újmy nebo majetkové škodě nebo verbální agresi",
-      "Nejsou projevem jiné duševní poruchy lépe vysvětlující agresivní chování"
+      "Splněna kritéria pro disociální poruchu (6C91)",
+      "Současně přítomny příznaky depresivní nebo jiné emocionální poruchy; v MKN-11 se kóduje separátně jako komorbidita"
     ]
   },
   {
@@ -15984,13 +15983,12 @@
       "F92.8"
     ],
     "mapovani": {
-      "mkn11": "6C93",
+      "mkn11": "6C91",
       "dsm5": null
     },
     "kriteria_mkn11": [
-      "Přerušovaná explozivní porucha: opakující se epizody verbální nebo fyzické agresivity výrazně nepřiměřené provokaci nebo spouštěcím environmentálním podnětům",
-      "Impulzivní agresivní činy vedou ke způsobení fyzické újmy nebo majetkové škodě nebo verbální agresi",
-      "Nejsou projevem jiné duševní poruchy lépe vysvětlující agresivní chování"
+      "Splněna kritéria pro disociální poruchu (6C91)",
+      "Současně přítomny příznaky depresivní nebo jiné emocionální poruchy; v MKN-11 se kóduje separátně jako komorbidita"
     ]
   },
   {
@@ -16021,13 +16019,12 @@
       "F92.0"
     ],
     "mapovani": {
-      "mkn11": "6C93",
+      "mkn11": "6C91",
       "dsm5": null
     },
     "kriteria_mkn11": [
-      "Přerušovaná explozivní porucha: opakující se epizody verbální nebo fyzické agresivity výrazně nepřiměřené provokaci nebo spouštěcím environmentálním podnětům",
-      "Impulzivní agresivní činy vedou ke způsobení fyzické újmy nebo majetkové škodě nebo verbální agresi",
-      "Nejsou projevem jiné duševní poruchy lépe vysvětlující agresivní chování"
+      "Splněna kritéria pro disociální poruchu (6C91)",
+      "Současně přítomny příznaky depresivní nebo jiné emocionální poruchy; v MKN-11 se kóduje separátně jako komorbidita"
     ]
   },
   {
