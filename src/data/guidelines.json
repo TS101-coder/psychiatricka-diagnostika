@@ -1,0 +1,345 @@
+[
+  {
+    "kod_mkn10": "F00",
+    "nazev_poruchy": "Demence u Alzheimerovy nemoci",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Inhibitory acetylcholinesterázy (AChEI)",
+          "priklady_generik": ["donepezil", "rivastigmin", "galantamin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Všechny tři látky jsou registrovány v ČR. Preskripce je vázána na psychiatra, neurologa nebo geriatra. Donepezil a galantamin p.o., rivastigmin dostupný také ve formě transdermální náplasti (výhodné při GI intoleranci). Pozn.: V USA byl schválen lecanemab (Leqembi) a donanemab – protilátky cílící na amyloid; v EU/ČR k datu sestavení dat nejsou dostupné.",
+          "doporucene_davkovani_zahajovaci": "Donepezil: 5 mg 1× denně večer, po 4–6 týdnech zvýšit na 10 mg/den. Rivastigmin p.o.: 1,5 mg 2× denně s jídlem, titrace po 2 týdnech o 1,5 mg/den, cílová 3–6 mg 2× denně; náplast: 4,6 mg/24 h → po 4 týdnech 9,5 mg/24 h. Galantamin: 4 mg 2× denně, po 4 týdnech 8 mg 2× denně, cílová 8–12 mg 2× denně.",
+          "hlavni_nezadouci_ucinky": ["nauzea", "zvracení", "průjem", "nechutenství", "bradykardie", "insomnie (donepezil)"],
+          "kontraindikace": ["přecitlivělost na látku", "závažné srdeční arytmie (sick sinus syndrom, AV blok II–III. stupně)", "aktivní peptický vřed (relativní)", "astma nebo CHOPN (rivastigmin – relativní)"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Kognitivní trénink a stimulace (individuální i skupinová)",
+        "Fyzická aktivita – prokázaný vliv na zpomalení progrese",
+        "Reminiscenční terapie",
+        "Edukace a podpora pečovatelů/rodinných příslušníků",
+        "Strukturovaný denní režim",
+        "Occupational therapy – trénink ADL dovedností"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Antagonisté NMDA receptorů",
+          "priklady_generik": ["memantin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Registrován v ČR. Indikován u středně těžké až těžké Alzheimerovy demence (MMSE 3–19). Preskripce vázána na psychiatra, neurologa nebo geriatra. Možná kombinace s AChEI u středně těžkých stadií.",
+          "doporucene_davkovani_zahajovaci": "5 mg 1× denně, titrace o 5 mg týdně, cílová dávka 20 mg/den (10 mg 2× denně nebo 20 mg 1× denně prodloužené uvolňování).",
+          "hlavni_nezadouci_ucinky": ["závratě", "bolest hlavy", "obstipace", "somnolence", "hypertenze"],
+          "kontraindikace": ["závažné poškození ledvin (nutná úprava dávky při GFR < 30 ml/min)", "přecitlivělost na látku"],
+          "indikace_k_nasazeni": "Středně těžká až těžká demence (MMSE < 20), intolerance nebo nedostatečný efekt AChEI, nebo jako augmentace k AChEI."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Atypická antipsychotika (risperidon, olanzapin, quetiapin aj.) jsou u starších pacientů s demencí spojena se zvýšenou mortalitou (cerebrovaskulární příhody, pneumonie) – používat pouze výjimečně při závažných behaviorálních poruchách (BPSD) nereagujících na nefarmakologické intervence, v co nejnižší dávce a po nejkratší nutnou dobu.",
+      "interakce": [
+        "AChEI + anticholinergika (oxybutynin, difenhydramin) – antagonistický efekt, nevhodná kombinace",
+        "Donepezil/galantamin + inhibitory CYP2D6 nebo CYP3A4 (fluoxetin, paroxetin, ketokonazol) – možné zvýšení plazmatické hladiny",
+        "AChEI + betablokátory nebo antiarytmika – riziko bradykardie a AV bloku",
+        "Memantin + amantadin, ketamin – riziko psychózy (kumulativní antagonismus NMDA)",
+        "Memantin + digoxin, metformin – možná změna renální eliminace"
+      ],
+      "monitoring": [
+        "MMSE nebo MoCA při zahájení a každých 6–12 měsíců pro sledování progrese",
+        "EKG před zahájením AChEI (vyloučení bradyarytmií)",
+        "Krevní tlak a tepová frekvence – při každé návštěvě",
+        "Renální funkce (kreatinin, GFR) – při zahájení memantinu a ročně",
+        "Tělesná hmotnost – každé 3–6 měsíců (AChEI mohou způsobit úbytek hmotnosti)",
+        "Hodnocení BPSD (behaviorálních a psychologických symptomů demence) – NPI nebo zkrácené škály"
+      ]
+    },
+    "zdroje": [
+      "APA Practice Guideline for the Treatment of Patients with Alzheimer's Disease and Other Dementias (2007, s aktualizacemi)",
+      "Psychiatrická společnost ČLS JEP: Doporučený postup pro léčbu Alzheimerovy nemoci (aktuální verze na postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025 (prehledy.sukl.cz)"
+    ]
+  },
+
+  {
+    "kod_mkn10": "F00.0",
+    "nazev_poruchy": "Demence u Alzheimerovy nemoci s časným nástupem (před 65. rokem)",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Inhibitory acetylcholinesterázy (AChEI)",
+          "priklady_generik": ["donepezil", "rivastigmin", "galantamin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Totéž jako u F00. U časného nástupu (presenilní forma) jsou tytéž indikace. Doporučeno zahájit ihned po stanovení diagnózy. Vyšší procento geneticky podmíněných forem (mutace PSEN1, PSEN2, APP) – zvažte genetické vyšetření.",
+          "doporucene_davkovani_zahajovaci": "Shodné s F00 – viz výše. Sledujte toleranci u pracovně aktivních pacientů (vliv na kognitivní výkon při práci).",
+          "hlavni_nezadouci_ucinky": ["nauzea", "průjem", "insomnie", "bradykardie"],
+          "kontraindikace": ["závažné srdeční arytmie", "aktivní peptický vřed (relativní)"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Kognitivní rehabilitace – intenzivnější u mladších pacientů se zachovaným potenciálem",
+        "Psychosociální podpora pacienta i rodiny",
+        "Pracovní poradenství – řešení pracovní způsobilosti",
+        "Podpora v rozhodování (advance directives) – podnět k právnímu uspořádání záležitostí"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Antagonisté NMDA receptorů",
+          "priklady_generik": ["memantin"],
+          "dostupnost_cr_sukl": true,
+          "indikace_k_nasazeni": "Při progresi do středně těžkého stadia, intolerance nebo nedostatečný efekt AChEI."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Viz F00 – varování ohledně atypických antipsychotik u demence.",
+      "interakce": ["Viz F00"],
+      "monitoring": [
+        "Neuropsychologické vyšetření (MMSE, MoCA, případně podrobnější baterie) každých 6 měsíců",
+        "EKG před zahájením léčby",
+        "Laboratorní screening (TSH, vitamin B12, folát, krevní obraz, jaterní testy) – při stanovení diagnózy",
+        "Genetické poradenství zvážit u familiárního výskytu"
+      ]
+    },
+    "zdroje": [
+      "APA Practice Guideline for the Treatment of Patients with Alzheimer's Disease (2007)",
+      "Psychiatrická společnost ČLS JEP – Doporučený postup (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+
+  {
+    "kod_mkn10": "F00.1",
+    "nazev_poruchy": "Demence u Alzheimerovy nemoci s pozdním nástupem (po 65. roce)",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Inhibitory acetylcholinesterázy (AChEI)",
+          "priklady_generik": ["donepezil", "rivastigmin", "galantamin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Indikováno od mírného stadia. U geriatrických pacientů preferovat nižší zahajovací dávky, pomalejší titraci a monitorovat kardiovaskulární systém. Rivastigminová náplast výhodná při problémech s polykáním nebo GI nesnášenlivostí.",
+          "doporucene_davkovani_zahajovaci": "Donepezil: začínat 5 mg večer, v případě dobré snášenlivosti zvýšit na 10 mg po 4–6 týdnech. U fragilních pacientů lze ponechat 5 mg. Rivastigmin náplast: 4,6 mg/24 h, po 4 týdnech 9,5 mg/24 h.",
+          "hlavni_nezadouci_ucinky": ["nauzea", "bradykardie", "pády (závratě)", "ztráta hmotnosti", "noční můry (donepezil)"],
+          "kontraindikace": ["závažné srdeční arytmie", "sick sinus syndrom", "AV blok II–III. stupně"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Edukace a zapojení rodiny/pečovatelů",
+        "Přizpůsobení prostředí – bezpečnostní prvky v domácnosti",
+        "Aktivizační programy – reminiscence, arteterapie",
+        "Fyzická aktivita přizpůsobená věku a kondici"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Antagonisté NMDA receptorů",
+          "priklady_generik": ["memantin"],
+          "dostupnost_cr_sukl": true,
+          "indikace_k_nasazeni": "Středně těžká až těžká demence (MMSE < 20). Možná kombinace s donepezil nebo rivastigmin u středně těžkého stadia."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Zvýšené riziko cerebro­vaskulárních příhod a mortality u starších pacientů s demencí při podávání atypických antipsychotik (risperidon má specifické varování EMA pro demenci). Použít pouze při BPSD nereagujících na nefarmakologické intervence.",
+      "interakce": [
+        "AChEI + anticholinergika (oxybutynin, trospium, difenhydramin) – antagonismus, zhoršení kognitivních funkcí",
+        "Donepezil + betablokátory – riziko bradykardie",
+        "Memantin + L-DOPA, dopaminergní látky – možné zesílení účinku",
+        "Memantin + trimethoprim – riziko vzestupu hladin (kompetice o renální tubulární sekreci)"
+      ],
+      "monitoring": [
+        "MMSE nebo MoCA každých 6–12 měsíců",
+        "EKG při zahájení AChEI, opakovat při klinické indikaci",
+        "Krevní tlak vsedě a vstoje (ortostatická hypotenze u fragilních pacientů)",
+        "Renální funkce ročně (úprava dávky memantinu při GFR < 30)",
+        "Hodnocení pádů a pohyblivosti",
+        "NPI (Neuropsychiatric Inventory) – sledování BPSD"
+      ]
+    },
+    "zdroje": [
+      "APA Practice Guideline for the Treatment of Patients with Alzheimer's Disease (2007)",
+      "Psychiatrická společnost ČLS JEP – Doporučený postup (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+
+  {
+    "kod_mkn10": "F01",
+    "nazev_poruchy": "Vaskulární demence",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Antiagregancia (prevence dalších cévních příhod)",
+          "priklady_generik": ["kyselina acetylsalicylová", "klopidogrel"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Základní linie prevence progrese vaskulární demence. Preskripce není vázána na specialistu. Indikace závisí na underlying cévní patologii (ischemická choroba vs. hemoragická).",
+          "doporucene_davkovani_zahajovaci": "ASA: 100 mg/den. Klopidogrel: 75 mg/den (alternativa nebo při intoleranci ASA).",
+          "hlavni_nezadouci_ucinky": ["gastrointestinální krvácení (ASA)", "krvácivé komplikace", "trombocytopenická purpura (klopidogrel – vzácné)"],
+          "kontraindikace": ["aktivní peptický vřed", "hemoragická cévní mozková příhoda v anamnéze (antiagregancia opatrně)"]
+        },
+        {
+          "skupina_latek": "Inhibitory acetylcholinesterázy (AChEI) – off-label u VaD",
+          "priklady_generik": ["donepezil", "galantamin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Donepezil a galantamin jsou registrovány pro Alzheimerovu demenci; u vaskulární demence se jedná o použití off-label, nicméně klinické studie (VANTAGE, Galantamin-VaD) prokázaly mírný kognitivní benefit. Dle českých doporučení lze zvážit u smíšené demence.",
+          "doporucene_davkovani_zahajovaci": "Donepezil: 5 mg večer, titrace na 10 mg/den po 4–6 týdnech.",
+          "hlavni_nezadouci_ucinky": ["bradykardie", "nauzea", "synkopy"],
+          "kontraindikace": ["závažné srdeční arytmie"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Kontrola vaskulárních rizikových faktorů – hypertenze, diabetes, dyslipidemie, obezita",
+        "Abstinence kouření",
+        "Fyzická aktivita a kardiovaskulární rehabilitace",
+        "Kognitivní trénink",
+        "Edukace rodiny a pečovatelů"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Antagonisté NMDA receptorů",
+          "priklady_generik": ["memantin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Off-label pro čistou vaskulární demenci. Lze zvážit u smíšené demence nebo při manifestaci středně těžkého stadia.",
+          "indikace_k_nasazeni": "Středně těžká až těžká vaskulární demence, smíšená demence (VaD + AD), intolerance AChEI."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Atypická antipsychotika u vaskulárních demencí nesou zvýšené riziko CMP a mortality – viz varování EMA/FDA. Použít jen při závažných BPSD.",
+      "interakce": [
+        "ASA + SSRI/SNRI – zvýšené riziko GI krvácení",
+        "Klopidogrel + inhibitory CYP2C19 (omeprazol, esomeprazol) – snížení antiagregačního efektu",
+        "AChEI + anticholinergika – antagonismus",
+        "Antihypertenziva + AChEI – riziko ortostatické hypotenze a synkopy"
+      ],
+      "monitoring": [
+        "Krevní tlak – cílové hodnoty dle guidelines (< 130/80 mmHg dle ESH 2023)",
+        "Lipidogram ročně (statinová terapie při aterosklerotické etiologii)",
+        "Glykemie/HbA1c u diabetiků",
+        "MMSE nebo MoCA každých 6 měsíců",
+        "Neuroimaging (MRI mozku) při podezření na progresi nebo nové CMP",
+        "Ledvinné funkce při léčbě memantinem"
+      ]
+    },
+    "zdroje": [
+      "APA Practice Guideline for the Treatment of Patients with Alzheimer's Disease and Other Dementias (2007)",
+      "ESO (European Stroke Organisation) Guidelines 2021",
+      "Psychiatrická společnost ČLS JEP – Doporučený postup (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+
+  {
+    "kod_mkn10": "F01.0",
+    "nazev_poruchy": "Vaskulární demence s akutním začátkem",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Antiagregancia",
+          "priklady_generik": ["kyselina acetylsalicylová", "klopidogrel"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Zahájit sekundární prevenci CMP dle neurologického doporučení. V akutní fázi CMP spolupráce s neurologii.",
+          "doporucene_davkovani_zahajovaci": "ASA 100 mg/den, klopidogrel 75 mg/den.",
+          "hlavni_nezadouci_ucinky": ["GI krvácení", "krvácení"],
+          "kontraindikace": ["aktivní krvácení", "hemoragická CMP"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Intenzivní kontrola vaskulárních rizikových faktorů",
+        "Neurorehabilitace v akutní/subakutní fázi",
+        "Kognitivní rehabilitace"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "AChEI (off-label)",
+          "priklady_generik": ["donepezil"],
+          "dostupnost_cr_sukl": true,
+          "indikace_k_nasazeni": "Persistující kognitivní deficit po odeznění akutní fáze CMP, zejména smíšená demence."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Viz F01.",
+      "interakce": ["Viz F01"],
+      "monitoring": ["Viz F01 – důraz na krevní tlak a neuroimaging"]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Alzheimer's Disease and Other Dementias (2007)",
+      "ESO Guidelines 2021",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+
+  {
+    "kod_mkn10": "F01.1",
+    "nazev_poruchy": "Multiinfarktová demence",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Antiagregancia",
+          "priklady_generik": ["kyselina acetylsalicylová", "klopidogrel"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Prevence dalších mikroinfarktů je klíčová. V závislosti na etiologii (kardioembolie) zvažte antikoagulaci (warfarin, DOAC).",
+          "doporucene_davkovani_zahajovaci": "ASA 100 mg/den. Při fibrilaci síní: antikoagulace dle kardiologa (apixaban, rivaroxaban, dabigatran – registrovány v ČR).",
+          "hlavni_nezadouci_ucinky": ["krvácivé komplikace", "GI krvácení"],
+          "kontraindikace": ["aktivní krvácení", "hemoragická CMP v anamnéze (antikoagulace opatrně)"]
+        },
+        {
+          "skupina_latek": "Inhibitory acetylcholinesterázy (off-label)",
+          "priklady_generik": ["donepezil", "galantamin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Studie prokázaly mírný benefit u vaskulární demence. Individuální rozhodnutí dle klinického obrazu.",
+          "doporucene_davkovani_zahajovaci": "Donepezil 5 mg/den, titrace na 10 mg/den.",
+          "hlavni_nezadouci_ucinky": ["bradykardie", "nauzea"],
+          "kontraindikace": ["závažné srdeční arytmie"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Kontrola hypertenze, diabetes mellitus, dyslipidemie",
+        "Fyzická aktivita",
+        "Kognitivní trénink",
+        "Edukace rodiny"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Antagonisté NMDA receptorů",
+          "priklady_generik": ["memantin"],
+          "dostupnost_cr_sukl": true,
+          "indikace_k_nasazeni": "Středně těžká až těžká demence nebo smíšená demence."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Viz F01.",
+      "interakce": [
+        "Warfarin/DOAC + NSAID/ASA – zvýšené riziko krvácení",
+        "Warfarin + mnohé léky psychiatrie (SSRI, antipsychotika) – monitoring INR",
+        "AChEI + anticholinergika – antagonismus",
+        "Antihypertenziva + AChEI – ortostatická hypotenze"
+      ],
+      "monitoring": [
+        "INR při léčbě warfarinem (cílové rozmezí dle indikace)",
+        "Krevní tlak pravidelně",
+        "MMSE/MoCA každých 6 měsíců",
+        "Lipidogram ročně",
+        "EKG (vyloučení arytmií jako příčiny embolizací)"
+      ]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Alzheimer's Disease and Other Dementias (2007)",
+      "ESO Guidelines 2021",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  }
+]
