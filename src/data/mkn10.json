@@ -7744,24 +7744,22 @@
   {
     "id": "F41.3",
     "kod": "F41.3",
-    "nazev_cz": "Smíšená úzkostná a depresivní porucha",
+    "nazev_cz": "Jiné smíšené úzkostné poruchy",
     "system": "MKN-10",
     "kategorie": "F40–F48 Neurotické, stresové a somatoformní poruchy",
     "podkategorie": "Jiné úzkostné poruchy",
-    "popis": "Přítomnost jak úzkostných, tak depresivních příznaků, avšak ani jedna složka není natolik výrazná, aby opravňovala samostatnou diagnózu. Velmi časté v primární péči.",
+    "popis": "Poruchy, při nichž jsou příznaky úzkosti smíchány s příznaky jiných poruch z rozsahu F40–F48 (obsedantní, disociativní, hypochondrické apod.) natolik, že smíšená povaha neumožňuje jednoznačné přiřazení k jedné kategorii.",
     "diagnosticka_kriteria": [
-      "Přítomnost úzkosti i deprese",
-      "Ani jedna složka nevyhovuje kritériím samostatné diagnózy",
-      "Příznaky způsobují klinicky významný distres"
+      "Přítomny příznaky úzkosti spolu s příznaky jiné poruchy z okruhu F40–F48",
+      "Smíšená povaha neumožňuje jednoznačné přiřazení k jedné kategorii",
+      "Příznaky způsobují klinicky závažnou tíseň nebo funkční postižení"
     ],
     "priznaky": [
-      "úzkost",
-      "depresivní nálada",
-      "podrážděnost",
-      "poruchy spánku",
-      "obavy",
-      "únava",
-      "poruchy soustředění"
+      "Napětí a úzkost",
+      "Smíšené obsedantní a úzkostné rysy",
+      "Smíšené disociativní a úzkostné rysy",
+      "Hypochondrické obavy s úzkostí",
+      "Nelze klasifikovat jako GAD ani jinou specifickou úzkostnou poruchu"
     ],
     "prubeh": "Chronický nebo epizodický.",
     "onset": "Variabilní, typicky mladá dospělost.",
@@ -7771,13 +7769,11 @@
       "F34"
     ],
     "mapovani": {
-      "mkn11": "6C71",
+      "mkn11": "6B0Y",
       "dsm5": null
     },
     "kriteria_mkn11": [
-      "Opakující se selhání v odolání impulzu ke kradení věcí, které nejsou nutné pro osobní použití ani pro jejich finanční hodnotu",
-      "Narůstající napětí bezprostředně před krádeží a pocit uspokojení nebo úlevy při krádeži",
-      "Krádež není způsobena hněvem, pomstou ani reakcí na bludy nebo halucinace"
+      "Úzkostná nebo strachem podmíněná porucha splňující obecná kritéria, ale nezapadající do žádné jiné specifikované kategorie v ICD-11"
     ]
   },
   {
@@ -8669,20 +8665,24 @@
   {
     "id": "F44.3",
     "kod": "F44.3",
-    "nazev_cz": "Disociativní stupor",
+    "nazev_cz": "Tranční a posesivní poruchy",
     "system": "MKN-10",
     "kategorie": "F40–F48 Neurotické a stresové poruchy",
     "podkategorie": "Disociativní poruchy",
-    "popis": "Výrazné snížení nebo absence volních pohybů a normálních reakcí na vnější podněty bez organické příčiny.",
+    "popis": "Poruchy, při nichž dochází k přechodnému ztrácení pocitu vlastní identity a plného uvědomění si okolí. V některých případech jedinec jedná, jako by byl ovládán jinou osobností, duchem, božstvem nebo silou. Zahrnují se pouze tranční poruchy, které jsou mimovolné nebo nechtěné a narušují běžné aktivity tím, že se vyskytují mimo náboženské nebo jinak kulturně přijímané situace.",
     "diagnosticka_kriteria": [
-      "Stupor bez organické příčiny",
-      "Přesvědčivá psychologická kauzalita"
+      "Přechodná ztráta pocitu vlastní identity a plného uvědomění si okolí",
+      "Stereotypní a opakující se pohyby, postoje nebo promluvy",
+      "Porucha je mimovolní a nechtěná; nevyskytuje se v rámci přijímaných náboženských nebo kulturních praktik",
+      "Žádná organická ani látková příčina"
     ],
     "priznaky": [
-      "Imobilita",
-      "Mutismus",
-      "Absence reakcí na podněty",
-      "Zachované oční pohyby"
+      "Tranční stav",
+      "Ztráta vlastní identity",
+      "Pocit ovládnutí cizí bytostí",
+      "Stereotypní pohyby a projevy",
+      "Zúžené vědomí",
+      "Amnézie na epizodu"
     ],
     "prubeh": "Epizodický, zpravidla krátký.",
     "onset": "Akutní.",
@@ -8692,13 +8692,14 @@
       "Organická příčina"
     ],
     "mapovani": {
-      "mkn11": "6B60.2",
+      "mkn11": "6B62",
       "dsm5": "300.11"
     },
     "kriteria_mkn11": [
-      "Disociativní porucha pohybů nebo vnímání způsobená psychologickými faktory",
-      "Příznaky pohybových nebo smyslových deficitů neodpovídají neurologickému onemocnění",
-      "Pozitivní klinické příznaky disociace a absence jiného vysvětlení"
+      "Epizody výrazného omezení nebo ztráty vědomí vlastní identity a plného uvědomění si okolí",
+      "Příznaky jsou opakující se nebo trvalé",
+      "Jsou nepodmíněné a nežádoucí (netvoří součást společensky nebo nábožensky přijatelných rituálů)",
+      "Způsobují klinicky závažnou tíseň nebo funkční postižení"
     ]
   },
   {
@@ -10122,20 +10123,22 @@
   {
     "id": "F52.4",
     "kod": "F52.4",
-    "nazev_cz": "Vaginismus neorganický",
+    "nazev_cz": "Předčasná ejakulace",
     "system": "MKN-10",
     "kategorie": "F50–F59 Behaviorální syndromy",
     "podkategorie": "Sexuální dysfunkce",
-    "popis": "Spazmus svalů obklopujících vagínu způsobující uzavření vchodu do vagíny.",
+    "popis": "Neschopnost kontrolovat ejakulaci natolik, aby oba partneři mohli pohlavní styk vychutnat. Ejakulace nastává před zahájením pohlavního styku nebo velmi brzy po jeho zahájení, nebo i bez dostatečné erekce umožňující pohlavní styk.",
     "diagnosticka_kriteria": [
-      "Spazmus pánevního dna znemožňující penetraci",
-      "Bez organické příčiny"
+      "Neschopnost kontrolovat ejakulaci dostatečně pro oboustranně uspokojivý pohlavní styk",
+      "Ejakulace nastává před nebo bezprostředně po zahájení penetrace",
+      "Nezpůsobena organickým onemocněním, léky ani psychotickými poruchami"
     ],
     "priznaky": [
-      "Involuntární svalový spazmus",
-      "Nemožnost penetrace",
-      "Strach z pohlavního styku",
-      "Úzkost"
+      "Ejakulace před nebo ihned po penetraci",
+      "Ztráta kontroly nad ejakulací",
+      "Úzkost z výkonu",
+      "Frustrace a snížené sexuální sebevědomí",
+      "Napětí ve vztahu"
     ],
     "prubeh": "Chronický bez léčby.",
     "onset": "Zpravidla od prvního pokusu o pohlavní styk.",
@@ -10144,11 +10147,13 @@
       "F52.6"
     ],
     "mapovani": {
-      "mkn11": "HA01",
+      "mkn11": "HA00",
       "dsm5": "302.76"
     },
     "kriteria_mkn11": [
-      "Porucha pohlavní identity nebo genderové neshody: výrazný nesoulad mezi prožívanou nebo vyjadřovanou pohlavní identitou jedince a přiděleným pohlavím"
+      "Neschopnost kontrolovat ejakulaci natolik, aby pohlavní styk byl pro oba partnery uspokojivý",
+      "Příznaky přetrvávají nejméně 6 měsíců a způsobují výraznou tíseň nebo mezilidské obtíže",
+      "Nejsou lépe vysvětleny jinou duševní poruchou, zdravotním stavem ani účinky látky"
     ]
   },
   {
