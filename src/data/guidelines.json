@@ -1009,5 +1009,296 @@
       "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
       "SÚKL Databáze léčiv – ověřeno 2025"
     ]
+  },
+  {
+    "kod_mkn10": "F40",
+    "nazev_poruchy": "Fobické úzkostné poruchy",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "SSRI – pro sociální fobii a agorafobii",
+          "priklady_generik": ["sertralin", "escitalopram", "paroxetin", "fluvoxamin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Paroxetin a sertralin mají registraci v ČR pro sociální fobii. Escitalopram a fluvoxamin jsou doporučovány off-label. Efekt nastupuje za 4–6 týdnů, plný efekt za 8–12 týdnů. Délka léčby minimálně 12 měsíců.",
+          "doporucene_davkovani_zahajovaci": "Sertralin: 25–50 mg/den, titrace na 50–200 mg. Escitalopram: 5–10 mg/den, cílová 10–20 mg. Paroxetin: 10–20 mg/den, cílová 20–60 mg.",
+          "hlavni_nezadouci_ucinky": ["počáteční nárůst úzkosti (první 1–2 týdny)", "nauzea", "sexuální dysfunkce", "insomnie"],
+          "kontraindikace": ["MAOI", "viz F32"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Kognitivně-behaviorální terapie (CBT) s expozicí – léčba první volby pro specifické fobie a sociální fobii",
+        "Expozice in vivo – systematická desenzitizace",
+        "Virtuální realita (VR expozice) – pro specifické fobie (výšky, létání)",
+        "Skupinová CBT – efektivní pro sociální fobii"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "SNRI",
+          "priklady_generik": ["venlafaxin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Venlafaxin XR má registraci pro sociální fobii v ČR.",
+          "doporucene_davkovani_zahajovaci": "75 mg/den XR, titrace na 150–225 mg/den.",
+          "hlavni_nezadouci_ucinky": ["hypertenze", "nauzea", "abstinenční syndrom"],
+          "kontraindikace": ["MAOI", "nekontrolovaná hypertenze"],
+          "indikace_k_nasazeni": "Intolerance nebo nedostatečná odpověď na SSRI."
+        },
+        {
+          "skupina_latek": "Betablokátory – pro situační úzkost (výkonnostní fobie)",
+          "priklady_generik": ["propranolol"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Off-label pro situační úzkost (veřejné vystoupení, zkoušení). Podáváno jednorázově 30–60 min před událostí. Neovlivňuje kognitivní složku úzkosti, pouze autonomní příznaky.",
+          "doporucene_davkovani_zahajovaci": "Propranolol 10–40 mg p.o. jednorázově.",
+          "hlavni_nezadouci_ucinky": ["bradykardie", "hypotenze", "bronchospasmus"],
+          "kontraindikace": ["astma", "AV blok", "bradykardie"],
+          "indikace_k_nasazeni": "Izolovaná výkonnostní fobie, situační úzkost."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Benzodiazepiny (alprazolam, lorazepam, klonazepam) jsou sice krátkodobě účinné, ale pro fobie NEDOPORUČENY jako monoterapie – riziko závislosti, bránění expozici (kognitivní vyhýbání), rebound fenomén. Pokud použity, pouze krátkodobě nebo jako záchranná medikace.",
+      "interakce": ["viz F32 pro SSRI/SNRI", "Propranolol + verapamil nebo diltiazem – riziko bradykardie a AV bloku", "Propranolol + inzulín – maskuje příznaky hypoglykémie"],
+      "monitoring": ["Hodnocení fobické vyhýbání – klinicky každých 4–6 týdnů", "Sexuální dysfunkce při SSRI", "Krevní tlak (venlafaxin)"]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Social Anxiety Disorder (2009)",
+      "NICE Guideline CG159: Social anxiety disorder (2013, aktualizace 2022)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F41.0",
+    "nazev_poruchy": "Panická porucha",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "SSRI",
+          "priklady_generik": ["escitalopram", "sertralin", "paroxetin", "fluoxetin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Paroxetin, sertralin a escitalopram mají registraci pro panickou poruchu v ČR. SSRI zahajovat v nízké dávce (poloviční) – pacienti s panickou poruchou jsou na počáteční aktivizaci úzkosti velmi citliví. Postupná titrace.",
+          "doporucene_davkovani_zahajovaci": "Escitalopram: zahájit 5 mg/den, po 1 týdnu zvýšit na 10 mg, cílová 10–20 mg. Sertralin: zahájit 25 mg/den, cílová 50–200 mg. Paroxetin: zahájit 10 mg/den, cílová 20–60 mg.",
+          "hlavni_nezadouci_ucinky": ["počáteční zesílení úzkosti a paniky (1–2 týdny)", "nauzea", "insomnie", "sexuální dysfunkce"],
+          "kontraindikace": ["MAOI"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "CBT s interoceptivní expozicí – zlatý standard léčby panické poruchy",
+        "Psychoedukace o fyziologii panického záchvatu",
+        "Dechové techniky a relaxace (jako doplněk, ne samotná technika)",
+        "Expozice in vivo při komorbidní agorafobii"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "SNRI",
+          "priklady_generik": ["venlafaxin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Venlafaxin XR registrován v ČR pro panickou poruchu.",
+          "doporucene_davkovani_zahajovaci": "37,5 mg/den XR zahajovací, titrace na 75–225 mg/den.",
+          "hlavni_nezadouci_ucinky": ["hypertenze", "abstinenční syndrom"],
+          "kontraindikace": ["MAOI"],
+          "indikace_k_nasazeni": "Intolerance nebo nedostatečná odpověď na SSRI."
+        },
+        {
+          "skupina_latek": "Klonazepam – krátkodobá přemosťovací terapie",
+          "priklady_generik": ["klonazepam"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Pouze krátkodobě (max. 4–8 týdnů) na začátku léčby SSRI/SNRI pro překlenutí latence nástupu účinku. Poté vysadit postupně. Riziko závislosti.",
+          "doporucene_davkovani_zahajovaci": "0,25–0,5 mg 2× denně, max. 1–2 mg/den.",
+          "hlavni_nezadouci_ucinky": ["sedace", "závislost", "kognitivní zpomalení", "rebound při vysazení"],
+          "kontraindikace": ["závislost na alkoholu nebo benzodiazepinech v anamnéze", "těžká respirační insuficience"],
+          "indikace_k_nasazeni": "Přemostění latence SSRI/SNRI, těžká akutní symptomatika."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Benzodiazepiny – riziko fyzické a psychické závislosti, rebound fenoménu a výrazného abstinenčního syndromu při vysazení. Předepisovat pouze na omezenou dobu, pečlivě sledovat spotřebu.",
+      "interakce": ["SSRI + tramadol – serotoninový syndrom", "Klonazepam + alkohol nebo jiné CNS depresanty – aditivní útlum CNS, riziko respirační deprese"],
+      "monitoring": ["Frekvence a intenzita panických záchvatů (deník příznaků)", "Agorafobické vyhýbání", "Benzodiazepiny: sledovat rozvoj závislosti a tolerance"]
+    },
+    "zdroje": [
+      "APA Practice Guideline (2009)",
+      "NICE CG113: Generalised anxiety disorder and panic disorder (2011, aktualizace 2020)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F41.1",
+    "nazev_poruchy": "Generalizovaná úzkostná porucha (GAD)",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "SSRI nebo SNRI",
+          "priklady_generik": ["escitalopram", "sertralin", "venlafaxin", "duloxetin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Escitalopram, paroxetin a venlafaxin XR mají registraci pro GAD v ČR. Duloxetin také registrován. SSRI/SNRI jsou lékem první volby – bez rizika závislosti. Efekt nastupuje za 4–6 týdnů.",
+          "doporucene_davkovani_zahajovaci": "Escitalopram: 5–10 mg/den, cílová 10–20 mg. Venlafaxin XR: 75 mg/den, cílová 75–225 mg. Duloxetin: 30 mg/den, cílová 60 mg.",
+          "hlavni_nezadouci_ucinky": ["nauzea", "insomnie", "sexuální dysfunkce", "hypertenze (venlafaxin)"],
+          "kontraindikace": ["MAOI"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "CBT zaměřená na worry – technika odložení starostí, kognitivní restrukturace",
+        "Relaxační trénink (progresivní svalová relaxace)",
+        "Mindfulness-Based Stress Reduction (MBSR)",
+        "Psychoedukace o povaze a mechanismu úzkosti"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Pregabalin",
+          "priklady_generik": ["pregabalin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Pregabalin je registrován v ČR pro GAD. Rychlejší nástup účinku než SSRI/SNRI. Riziko závislosti (kontrolovaná látka – Seznam II). Vhodný zejm. při somatických příznacích úzkosti.",
+          "doporucene_davkovani_zahajovaci": "75 mg 2× denně, titrace na 150–600 mg/den ve 2–3 dávkách.",
+          "hlavni_nezadouci_ucinky": ["sedace", "závratě", "přírůstek hmotnosti", "periferní otoky", "potenciál zneužití"],
+          "kontraindikace": ["závislost na návykových látkách v anamnéze (relativní)"],
+          "indikace_k_nasazeni": "Intolerance SSRI/SNRI, výrazné somatické příznaky úzkosti."
+        },
+        {
+          "skupina_latek": "Buspiron",
+          "priklady_generik": ["buspiron"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Registrován v ČR pro GAD. Bez rizika závislosti, ale pomalý nástup (2–4 týdny). Nevhodný pro pacienty, kteří dříve užívali benzodiazepiny (zdánlivě méně účinný).",
+          "doporucene_davkovani_zahajovaci": "5 mg 3× denně, titrace na 15–60 mg/den.",
+          "hlavni_nezadouci_ucinky": ["závratě", "bolest hlavy", "nauzea"],
+          "kontraindikace": ["MAOI", "těžká jaterní nebo renální insuficience"],
+          "indikace_k_nasazeni": "Alternativa SSRI/SNRI bez rizika závislosti; nevhodný pro akutní stavy."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Benzodiazepiny (diazepam, alprazolam, lorazepam) nejsou doporučeny pro dlouhodobou léčbu GAD – riziko závislosti a tolerance. Pokud použity, pouze krátkodobě (max. 2–4 týdny). Pregabalin: sledovat zneužívání (narkotický potenciál).",
+      "interakce": ["Venlafaxin + MAOI – absolutní KI (serotoninový syndrom)", "Pregabalin + alkohol nebo opiáty – aditivní útlum CNS", "Buspiron + MAOI – absolutní KI", "Buspiron + fluvoxamin – zvýšení hladin buspironu"],
+      "monitoring": ["Úzkostné příznaky – GAD-7 škála každých 4–6 týdnů", "Krevní tlak (venlafaxin)", "Sledování zneužívání pregabalinu"]
+    },
+    "zdroje": [
+      "NICE CG113 (2011, aktualizace 2020)",
+      "APA Practice Guideline for GAD (2004)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F42",
+    "nazev_poruchy": "Obsedantně-kompulzivní porucha (OCD)",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "SSRI ve vysokých dávkách",
+          "priklady_generik": ["fluvoxamin", "sertralin", "escitalopram", "paroxetin", "fluoxetin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Pro OCD jsou potřebné vyšší dávky SSRI než pro depresi. Fluvoxamin má specifickou registraci pro OCD v ČR. Efekt nastupuje pomaleji – hodnotit po 10–12 týdnech. Léčba trvá minimálně 1–2 roky.",
+          "doporucene_davkovani_zahajovaci": "Fluvoxamin: 50 mg/den, titrace na 150–300 mg/den. Sertralin: 50 mg/den, cílová 100–250 mg/den. Fluoxetin: 20 mg/den, cílová 40–80 mg/den. Escitalopram: 10 mg/den, cílová 20–40 mg/den.",
+          "hlavni_nezadouci_ucinky": ["nauzea", "insomnie", "sexuální dysfunkce", "QTc prodloužení (escitalopram > 20 mg)"],
+          "kontraindikace": ["MAOI", "viz F32"]
+        },
+        {
+          "skupina_latek": "Klomipramin – tricyklické antidepresivum s nejsilnější antiobsesivní účinností",
+          "priklady_generik": ["klomipramin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Klomipramin má registraci pro OCD v ČR. Nejúčinnější farmakologická možnost pro OCD, ale horší tolerabilita než SSRI (anticholinergní NÚ, kardiotoxicita). Vyhrazen pro intolerance nebo selhání SSRI, nebo jako augmentace.",
+          "doporucene_davkovani_zahajovaci": "25 mg/den, titrace na 100–250 mg/den.",
+          "hlavni_nezadouci_ucinky": ["sucho v ústech", "zácpa", "sedace", "přírůstek hmotnosti", "tachykardie", "prodloužení QTc", "záchvaty (> 250 mg)"],
+          "kontraindikace": ["glaukom s uzavřeným úhlem", "retence moči", "nedávný infarkt myokardu", "MAOI"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "CBT s expozicí a zábranou odpovědi (ERP – Exposure and Response Prevention) – léčba první volby, stejná nebo vyšší účinnost než farmakoterapie",
+        "Kombinace ERP + SSRI – efektivnější než samotná monoterapie",
+        "Psychoedukace o mechanismu OCD (vicious cycle obsession-compulsion)",
+        "Rodinná terapie při zapojení rodiny do kompulzí"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Augmentace atypickým antipsychotikem",
+          "priklady_generik": ["risperidon", "aripiprazol", "quetiapine", "haloperidol"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Přidání nízkodávkového antipsychotika k SSRI u parciální odpovědi nebo u OCD s tikovou poruchou. Aripiprazol a risperidon mají nejsilnější evidenci.",
+          "doporucene_davkovani_zahajovaci": "Risperidon 0,5–2 mg/den. Aripiprazol 2,5–15 mg/den.",
+          "hlavni_nezadouci_ucinky": ["viz F20"],
+          "kontraindikace": ["viz F20"],
+          "indikace_k_nasazeni": "Parciální odpověď na SSRI (≥ 25 % zlepšení Y-BOCS), komorbidní tiková porucha."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Klomipramin: riziko záchvatů dávkově závislé (> 250 mg/den). Riziko fatální kardiální arytmie při předávkování. U pacientů se suicidálními tendencemi předepisovat opatrně – letální dávka je relativně nízká (viz TCA bezpečnost).",
+      "interakce": ["Klomipramin + MAOI – absolutní KI (hypertenzní krize, serotoninový syndrom)", "SSRI + klomipramin – zvýšení hladin klomipraminu (inhibice CYP)", "Klomipramin + tramadol – riziko záchvatů a serotoninového syndromu"],
+      "monitoring": ["Y-BOCS (Yale-Brown Obsessive Compulsive Scale) – hodnotit každých 4–6 týdnů", "EKG při klomipraminu > 100 mg/den", "Záchvaty při klomipraminu (anamnesticky a EEG při podezření)"]
+    },
+    "zdroje": [
+      "APA Practice Guideline for OCD (2007)",
+      "NICE CG31: OCD and BDD (2005, aktualizace 2022)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F43.1",
+    "nazev_poruchy": "Posttraumatická stresová porucha (PTSD)",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "SSRI",
+          "priklady_generik": ["sertralin", "paroxetin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Sertralin a paroxetin mají registraci FDA i EMA pro PTSD a jsou lékem první volby. V ČR jsou oba dostupné. Efekt nastupuje za 4–8 týdnů. Léčba trvá minimálně 12 měsíců po dosažení remise.",
+          "doporucene_davkovani_zahajovaci": "Sertralin: 25–50 mg/den, cílová 50–200 mg. Paroxetin: 10–20 mg/den, cílová 20–60 mg.",
+          "hlavni_nezadouci_ucinky": ["nauzea", "sexuální dysfunkce", "insomnie", "abstinenční syndrom (paroxetin)"],
+          "kontraindikace": ["MAOI"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Trauma-fokusovaná CBT (TF-CBT) – léčba první volby u PTSD, silná evidence",
+        "EMDR (Eye Movement Desensitization and Reprocessing) – WHO a NICE doporučují jako léčbu první volby",
+        "Prolonged Exposure (PE) – systematická expozice traumatickým vzpomínkám",
+        "Cognitive Processing Therapy (CPT)",
+        "Psychoedukace o reakcích na trauma"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "SNRI",
+          "priklady_generik": ["venlafaxin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Venlafaxin XR má dobrou evidenci pro PTSD, i když bez formální registrace pro tuto indikaci v ČR (off-label).",
+          "doporucene_davkovani_zahajovaci": "75–225 mg/den XR.",
+          "hlavni_nezadouci_ucinky": ["hypertenze", "abstinenční syndrom"],
+          "kontraindikace": ["MAOI"],
+          "indikace_k_nasazeni": "Intolerance nebo nedostatečná odpověď na SSRI."
+        },
+        {
+          "skupina_latek": "Prazosin – pro noční můry a hyperarouzal",
+          "priklady_generik": ["prazosin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Off-label pro PTSD v ČR. Alfa-1 blokátor snižující noradrenergní aktivaci. Specificky účinný pro noční můry a poruchy spánku u PTSD.",
+          "doporucene_davkovani_zahajovaci": "1 mg na noc, titrace na 5–20 mg/den.",
+          "hlavni_nezadouci_ucinky": ["ortostatická hypotenze", "závratě", "priapismus (vzácně)"],
+          "kontraindikace": ["těžká hypotenze", "kombinace s PDE5 inhibitory (sildenafil)"],
+          "indikace_k_nasazeni": "PTSD s prominentními nočními můrami a poruchou spánku."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Benzodiazepiny jsou u PTSD kontraindikovány jako dlouhodobá léčba – zvyšují riziko chronifikace PTSD, bránění zpracování traumatu a rozvoje závislosti. Antipsychotika u PTSD – jen jako adjuvantní léčba při psychotické komponentě nebo těžké dysregulaci.",
+      "interakce": ["SSRI + tramadol – serotoninový syndrom", "Prazosin + antihypertenziva nebo PDE5 inhibitory – riziko těžké hypotenze"],
+      "monitoring": ["PCL-5 nebo CAPS-5 škála každých 4–8 týdnů", "Suicidalita (vysoké riziko u PTSD)", "Spánek a frekvence nočních můr", "Zneužívání alkoholu nebo drog (vysoká komorbidita u PTSD)"]
+    },
+    "zdroje": [
+      "APA Practice Guideline for PTSD (2017)",
+      "NICE Guideline CG26: PTSD (2005, aktualizace 2018)",
+      "WHO Guidelines for PTSD 2013",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
   }
 ]
