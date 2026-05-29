@@ -224,11 +224,34 @@ export default function GuidelinesSection({ guideline }) {
 
         {/* Zdroje */}
         {zdroje.length > 0 && (
-          <div className="border-t border-slate-100 pt-2">
-            <p className="text-xs text-slate-400">
-              <span className="font-semibold">Zdroje: </span>
-              {zdroje.join(' | ')}
-            </p>
+          <div className="border-t border-slate-100 pt-3">
+            <p className="text-xs font-semibold text-slate-500 uppercase tracking-wide mb-1.5">Zdroje & Guidelines</p>
+            <div className="flex flex-wrap gap-1.5">
+              {zdroje.map((z, i) => {
+                const nazev = typeof z === 'object' ? z.nazev : z;
+                const url   = typeof z === 'object' ? z.url   : null;
+                return url ? (
+                  <a
+                    key={i}
+                    href={url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1 text-xs bg-slate-50 hover:bg-blue-50 text-slate-600 hover:text-blue-700 border border-slate-200 hover:border-blue-300 rounded px-2 py-1 transition-colors"
+                    title={nazev}
+                  >
+                    <svg className="w-3 h-3 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
+                        d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                    </svg>
+                    {nazev}
+                  </a>
+                ) : (
+                  <span key={i} className="inline-flex items-center text-xs bg-slate-50 text-slate-500 border border-slate-200 rounded px-2 py-1">
+                    {nazev}
+                  </span>
+                );
+              })}
+            </div>
           </div>
         )}
       </div>

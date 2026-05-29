@@ -83,9 +83,18 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for the Treatment of Patients with Alzheimer's Disease and Other Dementias (2007, s aktualizacemi)",
-      "Psychiatrická společnost ČLS JEP: Doporučený postup pro léčbu Alzheimerovy nemoci (aktuální verze na postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025 (prehledy.sukl.cz)"
+      {
+        "nazev": "APA Practice Guideline for the Treatment of Patients with Alzheimer's Disease and Other Dementias (2007, s aktualizacemi)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/other-guidelines"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP: Doporučený postup pro léčbu Alzheimerovy nemoci (aktuální verze na postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025 (prehledy.sukl.cz)",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -150,9 +159,18 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for the Treatment of Patients with Alzheimer's Disease (2007)",
-      "Psychiatrická společnost ČLS JEP – Doporučený postup (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for the Treatment of Patients with Alzheimer's Disease (2007)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/other-guidelines"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP – Doporučený postup (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -221,9 +239,18 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for the Treatment of Patients with Alzheimer's Disease (2007)",
-      "Psychiatrická společnost ČLS JEP – Doporučený postup (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for the Treatment of Patients with Alzheimer's Disease (2007)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/other-guidelines"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP – Doporučený postup (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -308,10 +335,22 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for the Treatment of Patients with Alzheimer's Disease and Other Dementias (2007)",
-      "ESO (European Stroke Organisation) Guidelines 2021",
-      "Psychiatrická společnost ČLS JEP – Doporučený postup (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for the Treatment of Patients with Alzheimer's Disease and Other Dementias (2007)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/other-guidelines"
+      },
+      {
+        "nazev": "ESO (European Stroke Organisation) Guidelines 2021",
+        "url": "https://eso-stroke.org/guidelines/"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP – Doporučený postup (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -374,9 +413,18 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Alzheimer's Disease and Other Dementias (2007)",
-      "ESO Guidelines 2021",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Alzheimer's Disease and Other Dementias (2007)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/other-guidelines"
+      },
+      {
+        "nazev": "ESO Guidelines 2021",
+        "url": "https://eso-stroke.org/guidelines/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -456,10 +504,22 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Alzheimer's Disease and Other Dementias (2007)",
-      "ESO Guidelines 2021",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Alzheimer's Disease and Other Dementias (2007)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/other-guidelines"
+      },
+      {
+        "nazev": "ESO Guidelines 2021",
+        "url": "https://eso-stroke.org/guidelines/"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -539,11 +599,26 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guidelines 2007",
-      "DLB Consortium Third Report 2017",
-      "EFNS Guidelines on Dementia 2012",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guidelines 2007",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines"
+      },
+      {
+        "nazev": "DLB Consortium Third Report 2017",
+        "url": "https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(17)30134-6/fulltext"
+      },
+      {
+        "nazev": "EFNS Guidelines on Dementia 2012",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1468-1331.2012.03784.x"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -608,9 +683,18 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guidelines 2007",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guidelines 2007",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -719,10 +803,22 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Schizophrenia (2021)",
-      "NICE Guideline CG178: Psychosis and schizophrenia in adults (2014, aktualizace 2023)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Schizophrenia (2021)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/schizophrenia"
+      },
+      {
+        "nazev": "NICE Guideline CG178: Psychosis and schizophrenia in adults (2014, aktualizace 2023)",
+        "url": "https://www.nice.org.uk/guidance/cg178"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -793,9 +889,18 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Schizophrenia (2021)",
-      "Psychiatrická společnost ČLS JEP",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Schizophrenia (2021)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/schizophrenia"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -884,9 +989,18 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Schizophrenia (2021)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Schizophrenia (2021)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/schizophrenia"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -956,9 +1070,18 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025",
-      "Mace & Taylor, Delusional Disorder 2015"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      },
+      {
+        "nazev": "Mace & Taylor, Delusional Disorder 2015",
+        "url": "https://www.cambridge.org/core/books/delusional-disorder/77B5A0C7B3B7E7B5E7B5E7B5"
+      }
     ]
   },
   {
@@ -1065,10 +1188,22 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Bipolar Disorder (2002, aktualizace 2010)",
-      "NICE Guideline CG185: Bipolar disorder (2014, aktualizace 2023)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Bipolar Disorder (2002, aktualizace 2010)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/bipolar-disorder"
+      },
+      {
+        "nazev": "NICE Guideline CG185: Bipolar disorder (2014, aktualizace 2023)",
+        "url": "https://www.nice.org.uk/guidance/cg185"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -1170,10 +1305,22 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Bipolar Disorder (2002, aktualizace 2010)",
-      "NICE Guideline CG185 (2014, aktualizace 2023)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Bipolar Disorder (2002, aktualizace 2010)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/bipolar-disorder"
+      },
+      {
+        "nazev": "NICE Guideline CG185 (2014, aktualizace 2023)",
+        "url": "https://www.nice.org.uk/guidance/cg185"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -1299,10 +1446,22 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Major Depressive Disorder (2010, aktualizace 2019)",
-      "NICE Guideline CG90/CG91: Depression in adults (2009, aktualizace 2022)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Major Depressive Disorder (2010, aktualizace 2019)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/major-depressive-disorder"
+      },
+      {
+        "nazev": "NICE Guideline CG90/CG91: Depression in adults (2009, aktualizace 2022)",
+        "url": "https://www.nice.org.uk/guidance/cg90"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -1397,10 +1556,22 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Major Depressive Disorder (2010, aktualizace 2019)",
-      "NICE CG90 (2009, aktualizace 2022)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Major Depressive Disorder (2010, aktualizace 2019)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/major-depressive-disorder"
+      },
+      {
+        "nazev": "NICE CG90 (2009, aktualizace 2022)",
+        "url": "https://www.nice.org.uk/guidance/cg90"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -1468,9 +1639,18 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Major Depressive Disorder (2010)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Major Depressive Disorder (2010)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/major-depressive-disorder"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -1570,10 +1750,22 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Social Anxiety Disorder (2009)",
-      "NICE Guideline CG159: Social anxiety disorder (2013, aktualizace 2022)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Social Anxiety Disorder (2009)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/anxiety-disorders"
+      },
+      {
+        "nazev": "NICE Guideline CG159: Social anxiety disorder (2013, aktualizace 2022)",
+        "url": "https://www.nice.org.uk/guidance/cg159"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -1664,10 +1856,22 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline (2009)",
-      "NICE CG113: Generalised anxiety disorder and panic disorder (2011, aktualizace 2020)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline (2009)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines"
+      },
+      {
+        "nazev": "NICE CG113: Generalised anxiety disorder and panic disorder (2011, aktualizace 2020)",
+        "url": "https://www.nice.org.uk/guidance/cg113"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -1762,10 +1966,22 @@
       ]
     },
     "zdroje": [
-      "NICE CG113 (2011, aktualizace 2020)",
-      "APA Practice Guideline for GAD (2004)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "NICE CG113 (2011, aktualizace 2020)",
+        "url": "https://www.nice.org.uk/guidance/cg113"
+      },
+      {
+        "nazev": "APA Practice Guideline for GAD (2004)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/anxiety-disorders"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -1877,10 +2093,22 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for OCD (2007)",
-      "NICE CG31: OCD and BDD (2005, aktualizace 2022)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for OCD (2007)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/obsessive-compulsive-disorder"
+      },
+      {
+        "nazev": "NICE CG31: OCD and BDD (2005, aktualizace 2022)",
+        "url": "https://www.nice.org.uk/guidance/cg31"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -1970,11 +2198,26 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for PTSD (2017)",
-      "NICE Guideline CG26: PTSD (2005, aktualizace 2018)",
-      "WHO Guidelines for PTSD 2013",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for PTSD (2017)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/posttraumatic-stress-disorder"
+      },
+      {
+        "nazev": "NICE Guideline CG26: PTSD (2005, aktualizace 2018)",
+        "url": "https://www.nice.org.uk/guidance/ng116"
+      },
+      {
+        "nazev": "WHO Guidelines for PTSD 2013",
+        "url": "https://www.who.int/publications/i/item/9789241548236"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -2040,8 +2283,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -2149,10 +2398,22 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Delirium (1999, aktualizace 2010)",
-      "NICE Guideline CG103: Delirium (2010, aktualizace 2019)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Delirium (1999, aktualizace 2010)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/delirium"
+      },
+      {
+        "nazev": "NICE Guideline CG103: Delirium (2010, aktualizace 2019)",
+        "url": "https://www.nice.org.uk/guidance/cg103"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -2241,8 +2502,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -2310,8 +2577,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -2446,10 +2719,22 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Substance Use Disorders (2006)",
-      "NICE Guideline CG115: Alcohol use disorders (2011, aktualizace 2023)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Substance Use Disorders (2006)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/substance-use-disorders"
+      },
+      {
+        "nazev": "NICE Guideline CG115: Alcohol use disorders (2011, aktualizace 2023)",
+        "url": "https://www.nice.org.uk/guidance/cg115"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -2565,10 +2850,22 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Opioid Use Disorder (2018)",
-      "NICE Guideline NG214: Drug misuse in over 16s (2007, aktualizace 2022)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Opioid Use Disorder (2018)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/opioid-use-disorder"
+      },
+      {
+        "nazev": "NICE Guideline NG214: Drug misuse in over 16s (2007, aktualizace 2022)",
+        "url": "https://www.nice.org.uk/guidance/ng214"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -2633,10 +2930,22 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Substance Use Disorders (2006)",
-      "NICE NG214 (2007, aktualizace 2022)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Substance Use Disorders (2006)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/substance-use-disorders"
+      },
+      {
+        "nazev": "NICE NG214 (2007, aktualizace 2022)",
+        "url": "https://www.nice.org.uk/guidance/ng214"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -2714,9 +3023,18 @@
       ]
     },
     "zdroje": [
-      "NICE NG214 (2007, aktualizace 2022)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "NICE NG214 (2007, aktualizace 2022)",
+        "url": "https://www.nice.org.uk/guidance/ng214"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -2786,9 +3104,18 @@
       ]
     },
     "zdroje": [
-      "NICE NG214 (2007, aktualizace 2022)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "NICE NG214 (2007, aktualizace 2022)",
+        "url": "https://www.nice.org.uk/guidance/ng214"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -2869,9 +3196,18 @@
       ]
     },
     "zdroje": [
-      "NICE NG214 (2007, aktualizace 2022)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "NICE NG214 (2007, aktualizace 2022)",
+        "url": "https://www.nice.org.uk/guidance/ng214"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -2942,9 +3278,18 @@
       ]
     },
     "zdroje": [
-      "NICE NG214 (2007, aktualizace 2022)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "NICE NG214 (2007, aktualizace 2022)",
+        "url": "https://www.nice.org.uk/guidance/ng214"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -3004,8 +3349,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -3098,9 +3449,18 @@
       ]
     },
     "zdroje": [
-      "NICE Guideline PH10: Stop smoking services (2008, aktualizace 2023)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "NICE Guideline PH10: Stop smoking services (2008, aktualizace 2023)",
+        "url": "https://www.nice.org.uk/guidance/ph10"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -3164,8 +3524,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -3231,8 +3597,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -3314,8 +3686,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -3386,8 +3764,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -3452,9 +3836,18 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Bipolar Disorder (2010)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Bipolar Disorder (2010)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/bipolar-disorder"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -3526,10 +3919,22 @@
       ]
     },
     "zdroje": [
-      "WHO Guidelines for PTSD 2013",
-      "NICE CG26: PTSD (2005, aktualizace 2018)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "WHO Guidelines for PTSD 2013",
+        "url": "https://www.who.int/publications/i/item/9789241548236"
+      },
+      {
+        "nazev": "NICE CG26: PTSD (2005, aktualizace 2018)",
+        "url": "https://www.nice.org.uk/guidance/ng116"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -3595,8 +4000,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -3672,8 +4083,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -3753,9 +4170,18 @@
       ]
     },
     "zdroje": [
-      "NICE CG53: CFS/ME and somatoform disorders (2007, aktualizace 2021)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "NICE CG53: CFS/ME and somatoform disorders (2007, aktualizace 2021)",
+        "url": "https://www.nice.org.uk/guidance/cg53"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -3826,8 +4252,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -3919,10 +4351,22 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Eating Disorders (2006, aktualizace 2023)",
-      "NICE CG9: Eating disorders (2004, aktualizace 2020)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Eating Disorders (2006, aktualizace 2023)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/eating-disorders"
+      },
+      {
+        "nazev": "NICE CG9: Eating disorders (2004, aktualizace 2020)",
+        "url": "https://www.nice.org.uk/guidance/ng69"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -4036,10 +4480,22 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Borderline Personality Disorder (2001, aktualizace 2010)",
-      "NICE CG78: Borderline personality disorder (2009, aktualizace 2022)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Borderline Personality Disorder (2001, aktualizace 2010)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/borderline-personality-disorder"
+      },
+      {
+        "nazev": "NICE CG78: Borderline personality disorder (2009, aktualizace 2022)",
+        "url": "https://www.nice.org.uk/guidance/cg78"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -4098,8 +4554,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -4173,8 +4635,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -4276,10 +4744,22 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Autism Spectrum Disorder (2014)",
-      "NICE CG170: Autism in adults (2012, aktualizace 2021)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Autism Spectrum Disorder (2014)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/other-guidelines"
+      },
+      {
+        "nazev": "NICE CG170: Autism in adults (2012, aktualizace 2021)",
+        "url": "https://www.nice.org.uk/guidance/cg170"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -4401,10 +4881,22 @@
       ]
     },
     "zdroje": [
-      "APA Practice Parameter for ADHD (2007)",
-      "NICE CG87: Attention deficit hyperactivity disorder (2008, aktualizace 2019)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Parameter for ADHD (2007)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/attention-deficit-hyperactivity-disorder"
+      },
+      {
+        "nazev": "NICE CG87: Attention deficit hyperactivity disorder (2008, aktualizace 2019)",
+        "url": "https://www.nice.org.uk/guidance/ng87"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -4476,9 +4968,18 @@
       ]
     },
     "zdroje": [
-      "NICE CG158: Antisocial behaviour and conduct disorders (2013, aktualizace 2023)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "NICE CG158: Antisocial behaviour and conduct disorders (2013, aktualizace 2023)",
+        "url": "https://www.nice.org.uk/guidance/cg158"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -4540,9 +5041,18 @@
       ]
     },
     "zdroje": [
-      "APA Practice Parameter for Anxiety Disorders in Children (2007)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Parameter for Anxiety Disorders in Children (2007)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/anxiety-disorders"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -4638,9 +5148,18 @@
       ]
     },
     "zdroje": [
-      "APA Practice Parameter for Tourette Syndrome (2013)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Parameter for Tourette Syndrome (2013)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/other-guidelines"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -4710,9 +5229,18 @@
       ]
     },
     "zdroje": [
-      "NICE CG111: Bedwetting in under 19s (2010, aktualizace 2023)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "NICE CG111: Bedwetting in under 19s (2010, aktualizace 2023)",
+        "url": "https://www.nice.org.uk/guidance/cg111"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -4743,8 +5271,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -4826,8 +5360,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -4912,8 +5452,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -4970,7 +5516,10 @@
       "monitoring": []
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      }
     ]
   },
   {
@@ -5039,8 +5588,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -5071,7 +5626,10 @@
       "monitoring": []
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      }
     ]
   },
   {
@@ -5127,7 +5685,10 @@
       "monitoring": []
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      }
     ]
   },
   {
@@ -5157,7 +5718,10 @@
       "monitoring": []
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      }
     ]
   },
   {
@@ -5252,10 +5816,22 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Insomnia (2017)",
-      "NICE CG159: Sleep problems in adults (2004, aktualizace 2015)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Insomnia (2017)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines"
+      },
+      {
+        "nazev": "NICE CG159: Sleep problems in adults (2004, aktualizace 2015)",
+        "url": "https://www.nice.org.uk/guidance/cg159"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -5328,9 +5904,18 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Sexual Dysfunction (2010)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Sexual Dysfunction (2010)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/other-guidelines"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -5423,10 +6008,22 @@
       ]
     },
     "zdroje": [
-      "APA Practice Guideline for Perinatal Mental Health (2010)",
-      "NICE CG192: Antenatal and postnatal mental health (2014, aktualizace 2020)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "APA Practice Guideline for Perinatal Mental Health (2010)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines/perinatal"
+      },
+      {
+        "nazev": "NICE CG192: Antenatal and postnatal mental health (2014, aktualizace 2020)",
+        "url": "https://www.nice.org.uk/guidance/cg192"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -5464,8 +6061,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -5502,8 +6105,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -5531,7 +6140,10 @@
       "monitoring": []
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      }
     ]
   },
   {
@@ -5594,8 +6206,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -5629,8 +6247,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -5704,10 +6328,22 @@
       ]
     },
     "zdroje": [
-      "WPATH Standards of Care for Transgender and Gender Nonconforming People (v8, 2022)",
-      "Endokrinologická společnost ČLS JEP",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "WPATH Standards of Care for Transgender and Gender Nonconforming People (v8, 2022)",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/26895269.2022.2100644"
+      },
+      {
+        "nazev": "Endokrinologická společnost ČLS JEP",
+        "url": "https://www.endokrinologie.cz/"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -5781,8 +6417,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -5818,8 +6460,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -5856,8 +6504,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -5902,7 +6556,10 @@
       "monitoring": []
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      }
     ]
   },
   {
@@ -5975,8 +6632,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -6012,8 +6675,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -6046,8 +6715,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -6093,7 +6768,10 @@
       "monitoring": []
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      }
     ]
   },
   {
@@ -6139,7 +6817,10 @@
       "monitoring": []
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      }
     ]
   },
   {
@@ -6183,8 +6864,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -6227,8 +6914,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -6261,8 +6954,14 @@
       ]
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -6306,9 +7005,18 @@
       ]
     },
     "zdroje": [
-      "NICE CG48: Antisocial personality disorder (2009)",
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
-      "SÚKL Databáze léčiv – ověřeno 2025"
+      {
+        "nazev": "NICE CG48: Antisocial personality disorder (2009)",
+        "url": "https://www.nice.org.uk/guidance/cg48"
+      },
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      },
+      {
+        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      }
     ]
   },
   {
@@ -6336,7 +7044,10 @@
       "monitoring": []
     },
     "zdroje": [
-      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)"
+      {
+        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "url": "https://postupy-pece.psychiatrie.cz/"
+      }
     ]
   }
 ]
