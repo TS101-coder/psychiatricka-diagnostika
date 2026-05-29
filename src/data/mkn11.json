@@ -11842,7 +11842,11 @@
     "kategorie": "Sekundární duševní nebo behaviorální syndromy",
     "podkategorie": null,
     "popis": "Jedná se o syndrom, který zahrnuje významné neurovývojové rysy, které nesplňují diagnostické požadavky na stanovení některé určené neurovývojové poruchy považované za přímý patofyziologický důsledek zdravotního stavu, který není zařazen mezi duševní a behaviorální poruchy (např. rysy podobné autismu u Rettova syndromu; agresivita a sebepoškozování u Lesch-Nyhanova syndromu, abnormality ve vývoji řeči u Williamsova syndromu), a to na základě průkazné anamnézy, fyzikálního vyšetření nebo laboratorních nálezů.\nTato položka by měla být použita navíc k diagnóze předpokládané základní poruchy nebo onemocnění, pokud jsou neurovývojové problémy natolik závažné, že vyžadují zvláštní klinickou pozornost.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Klinicky vyznamny neurovyvojovy syndrom (postizeni kognitivnich funkci, emocionalnich nebo behavioralnich schopnosti v dobe vyvoje)",
+      "Prukazna prime pricinna souvislost se zakladnim zdravotnim stavem (napr. prenatalni expozice alkoholu, toxiny, infekce CNS, TBI v detstvi, chromozomalni abnormality)",
+      "Syndrom neni lepe vysvetlen primarne neurovyvojovou poruchou bez znameho zdravotniho podkladu"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -11863,6 +11867,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F06"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Sekundární neurovývojový syndrom (MKN-11 6E60)",
+    "obecna_kriteria": [
+      "Klinicky vyznamny neurovyvojovy syndrom (postizeni kognitivnich funkci, emocionalnich nebo behavioralnich schopnosti v dobe vyvoje)",
+      "Prukazna prime pricinna souvislost se zakladnim zdravotnim stavem (napr. prenatalni expozice alkoholu, toxiny, infekce CNS, TBI v detstvi, chromozomalni abnormality)",
+      "Syndrom neni lepe vysvetlen primarne neurovyvojovou poruchou bez znameho zdravotniho podkladu"
     ]
   },
   {
@@ -11878,6 +11888,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F06.8"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Sekundární neurovývojový syndrom (MKN-11 6E60)",
+    "obecna_kriteria": [
+      "Klinicky vyznamny neurovyvojovy syndrom (postizeni kognitivnich funkci, emocionalnich nebo behavioralnich schopnosti v dobe vyvoje)",
+      "Prukazna prime pricinna souvislost se zakladnim zdravotnim stavem (napr. prenatalni expozice alkoholu, toxiny, infekce CNS, TBI v detstvi, chromozomalni abnormality)",
+      "Syndrom neni lepe vysvetlen primarne neurovyvojovou poruchou bez znameho zdravotniho podkladu"
     ]
   },
   {
@@ -11893,6 +11909,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F06.9"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Sekundární neurovývojový syndrom (MKN-11 6E60)",
+    "obecna_kriteria": [
+      "Klinicky vyznamny neurovyvojovy syndrom (postizeni kognitivnich funkci, emocionalnich nebo behavioralnich schopnosti v dobe vyvoje)",
+      "Prukazna prime pricinna souvislost se zakladnim zdravotnim stavem (napr. prenatalni expozice alkoholu, toxiny, infekce CNS, TBI v detstvi, chromozomalni abnormality)",
+      "Syndrom neni lepe vysvetlen primarne neurovyvojovou poruchou bez znameho zdravotniho podkladu"
     ]
   },
   {
@@ -11902,7 +11924,11 @@
     "kategorie": "Sekundární duševní nebo behaviorální syndromy",
     "podkategorie": null,
     "popis": "Jedná se o syndrom vyznačující se přítomností výrazných halucinací nebo bludů považovaných za přímý patofyziologický důsledek zdravotního stavu, který není na základě průkazné anamnézy, fyzikálního vyšetření nebo laboratorních nálezů zařazen pod duševní a behaviorální poruchy. Příznaky nelze vysvětlit deliriem nebo jinou duševní nebo behaviorální poruchou a nejedná se o psychologicky zprostředkovanou reakci na těžký zdravotní stav (např. akutní stresovou reakci jako odpověď na život ohrožující diagnózu). Tato položka by měla být použita navíc k diagnóze předpokládané základní poruchy nebo onemocnění, pokud jsou psychotické příznaky natolik závažné, že vyžadují zvláštní klinickou pozornost.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Psychoticke symptomy (bludy, halucinace, dezorganizovana rec ci chovani) jsou pritomny jako prime dusledky jineho zdravotniho stavu (napr. metabolicka porucha, neurologicke onemocneni, nador CNS, autoimunitni encefalitida)",
+      "Prukazna casova nebo fyziologicka souvislost mezi zdravotnim stavem a psychotickymi symptomy",
+      "Psychoticke symptomy nejsou lepe vysvetleny primarne psychotickou poruchou, poruchou nalady s psychotickymi rysy, deliriem ani ucinky psychoaktivni latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -11923,6 +11949,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F06.0"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Sekundární psychotický syndrom (MKN-11 6E61)",
+    "obecna_kriteria": [
+      "Psychoticke symptomy (bludy, halucinace, dezorganizovana rec ci chovani) jsou pritomny jako prime dusledky jineho zdravotniho stavu (napr. metabolicka porucha, neurologicke onemocneni, nador CNS, autoimunitni encefalitida)",
+      "Prukazna casova nebo fyziologicka souvislost mezi zdravotnim stavem a psychotickymi symptomy",
+      "Psychoticke symptomy nejsou lepe vysvetleny primarne psychotickou poruchou, poruchou nalady s psychotickymi rysy, deliriem ani ucinky psychoaktivni latky"
     ]
   },
   {
@@ -11938,6 +11970,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F06.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Sekundární psychotický syndrom (MKN-11 6E61)",
+    "obecna_kriteria": [
+      "Psychoticke symptomy (bludy, halucinace, dezorganizovana rec ci chovani) jsou pritomny jako prime dusledky jineho zdravotniho stavu (napr. metabolicka porucha, neurologicke onemocneni, nador CNS, autoimunitni encefalitida)",
+      "Prukazna casova nebo fyziologicka souvislost mezi zdravotnim stavem a psychotickymi symptomy",
+      "Psychoticke symptomy nejsou lepe vysvetleny primarne psychotickou poruchou, poruchou nalady s psychotickymi rysy, deliriem ani ucinky psychoaktivni latky"
     ]
   },
   {
@@ -11953,6 +11991,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F06.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Sekundární psychotický syndrom (MKN-11 6E61)",
+    "obecna_kriteria": [
+      "Psychoticke symptomy (bludy, halucinace, dezorganizovana rec ci chovani) jsou pritomny jako prime dusledky jineho zdravotniho stavu (napr. metabolicka porucha, neurologicke onemocneni, nador CNS, autoimunitni encefalitida)",
+      "Prukazna casova nebo fyziologicka souvislost mezi zdravotnim stavem a psychotickymi symptomy",
+      "Psychoticke symptomy nejsou lepe vysvetleny primarne psychotickou poruchou, poruchou nalady s psychotickymi rysy, deliriem ani ucinky psychoaktivni latky"
     ]
   },
   {
@@ -11968,6 +12012,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F06.9"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Sekundární psychotický syndrom (MKN-11 6E61)",
+    "obecna_kriteria": [
+      "Psychoticke symptomy (bludy, halucinace, dezorganizovana rec ci chovani) jsou pritomny jako prime dusledky jineho zdravotniho stavu (napr. metabolicka porucha, neurologicke onemocneni, nador CNS, autoimunitni encefalitida)",
+      "Prukazna casova nebo fyziologicka souvislost mezi zdravotnim stavem a psychotickymi symptomy",
+      "Psychoticke symptomy nejsou lepe vysvetleny primarne psychotickou poruchou, poruchou nalady s psychotickymi rysy, deliriem ani ucinky psychoaktivni latky"
     ]
   },
   {
@@ -11977,7 +12027,11 @@
     "kategorie": "Sekundární duševní nebo behaviorální syndromy",
     "podkategorie": null,
     "popis": "Jedná se o syndrom, který se vyznačuje přítomností výrazných příznaků poruchy nálady (tj. deprese, zvýšená nálada, podrážděnost), které jsou považovány za přímý patofyziologický důsledek zdravotního stavu, který není na základě průkazné anamnézy, fyzikálního vyšetření nebo laboratorních nálezů zařazen pod duševní a behaviorální poruchy. Příznaky nelze vysvětlit deliriem nebo jinou duševní a behaviorální poruchou a nejedná se o psychologicky zprostředkovanou reakci na těžký zdravotní stav (např. příznaky deprese v reakci na život ohrožující diagnózu). Tato položka by měla být použita navíc k diagnóze předpokládané základní poruchy nebo onemocnění, pokud jsou příznaky poruchy nálady natolik závažné, že vyžadují zvláštní klinickou pozornost.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Vyznamna porucha nalady (depresivni, manicka, hypomanicka nebo smisena) jako prime dusledky jineho zdravotniho stavu (napr. hypothyreoza, Cushinguv syndrom, neurologicke onemocneni, karcinom pankreatu)",
+      "Prukazna casova nebo fyziologicka souvislost mezi zdravotnim stavem a poruchou nalady",
+      "Porucha nalady neni lepe vysvetlena primarne afektivni poruchou ani ucinky psychoaktivni latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -11998,6 +12052,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F06.32"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Sekundární porucha nálady (MKN-11 6E62)",
+    "obecna_kriteria": [
+      "Vyznamna porucha nalady (depresivni, manicka, hypomanicka nebo smisena) jako prime dusledky jineho zdravotniho stavu (napr. hypothyreoza, Cushinguv syndrom, neurologicke onemocneni, karcinom pankreatu)",
+      "Prukazna casova nebo fyziologicka souvislost mezi zdravotnim stavem a poruchou nalady",
+      "Porucha nalady neni lepe vysvetlena primarne afektivni poruchou ani ucinky psychoaktivni latky"
     ]
   },
   {
@@ -12013,6 +12073,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F06.30"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Sekundární porucha nálady (MKN-11 6E62)",
+    "obecna_kriteria": [
+      "Vyznamna porucha nalady (depresivni, manicka, hypomanicka nebo smisena) jako prime dusledky jineho zdravotniho stavu (napr. hypothyreoza, Cushinguv syndrom, neurologicke onemocneni, karcinom pankreatu)",
+      "Prukazna casova nebo fyziologicka souvislost mezi zdravotnim stavem a poruchou nalady",
+      "Porucha nalady neni lepe vysvetlena primarne afektivni poruchou ani ucinky psychoaktivni latky"
     ]
   },
   {
@@ -12028,6 +12094,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F06.33"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Sekundární porucha nálady (MKN-11 6E62)",
+    "obecna_kriteria": [
+      "Vyznamna porucha nalady (depresivni, manicka, hypomanicka nebo smisena) jako prime dusledky jineho zdravotniho stavu (napr. hypothyreoza, Cushinguv syndrom, neurologicke onemocneni, karcinom pankreatu)",
+      "Prukazna casova nebo fyziologicka souvislost mezi zdravotnim stavem a poruchou nalady",
+      "Porucha nalady neni lepe vysvetlena primarne afektivni poruchou ani ucinky psychoaktivni latky"
     ]
   },
   {
@@ -12043,6 +12115,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F06.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Sekundární porucha nálady (MKN-11 6E62)",
+    "obecna_kriteria": [
+      "Vyznamna porucha nalady (depresivni, manicka, hypomanicka nebo smisena) jako prime dusledky jineho zdravotniho stavu (napr. hypothyreoza, Cushinguv syndrom, neurologicke onemocneni, karcinom pankreatu)",
+      "Prukazna casova nebo fyziologicka souvislost mezi zdravotnim stavem a poruchou nalady",
+      "Porucha nalady neni lepe vysvetlena primarne afektivni poruchou ani ucinky psychoaktivni latky"
     ]
   },
   {
@@ -12052,7 +12130,11 @@
     "kategorie": "Sekundární duševní nebo behaviorální syndromy",
     "podkategorie": null,
     "popis": "Jedná se o syndrom vyznačující se přítomností výrazných úzkostných symptomů, které jsou považovány za přímý patofyziologický důsledek zdravotního stavu, který není na základě průkazné anamnézy, fyzikálního vyšetření nebo laboratorních nálezů zařazen pod duševní a behaviorální poruchy. Příznaky nelze vysvětlit deliriem nebo jinou duševní nebo behaviorální poruchou a nejedná se o psychologicky zprostředkovanou reakci na vážný zdravotní stav (např. příznaky úzkosti nebo záchvaty paniky v reakci na život ohrožující diagnózu). Tato položka by měla být použita navíc k diagnóze předpokládané základní poruchy nebo onemocnění, pokud jsou příznaky úzkosti natolik závažné, že vyžadují zvláštní klinickou pozornost.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Vyznamna uzkost jako prime dusledky jineho zdravotniho stavu (napr. hypertyreoza, feochromocytom, hypoglykemie, srdecko-plicni onemocneni)",
+      "Prukazna casova nebo fyziologicka souvislost mezi zdravotnim stavem a uzkostnostmi",
+      "Uzkostne projevy nejsou lepe vysvetleny primarne uzkostnou poruchou ani ucinky psychoaktivni latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -12067,7 +12149,11 @@
     "kategorie": "Sekundární duševní nebo behaviorální syndromy",
     "podkategorie": null,
     "popis": "Jedná se o syndrom vyznačující se přítomností výrazných obsesí, kompulzí, hromadění, trhání kůže, tahání za vlasy, jiného opakovaného chování zaměřeného na tělo nebo jiných příznaků charakteristických pro obsedantně-kompulzivní a příbuzné poruchy, které jsou považovány za přímý patofyziologický důsledek poruchy nebo onemocnění, které není na základě průkazné anamnézy, fyzikálního vyšetření nebo laboratorních nálezů zařazeno pod duševní a behaviorální poruchy. Příznaky nejsou vysvětlitelné deliriem nebo jinou duševní nebo behaviorální poruchou a nejsou psychologicky zprostředkovanou reakcí na závažný zdravotní stav (např. opakované přežvykování v reakci na život ohrožující diagnózu). Tato položka by měla být použita navíc k diagnóze předpokládané základní poruchy nebo onemocnění, pokud jsou obsedantně-kompulzivní nebo související příznaky natolik závažné, že vyžadují zvláštní klinickou pozornost.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Klinicky vyznamne obsedantne-kompulzivni nebo s nim prıbuzne symptomy jako prime dusledky jineho zdravotniho stavu (napr. encefalitida, Sydenhamova chorea, Huntingtonova choroba)",
+      "Prukazna casova nebo fyziologicka souvislost mezi zdravotnim stavem a OCD prıbuznymi symptomy",
+      "Symptomy nejsou lepe vysvetleny primarni OCD nebo pribuznymi poruchami ani ucinky psychoaktivni latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -12082,7 +12168,11 @@
     "kategorie": "Sekundární duševní nebo behaviorální syndromy",
     "podkategorie": null,
     "popis": "Jedná se o syndrom vyznačující se přítomností výrazných disociativních příznaků (např. depersonalizace, derealizace), které jsou považovány za přímý patofyziologický důsledek zdravotního stavu, který není na základě průkazné anamnézy, fyzikálního vyšetření nebo laboratorních nálezů zařazen pod duševní a behaviorální poruchy. Příznaky nelze vysvětlit deliriem nebo jinou duševní nebo behaviorální poruchou a nejedná se o psychologicky zprostředkovanou reakci na těžký zdravotní stav (např. jako součást akutní stresové reakce jako odpovědi na život ohrožující diagnózu). Tato položka by měla být použita navíc k diagnóze předpokládané základní poruchy nebo onemocnění, pokud jsou disociační příznaky natolik závažné, že vyžadují zvláštní klinickou pozornost.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Disociativni symptomy (amnézie, depersonalizace, derealizace, identity poruchy nebo transy) jako prime dusledky jineho zdravotniho stavu (napr. temporalni encefalitida, neurologicka onemocneni)",
+      "Prukazna casova nebo fyziologicka souvislost mezi zdravotnim stavem a disociativnimi symptomy",
+      "Symptomy nejsou lepe vysvetleny primarni disociativni poruchou ani ucinky psychoaktivni latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -12097,7 +12187,11 @@
     "kategorie": "Sekundární duševní nebo behaviorální syndromy",
     "podkategorie": null,
     "popis": "Jedná se o syndrom charakterizovaný přítomností výrazných příznaků, které jsou charakteristické pro poruchy kontroly impulzů nebo poruchy způsobené návykovým chováním (např. krádeže, rozdělávání ohně, agresivní výbuchy, nutkavé sexuální chování, nadměrné hráčství) a které jsou považovány za přímý patofyziologický důsledek zdravotního stavu, který není na základě průkazné anamnézy, fyzikálního vyšetření nebo laboratorních nálezů zařazen pod duševní a behaviorální poruchy. Příznaky nejsou vysvětlitelné deliriem nebo jinou duševní poruchou a chováním a nejedná se o psychologicky zprostředkovanou reakci na závažný zdravotní stav (např. jako součást poruchy přizpůsobení v reakci na život ohrožující diagnózu). Tato položka by měla být použita navíc k diagnóze předpokládané základní poruchy nebo onemocnění, pokud jsou příznaky kontroly impulzů dostatečně závažné, aby vyžadovaly zvláštní klinickou pozornost.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Vyznamna porucha kontroly impulzu (agresivita, impulzivita, explosive chovani) jako prime dusledky jineho zdravotniho stavu (napr. frontalni TBI, dementni syndrom, neurologicka onemocneni)",
+      "Prukazna casova nebo fyziologicka souvislost mezi zdravotnim stavem a poruchou kontroly impulzu",
+      "Symptomy nejsou lepe vysvetleny primarne rusicivou, impulzivne-kontrolni nebo disocioalni poruchou"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -12112,7 +12206,11 @@
     "kategorie": "Sekundární duševní nebo behaviorální syndromy",
     "podkategorie": null,
     "popis": "Jedná se o syndrom, který zahrnuje významné kognitivní rysy, které nesplňují diagnostické požadavky na stanovení některé určené neurokognitivní poruchy a které jsou považovány za přímý patofyziologický důsledek zdravotního stavu nebo úrazu, který není na základě průkazné anamnézy, fyzikálního vyšetření nebo laboratorních nálezů zařazen pod duševní a behaviorální poruchy (např. kognitivní změny způsobené mozkovým nádorem). Tato položka by měla být použita navíc k diagnóze předpokládané základní poruchy nebo onemocnění, pokud jsou kognitivní příznaky natolik závažné, že vyžadují zvláštní klinickou pozornost.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Vyznamne kognitivni postizeni (pozornost, pamet, exekutivni funkce, jazyk, percepce) jako prime dusledky jineho zdravotniho stavu, ktere nesplnuje kriteria pro demenci ani mírnou neurokognitivni poruchu",
+      "Prukazna casova nebo fyziologicka souvislost mezi zdravotnim stavem a kognitivnimi symptomy",
+      "Kognitivni symptomy nejsou lepe vysvetleny deliriem, demenci ani puvodnı neurovyvojovou poruchou"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -12127,7 +12225,11 @@
     "kategorie": "Sekundární duševní nebo behaviorální syndromy",
     "podkategorie": null,
     "popis": "Jedná se o syndrom vyznačující se trvalou poruchou osobnosti, která představuje takovou změnu oproti předchozím charakteristickým osobnostním rysům jednotlivce, která je považována za přímý patofyziologický důsledek zdravotního stavu, který není na základě průkazné anamnézy, lékařského vyšetření nebo laboratorních nálezů zařazen pod duševní a behaviorální poruchy. Příznaky nelze vysvětlit deliriem nebo jinou duševní nebo behaviorální poruchou a nejedná se o psychologicky zprostředkovanou reakci na závažný zdravotní stav (např. sociální stažení, vyhýbání se nebo závislost v reakci na život ohrožující diagnózu). Tato položka by měla být použita navíc k diagnóze předpokládané základní poruchy nebo onemocnění, pokud jsou osobnostní příznaky natolik závažné, že vyžadují zvláštní klinickou pozornost.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Vyznamna zmena osobnosti (ve sfere afektu, kognice, impulzivity, mezilidskych vztahu) jako prime dusledky jineho zdravotniho stavu (napr. frontalni TBI, nador CNS, epilepsie, encefalitida)",
+      "Prukazna casova nebo fyziologicka souvislost mezi zdravotnim stavem a zmenou osobnosti",
+      "Zmena osobnosti neni lepe vysvetlena primarne poruchou osobnosti ani jinou dusevni poruchou"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -12142,7 +12244,11 @@
     "kategorie": "Sekundární duševní nebo behaviorální syndromy",
     "podkategorie": null,
     "popis": "Syndrom sekundární katatonie je syndrom primárně psychomotorických poruch, charakterizovaný současným výskytem několika symptomů snížené, zvýšené nebo abnormální psychomotorické aktivity, které se vyskytují jako přímý patofyziologický důsledek zdravotního stavu, který není zařazen pod duševní, behaviorální nebo neurovývojové poruchy. Příklady zdravotních stavů, které mohou být spojeny s katatonií, zahrnují diabetickou ketoacidózu, hyperkalcémii, jaterní encefalopatii, homocystinurii, novotvary, traumata hlavy, cerebrovaskulární onemocnění a encefalitidu.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Katatonni syndrom (psychomotoricke poruchy zahrnujici stupor, mutismus, negativismus, rigiditu, stereotypie, grimasy, echolalii nebo flexibilitas cerea) jako prime dusledky jineho zdravotniho stavu",
+      "Prukazna casova nebo fyziologicka souvislost mezi zdravotnim stavem a katatonnimi symptomy",
+      "Katatonni symptomy nejsou lepe vysvetleny primarne katatonii asociovanou s jinou dusevni poruchou ani ucinky psychoaktivni latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -12187,7 +12293,11 @@
     "kategorie": "Ostatní duševní, behaviorální nebo neurovývojové poruchy",
     "podkategorie": null,
     "popis": "Duševní nebo behaviorální poruchy s nástupem v průběhu těhotenství nebo do 6 týdnů po porodu; bez psychotických příznaků.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Vznik dusevni poruchy behem tehotenstvi nebo do 6 tydnu po porodu",
+      "Klinicke priznaky odpovídají kriteriim pro nejakou dusevni poruchu (depresivni, uzkostna, bipolárni apod.) bez psychotickych priznaku",
+      "Symptomy nejsou lepe vysvetleny jinou dusevni poruchou existující pred tehotenstvi ani fyziologickymi ucinky latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -12202,7 +12312,11 @@
     "kategorie": "Ostatní duševní, behaviorální nebo neurovývojové poruchy",
     "podkategorie": null,
     "popis": "Závažné duševní poruchy s psychotickými příznaky spojené s těhotenstvím nebo šestinedělím.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Vznik dusevni poruchy behem tehotenstvi nebo do 6 tydnu po porodu",
+      "Klinicke uznaky zahrnuji psychoticke projevy: bludy, halucinace, dezorganizovana rec nebo chovani",
+      "Psychoticke projevy vznikly v casovem kontextu tehotenstvi nebo sestonedeli a nejsou lepe vysvetleny preexistujici psychotickou nebo afektivni poruchou s psychotickymy rysy"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -12232,7 +12346,11 @@
     "kategorie": "Ostatní duševní, behaviorální nebo neurovývojové poruchy",
     "podkategorie": null,
     "popis": "Psychologické nebo behaviorální faktory, které negativně ovlivňují průběh nebo léčbu jiného onemocnění.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Pritomnost psychologickych nebo behavioralnich faktoru, ktere nepriznive ovlivnuji zdravotni stav nebo onemocneni reclasifikovane jinde",
+      "Psychologicke faktory mohou zahrnovat: (a) casove spojeni mezi psychologickym faktorem a vznikem ci exacerbaci onemocneni; (b) faktor interfere s lecbou onemocneni; (c) faktor predstavuje zdravotni riziko; (d) patofyziologie ovlivnena psychologickym faktorem",
+      "Psychologicke faktory nejsou lepe vysvetleny jinou dusevni poruchou ani funkci nervoveho systemu spojenou s danym zdravotnim stavem"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -12253,6 +12371,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F54"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Psychologické faktory nebo faktory chování ovlivňující poruchy nebo onemocnění zařazené jinde (MKN-11 6E40)",
+    "obecna_kriteria": [
+      "Pritomnost psychologickych nebo behavioralnich faktoru, ktere nepriznive ovlivnuji zdravotni stav nebo onemocneni reclasifikovane jinde",
+      "Psychologicke faktory mohou zahrnovat: (a) casove spojeni mezi psychologickym faktorem a vznikem ci exacerbaci onemocneni; (b) faktor interfere s lecbou onemocneni; (c) faktor predstavuje zdravotni riziko; (d) patofyziologie ovlivnena psychologickym faktorem",
+      "Psychologicke faktory nejsou lepe vysvetleny jinou dusevni poruchou ani funkci nervoveho systemu spojenou s danym zdravotnim stavem"
     ]
   },
   {
@@ -12268,6 +12392,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F54"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Psychologické faktory nebo faktory chování ovlivňující poruchy nebo onemocnění zařazené jinde (MKN-11 6E40)",
+    "obecna_kriteria": [
+      "Pritomnost psychologickych nebo behavioralnich faktoru, ktere nepriznive ovlivnuji zdravotni stav nebo onemocneni reclasifikovane jinde",
+      "Psychologicke faktory mohou zahrnovat: (a) casove spojeni mezi psychologickym faktorem a vznikem ci exacerbaci onemocneni; (b) faktor interfere s lecbou onemocneni; (c) faktor predstavuje zdravotni riziko; (d) patofyziologie ovlivnena psychologickym faktorem",
+      "Psychologicke faktory nejsou lepe vysvetleny jinou dusevni poruchou ani funkci nervoveho systemu spojenou s danym zdravotnim stavem"
     ]
   },
   {
@@ -12283,6 +12413,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F54"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Psychologické faktory nebo faktory chování ovlivňující poruchy nebo onemocnění zařazené jinde (MKN-11 6E40)",
+    "obecna_kriteria": [
+      "Pritomnost psychologickych nebo behavioralnich faktoru, ktere nepriznive ovlivnuji zdravotni stav nebo onemocneni reclasifikovane jinde",
+      "Psychologicke faktory mohou zahrnovat: (a) casove spojeni mezi psychologickym faktorem a vznikem ci exacerbaci onemocneni; (b) faktor interfere s lecbou onemocneni; (c) faktor predstavuje zdravotni riziko; (d) patofyziologie ovlivnena psychologickym faktorem",
+      "Psychologicke faktory nejsou lepe vysvetleny jinou dusevni poruchou ani funkci nervoveho systemu spojenou s danym zdravotnim stavem"
     ]
   },
   {
@@ -12298,6 +12434,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F54"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Psychologické faktory nebo faktory chování ovlivňující poruchy nebo onemocnění zařazené jinde (MKN-11 6E40)",
+    "obecna_kriteria": [
+      "Pritomnost psychologickych nebo behavioralnich faktoru, ktere nepriznive ovlivnuji zdravotni stav nebo onemocneni reclasifikovane jinde",
+      "Psychologicke faktory mohou zahrnovat: (a) casove spojeni mezi psychologickym faktorem a vznikem ci exacerbaci onemocneni; (b) faktor interfere s lecbou onemocneni; (c) faktor predstavuje zdravotni riziko; (d) patofyziologie ovlivnena psychologickym faktorem",
+      "Psychologicke faktory nejsou lepe vysvetleny jinou dusevni poruchou ani funkci nervoveho systemu spojenou s danym zdravotnim stavem"
     ]
   },
   {
@@ -12313,6 +12455,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F54"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Psychologické faktory nebo faktory chování ovlivňující poruchy nebo onemocnění zařazené jinde (MKN-11 6E40)",
+    "obecna_kriteria": [
+      "Pritomnost psychologickych nebo behavioralnich faktoru, ktere nepriznive ovlivnuji zdravotni stav nebo onemocneni reclasifikovane jinde",
+      "Psychologicke faktory mohou zahrnovat: (a) casove spojeni mezi psychologickym faktorem a vznikem ci exacerbaci onemocneni; (b) faktor interfere s lecbou onemocneni; (c) faktor predstavuje zdravotni riziko; (d) patofyziologie ovlivnena psychologickym faktorem",
+      "Psychologicke faktory nejsou lepe vysvetleny jinou dusevni poruchou ani funkci nervoveho systemu spojenou s danym zdravotnim stavem"
     ]
   },
   {
@@ -12328,6 +12476,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F54"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Psychologické faktory nebo faktory chování ovlivňující poruchy nebo onemocnění zařazené jinde (MKN-11 6E40)",
+    "obecna_kriteria": [
+      "Pritomnost psychologickych nebo behavioralnich faktoru, ktere nepriznive ovlivnuji zdravotni stav nebo onemocneni reclasifikovane jinde",
+      "Psychologicke faktory mohou zahrnovat: (a) casove spojeni mezi psychologickym faktorem a vznikem ci exacerbaci onemocneni; (b) faktor interfere s lecbou onemocneni; (c) faktor predstavuje zdravotni riziko; (d) patofyziologie ovlivnena psychologickym faktorem",
+      "Psychologicke faktory nejsou lepe vysvetleny jinou dusevni poruchou ani funkci nervoveho systemu spojenou s danym zdravotnim stavem"
     ]
   },
   {
@@ -12343,6 +12497,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F54"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Psychologické faktory nebo faktory chování ovlivňující poruchy nebo onemocnění zařazené jinde (MKN-11 6E40)",
+    "obecna_kriteria": [
+      "Pritomnost psychologickych nebo behavioralnich faktoru, ktere nepriznive ovlivnuji zdravotni stav nebo onemocneni reclasifikovane jinde",
+      "Psychologicke faktory mohou zahrnovat: (a) casove spojeni mezi psychologickym faktorem a vznikem ci exacerbaci onemocneni; (b) faktor interfere s lecbou onemocneni; (c) faktor predstavuje zdravotni riziko; (d) patofyziologie ovlivnena psychologickym faktorem",
+      "Psychologicke faktory nejsou lepe vysvetleny jinou dusevni poruchou ani funkci nervoveho systemu spojenou s danym zdravotnim stavem"
     ]
   },
   {
