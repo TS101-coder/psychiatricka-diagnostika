@@ -230,17 +230,6 @@ export default function DiagnozaDetail() {
             </section>
           )}
 
-          {diagnoza.mapovani?.mkn11 && (
-            <section className="print-section">
-              <h2 className="text-sm font-semibold text-slate-500 uppercase tracking-wide mb-2">Mapování na jiné klasifikace</h2>
-              <div className="flex flex-wrap gap-3">
-                <div className="flex items-center gap-2 bg-green-50 border border-green-200 rounded-lg px-4 py-2">
-                  <span className="text-xs font-bold text-green-700 uppercase">MKN-11</span>
-                  <span className="font-mono text-sm text-green-800">{diagnoza.mapovani.mkn11}</span>
-                </div>
-              </div>
-            </section>
-          )}
 
           {diferencialni.length > 0 && (
             <section className="print-section">
