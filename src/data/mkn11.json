@@ -858,7 +858,11 @@
     "kategorie": "Neurovývojové poruchy",
     "podkategorie": "Pohybové poruchy",
     "popis": "Opakující se, zdánlivě účelové a zdánlivě neintencionální pohyby, které se stávají ritualizovanými, s nástupem v raném vývojovém období.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Opakovane, jakoby nereflektovane pohybove chovani (stereotypie), ktere narusuje normalni aktivity nebo vede k sebeposkozenı",
+      "Chovani neni lepe vysvetleno tikovou poruchou, OCD, trichotilomanii ani znamkou jine dusevni poruchy",
+      "Chovani je pritomno nejmenej 4 tydny; je-li asociovano se znamym genetickym stavem, neurologickym onemocnenim nebo faktory prostredi, je dostatecne zavazne pro samostatnou klinickou pozornost"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -879,6 +883,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F98.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Stereotypní pohybová porucha (MKN-11 6A06)",
+    "obecna_kriteria": [
+      "Opakovane, jakoby nereflektovane pohybove chovani (stereotypie), ktere narusuje normalni aktivity nebo vede k sebeposkozenı",
+      "Chovani neni lepe vysvetleno tikovou poruchou, OCD, trichotilomanii ani znamkou jine dusevni poruchy",
+      "Chovani je pritomno nejmenej 4 tydny; je-li asociovano se znamym genetickym stavem, neurologickym onemocnenim nebo faktory prostredi, je dostatecne zavazne pro samostatnou klinickou pozornost"
     ]
   },
   {
@@ -894,6 +904,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F98.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Stereotypní pohybová porucha (MKN-11 6A06)",
+    "obecna_kriteria": [
+      "Opakovane, jakoby nereflektovane pohybove chovani (stereotypie), ktere narusuje normalni aktivity nebo vede k sebeposkozenı",
+      "Chovani neni lepe vysvetleno tikovou poruchou, OCD, trichotilomanii ani znamkou jine dusevni poruchy",
+      "Chovani je pritomno nejmenej 4 tydny; je-li asociovano se znamym genetickym stavem, neurologickym onemocnenim nebo faktory prostredi, je dostatecne zavazne pro samostatnou klinickou pozornost"
     ]
   },
   {
@@ -909,6 +925,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F98.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Stereotypní pohybová porucha (MKN-11 6A06)",
+    "obecna_kriteria": [
+      "Opakovane, jakoby nereflektovane pohybove chovani (stereotypie), ktere narusuje normalni aktivity nebo vede k sebeposkozenı",
+      "Chovani neni lepe vysvetleno tikovou poruchou, OCD, trichotilomanii ani znamkou jine dusevni poruchy",
+      "Chovani je pritomno nejmenej 4 tydny; je-li asociovano se znamym genetickym stavem, neurologickym onemocnenim nebo faktory prostredi, je dostatecne zavazne pro samostatnou klinickou pozornost"
     ]
   },
   {
@@ -2140,7 +2162,11 @@
     "kategorie": "Schizofrenie nebo jiné primární psychotické poruchy",
     "podkategorie": null,
     "popis": "Specifikátor k dalšímu popisu příznaků u primárně psychotických poruch.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Polozky teto skupiny se pouzivaji pro charakterizaci soucasneho klinickeho obrazu u jedincu s diagnostikovanou schizofrenii nebo jinou primarni psychotickou poruchou",
+      "Zahrnuji specifikatory prıznaku: pozitivni symptomy (bludy, halucinace, dezorganizovana rec), negativni symptomy (plochy afekt, alogie, avolicea), kognitivni postizeni, depresivni a manicke projevy",
+      "Tyto polozky neslouzi nikdy pro primarne kodovani; jsou doplnkovymi kodami ke konkretni psychoticke poruche"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -2161,6 +2187,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F20"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Symptomatické projevy primárních psychotických poruch (MKN-11 6A25)",
+    "obecna_kriteria": [
+      "Polozky teto skupiny se pouzivaji pro charakterizaci soucasneho klinickeho obrazu u jedincu s diagnostikovanou schizofrenii nebo jinou primarni psychotickou poruchou",
+      "Zahrnuji specifikatory prıznaku: pozitivni symptomy (bludy, halucinace, dezorganizovana rec), negativni symptomy (plochy afekt, alogie, avolicea), kognitivni postizeni, depresivni a manicke projevy",
+      "Tyto polozky neslouzi nikdy pro primarne kodovani; jsou doplnkovymi kodami ke konkretni psychoticke poruche"
     ]
   },
   {
@@ -2176,6 +2208,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F20"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Symptomatické projevy primárních psychotických poruch (MKN-11 6A25)",
+    "obecna_kriteria": [
+      "Polozky teto skupiny se pouzivaji pro charakterizaci soucasneho klinickeho obrazu u jedincu s diagnostikovanou schizofrenii nebo jinou primarni psychotickou poruchou",
+      "Zahrnuji specifikatory prıznaku: pozitivni symptomy (bludy, halucinace, dezorganizovana rec), negativni symptomy (plochy afekt, alogie, avolicea), kognitivni postizeni, depresivni a manicke projevy",
+      "Tyto polozky neslouzi nikdy pro primarne kodovani; jsou doplnkovymi kodami ke konkretni psychoticke poruche"
     ]
   },
   {
@@ -2191,6 +2229,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F20.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Symptomatické projevy primárních psychotických poruch (MKN-11 6A25)",
+    "obecna_kriteria": [
+      "Polozky teto skupiny se pouzivaji pro charakterizaci soucasneho klinickeho obrazu u jedincu s diagnostikovanou schizofrenii nebo jinou primarni psychotickou poruchou",
+      "Zahrnuji specifikatory prıznaku: pozitivni symptomy (bludy, halucinace, dezorganizovana rec), negativni symptomy (plochy afekt, alogie, avolicea), kognitivni postizeni, depresivni a manicke projevy",
+      "Tyto polozky neslouzi nikdy pro primarne kodovani; jsou doplnkovymi kodami ke konkretni psychoticke poruche"
     ]
   },
   {
@@ -2206,6 +2250,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F25.0"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Symptomatické projevy primárních psychotických poruch (MKN-11 6A25)",
+    "obecna_kriteria": [
+      "Polozky teto skupiny se pouzivaji pro charakterizaci soucasneho klinickeho obrazu u jedincu s diagnostikovanou schizofrenii nebo jinou primarni psychotickou poruchou",
+      "Zahrnuji specifikatory prıznaku: pozitivni symptomy (bludy, halucinace, dezorganizovana rec), negativni symptomy (plochy afekt, alogie, avolicea), kognitivni postizeni, depresivni a manicke projevy",
+      "Tyto polozky neslouzi nikdy pro primarne kodovani; jsou doplnkovymi kodami ke konkretni psychoticke poruche"
     ]
   },
   {
@@ -2221,6 +2271,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F20.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Symptomatické projevy primárních psychotických poruch (MKN-11 6A25)",
+    "obecna_kriteria": [
+      "Polozky teto skupiny se pouzivaji pro charakterizaci soucasneho klinickeho obrazu u jedincu s diagnostikovanou schizofrenii nebo jinou primarni psychotickou poruchou",
+      "Zahrnuji specifikatory prıznaku: pozitivni symptomy (bludy, halucinace, dezorganizovana rec), negativni symptomy (plochy afekt, alogie, avolicea), kognitivni postizeni, depresivni a manicke projevy",
+      "Tyto polozky neslouzi nikdy pro primarne kodovani; jsou doplnkovymi kodami ke konkretni psychoticke poruche"
     ]
   },
   {
@@ -2236,6 +2292,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F20"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Symptomatické projevy primárních psychotických poruch (MKN-11 6A25)",
+    "obecna_kriteria": [
+      "Polozky teto skupiny se pouzivaji pro charakterizaci soucasneho klinickeho obrazu u jedincu s diagnostikovanou schizofrenii nebo jinou primarni psychotickou poruchou",
+      "Zahrnuji specifikatory prıznaku: pozitivni symptomy (bludy, halucinace, dezorganizovana rec), negativni symptomy (plochy afekt, alogie, avolicea), kognitivni postizeni, depresivni a manicke projevy",
+      "Tyto polozky neslouzi nikdy pro primarne kodovani; jsou doplnkovymi kodami ke konkretni psychoticke poruche"
     ]
   },
   {
@@ -2294,7 +2356,11 @@
     "kategorie": "Katatonie",
     "podkategorie": null,
     "popis": "Katatonní syndrom vyvolaný přímými fyziologickými účinky látky nebo léku.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Katatonni syndrom (psychomotoricke poruchy: stupor, mutismus, negativismus, rigidita, stereotypie, grimasy, echolalie, flexibilitas cerea) jako prime dusledky psychoaktivni latky nebo leku",
+      "Casova souvislost s intoxikaci, odneti nebo uzivani konkretni latky ci leku",
+      "Katatonni symptomy nejsou lepe vysvetleny primarne katatonii asociovanou s jinou dusevni poruchou ani zdravotnim stavem"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -3638,7 +3704,11 @@
     "kategorie": "Poruchy nálady – specifikátory a průběh",
     "podkategorie": null,
     "popis": "Doplňkové kódy pro specifikaci průběhu a příznaků epizod nálady.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Specifikatory a prubehovne varianty epizod nalady se pouzivaji jako doplnkove kodovani k primarne afektivni poruche",
+      "Zahrnuji: specifikator uzkostne tısne, smısene rysy, melancholicke rysy, atypicke rysy, psychoticke rysy (naladesouhlasne nebo naladenasouhlasne), katatonni rysy, peripartalni nástup, sezonni vzorec",
+      "Tyto polozky nejsou diagnostickymi kategoriemi samotnymi; jsou doplnkovymi kodovacımi nastroji k primarne diagnoze bipolarnı nebo depresivnı poruchy"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -3655,7 +3725,13 @@
     "priznaky": [],
     "prubeh": null,
     "onset": null,
-    "mapovani_mkn10": []
+    "mapovani_mkn10": [],
+    "obecna_kriteria_nazev": "Obecna kriteria: Symptomatické projevy a průběhové varianty epizod nálady (MKN-11 6A80)",
+    "obecna_kriteria": [
+      "Specifikatory a prubehovne varianty epizod nalady se pouzivaji jako doplnkove kodovani k primarne afektivni poruche",
+      "Zahrnuji: specifikator uzkostne tısne, smısene rysy, melancholicke rysy, atypicke rysy, psychoticke rysy (naladesouhlasne nebo naladenasouhlasne), katatonni rysy, peripartalni nástup, sezonni vzorec",
+      "Tyto polozky nejsou diagnostickymi kategoriemi samotnymi; jsou doplnkovymi kodovacımi nastroji k primarne diagnoze bipolarnı nebo depresivnı poruchy"
+    ]
   },
   {
     "id": "6A80.1",
@@ -3668,7 +3744,13 @@
     "priznaky": [],
     "prubeh": null,
     "onset": null,
-    "mapovani_mkn10": []
+    "mapovani_mkn10": [],
+    "obecna_kriteria_nazev": "Obecna kriteria: Symptomatické projevy a průběhové varianty epizod nálady (MKN-11 6A80)",
+    "obecna_kriteria": [
+      "Specifikatory a prubehovne varianty epizod nalady se pouzivaji jako doplnkove kodovani k primarne afektivni poruche",
+      "Zahrnuji: specifikator uzkostne tısne, smısene rysy, melancholicke rysy, atypicke rysy, psychoticke rysy (naladesouhlasne nebo naladenasouhlasne), katatonni rysy, peripartalni nástup, sezonni vzorec",
+      "Tyto polozky nejsou diagnostickymi kategoriemi samotnymi; jsou doplnkovymi kodovacımi nastroji k primarne diagnoze bipolarnı nebo depresivnı poruchy"
+    ]
   },
   {
     "id": "6A80.2",
@@ -3681,7 +3763,13 @@
     "priznaky": [],
     "prubeh": null,
     "onset": null,
-    "mapovani_mkn10": []
+    "mapovani_mkn10": [],
+    "obecna_kriteria_nazev": "Obecna kriteria: Symptomatické projevy a průběhové varianty epizod nálady (MKN-11 6A80)",
+    "obecna_kriteria": [
+      "Specifikatory a prubehovne varianty epizod nalady se pouzivaji jako doplnkove kodovani k primarne afektivni poruche",
+      "Zahrnuji: specifikator uzkostne tısne, smısene rysy, melancholicke rysy, atypicke rysy, psychoticke rysy (naladesouhlasne nebo naladenasouhlasne), katatonni rysy, peripartalni nástup, sezonni vzorec",
+      "Tyto polozky nejsou diagnostickymi kategoriemi samotnymi; jsou doplnkovymi kodovacımi nastroji k primarne diagnoze bipolarnı nebo depresivnı poruchy"
+    ]
   },
   {
     "id": "6A80.3",
@@ -3694,7 +3782,13 @@
     "priznaky": [],
     "prubeh": null,
     "onset": null,
-    "mapovani_mkn10": []
+    "mapovani_mkn10": [],
+    "obecna_kriteria_nazev": "Obecna kriteria: Symptomatické projevy a průběhové varianty epizod nálady (MKN-11 6A80)",
+    "obecna_kriteria": [
+      "Specifikatory a prubehovne varianty epizod nalady se pouzivaji jako doplnkove kodovani k primarne afektivni poruche",
+      "Zahrnuji: specifikator uzkostne tısne, smısene rysy, melancholicke rysy, atypicke rysy, psychoticke rysy (naladesouhlasne nebo naladenasouhlasne), katatonni rysy, peripartalni nástup, sezonni vzorec",
+      "Tyto polozky nejsou diagnostickymi kategoriemi samotnymi; jsou doplnkovymi kodovacımi nastroji k primarne diagnoze bipolarnı nebo depresivnı poruchy"
+    ]
   },
   {
     "id": "6A80.4",
@@ -3707,7 +3801,13 @@
     "priznaky": [],
     "prubeh": null,
     "onset": null,
-    "mapovani_mkn10": []
+    "mapovani_mkn10": [],
+    "obecna_kriteria_nazev": "Obecna kriteria: Symptomatické projevy a průběhové varianty epizod nálady (MKN-11 6A80)",
+    "obecna_kriteria": [
+      "Specifikatory a prubehovne varianty epizod nalady se pouzivaji jako doplnkove kodovani k primarne afektivni poruche",
+      "Zahrnuji: specifikator uzkostne tısne, smısene rysy, melancholicke rysy, atypicke rysy, psychoticke rysy (naladesouhlasne nebo naladenasouhlasne), katatonni rysy, peripartalni nástup, sezonni vzorec",
+      "Tyto polozky nejsou diagnostickymi kategoriemi samotnymi; jsou doplnkovymi kodovacımi nastroji k primarne diagnoze bipolarnı nebo depresivnı poruchy"
+    ]
   },
   {
     "id": "6A80.5",
@@ -3722,6 +3822,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F38.10"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Symptomatické projevy a průběhové varianty epizod nálady (MKN-11 6A80)",
+    "obecna_kriteria": [
+      "Specifikatory a prubehovne varianty epizod nalady se pouzivaji jako doplnkove kodovani k primarne afektivni poruche",
+      "Zahrnuji: specifikator uzkostne tısne, smısene rysy, melancholicke rysy, atypicke rysy, psychoticke rysy (naladesouhlasne nebo naladenasouhlasne), katatonni rysy, peripartalni nástup, sezonni vzorec",
+      "Tyto polozky nejsou diagnostickymi kategoriemi samotnymi; jsou doplnkovymi kodovacımi nastroji k primarne diagnoze bipolarnı nebo depresivnı poruchy"
     ]
   },
   {
@@ -6047,7 +6153,12 @@
     "kategorie": "Poruchy tělesné úzkosti nebo tělesných prožitků",
     "podkategorie": null,
     "popis": "Intenzivní a přetrvávající touha po amputaci specifické části těla (typicky zdravé končetiny) přetrvávající od adolescence nebo ranné dospělosti.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Intenzivní a pretrvavajici touha získat vyznamne fyzicke postizeni (typicky amputaci nebo jine velke zdravotni postizeni koncetin) NEBO bytı vnimán jako fyzicky postizeny",
+      "Touha je cizí egu jedince nebo zpusobuje vyznamnou tisen; neni soucasti gender dysforie",
+      "Touha neni zpusobena primarne psychotickou poruchou, telesnou dysmorfickou poruchou ani obsedantne-kompulzivni poruchou",
+      "Jedinci se mohou pokuset o sebeposkozeni za ucelem zıskání pozadovaneho postizeni nebo simuluji postizeni (naptı. pouzıvaním invalidnıho vozıku)"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -10236,7 +10347,11 @@
     "kategorie": "Poruchy osobnosti a související rysy",
     "podkategorie": null,
     "popis": "Osobnostní rysy nebo vzorce, které jsou klinicky pozoruhodné, ale nedosahují plných kritérií pro poruchu osobnosti.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Vyrazne osobnostnı rysy nebo vzorce, ktere jsou klinicky vyznamne, ale nedosahujı plnych kriteriı pro poruchu osobnosti (6D10)",
+      "Dominantní rysy jsou klasifikovany jako: negativnı afektivita (6D11.0), odtazenost (6D11.1), disocialita (6D11.2), dezinhibice (6D11.3), anankasmus (6D11.4) nebo hranicny vzorec (6D11.5)",
+      "Rysy zpusobuji klinicky vyznamnou tisen nebo funkcnı postizeni, ale nevyhovujı kriteriım pro diagnostikovani plne poruchy osobnosti"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -10266,6 +10381,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F60.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Výrazné osobnostní rysy nebo vzorce (MKN-11 6D11)",
+    "obecna_kriteria": [
+      "Vyrazne osobnostnı rysy nebo vzorce, ktere jsou klinicky vyznamne, ale nedosahujı plnych kriteriı pro poruchu osobnosti (6D10)",
+      "Dominantní rysy jsou klasifikovany jako: negativnı afektivita (6D11.0), odtazenost (6D11.1), disocialita (6D11.2), dezinhibice (6D11.3), anankasmus (6D11.4) nebo hranicny vzorec (6D11.5)",
+      "Rysy zpusobuji klinicky vyznamnou tisen nebo funkcnı postizeni, ale nevyhovujı kriteriım pro diagnostikovani plne poruchy osobnosti"
     ]
   },
   {
@@ -10281,6 +10402,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F60.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Výrazné osobnostní rysy nebo vzorce (MKN-11 6D11)",
+    "obecna_kriteria": [
+      "Vyrazne osobnostnı rysy nebo vzorce, ktere jsou klinicky vyznamne, ale nedosahujı plnych kriteriı pro poruchu osobnosti (6D10)",
+      "Dominantní rysy jsou klasifikovany jako: negativnı afektivita (6D11.0), odtazenost (6D11.1), disocialita (6D11.2), dezinhibice (6D11.3), anankasmus (6D11.4) nebo hranicny vzorec (6D11.5)",
+      "Rysy zpusobuji klinicky vyznamnou tisen nebo funkcnı postizeni, ale nevyhovujı kriteriım pro diagnostikovani plne poruchy osobnosti"
     ]
   },
   {
@@ -10296,6 +10423,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F60.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Výrazné osobnostní rysy nebo vzorce (MKN-11 6D11)",
+    "obecna_kriteria": [
+      "Vyrazne osobnostnı rysy nebo vzorce, ktere jsou klinicky vyznamne, ale nedosahujı plnych kriteriı pro poruchu osobnosti (6D10)",
+      "Dominantní rysy jsou klasifikovany jako: negativnı afektivita (6D11.0), odtazenost (6D11.1), disocialita (6D11.2), dezinhibice (6D11.3), anankasmus (6D11.4) nebo hranicny vzorec (6D11.5)",
+      "Rysy zpusobuji klinicky vyznamnou tisen nebo funkcnı postizeni, ale nevyhovujı kriteriım pro diagnostikovani plne poruchy osobnosti"
     ]
   },
   {
@@ -10311,6 +10444,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F60.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Výrazné osobnostní rysy nebo vzorce (MKN-11 6D11)",
+    "obecna_kriteria": [
+      "Vyrazne osobnostnı rysy nebo vzorce, ktere jsou klinicky vyznamne, ale nedosahujı plnych kriteriı pro poruchu osobnosti (6D10)",
+      "Dominantní rysy jsou klasifikovany jako: negativnı afektivita (6D11.0), odtazenost (6D11.1), disocialita (6D11.2), dezinhibice (6D11.3), anankasmus (6D11.4) nebo hranicny vzorec (6D11.5)",
+      "Rysy zpusobuji klinicky vyznamnou tisen nebo funkcnı postizeni, ale nevyhovujı kriteriım pro diagnostikovani plne poruchy osobnosti"
     ]
   },
   {
@@ -10326,6 +10465,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F60.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Výrazné osobnostní rysy nebo vzorce (MKN-11 6D11)",
+    "obecna_kriteria": [
+      "Vyrazne osobnostnı rysy nebo vzorce, ktere jsou klinicky vyznamne, ale nedosahujı plnych kriteriı pro poruchu osobnosti (6D10)",
+      "Dominantní rysy jsou klasifikovany jako: negativnı afektivita (6D11.0), odtazenost (6D11.1), disocialita (6D11.2), dezinhibice (6D11.3), anankasmus (6D11.4) nebo hranicny vzorec (6D11.5)",
+      "Rysy zpusobuji klinicky vyznamnou tisen nebo funkcnı postizeni, ale nevyhovujı kriteriım pro diagnostikovani plne poruchy osobnosti"
     ]
   },
   {
@@ -10341,6 +10486,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F60.31"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Výrazné osobnostní rysy nebo vzorce (MKN-11 6D11)",
+    "obecna_kriteria": [
+      "Vyrazne osobnostnı rysy nebo vzorce, ktere jsou klinicky vyznamne, ale nedosahujı plnych kriteriı pro poruchu osobnosti (6D10)",
+      "Dominantní rysy jsou klasifikovany jako: negativnı afektivita (6D11.0), odtazenost (6D11.1), disocialita (6D11.2), dezinhibice (6D11.3), anankasmus (6D11.4) nebo hranicny vzorec (6D11.5)",
+      "Rysy zpusobuji klinicky vyznamnou tisen nebo funkcnı postizeni, ale nevyhovujı kriteriım pro diagnostikovani plne poruchy osobnosti"
     ]
   },
   {
@@ -10548,7 +10699,11 @@
     "kategorie": "Faktitivní porucha",
     "podkategorie": null,
     "popis": "Záměrné předstírání, napodobování nebo vyvolávání příznaků u jiné osoby (typicky dítě), nikoliv u sebe samotného (Münchhausenův syndrom by proxy).",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Simulace nebo produkce fyzickych, psychologickych nebo psychosomatickych priznaku u jine osoby (typicky ditete nebo zavisle osoby v peci dotyeneho)",
+      "Dukazem je, ze lzı zodpovídá pachatel (primarne chovajıcí se osoba), nikoli victim",
+      "Chovani neni lepe vysvetleno jinou dusevni poruchou ani ekonomicky motivovany (na rozdıl od simulace)"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
