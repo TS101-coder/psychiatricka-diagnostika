@@ -31,15 +31,14 @@
       "F05"
     ],
     "mapovani": {
-      "mkn11": "8A20",
+      "mkn11": "6D80",
       "dsm5": "331.0"
     },
     "kriteria_mkn11": [
       "Plíživý nástup; první stížností je typicky porucha paměti",
       "Pomalý, ale trvalý pokles kognitivního výkonu z předchozí úrovně",
-      "Zhoršení v dalších doménách: exekutivní funkce, pozornost, jazyk, sociální kognice, psychomotorické tempo, visuopercepce nebo visuoprostorové schopnosti",
-      "V časných stadiích možná depresivní nálada a apatie; v pokročilých stadiích psychotické příznaky, dráždivost, agrese, zmatenost, poruchy chůze, záchvaty",
-      "Podpůrné: pozitivní genetické testování, rodinná anamnéza, postupný kognitivní pokles"
+      "Zhoršení v dalších kognitivních doménách (exekutivní funkce, jazyk, pozornost, visuopercepce)",
+      "Pozitivní genetické testování, rodinná anamnéza nebo zobrazovací metody podporují diagnózu"
     ],
     "obecna_kriteria": [
       "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
@@ -88,14 +87,11 @@
       "F02.0"
     ],
     "mapovani": {
-      "mkn11": "8A20.0",
+      "mkn11": "6D80.0",
       "dsm5": "331.0"
     },
     "kriteria_mkn11": [
-      "Splněna kritéria pro demenci u Alzheimerovy nemoci (8A20)",
-      "Nástup před 65. rokem věku",
-      "Tvoří méně než 5 % případů; může být autozomálně dominantní forma",
-      "Relativně rychlejší progrese s výraznými poruchami paměti"
+      "Viz MKN-11 6D80.0: Demence způsobená Alzheimerovou chorobou, s časným nástupem"
     ],
     "obecna_kriteria": [
       "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
@@ -142,14 +138,11 @@
       "F03"
     ],
     "mapovani": {
-      "mkn11": "8A20.1",
+      "mkn11": "6D80.1",
       "dsm5": "331.0"
     },
     "kriteria_mkn11": [
-      "Splněna kritéria pro demenci u Alzheimerovy nemoci (8A20)",
-      "Nástup ve věku 65 let nebo později",
-      "Tvoří více než 95 % všech případů",
-      "Pomalejší progrese s dominující amnézií"
+      "Viz MKN-11 6D80.1: Demence způsobená Alzheimerovou chorobou, s pozdním nástupem"
     ],
     "obecna_kriteria": [
       "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
@@ -193,15 +186,14 @@
       "F01"
     ],
     "mapovani": {
-      "mkn11": "8A20",
+      "mkn11": "6D80",
       "dsm5": "331.0"
     },
     "kriteria_mkn11": [
       "Plíživý nástup; první stížností je typicky porucha paměti",
       "Pomalý, ale trvalý pokles kognitivního výkonu z předchozí úrovně",
-      "Zhoršení v dalších doménách: exekutivní funkce, pozornost, jazyk, sociální kognice, psychomotorické tempo, visuopercepce nebo visuoprostorové schopnosti",
-      "V časných stadiích možná depresivní nálada a apatie; v pokročilých stadiích psychotické příznaky, dráždivost, agrese, zmatenost, poruchy chůze, záchvaty",
-      "Podpůrné: pozitivní genetické testování, rodinná anamnéza, postupný kognitivní pokles"
+      "Zhoršení v dalších kognitivních doménách (exekutivní funkce, jazyk, pozornost, visuopercepce)",
+      "Pozitivní genetické testování, rodinná anamnéza nebo zobrazovací metody podporují diagnózu"
     ],
     "obecna_kriteria": [
       "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
@@ -245,15 +237,11 @@
       "F00.2"
     ],
     "mapovani": {
-      "mkn11": "6D80",
+      "mkn11": "6D80.Z",
       "dsm5": "331.0"
     },
     "kriteria_mkn11": [
-      "Plíživý nástup; první stížností je typicky porucha paměti",
-      "Pomalý, ale trvalý pokles kognitivního výkonu z předchozí úrovně",
-      "Zhoršení v dalších kognitivních doménách: exekutivní funkce, pozornost, jazyk, psychomotorické tempo, vizuální/prostorové schopnosti",
-      "V časných stadiích možná depresivní nálada a apatie; v pokročilých stadiích psychotické příznaky, záchvaty",
-      "Podpůrné: pozitivní genetické testování, rodinná anamnéza, postupný pokles"
+      "Viz MKN-11 6D80.Z: Demence způsobená Alzheimerovou chorobou, s neznámým nebo neurčeným nástupem"
     ],
     "obecna_kriteria_mkn11": [
       "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
@@ -302,13 +290,13 @@
       "F03"
     ],
     "mapovani": {
-      "mkn11": "8A21",
+      "mkn11": "6D81",
       "dsm5": "290.40"
     },
     "kriteria_mkn11": [
-      "Nástup kognitivních deficitů je časově spojen s jednou nebo více cerebrovaskulárními příhodami",
-      "Kognitivní pokles je typicky nejzřetelnější v rychlosti zpracování informací, komplexní pozornosti a frontálně-exekutivních funkcích",
-      "Průkaz cerebrovaskulárního onemocnění z anamnézy, fyzikálního vyšetření a neuroimagingu, které je dostatečné k vysvětlení neurokognitivních deficitů"
+      "Nástup kognitivních deficitů časově spojen s cerebrovaskulárními příhodami",
+      "Kognitivní pokles typicky nejzřetelnější v rychlosti zpracování informací, pozornosti a frontálně-exekutivní oblasti",
+      "Průkaz cerebrovaskulárního onemocnění z anamnézy, vyšetření a neuroimagingu"
     ],
     "obecna_kriteria": [
       "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
@@ -351,12 +339,13 @@
       "F05"
     ],
     "mapovani": {
-      "mkn11": "8A21.0",
+      "mkn11": "6D81",
       "dsm5": "290.40"
     },
     "kriteria_mkn11": [
-      "Splněna kritéria pro vaskulární demenci (8A21)",
-      "Akutní nástup kognitivních příznaků po cévní příhodě"
+      "Nástup kognitivních deficitů časově spojen s cerebrovaskulárními příhodami",
+      "Kognitivní pokles typicky nejzřetelnější v rychlosti zpracování informací, pozornosti a frontálně-exekutivní oblasti",
+      "Průkaz cerebrovaskulárního onemocnění z anamnézy, vyšetření a neuroimagingu"
     ],
     "obecna_kriteria": [
       "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
@@ -401,12 +390,13 @@
       "F00"
     ],
     "mapovani": {
-      "mkn11": "8A21.1",
+      "mkn11": "6D81",
       "dsm5": "290.40"
     },
     "kriteria_mkn11": [
-      "Splněna kritéria pro vaskulární demenci (8A21)",
-      "Postupný nástup bez zjevné cévní příhody"
+      "Nástup kognitivních deficitů časově spojen s cerebrovaskulárními příhodami",
+      "Kognitivní pokles typicky nejzřetelnější v rychlosti zpracování informací, pozornosti a frontálně-exekutivní oblasti",
+      "Průkaz cerebrovaskulárního onemocnění z anamnézy, vyšetření a neuroimagingu"
     ],
     "obecna_kriteria": [
       "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
@@ -454,12 +444,13 @@
       "G20"
     ],
     "mapovani": {
-      "mkn11": "8A21.2",
+      "mkn11": "6D81",
       "dsm5": "290.40"
     },
     "kriteria_mkn11": [
-      "Splněna kritéria pro vaskulární demenci (8A21)",
-      "Smíšený obraz akutního i postupného nástupu"
+      "Nástup kognitivních deficitů časově spojen s cerebrovaskulárními příhodami",
+      "Kognitivní pokles typicky nejzřetelnější v rychlosti zpracování informací, pozornosti a frontálně-exekutivní oblasti",
+      "Průkaz cerebrovaskulárního onemocnění z anamnézy, vyšetření a neuroimagingu"
     ],
     "obecna_kriteria": [
       "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
@@ -512,9 +503,9 @@
       "dsm5": "290.40"
     },
     "kriteria_mkn11": [
-      "Nástup kognitivních deficitů je časově spojen s jednou nebo více cerebrovaskulárními příhodami",
-      "Kognitivní pokles nejzřetelnější v rychlosti zpracování informací, komplexní pozornosti a frontálně-exekutivních funkcích",
-      "Průkaz cerebrovaskulárního onemocnění z anamnézy, fyzikálního vyšetření a neuroimagingu dostatečného k vysvětlení deficitů"
+      "Nástup kognitivních deficitů časově spojen s cerebrovaskulárními příhodami",
+      "Kognitivní pokles typicky nejzřetelnější v rychlosti zpracování informací, pozornosti a frontálně-exekutivní oblasti",
+      "Průkaz cerebrovaskulárního onemocnění z anamnézy, vyšetření a neuroimagingu"
     ],
     "obecna_kriteria_mkn11": [
       "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
@@ -554,9 +545,9 @@
       "dsm5": "290.40"
     },
     "kriteria_mkn11": [
-      "Nástup kognitivních deficitů je časově spojen s jednou nebo více cerebrovaskulárními příhodami",
-      "Kognitivní pokles nejzřetelnější v rychlosti zpracování informací, komplexní pozornosti a frontálně-exekutivních funkcích",
-      "Průkaz cerebrovaskulárního onemocnění z anamnézy, fyzikálního vyšetření a neuroimagingu dostatečného k vysvětlení deficitů"
+      "Nástup kognitivních deficitů časově spojen s cerebrovaskulárními příhodami",
+      "Kognitivní pokles typicky nejzřetelnější v rychlosti zpracování informací, pozornosti a frontálně-exekutivní oblasti",
+      "Průkaz cerebrovaskulárního onemocnění z anamnézy, vyšetření a neuroimagingu"
     ],
     "obecna_kriteria_mkn11": [
       "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
@@ -602,9 +593,9 @@
       "dsm5": "290.40"
     },
     "kriteria_mkn11": [
-      "Nástup kognitivních deficitů je časově spojen s jednou nebo více cerebrovaskulárními příhodami",
-      "Kognitivní pokles nejzřetelnější v rychlosti zpracování informací, komplexní pozornosti a frontálně-exekutivních funkcích",
-      "Průkaz cerebrovaskulárního onemocnění z anamnézy, fyzikálního vyšetření a neuroimagingu dostatečného k vysvětlení deficitů"
+      "Nástup kognitivních deficitů časově spojen s cerebrovaskulárními příhodami",
+      "Kognitivní pokles typicky nejzřetelnější v rychlosti zpracování informací, pozornosti a frontálně-exekutivní oblasti",
+      "Průkaz cerebrovaskulárního onemocnění z anamnézy, vyšetření a neuroimagingu"
     ],
     "obecna_kriteria_mkn11": [
       "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
@@ -648,12 +639,14 @@
       "F03"
     ],
     "mapovani": {
-      "mkn11": "8A22",
+      "mkn11": "6D85",
       "dsm5": "294.10"
     },
     "kriteria_mkn11": [
-      "Demence způsobená specifikovaným neurodegenerativním nebo jiným onemocněním mozku, nespadajícím pod Alzheimerovu chorobu (8A20) ani cerebrovaskulární onemocnění (8A21)",
-      "Kognitivní pokles splňující kritéria demence; etiologie identifikována z anamnézy, fyzikálního vyšetření nebo laboratorních testů"
+      "Splnena obecna kriteria pro demenci",
+      "Kognitivni postizeni se rozvinulo v casove souvislosti s jinym zdokumentovanym zdravotnim stavem zareazenvym jinde (napr. Parkinsonova choroba, Huntingtonova choroba, HIV infekce, prionova choroba, traumaticke poraneni mozku)",
+      "Charakter a cas nasotupu kognitivniho postizeni jsou konzistentni s profilem ocekavanym u daneho zdravotniho stavu",
+      "Kognitivni postizeni neni lepe vysvetleno jinou pricinou demence ani vedlejsimi ucinky lekove lecby"
     ],
     "obecna_kriteria": [
       "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
@@ -700,12 +693,15 @@
       "F60"
     ],
     "mapovani": {
-      "mkn11": "8A22.0",
+      "mkn11": "6D83",
       "dsm5": "331.11"
     },
     "kriteria_mkn11": [
-      "Demence u Lewyho tělísek: fluktuující kognice, zrakové halucinace, parkinsonismus a poruchy spánku ve fázi REM",
-      "Výrazná citlivost na antipsychotika; kognitivní výkyvy jsou charakteristickým rysem"
+      "Splnena obecna kriteria pro demenci",
+      "Postupny nástup a progrese postihujici predevším frontální nebo temporálni laloky",
+      "Alespon jeden ze dvou klinickych vzorcu: (a) vyrazna zmena chovani a osobnosti -- dezinhibice, apatie, ztrata empatie, perseverace, stereotypie; NEBO (b) progressivni jazykove poruchy -- primarne progresivni afazie (nefluence, sémantická demence nebo logopenická afazie)",
+      "Zobrazovaci nebo patologicky nalaz potvrde frontalni nebo temporalni atrofii ci metabolický deficit",
+      "Kognitivni projevy nelze lepe vysvetlit jinym zdravotnim stavem, psychiatrickou poruchou nebo vaskulární demenci"
     ],
     "obecna_kriteria": [
       "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
@@ -754,12 +750,14 @@
       "G35"
     ],
     "mapovani": {
-      "mkn11": "8A22.1",
+      "mkn11": "6D85",
       "dsm5": "046.19"
     },
     "kriteria_mkn11": [
-      "Demence při Parkinsonově nemoci: demence vznikající v kontextu etablované Parkinsonovy nemoci",
-      "Kognitivní příznaky rozvíjejí se nejméně 1 rok po nástupu motorických příznaků Parkinsonovy choroby"
+      "Splnena obecna kriteria pro demenci",
+      "Kognitivni postizeni se rozvinulo v casove souvislosti s jinym zdokumentovanym zdravotnim stavem zareazenvym jinde (napr. Parkinsonova choroba, Huntingtonova choroba, HIV infekce, prionova choroba, traumaticke poraneni mozku)",
+      "Charakter a cas nasotupu kognitivniho postizeni jsou konzistentni s profilem ocekavanym u daneho zdravotniho stavu",
+      "Kognitivni postizeni neni lepe vysvetleno jinou pricinou demence ani vedlejsimi ucinky lekove lecby"
     ],
     "obecna_kriteria": [
       "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
@@ -807,12 +805,14 @@
       "F20"
     ],
     "mapovani": {
-      "mkn11": "8A22.2",
+      "mkn11": "6D85",
       "dsm5": "294.10"
     },
     "kriteria_mkn11": [
-      "Demence u Huntingtonovy nemoci: kognitivní pokles v kontextu Huntingtonovy chorey",
-      "Poruchy exekutivních funkcí, procesní paměti a psychomotoriky; typicky autozomálně dominantní dědičnost"
+      "Splnena obecna kriteria pro demenci",
+      "Kognitivni postizeni se rozvinulo v casove souvislosti s jinym zdokumentovanym zdravotnim stavem zareazenvym jinde (napr. Parkinsonova choroba, Huntingtonova choroba, HIV infekce, prionova choroba, traumaticke poraneni mozku)",
+      "Charakter a cas nasotupu kognitivniho postizeni jsou konzistentni s profilem ocekavanym u daneho zdravotniho stavu",
+      "Kognitivni postizeni neni lepe vysvetleno jinou pricinou demence ani vedlejsimi ucinky lekove lecby"
     ],
     "obecna_kriteria": [
       "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
@@ -859,12 +859,14 @@
       "F02.0"
     ],
     "mapovani": {
-      "mkn11": "8A22.3",
+      "mkn11": "6D85",
       "dsm5": "331.82"
     },
     "kriteria_mkn11": [
-      "Fronttemporální demence: progresivní demence s frontální nebo temporální lobární degenerací",
-      "Dominující změny osobnosti a chování (frontální varianta) nebo jazykové poruchy (temporální varianta)"
+      "Splnena obecna kriteria pro demenci",
+      "Kognitivni postizeni se rozvinulo v casove souvislosti s jinym zdokumentovanym zdravotnim stavem zareazenvym jinde (napr. Parkinsonova choroba, Huntingtonova choroba, HIV infekce, prionova choroba, traumaticke poraneni mozku)",
+      "Charakter a cas nasotupu kognitivniho postizeni jsou konzistentni s profilem ocekavanym u daneho zdravotniho stavu",
+      "Kognitivni postizeni neni lepe vysvetleno jinou pricinou demence ani vedlejsimi ucinky lekove lecby"
     ],
     "obecna_kriteria": [
       "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
@@ -911,12 +913,14 @@
       "F06"
     ],
     "mapovani": {
-      "mkn11": "8A22.4",
+      "mkn11": "6D85",
       "dsm5": "294.10"
     },
     "kriteria_mkn11": [
-      "Demence při HIV/AIDS: kognitivní pokles způsobený HIV infekcí CNS",
-      "Poruchy paměti, psychomotorická pomalost, behaviorální změny při potvrzené HIV infekci"
+      "Splnena obecna kriteria pro demenci",
+      "Kognitivni postizeni se rozvinulo v casove souvislosti s jinym zdokumentovanym zdravotnim stavem zareazenvym jinde (napr. Parkinsonova choroba, Huntingtonova choroba, HIV infekce, prionova choroba, traumaticke poraneni mozku)",
+      "Charakter a cas nasotupu kognitivniho postizeni jsou konzistentni s profilem ocekavanym u daneho zdravotniho stavu",
+      "Kognitivni postizeni neni lepe vysvetleno jinou pricinou demence ani vedlejsimi ucinky lekove lecby"
     ],
     "obecna_kriteria": [
       "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
@@ -964,9 +968,10 @@
       "dsm5": null
     },
     "kriteria_mkn11": [
-      "Progresivní demence způsobená frontální nebo temporální lobární degenerací",
-      "Výrazné změny osobnosti a chování nebo jazykové poruchy jako dominující rysy",
-      "Poruchy paměti mohou být v časných stadiích méně výrazné"
+      "Splnena obecna kriteria pro demenci",
+      "Kognitivni postizeni se rozvinulo v casove souvislosti s jinym zdokumentovanym zdravotnim stavem zareazenvym jinde (napr. Parkinsonova choroba, Huntingtonova choroba, HIV infekce, prionova choroba, traumaticke poraneni mozku)",
+      "Charakter a cas nasotupu kognitivniho postizeni jsou konzistentni s profilem ocekavanym u daneho zdravotniho stavu",
+      "Kognitivni postizeni neni lepe vysvetleno jinou pricinou demence ani vedlejsimi ucinky lekove lecby"
     ],
     "obecna_kriteria_mkn11": [
       "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
@@ -1010,12 +1015,11 @@
       "F02"
     ],
     "mapovani": {
-      "mkn11": "8A2Z",
+      "mkn11": "6D8Z",
       "dsm5": "294.20"
     },
     "kriteria_mkn11": [
-      "Demence blíže neurčeného typu nebo způsobená nespecifikovanou příčinou",
-      "Kognitivní pokles splňující kritéria demence bez dostatečných informací k určení etiologie"
+      "Viz MKN-11 6D8Z: Demence, neznámá nebo neurčená příčina"
     ],
     "obecna_kriteria": [
       "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
@@ -1111,12 +1115,14 @@
       "F44"
     ],
     "mapovani": {
-      "mkn11": "MB26.0",
+      "mkn11": "6D70",
       "dsm5": "293.0"
     },
     "kriteria_mkn11": [
-      "Duševní porucha způsobená expozicí chemické nebo fyzikální látce v pracovním nebo jiném prostředí",
-      "Časová souvislost mezi expozicí a nástupem příznaků"
+      "Porucha pozornosti, orientace a vědomí rozvíjející se v krátké době",
+      "Příznaky typicky kolísají v průběhu dne",
+      "Může zahrnovat kognitivní deficity, behaviorální nebo emocionální poruchy, narušení cyklu spánku a bdění",
+      "Příčina: jiné onemocnění, psychoaktivní látky/léky nebo kombinace"
     ]
   },
   {
@@ -1142,12 +1148,14 @@
       "F10.4"
     ],
     "mapovani": {
-      "mkn11": "MB26.0",
+      "mkn11": "6D70",
       "dsm5": "293.0"
     },
     "kriteria_mkn11": [
-      "Duševní porucha způsobená expozicí chemické nebo fyzikální látce v pracovním nebo jiném prostředí",
-      "Časová souvislost mezi expozicí a nástupem příznaků"
+      "Porucha pozornosti, orientace a vědomí rozvíjející se v krátké době",
+      "Příznaky typicky kolísají v průběhu dne",
+      "Může zahrnovat kognitivní deficity, behaviorální nebo emocionální poruchy, narušení cyklu spánku a bdění",
+      "Příčina: jiné onemocnění, psychoaktivní látky/léky nebo kombinace"
     ]
   },
   {
@@ -1175,12 +1183,14 @@
       "F01"
     ],
     "mapovani": {
-      "mkn11": "MB26.0",
+      "mkn11": "6D70",
       "dsm5": "293.0"
     },
     "kriteria_mkn11": [
-      "Duševní porucha způsobená expozicí chemické nebo fyzikální látce v pracovním nebo jiném prostředí",
-      "Časová souvislost mezi expozicí a nástupem příznaků"
+      "Porucha pozornosti, orientace a vědomí rozvíjející se v krátké době",
+      "Příznaky typicky kolísají v průběhu dne",
+      "Může zahrnovat kognitivní deficity, behaviorální nebo emocionální poruchy, narušení cyklu spánku a bdění",
+      "Příčina: jiné onemocnění, psychoaktivní látky/léky nebo kombinace"
     ]
   },
   {
@@ -1215,10 +1225,10 @@
       "dsm5": "293.0"
     },
     "kriteria_mkn11": [
-      "Porucha pozornosti, orientace a vědomí rozvíjející se v krátké době (hodiny až dny)",
+      "Porucha pozornosti, orientace a vědomí rozvíjející se v krátké době",
       "Příznaky typicky kolísají v průběhu dne",
-      "Může zahrnovat behaviorální a emocionální poruchy, narušení cyklu spánku a bdění a mnohočetné kognitivní deficity",
-      "Příčina: důsledek jiného onemocnění, psychoaktivní látky/léky nebo kombinace příčin"
+      "Může zahrnovat kognitivní deficity, behaviorální nebo emocionální poruchy, narušení cyklu spánku a bdění",
+      "Příčina: jiné onemocnění, psychoaktivní látky/léky nebo kombinace"
     ],
     "obecna_kriteria_nazev": "Obecná kritéria deliria MKN-10 (G1-G5)",
     "obecna_kriteria": [
@@ -1253,14 +1263,11 @@
       "F05.1"
     ],
     "mapovani": {
-      "mkn11": "6D70",
+      "mkn11": "6D70.Z",
       "dsm5": "293.0"
     },
     "kriteria_mkn11": [
-      "Porucha pozornosti, orientace a vědomí rozvíjející se v krátké době (hodiny až dny)",
-      "Příznaky typicky kolísají v průběhu dne",
-      "Může zahrnovat behaviorální a emocionální poruchy, narušení cyklu spánku a bdění a mnohočetné kognitivní deficity",
-      "Příčina: důsledek jiného onemocnění, psychoaktivní látky/léky nebo kombinace příčin"
+      "Viz MKN-11 6D70.Z: Delirium, neurčená nebo neznámá příčina"
     ],
     "obecna_kriteria_nazev": "Obecná kritéria deliria MKN-10 (G1-G5)",
     "obecna_kriteria": [
@@ -7731,12 +7738,14 @@
       "F34.1"
     ],
     "mapovani": {
-      "mkn11": "6A72.0",
+      "mkn11": "6A62",
       "dsm5": "301.13"
     },
     "kriteria_mkn11": [
-      "Splněna kritéria pro dysthymii (6A72)",
-      "Aktuálně persistentní depresivní stav bez superponované depresivní epizody"
+      "Přetrvávající nestabilita nálady po dobu nejméně 2 let",
+      "Střídání symptomů hypomanie a deprese přítomných více času než ne",
+      "Žádná manická, smíšená ani depresivní epizoda v anamnéze",
+      "Způsobuje výraznou tíseň nebo funkční postižení"
     ]
   },
   {
@@ -7768,12 +7777,14 @@
       "F41.2"
     ],
     "mapovani": {
-      "mkn11": "6A72.1",
+      "mkn11": "6A72",
       "dsm5": "300.4"
     },
     "kriteria_mkn11": [
-      "Splněna kritéria pro dysthymii (6A72)",
-      "S aktuálně superponovanou depresivní epizodou (dvojitá deprese)"
+      "Přetrvávající depresivní nálada trvající 2+ roky, pro většinu dne, více dní než ne",
+      "V průběhu prvních 2 let nikdy nebyla depresivní epizoda dostatečně závažná",
+      "Žádná manická, smíšená ani hypomanická epizoda v anamnéze",
+      "Doprovodné příznaky: snížený zájem, koncentrace, sebeúcta, pesimismus, poruchy spánku a chuti k jídlu"
     ]
   },
   {
