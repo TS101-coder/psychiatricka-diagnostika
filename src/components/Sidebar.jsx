@@ -126,6 +126,30 @@ export default function Sidebar({ open }) {
         </NavLink>
       </div>
 
+      {/* Quick nav: MKN-11 + DSM-5 */}
+      <div className="flex border-b border-slate-100">
+        <NavLink
+          to="/mkn11"
+          className={({ isActive }) =>
+            `flex-1 flex items-center justify-center gap-1 py-2 text-xs font-semibold transition-colors
+             ${isActive ? 'bg-green-50 text-green-700 border-b-2 border-green-500' : 'text-slate-500 hover:bg-green-50 hover:text-green-700'}`
+          }
+        >
+          <span className="w-2 h-2 rounded-full bg-green-500 shrink-0" />
+          MKN-11
+        </NavLink>
+        <NavLink
+          to="/dsm5"
+          className={({ isActive }) =>
+            `flex-1 flex items-center justify-center gap-1 py-2 text-xs font-semibold transition-colors border-l border-slate-100
+             ${isActive ? 'bg-blue-50 text-blue-700 border-b-2 border-blue-500' : 'text-slate-500 hover:bg-blue-50 hover:text-blue-700'}`
+          }
+        >
+          <span className="w-2 h-2 rounded-full bg-blue-600 shrink-0" />
+          DSM-5-TR
+        </NavLink>
+      </div>
+
       {/* Differential */}
       <div className="p-4 border-b border-slate-100">
         <NavLink
