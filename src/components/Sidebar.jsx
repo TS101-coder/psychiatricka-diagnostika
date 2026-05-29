@@ -144,6 +144,23 @@ export default function Sidebar({ open }) {
 
         {mkn10Open && (
         <nav className="py-2">
+
+          {/* Přehled MKN-10 */}
+          <div className="px-3 py-1 border-b border-blue-100 mb-1">
+            <NavLink
+              to="/"
+              className={({ isActive }) =>
+                `flex items-center gap-2 text-xs py-1.5 px-2 rounded transition-colors
+                 ${isActive ? 'bg-blue-100 text-blue-800 font-medium' : 'text-slate-600 hover:text-blue-700 hover:bg-blue-50'}`
+              }
+            >
+              <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 10h16M4 14h16M4 18h16" />
+              </svg>
+              Přehled MKN-10
+            </NavLink>
+          </div>
+
         {kategorie.map(kat => {
           const barva     = BARVA_MAP[kat.barva] || 'bg-slate-400'
           const katOpen   = openKat.has(kat.rozsah)
