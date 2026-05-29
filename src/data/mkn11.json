@@ -10380,7 +10380,11 @@
     "kategorie": "Parafilní poruchy",
     "podkategorie": null,
     "popis": "Přetrvávající a intenzivní vzorec sexuálního vzrušení z odhalování genitálií nebo pohlavního styku nesouhlasícím jedincům; způsobuje tíseň nebo realizovaný jednáním.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Pretrvavajici a intenzivni sexualni vzruseni ze sebeodhalovani genitalu neznamym osobam (exhibicionismus)",
+      "Jedinec toto chovani uskutecnil vuci nesouhlasicim osobam NEBO tato parafilie zpusobuje klinicky vyznamnou tisen nebo funkcni postizeni jedince",
+      "Parafilie trvá nejmenej 6 mesicu"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -10395,7 +10399,11 @@
     "kategorie": "Parafilní poruchy",
     "podkategorie": null,
     "popis": "Přetrvávající a intenzivní sexuální vzrušení z pozorování jiné osoby svlékající se nebo zapojené do sexuální aktivity bez jejího vědomí.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Pretrvavajici a intenzivni sexualni vzruseni ze sledovani jinych osob pri sexualnich aktivitach nebo intimnich cinnostech bez jejich vedomí ci souhlasu",
+      "Jedinec toto chovani uskutecnil vuci nesouhlasicim osobam NEBO tato parafilie zpusobuje klinicky vyznamnou tisen nebo funkcni postizeni jedince",
+      "Parafilie trvá nejmenej 6 mesicu"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -10429,7 +10437,11 @@
     "kategorie": "Parafilní poruchy",
     "podkategorie": null,
     "popis": "Přetrvávající, intenzivní a opakující se vzorec sexuálního vzrušení z působení fyzické nebo psychické bolesti, ponižování nebo utrpení nesouhlasícímu jedinci.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Pretrvavajici a intenzivni sexualni vzruseni z psychickeho nebo fyzickeho utrpeni jine osoby (sadismus)",
+      "Jedinec toto chovani uskutecnil vuci nesouhlasicim osobam NEBO tato parafilie zpusobuje klinicky vyznamnou tisen nebo funkcni postizeni jedince",
+      "Parafilie trvá nejmenej 6 mesicu"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -10444,7 +10456,11 @@
     "kategorie": "Parafilní poruchy",
     "podkategorie": null,
     "popis": "Přetrvávající, intenzivní a opakující se vzorec sexuálního vzrušení z dotýkání nebo tření se o nesouhlasícího jedince.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Pretrvavajici a intenzivni sexualni vzruseni z dotykani nebo treni se o nesouhlasici osoby (frotteurismus)",
+      "Jedinec toto chovani uskutecnil vuci nesouhlasicim osobam NEBO tato parafilie zpusobuje klinicky vyznamnou tisen nebo funkcni postizeni jedince",
+      "Parafilie trvá nejmenej 6 mesicu"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -10459,7 +10475,11 @@
     "kategorie": "Parafilní poruchy",
     "podkategorie": null,
     "popis": "Jiné parafilní poruchy s účastí nesouhlasících osob se vyznačují přetrvávajícím a intenzivním, atypickým sexuálním vzrušením, projevujícím se sexuálními myšlenkami, fantaziemi, nutkáním nebo chováním, které zahrnuje druhé osoby, které nechtějí nebo nemohou dát souhlas, ale které není specificky popsáno v žádné z jiných jmenovaných položek parafilických poruch (např. vzorce vzrušení zahrnující mrtvoly nebo zvířata). Kromě toho, aby mohly být diagnostikovány jiné parafilní poruchy s účastí nesouhlasících osob, musí jedinec na základě těchto myšlenek, fantazií nebo nutkání jednat nebo jimi být výrazně sužován. Porucha výslovně vylučuje sexuální chování, ke kterému dochází se souhlasem zúčastněné osoby nebo osob, pokud jsou považovány za schopné takový souhlas poskytnout.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Intenzivni sexualni vzruseni z nechovani, predmetu nebo situaci, ktere zahrnuji interakci s nesouhlasicimi osobami (krome pripad klasifikovanych jako voyeuristicka porucha, exhibicionisticka porucha, sexualni sadismus nebo frotteurismus)",
+      "Jedinec toto chovani uskutecnil vuci nesouhlasicim osobam NEBO tato parafilie zpusobuje klinicky vyznamnou tisen nebo funkcni postizeni jedince",
+      "Parafilie trvá nejmenej 6 mesicu"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -10474,7 +10494,11 @@
     "kategorie": "Parafilní poruchy",
     "podkategorie": null,
     "popis": "Parafilní porucha s chováním o samotě nebo s účastí souhlasících osob se vyznačuje přetrvávajícím a intenzivním atypickým sexuálním vzrušením, projevujícím se sexuálními myšlenkami, fantaziemi, nutkáním nebo chováním, které zahrnuje souhlasící dospělé osoby nebo které daný jedinec uskutečňuje o samotě. Musí být přítomen jeden z následujících dvou prvků: 1) jedinec je výrazně znepokojen povahou vzrušivého vzorce a toto znepokojení není pouhým důsledkem odmítnutí nebo obav z odmítnutí vzrušivého vzorce druhými osobami; nebo 2) povaha parafilického chování zahrnuje významné riziko zranění nebo smrti buď pro daného jedince, nebo pro partnera (např. asfyxofilie).",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Intenzivni sexualni vzruseni z nechovani, predmetu nebo situaci, ktere jsou obmezeny na aktivity o samote nebo interakce se souhlasicimi dospelymi osobami (napr. fetisismus, transvesticka porucha, sexualni masochismus)",
+      "Parafilie zpusobuje klinicky vyznamnou tisen jedinci nebo je spojena s rizikem ubytí skody na zdravi jedince nebo partnera",
+      "Parafilie trvá nejmenej 6 mesicu"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
