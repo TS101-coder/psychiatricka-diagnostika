@@ -19,8 +19,17 @@
     ],
     "prubeh": "Chronický s epizodickým průběhem. U části pacientů progresivní deteriorace, u části remise.",
     "onset": "Typicky 15–35 let. Muži dříve než ženy.",
-    "diferencialni_diagnozy": ["F25", "F22", "F06.2", "F20.0", "Organické příčiny"],
-    "mapovani": { "mkn11": "6A20", "dsm5": "295.90" }
+    "diferencialni_diagnozy": [
+      "F25",
+      "F22",
+      "F06.2",
+      "F20.0",
+      "Organické příčiny"
+    ],
+    "mapovani": {
+      "mkn11": "6A20",
+      "dsm5": "295.90"
+    }
   },
   {
     "id": "F20.0",
@@ -30,12 +39,35 @@
     "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
     "podkategorie": "Schizofrenie",
     "popis": "Nejčastější typ schizofrenie. Dominují relativně stabilní, zpravidla paranoidní bludy, obvykle doprovázené halucinacemi, zejména sluchovými.",
-    "diagnosticka_kriteria": ["Splněna obecná kritéria pro schizofrenii F20", "Dominují paranoidní bludy nebo halucinace", "Negativní příznaky nejsou výrazné"],
-    "priznaky": ["Paranoidní bludy pronásledování, grandiozity, žárlivosti", "Sluchové halucinace (hlasy komentující, diskutující)", "Relativně zachovaný afekt", "Zachovaná kognitivní funkce déle"],
+    "diagnosticka_kriteria": [
+      "Splněna obecná kritéria pro schizofrenii F20",
+      "Dominují paranoidní bludy nebo halucinace",
+      "Negativní příznaky nejsou výrazné"
+    ],
+    "priznaky": [
+      "Paranoidní bludy pronásledování, grandiozity, žárlivosti",
+      "Sluchové halucinace (hlasy komentující, diskutující)",
+      "Relativně zachovaný afekt",
+      "Zachovaná kognitivní funkce déle"
+    ],
     "prubeh": "Nejlepší prognóza ze všech typů schizofrenie.",
     "onset": "Pozdější než hebefrenie – typicky 25–35 let.",
-    "diferencialni_diagnozy": ["F22", "F25", "F06.2"],
-    "mapovani": { "mkn11": "6A20", "dsm5": "295.30" }
+    "diferencialni_diagnozy": [
+      "F22",
+      "F25",
+      "F06.2"
+    ],
+    "mapovani": {
+      "mkn11": "6A20",
+      "dsm5": "295.30"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria schizofrenie MKN-10 (F20)",
+    "obecna_kriteria": [
+      "A. Alespoň 1 z příznaků první řady (Schneiderovy příznaky 1. řady) přítomný po dobu ≥ 1 měsíce: ozvučování myšlenek, vkládání nebo odnímání myšlenek, vysílání myšlenek; bludy ovládání, ovlivňování nebo pasivity vztahující se k pohybům těla, myšlenkám, pocitům nebo jednání; hlasové halucinace komentující chování nebo diskutující o pacientovi ve třetí osobě; kulturně nepřiměřené přetrvávající bludy",
+      "B. NEBO alespoň 2 z příznaků druhé řady přítomné po dobu ≥ 1 měsíce: přetrvávající halucinace jakéhokoli smyslu, provázené přechodnými nebo neúplnými bludy bez výrazné afektivní složky; neologismy, zábrany nebo inkoherence řeči; katatonní příznaky; negativní příznaky (apatie, ochuzení řeči, oploštění nebo nepřiměřenost afektu)",
+      "C. Vyloučení: diagnóza nesplňuje kritéria pro manickou (F30) ani depresivní epizodu (F32), přičemž afektivní příznaky jsou-li přítomny, musí nastat po splnění schizofrenních kritérií",
+      "D. Porucha není způsobena organickým onemocněním mozku (F0x), intoxikací ani odvykáním od psychoaktivních látek (F1x)"
+    ]
   },
   {
     "id": "F20.1",
@@ -45,12 +77,37 @@
     "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
     "podkategorie": "Schizofrenie",
     "popis": "Forma schizofrenie s prominentní afektivní dezorganizací, dezorganizovaným myšlením a chováním. Nejméně příznivá prognóza.",
-    "diagnosticka_kriteria": ["Splněna obecná kritéria pro schizofrenii", "Prominentní afektivní oploštění nebo nepřiměřenost", "Dezorganizované myšlení", "Bludy a halucinace nejsou dominantní"],
-    "priznaky": ["Nepřiměřený nebo plochý afekt", "Dezorganizované myšlení a řeč", "Nevhodné chování (grimasování, smích)", "Chybění systematických bludů", "Sociální dezintegrace"],
+    "diagnosticka_kriteria": [
+      "Splněna obecná kritéria pro schizofrenii",
+      "Prominentní afektivní oploštění nebo nepřiměřenost",
+      "Dezorganizované myšlení",
+      "Bludy a halucinace nejsou dominantní"
+    ],
+    "priznaky": [
+      "Nepřiměřený nebo plochý afekt",
+      "Dezorganizované myšlení a řeč",
+      "Nevhodné chování (grimasování, smích)",
+      "Chybění systematických bludů",
+      "Sociální dezintegrace"
+    ],
     "prubeh": "Chronický progresivní, nejhorší prognóza.",
     "onset": "Časný – typicky 15–25 let.",
-    "diferencialni_diagnozy": ["F20.0", "F20.5", "F84.5"],
-    "mapovani": { "mkn11": "6A20", "dsm5": "295.10" }
+    "diferencialni_diagnozy": [
+      "F20.0",
+      "F20.5",
+      "F84.5"
+    ],
+    "mapovani": {
+      "mkn11": "6A20",
+      "dsm5": "295.10"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria schizofrenie MKN-10 (F20)",
+    "obecna_kriteria": [
+      "A. Alespoň 1 z příznaků první řady (Schneiderovy příznaky 1. řady) přítomný po dobu ≥ 1 měsíce: ozvučování myšlenek, vkládání nebo odnímání myšlenek, vysílání myšlenek; bludy ovládání, ovlivňování nebo pasivity vztahující se k pohybům těla, myšlenkám, pocitům nebo jednání; hlasové halucinace komentující chování nebo diskutující o pacientovi ve třetí osobě; kulturně nepřiměřené přetrvávající bludy",
+      "B. NEBO alespoň 2 z příznaků druhé řady přítomné po dobu ≥ 1 měsíce: přetrvávající halucinace jakéhokoli smyslu, provázené přechodnými nebo neúplnými bludy bez výrazné afektivní složky; neologismy, zábrany nebo inkoherence řeči; katatonní příznaky; negativní příznaky (apatie, ochuzení řeči, oploštění nebo nepřiměřenost afektu)",
+      "C. Vyloučení: diagnóza nesplňuje kritéria pro manickou (F30) ani depresivní epizodu (F32), přičemž afektivní příznaky jsou-li přítomny, musí nastat po splnění schizofrenních kritérií",
+      "D. Porucha není způsobena organickým onemocněním mozku (F0x), intoxikací ani odvykáním od psychoaktivních látek (F1x)"
+    ]
   },
   {
     "id": "F20.2",
@@ -60,12 +117,37 @@
     "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
     "podkategorie": "Schizofrenie",
     "popis": "Forma schizofrenie s dominantními psychomotorickými poruchami – stuporem nebo excitací.",
-    "diagnosticka_kriteria": ["Splněna obecná kritéria pro schizofrenii", "Dominantní katatonní příznaky ≥ 1: stupor, excitace, negativismus, rigidita, flexibilitas cerea, echopraxie/echolálie"],
-    "priznaky": ["Katatonní stupor (mutismus, imobilita)", "Katatonní excitace (neklid)", "Negativismus", "Flexibilitas cerea", "Echolálie, echopraxie", "Povelová automatika"],
+    "diagnosticka_kriteria": [
+      "Splněna obecná kritéria pro schizofrenii",
+      "Dominantní katatonní příznaky ≥ 1: stupor, excitace, negativismus, rigidita, flexibilitas cerea, echopraxie/echolálie"
+    ],
+    "priznaky": [
+      "Katatonní stupor (mutismus, imobilita)",
+      "Katatonní excitace (neklid)",
+      "Negativismus",
+      "Flexibilitas cerea",
+      "Echolálie, echopraxie",
+      "Povelová automatika"
+    ],
     "prubeh": "Variabilní. Riziko maligní katatonie (hypertermie, autonomní nestabilita).",
     "onset": "Variabilní.",
-    "diferencialni_diagnozy": ["F06.1", "Maligní neuroleptický syndrom", "F30.2", "Encefalitida"],
-    "mapovani": { "mkn11": "6A20", "dsm5": "295.20" }
+    "diferencialni_diagnozy": [
+      "F06.1",
+      "Maligní neuroleptický syndrom",
+      "F30.2",
+      "Encefalitida"
+    ],
+    "mapovani": {
+      "mkn11": "6A20",
+      "dsm5": "295.20"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria schizofrenie MKN-10 (F20)",
+    "obecna_kriteria": [
+      "A. Alespoň 1 z příznaků první řady (Schneiderovy příznaky 1. řady) přítomný po dobu ≥ 1 měsíce: ozvučování myšlenek, vkládání nebo odnímání myšlenek, vysílání myšlenek; bludy ovládání, ovlivňování nebo pasivity vztahující se k pohybům těla, myšlenkám, pocitům nebo jednání; hlasové halucinace komentující chování nebo diskutující o pacientovi ve třetí osobě; kulturně nepřiměřené přetrvávající bludy",
+      "B. NEBO alespoň 2 z příznaků druhé řady přítomné po dobu ≥ 1 měsíce: přetrvávající halucinace jakéhokoli smyslu, provázené přechodnými nebo neúplnými bludy bez výrazné afektivní složky; neologismy, zábrany nebo inkoherence řeči; katatonní příznaky; negativní příznaky (apatie, ochuzení řeči, oploštění nebo nepřiměřenost afektu)",
+      "C. Vyloučení: diagnóza nesplňuje kritéria pro manickou (F30) ani depresivní epizodu (F32), přičemž afektivní příznaky jsou-li přítomny, musí nastat po splnění schizofrenních kritérií",
+      "D. Porucha není způsobena organickým onemocněním mozku (F0x), intoxikací ani odvykáním od psychoaktivních látek (F1x)"
+    ]
   },
   {
     "id": "F20.3",
@@ -75,12 +157,31 @@
     "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
     "podkategorie": "Schizofrenie",
     "popis": "Schizofrenie splňující obecná kritéria, ale nespadající do žádného specifického podtypu nebo splňující kritéria více podtypů.",
-    "diagnosticka_kriteria": ["Splněna obecná kritéria pro schizofrenii", "Nesplněna kritéria pro F20.0–F20.2 nebo splněna pro více podtypů"],
-    "priznaky": ["Kombinace pozitivních a negativních příznaků bez dominujícího vzoru"],
+    "diagnosticka_kriteria": [
+      "Splněna obecná kritéria pro schizofrenii",
+      "Nesplněna kritéria pro F20.0–F20.2 nebo splněna pro více podtypů"
+    ],
+    "priznaky": [
+      "Kombinace pozitivních a negativních příznaků bez dominujícího vzoru"
+    ],
     "prubeh": "Variabilní.",
     "onset": "Variabilní.",
-    "diferencialni_diagnozy": ["F20.0", "F20.1", "F25"],
-    "mapovani": { "mkn11": "6A20", "dsm5": "295.90" }
+    "diferencialni_diagnozy": [
+      "F20.0",
+      "F20.1",
+      "F25"
+    ],
+    "mapovani": {
+      "mkn11": "6A20",
+      "dsm5": "295.90"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria schizofrenie MKN-10 (F20)",
+    "obecna_kriteria": [
+      "A. Alespoň 1 z příznaků první řady (Schneiderovy příznaky 1. řady) přítomný po dobu ≥ 1 měsíce: ozvučování myšlenek, vkládání nebo odnímání myšlenek, vysílání myšlenek; bludy ovládání, ovlivňování nebo pasivity vztahující se k pohybům těla, myšlenkám, pocitům nebo jednání; hlasové halucinace komentující chování nebo diskutující o pacientovi ve třetí osobě; kulturně nepřiměřené přetrvávající bludy",
+      "B. NEBO alespoň 2 z příznaků druhé řady přítomné po dobu ≥ 1 měsíce: přetrvávající halucinace jakéhokoli smyslu, provázené přechodnými nebo neúplnými bludy bez výrazné afektivní složky; neologismy, zábrany nebo inkoherence řeči; katatonní příznaky; negativní příznaky (apatie, ochuzení řeči, oploštění nebo nepřiměřenost afektu)",
+      "C. Vyloučení: diagnóza nesplňuje kritéria pro manickou (F30) ani depresivní epizodu (F32), přičemž afektivní příznaky jsou-li přítomny, musí nastat po splnění schizofrenních kritérií",
+      "D. Porucha není způsobena organickým onemocněním mozku (F0x), intoxikací ani odvykáním od psychoaktivních látek (F1x)"
+    ]
   },
   {
     "id": "F20.4",
@@ -90,12 +191,36 @@
     "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
     "podkategorie": "Schizofrenie",
     "popis": "Depresivní epizoda vznikající po odeznění akutní fáze schizofrenie. Zvýšené riziko sebevraždy.",
-    "diagnosticka_kriteria": ["Anamnéza schizofrenie v posledních 12 měsících", "Přetrvávají některé schizofrenní příznaky", "Depresivní příznaky dostatečně výrazné pro diagnózu deprese"],
-    "priznaky": ["Depresivní nálada", "Přetrvávající negativní příznaky", "Zvýšené suicidální riziko", "Anhedonie", "Únava"],
+    "diagnosticka_kriteria": [
+      "Anamnéza schizofrenie v posledních 12 měsících",
+      "Přetrvávají některé schizofrenní příznaky",
+      "Depresivní příznaky dostatečně výrazné pro diagnózu deprese"
+    ],
+    "priznaky": [
+      "Depresivní nálada",
+      "Přetrvávající negativní příznaky",
+      "Zvýšené suicidální riziko",
+      "Anhedonie",
+      "Únava"
+    ],
     "prubeh": "Epizodický průběh s rizikem relapsu schizofrenie.",
     "onset": "Po odeznění akutní psychózy.",
-    "diferencialni_diagnozy": ["F32", "F20.5", "Negativní příznaky schizofrenie"],
-    "mapovani": { "mkn11": "6A20", "dsm5": "295.70" }
+    "diferencialni_diagnozy": [
+      "F32",
+      "F20.5",
+      "Negativní příznaky schizofrenie"
+    ],
+    "mapovani": {
+      "mkn11": "6A20",
+      "dsm5": "295.70"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria schizofrenie MKN-10 (F20)",
+    "obecna_kriteria": [
+      "A. Alespoň 1 z příznaků první řady (Schneiderovy příznaky 1. řady) přítomný po dobu ≥ 1 měsíce: ozvučování myšlenek, vkládání nebo odnímání myšlenek, vysílání myšlenek; bludy ovládání, ovlivňování nebo pasivity vztahující se k pohybům těla, myšlenkám, pocitům nebo jednání; hlasové halucinace komentující chování nebo diskutující o pacientovi ve třetí osobě; kulturně nepřiměřené přetrvávající bludy",
+      "B. NEBO alespoň 2 z příznaků druhé řady přítomné po dobu ≥ 1 měsíce: přetrvávající halucinace jakéhokoli smyslu, provázené přechodnými nebo neúplnými bludy bez výrazné afektivní složky; neologismy, zábrany nebo inkoherence řeči; katatonní příznaky; negativní příznaky (apatie, ochuzení řeči, oploštění nebo nepřiměřenost afektu)",
+      "C. Vyloučení: diagnóza nesplňuje kritéria pro manickou (F30) ani depresivní epizodu (F32), přičemž afektivní příznaky jsou-li přítomny, musí nastat po splnění schizofrenních kritérií",
+      "D. Porucha není způsobena organickým onemocněním mozku (F0x), intoxikací ani odvykáním od psychoaktivních látek (F1x)"
+    ]
   },
   {
     "id": "F20.5",
@@ -105,12 +230,34 @@
     "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
     "podkategorie": "Schizofrenie",
     "popis": "Chronické stadium schizofrenie s přechodem od floridní psychózy k dominanci negativních příznaků a funkčního deficitu.",
-    "diagnosticka_kriteria": ["Anamnéza ≥ 1 epizody schizofrenie", "Přetrvávající negativní příznaky: psychomotorické zpomalení, snížená aktivita, oploštělý afekt, chudoba řeči, snížená péče o sebe, sociální ztažení"],
-    "priznaky": ["Negativní příznaky dominují", "Absence floridní psychózy", "Funkční deteriorace", "Sociální izolace"],
+    "diagnosticka_kriteria": [
+      "Anamnéza ≥ 1 epizody schizofrenie",
+      "Přetrvávající negativní příznaky: psychomotorické zpomalení, snížená aktivita, oploštělý afekt, chudoba řeči, snížená péče o sebe, sociální ztažení"
+    ],
+    "priznaky": [
+      "Negativní příznaky dominují",
+      "Absence floridní psychózy",
+      "Funkční deteriorace",
+      "Sociální izolace"
+    ],
     "prubeh": "Chronický, stabilní nebo mírně progresivní.",
     "onset": "Po opakovaných epizodách schizofrenie.",
-    "diferencialni_diagnozy": ["F20.4", "F60.1", "F32"],
-    "mapovani": { "mkn11": "6A20", "dsm5": "295.60" }
+    "diferencialni_diagnozy": [
+      "F20.4",
+      "F60.1",
+      "F32"
+    ],
+    "mapovani": {
+      "mkn11": "6A20",
+      "dsm5": "295.60"
+    },
+    "obecna_kriteria_nazev": "Obecná kritéria schizofrenie MKN-10 (F20)",
+    "obecna_kriteria": [
+      "A. Alespoň 1 z příznaků první řady (Schneiderovy příznaky 1. řady) přítomný po dobu ≥ 1 měsíce: ozvučování myšlenek, vkládání nebo odnímání myšlenek, vysílání myšlenek; bludy ovládání, ovlivňování nebo pasivity vztahující se k pohybům těla, myšlenkám, pocitům nebo jednání; hlasové halucinace komentující chování nebo diskutující o pacientovi ve třetí osobě; kulturně nepřiměřené přetrvávající bludy",
+      "B. NEBO alespoň 2 z příznaků druhé řady přítomné po dobu ≥ 1 měsíce: přetrvávající halucinace jakéhokoli smyslu, provázené přechodnými nebo neúplnými bludy bez výrazné afektivní složky; neologismy, zábrany nebo inkoherence řeči; katatonní příznaky; negativní příznaky (apatie, ochuzení řeči, oploštění nebo nepřiměřenost afektu)",
+      "C. Vyloučení: diagnóza nesplňuje kritéria pro manickou (F30) ani depresivní epizodu (F32), přičemž afektivní příznaky jsou-li přítomny, musí nastat po splnění schizofrenních kritérií",
+      "D. Porucha není způsobena organickým onemocněním mozku (F0x), intoxikací ani odvykáním od psychoaktivních látek (F1x)"
+    ]
   },
   {
     "id": "F20.6",
@@ -120,12 +267,28 @@
     "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
     "podkategorie": "Schizofrenie",
     "popis": "Nenápadný, plíživý rozvoj bizarního chování, neschopnosti splňovat sociální požadavky a pokles výkonu bez výrazných psychotických příznaků.",
-    "diagnosticka_kriteria": ["Plíživý rozvoj negativních příznaků po ≥ 1 rok", "Bez psychotických epizod v anamnéze", "Výrazná změna osobnosti a chování"],
-    "priznaky": ["Plíživý sociální pokles", "Negativní příznaky", "Chybění floridní psychózy", "Bizarní chování"],
+    "diagnosticka_kriteria": [
+      "Plíživý rozvoj negativních příznaků po ≥ 1 rok",
+      "Bez psychotických epizod v anamnéze",
+      "Výrazná změna osobnosti a chování"
+    ],
+    "priznaky": [
+      "Plíživý sociální pokles",
+      "Negativní příznaky",
+      "Chybění floridní psychózy",
+      "Bizarní chování"
+    ],
     "prubeh": "Chronický progresivní.",
     "onset": "Adolescence.",
-    "diferencialni_diagnozy": ["F60.1", "F21", "F84.5"],
-    "mapovani": { "mkn11": "6A20", "dsm5": "295.90" }
+    "diferencialni_diagnozy": [
+      "F60.1",
+      "F21",
+      "F84.5"
+    ],
+    "mapovani": {
+      "mkn11": "6A20",
+      "dsm5": "295.90"
+    }
   },
   {
     "id": "F21",
@@ -135,12 +298,28 @@
     "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
     "podkategorie": "Poruchy schizofrenního spektra",
     "popis": "Porucha s excentrickým chováním a anomáliemi myšlení a afektu, podobnými schizofrenii, ale bez typických schizofrenních příznaků.",
-    "diagnosticka_kriteria": ["≥ 4 z po dobu ≥ 2 let: nevhodný nebo konstriktovaný afekt, divné/excentriční chování, špatný kontakt s druhými, magické myšlení, podezíravost, ruminující obsedantní myšlenky, neobvyklé percepční zkušenosti, vágní/metaforická řeč, občasné krátké psychotické epizody"],
-    "priznaky": ["Magické myšlení", "Ideje vztahování", "Neobvyklé percepce", "Divná řeč", "Podezíravost", "Sociální izolace"],
+    "diagnosticka_kriteria": [
+      "≥ 4 z po dobu ≥ 2 let: nevhodný nebo konstriktovaný afekt, divné/excentriční chování, špatný kontakt s druhými, magické myšlení, podezíravost, ruminující obsedantní myšlenky, neobvyklé percepční zkušenosti, vágní/metaforická řeč, občasné krátké psychotické epizody"
+    ],
+    "priznaky": [
+      "Magické myšlení",
+      "Ideje vztahování",
+      "Neobvyklé percepce",
+      "Divná řeč",
+      "Podezíravost",
+      "Sociální izolace"
+    ],
     "prubeh": "Chronický, zpravidla bez progrese do schizofrenie.",
     "onset": "Časná dospělost.",
-    "diferencialni_diagnozy": ["F20.5", "F60.1", "F22"],
-    "mapovani": { "mkn11": "6A22", "dsm5": "301.22" }
+    "diferencialni_diagnozy": [
+      "F20.5",
+      "F60.1",
+      "F22"
+    ],
+    "mapovani": {
+      "mkn11": "6A22",
+      "dsm5": "301.22"
+    }
   },
   {
     "id": "F22",
@@ -150,12 +329,27 @@
     "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
     "podkategorie": "Poruchy s bludy",
     "popis": "Skupina poruch, pro něž jsou charakteristické trvalé bludy jako dominantní nebo jediný klinický příznak.",
-    "diagnosticka_kriteria": ["Trvalé bludy (≥ 3 měsíce)", "Nesplněna kritéria pro schizofrenii (F20)", "Bez organické příčiny"],
-    "priznaky": ["Systematizované bludy", "Zachovaná osobnost a funkce mimo téma bludů", "Zpravidla žádné halucinace nebo jen přechodné"],
+    "diagnosticka_kriteria": [
+      "Trvalé bludy (≥ 3 měsíce)",
+      "Nesplněna kritéria pro schizofrenii (F20)",
+      "Bez organické příčiny"
+    ],
+    "priznaky": [
+      "Systematizované bludy",
+      "Zachovaná osobnost a funkce mimo téma bludů",
+      "Zpravidla žádné halucinace nebo jen přechodné"
+    ],
     "prubeh": "Chronický, stabilní.",
     "onset": "Střední věk a starší.",
-    "diferencialni_diagnozy": ["F20.0", "F25", "F06.2"],
-    "mapovani": { "mkn11": "6A24", "dsm5": "297.1" }
+    "diferencialni_diagnozy": [
+      "F20.0",
+      "F25",
+      "F06.2"
+    ],
+    "mapovani": {
+      "mkn11": "6A24",
+      "dsm5": "297.1"
+    }
   },
   {
     "id": "F22.0",
@@ -165,12 +359,27 @@
     "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
     "podkategorie": "Poruchy s bludy",
     "popis": "Trvalá porucha s erotomanickými, grandiózními, žárliveckými, pronásledovatelskými nebo somatickými bludy.",
-    "diagnosticka_kriteria": ["Splněna kritéria F22", "Systematizované bludy jednoho z typů: erotomanické, grandiózní, žárlivecké, perzekuční, somatické, smíšené"],
-    "priznaky": ["Systematizované bludy", "Zachovaná osobnost", "Bez halucinací", "Bez dezorganizace"],
+    "diagnosticka_kriteria": [
+      "Splněna kritéria F22",
+      "Systematizované bludy jednoho z typů: erotomanické, grandiózní, žárlivecké, perzekuční, somatické, smíšené"
+    ],
+    "priznaky": [
+      "Systematizované bludy",
+      "Zachovaná osobnost",
+      "Bez halucinací",
+      "Bez dezorganizace"
+    ],
     "prubeh": "Chronický, zpravidla stabilní.",
     "onset": "35–55 let.",
-    "diferencialni_diagnozy": ["F20.0", "F60.0", "Organická bludná porucha"],
-    "mapovani": { "mkn11": "6A24.0", "dsm5": "297.1" }
+    "diferencialni_diagnozy": [
+      "F20.0",
+      "F60.0",
+      "Organická bludná porucha"
+    ],
+    "mapovani": {
+      "mkn11": "6A24.0",
+      "dsm5": "297.1"
+    }
   },
   {
     "id": "F23",
@@ -180,12 +389,31 @@
     "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
     "podkategorie": "Akutní psychózy",
     "popis": "Heterogenní skupina poruch charakterizovaná akutním nástupem psychotických příznaků a rychlou (do měsíce) remisí.",
-    "diagnosticka_kriteria": ["Akutní nástup psychózy (do 2 týdnů)", "Příznaky splňují kritéria schizofrenie nebo jiné psychózy", "Remise do 3 měsíců"],
-    "priznaky": ["Bludy", "Halucinace", "Dezorganizace", "Rychlá změna symptomů", "Emoční bouře", "Zmatenost"],
+    "diagnosticka_kriteria": [
+      "Akutní nástup psychózy (do 2 týdnů)",
+      "Příznaky splňují kritéria schizofrenie nebo jiné psychózy",
+      "Remise do 3 měsíců"
+    ],
+    "priznaky": [
+      "Bludy",
+      "Halucinace",
+      "Dezorganizace",
+      "Rychlá změna symptomů",
+      "Emoční bouře",
+      "Zmatenost"
+    ],
     "prubeh": "Dobrá prognóza – remise do 3 měsíců.",
     "onset": "Náhlý, do 2 týdnů. Często spouštěče (stres, trauma).",
-    "diferencialni_diagnozy": ["F20", "F25", "F30.2", "F05"],
-    "mapovani": { "mkn11": "6A23", "dsm5": "298.8" }
+    "diferencialni_diagnozy": [
+      "F20",
+      "F25",
+      "F30.2",
+      "F05"
+    ],
+    "mapovani": {
+      "mkn11": "6A23",
+      "dsm5": "298.8"
+    }
   },
   {
     "id": "F24",
@@ -195,12 +423,26 @@
     "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
     "podkategorie": "Poruchy s bludy",
     "popis": "Sdílená bludy mezi dvěma nebo více osobami s blízkým emocionálním vztahem. Folie à deux.",
-    "diagnosticka_kriteria": ["Sdílení bludů s osobou trpící primární psychotickou poruchou", "Blízký vztah s primárním pacientem", "Před kontaktem nebyly bludy přítomny u sekundárního pacienta"],
-    "priznaky": ["Sdílené bludy (zpravidla paranoidní)", "Sociální izolace páru/skupiny", "Závislý vztah sekundárního pacienta"],
+    "diagnosticka_kriteria": [
+      "Sdílení bludů s osobou trpící primární psychotickou poruchou",
+      "Blízký vztah s primárním pacientem",
+      "Před kontaktem nebyly bludy přítomny u sekundárního pacienta"
+    ],
+    "priznaky": [
+      "Sdílené bludy (zpravidla paranoidní)",
+      "Sociální izolace páru/skupiny",
+      "Závislý vztah sekundárního pacienta"
+    ],
     "prubeh": "Remise sekundárního pacienta při separaci.",
     "onset": "Po dlouhodobém soužití s primárním pacientem.",
-    "diferencialni_diagnozy": ["F22", "F20"],
-    "mapovani": { "mkn11": "6A25", "dsm5": "297.3" }
+    "diferencialni_diagnozy": [
+      "F22",
+      "F20"
+    ],
+    "mapovani": {
+      "mkn11": "6A25",
+      "dsm5": "297.3"
+    }
   },
   {
     "id": "F25",
@@ -210,12 +452,26 @@
     "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
     "podkategorie": "Schizoafektivní poruchy",
     "popis": "Epizodické poruchy, při nichž jsou výrazně přítomny jak afektivní, tak schizofrenní příznaky, a to buď současně, nebo v bezprostřední posloupnosti.",
-    "diagnosticka_kriteria": ["Přítomny příznaky schizofrenie i afektivní poruchy v téže epizodě", "Příznaky nesplňují izolovaně pouze schizofrenii nebo afektivní poruchu"],
-    "priznaky": ["Psychotické příznaky (bludy, halucinace)", "Výrazné afektivní příznaky (mánie nebo deprese)", "Současná přítomnost obou skupin"],
+    "diagnosticka_kriteria": [
+      "Přítomny příznaky schizofrenie i afektivní poruchy v téže epizodě",
+      "Příznaky nesplňují izolovaně pouze schizofrenii nebo afektivní poruchu"
+    ],
+    "priznaky": [
+      "Psychotické příznaky (bludy, halucinace)",
+      "Výrazné afektivní příznaky (mánie nebo deprese)",
+      "Současná přítomnost obou skupin"
+    ],
     "prubeh": "Epizodický. Lepší prognóza než schizofrenie, horší než bipolární porucha.",
     "onset": "Rané dospělosti.",
-    "diferencialni_diagnozy": ["F20", "F31", "F32"],
-    "mapovani": { "mkn11": "6A21", "dsm5": "295.70" }
+    "diferencialni_diagnozy": [
+      "F20",
+      "F31",
+      "F32"
+    ],
+    "mapovani": {
+      "mkn11": "6A21",
+      "dsm5": "295.70"
+    }
   },
   {
     "id": "F25.0",
@@ -225,12 +481,27 @@
     "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
     "podkategorie": "Schizoafektivní poruchy",
     "popis": "Epizoda s výraznými manickými příznaky a schizofrenními příznaky.",
-    "diagnosticka_kriteria": ["Splněna kritéria F25", "Manická nebo smíšená afektivní komponenta"],
-    "priznaky": ["Expanzivní nebo podrážděná nálada", "Zvýšená energie", "Grandiózní bludy", "Sluchové halucinace"],
+    "diagnosticka_kriteria": [
+      "Splněna kritéria F25",
+      "Manická nebo smíšená afektivní komponenta"
+    ],
+    "priznaky": [
+      "Expanzivní nebo podrážděná nálada",
+      "Zvýšená energie",
+      "Grandiózní bludy",
+      "Sluchové halucinace"
+    ],
     "prubeh": "Epizodický.",
     "onset": "Rané dospělosti.",
-    "diferencialni_diagnozy": ["F30.2", "F20", "F25.1"],
-    "mapovani": { "mkn11": "6A21.0", "dsm5": "295.70" }
+    "diferencialni_diagnozy": [
+      "F30.2",
+      "F20",
+      "F25.1"
+    ],
+    "mapovani": {
+      "mkn11": "6A21.0",
+      "dsm5": "295.70"
+    }
   },
   {
     "id": "F25.1",
@@ -240,12 +511,28 @@
     "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
     "podkategorie": "Schizoafektivní poruchy",
     "popis": "Epizoda s výraznými depresivními příznaky a schizofrenními příznaky.",
-    "diagnosticka_kriteria": ["Splněna kritéria F25", "Depresivní afektivní komponenta"],
-    "priznaky": ["Depresivní nálada", "Nihilistické bludy", "Sluchové halucinace", "Anergie", "Suicidální myšlenky"],
+    "diagnosticka_kriteria": [
+      "Splněna kritéria F25",
+      "Depresivní afektivní komponenta"
+    ],
+    "priznaky": [
+      "Depresivní nálada",
+      "Nihilistické bludy",
+      "Sluchové halucinace",
+      "Anergie",
+      "Suicidální myšlenky"
+    ],
     "prubeh": "Epizodický. Vyšší suicidální riziko.",
     "onset": "Rané dospělosti.",
-    "diferencialni_diagnozy": ["F32", "F20.4", "F25.0"],
-    "mapovani": { "mkn11": "6A21.1", "dsm5": "295.70" }
+    "diferencialni_diagnozy": [
+      "F32",
+      "F20.4",
+      "F25.0"
+    ],
+    "mapovani": {
+      "mkn11": "6A21.1",
+      "dsm5": "295.70"
+    }
   },
   {
     "id": "F28",
@@ -255,12 +542,26 @@
     "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
     "podkategorie": "Jiné psychózy",
     "popis": "Psychotické poruchy, které nesplňují kritéria pro schizofrenii, poruchy s bludy nebo afektivní poruchy.",
-    "diagnosticka_kriteria": ["Psychotické příznaky", "Nesplněna kritéria pro F20–F25", "Bez organické příčiny"],
-    "priznaky": ["Halucinace a/nebo bludy", "Variabilní obraz"],
+    "diagnosticka_kriteria": [
+      "Psychotické příznaky",
+      "Nesplněna kritéria pro F20–F25",
+      "Bez organické příčiny"
+    ],
+    "priznaky": [
+      "Halucinace a/nebo bludy",
+      "Variabilní obraz"
+    ],
     "prubeh": "Variabilní.",
     "onset": "Variabilní.",
-    "diferencialni_diagnozy": ["F20", "F23", "F25"],
-    "mapovani": { "mkn11": "6A2Y", "dsm5": "298.9" }
+    "diferencialni_diagnozy": [
+      "F20",
+      "F23",
+      "F25"
+    ],
+    "mapovani": {
+      "mkn11": "6A2Y",
+      "dsm5": "298.9"
+    }
   },
   {
     "id": "F29",
@@ -270,11 +571,25 @@
     "kategorie": "F20–F29 Schizofrenie a psychotické poruchy",
     "podkategorie": "Jiné psychózy",
     "popis": "Psychóza bez dostatečných informací pro specifickou diagnózu.",
-    "diagnosticka_kriteria": ["Psychotické příznaky", "Nedostatečné informace pro specifičtější diagnózu"],
-    "priznaky": ["Halucinace", "Bludy", "Dezorganizace"],
+    "diagnosticka_kriteria": [
+      "Psychotické příznaky",
+      "Nedostatečné informace pro specifičtější diagnózu"
+    ],
+    "priznaky": [
+      "Halucinace",
+      "Bludy",
+      "Dezorganizace"
+    ],
     "prubeh": "Variabilní.",
     "onset": "Variabilní.",
-    "diferencialni_diagnozy": ["F20", "F23", "F06.2"],
-    "mapovani": { "mkn11": "6A2Z", "dsm5": "298.9" }
+    "diferencialni_diagnozy": [
+      "F20",
+      "F23",
+      "F06.2"
+    ],
+    "mapovani": {
+      "mkn11": "6A2Z",
+      "dsm5": "298.9"
+    }
   }
 ]
