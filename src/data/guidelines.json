@@ -341,5 +341,123 @@
       "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
       "SÚKL Databáze léčiv – ověřeno 2025"
     ]
+  },
+  {
+    "kod_mkn10": "F02",
+    "nazev_poruchy": "Demence u jiných nemocí klasifikovaných jinde",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Inhibitory acetylcholinesterázy (AChEI) – u demence s Lewyho tělísky a Parkinsonovy demence",
+          "priklady_generik": ["rivastigmin", "donepezil"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Rivastigmin má v ČR specifickou registraci pro demenci u Parkinsonovy nemoci (kapsle i náplast). Donepezil je off-label u demence s Lewyho tělísky, ale klinicky doporučován. U frontotemporální demence AChEI NEJSOU indikovány a mohou zhoršit stav.",
+          "doporucene_davkovani_zahajovaci": "Rivastigmin náplast: 4,6 mg/24 h po dobu 4 týdnů, pak 9,5 mg/24 h. Donepezil: 5 mg večer, po 4–6 týdnech 10 mg/den.",
+          "hlavni_nezadouci_ucinky": ["nauzea", "zvracení", "průjem", "prohloubení třesu (u Parkinsonovy demence)", "bradykardie"],
+          "kontraindikace": ["frontotemporální demence (relativní – riziko agitace)", "závažné srdeční arytmie", "aktivní peptický vřed"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Fyzická rehabilitace a pohybová terapie (zejména u Parkinsonovy demence)",
+        "Logopedická terapie při poruše řeči",
+        "Kognitivní stimulace přizpůsobená typu demence",
+        "Edukace pečovatelů – specifika jednotlivých typů demence",
+        "Ergoterapie – úprava prostředí pro bezpečnost"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Antagonisté NMDA receptorů",
+          "priklady_generik": ["memantin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Registrován v ČR. U frontotemporální demence možno zvážit při behaviorálních příznacích, data jsou limitovaná.",
+          "indikace_k_nasazeni": "Středně těžká až těžká forma, intolerance nebo nedostatečný efekt AChEI, nebo jako augmentace."
+        },
+        {
+          "skupina_latek": "SSRI – pro behaviorální příznaky u frontotemporální demence",
+          "priklady_generik": ["sertralin", "fluvoxamin", "fluoxetin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Off-label indikace. Mohou zmírnit dezinhibici, hyperoralitu a obsedantní rysy u frontotemporální demence.",
+          "indikace_k_nasazeni": "Behaviorální varianta frontotemporální demence s disinhibicí nebo kompulzivními příznaky."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "KRITICKÉ: U demence s Lewyho tělísky jsou konvenční i atypická antipsychotika (vyjma klozapinu a quetiapinu v nízkých dávkách) kontraindikována – hrozí těžká hypersenzitivní reakce s rigiditou, zmateností a smrtí. Haloperidol a risperidon jsou absolutně kontraindikována.",
+      "interakce": [
+        "AChEI + anticholinergika – antagonismus, zhoršení kognice i motoriky u Parkinsonovy demence",
+        "Rivastigmin + betablokátory – riziko bradykardie",
+        "SSRI + tramadol – riziko serotoninového syndromu",
+        "Levodopa + AChEI – možné prohloubení nežádoucích GI účinků"
+      ],
+      "monitoring": [
+        "MMSE nebo MoCA každých 6–12 měsíců",
+        "Motorické funkce u Parkinsonovy demence (UPDRS)",
+        "Fluktuace bdělosti a halucinace u demence s Lewyho tělísky",
+        "EKG při zahájení AChEI",
+        "Hmotnost u frontotemporální demence (hyperoralita → obezita)"
+      ]
+    },
+    "zdroje": [
+      "APA Practice Guidelines 2007",
+      "DLB Consortium Third Report 2017",
+      "EFNS Guidelines on Dementia 2012",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F03",
+    "nazev_poruchy": "Nespecifikovaná demence",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Inhibitory acetylcholinesterázy (AChEI) – pokud etiologie pravděpodobně alzheimerovská nebo smíšená",
+          "priklady_generik": ["donepezil", "rivastigmin", "galantamin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Při nezjištěné etiologii se postupuje empiricky. Nasazení AChEI je opodstatněné, pokud klinický obraz odpovídá kortikální (alzheimerovské) nebo smíšené demenci. Preskripce vázána na psychiatra, neurologa nebo geriatra.",
+          "doporucene_davkovani_zahajovaci": "Donepezil: 5 mg/den, titrace na 10 mg/den po 4–6 týdnech.",
+          "hlavni_nezadouci_ucinky": ["nauzea", "průjem", "insomnie", "bradykardie"],
+          "kontraindikace": ["závažné srdeční arytmie", "aktivní peptický vřed"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Kognitivní stimulace a trénink",
+        "Fyzická aktivita",
+        "Strukturovaný denní režim",
+        "Edukace pečovatelů",
+        "Bezpečnostní úpravy prostředí"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Antagonisté NMDA receptorů",
+          "priklady_generik": ["memantin"],
+          "dostupnost_cr_sukl": true,
+          "indikace_k_nasazeni": "Středně těžká až těžká demence, nebo kombinace s AChEI."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "U všech typů demence platí zvýšené riziko mortality při podávání atypických antipsychotik (FDA/EMA black box warning). Používat pouze při závažných BPSD, v nejnižší účinné dávce.",
+      "interakce": [
+        "AChEI + anticholinergika – antagonismus",
+        "AChEI + betablokátory – bradykardie",
+        "Memantin + amantadin – kumulativní NMDA antagonismus, riziko psychózy"
+      ],
+      "monitoring": [
+        "Kognitivní testy (MMSE/MoCA) každých 6–12 měsíců",
+        "Sledování behaviorálních příznaků (NPI škála)",
+        "Základní laboratorní vyšetření k vyloučení reverzibilní příčiny demence",
+        "Renální funkce ročně (memantin)"
+      ]
+    },
+    "zdroje": [
+      "APA Practice Guidelines 2007",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
   }
 ]
