@@ -21,9 +21,6 @@ export default function DiagnozaKarta({ diagnoza, onPorovnat, vybrana }) {
             {diagnoza.mapovani?.mkn11 && (
               <span className="text-xs px-1.5 py-0.5 bg-green-100 text-green-700 rounded">MKN-11</span>
             )}
-            {diagnoza.mapovani?.dsm5 && (
-              <span className="text-xs px-1.5 py-0.5 bg-purple-100 text-purple-700 rounded">DSM-5</span>
-            )}
           </div>
         </div>
 

@@ -46,7 +46,7 @@ export default function Header({ onMenuClick }) {
         </div>
         <div className="hidden sm:block">
           <h1 className="text-sm font-semibold text-slate-900 leading-tight">Psychiatrická diagnostika</h1>
-          <p className="text-xs text-slate-500">MKN-10 / MKN-11 / DSM-5</p>
+          <p className="text-xs text-slate-500">MKN-10 / MKN-11</p>
         </div>
       </div>
 
