@@ -1965,11 +1965,13 @@
       "F60.3"
     ],
     "mapovani": {
-      "mkn11": "6D8Y.0",
+      "mkn11": "6E68",
       "dsm5": "310.1"
     },
     "kriteria_mkn11": [
-      "Specifikovaná organická porucha osobnosti a chování způsobená přímými fyziologickými účinky onemocnění, úrazu nebo dysfunkce mozku"
+      "Vyznamna zmena osobnosti (ve sfere afektu, kognice, impulzivity, mezilidskych vztahu) jako prime dusledky jineho zdravotniho stavu (napr. frontalni TBI, nador CNS, epilepsie, encefalitida)",
+      "Prukazna casova nebo fyziologicka souvislost mezi zdravotnim stavem a zmenou osobnosti",
+      "Zmena osobnosti neni lepe vysvetlena primarne poruchou osobnosti ani jinou dusevni poruchou"
     ],
     "obecna_kriteria_mkn11": [
       "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
@@ -4452,11 +4454,14 @@
       "Fokální epilepsie"
     ],
     "mapovani": {
-      "mkn11": "6C46.70",
+      "mkn11": "6C49",
       "dsm5": "292.89"
     },
     "kriteria_mkn11": [
-      "Přetrvávající percepční porucha vyvolaná halucinogeny (HPPD): opakované přepisy percepčních symptomů z dřívější intoxikace halucinogeny"
+      "Poruchy zpusobene uzivanism halucinogenu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim halucinogenu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -11308,12 +11313,13 @@
       "F32.0"
     ],
     "mapovani": {
-      "mkn11": "6E20.0",
+      "mkn11": "6E20",
       "dsm5": "296.xx"
     },
     "kriteria_mkn11": [
-      "Poporodní deprese: nástup do 6 týdnů po porodu, splňující kritéria depresivní epizody",
-      "Výrazná depresivní nálada, ztráta zájmu nebo potěšení, únava, insomnie, pocity viny nebo bezcennosti"
+      "Vznik dusevni poruchy behem tehotenstvi nebo do 6 tydnu po porodu",
+      "Klinicke priznaky odpovídají kriteriim pro nejakou dusevni poruchu (depresivni, uzkostna, bipolárni apod.) bez psychotickych priznaku",
+      "Symptomy nejsou lepe vysvetleny jinou dusevni poruchou existující pred tehotenstvi ani fyziologickymi ucinky latky"
     ]
   },
   {
@@ -11344,13 +11350,13 @@
       "F23"
     ],
     "mapovani": {
-      "mkn11": "6E20.1",
+      "mkn11": "6E21",
       "dsm5": "296.xx"
     },
     "kriteria_mkn11": [
-      "Poporodní psychóza s nástupem typicky do 2 týdnů po porodu",
-      "Bludy, halucinace, výrazná dezorganizace chování nebo myšlení",
-      "Rychlý nástup vyžadující urgentní intervenci"
+      "Vznik dusevni poruchy behem tehotenstvi nebo do 6 tydnu po porodu",
+      "Klinicke uznaky zahrnuji psychoticke projevy: bludy, halucinace, dezorganizovana rec nebo chovani",
+      "Psychoticke projevy vznikly v casovem kontextu tehotenstvi nebo sestonedeli a nejsou lepe vysvetleny preexistujici psychotickou nebo afektivni poruchou s psychotickymy rysy"
     ]
   },
   {
@@ -11430,11 +11436,13 @@
       "F45"
     ],
     "mapovani": {
-      "mkn11": "MB2Y",
+      "mkn11": "6E40",
       "dsm5": "316"
     },
     "kriteria_mkn11": [
-      "Jiný specifikovaný stav nebo problém přidružený k duševní poruše v poporodním nebo perinatálním období"
+      "Pritomnost psychologickych nebo behavioralnich faktoru, ktere nepriznive ovlivnuji zdravotni stav nebo onemocneni reclasifikovane jinde",
+      "Psychologicke faktory mohou zahrnovat: (a) casove spojeni mezi psychologickym faktorem a vznikem ci exacerbaci onemocneni; (b) faktor interfere s lecbou onemocneni; (c) faktor predstavuje zdravotni riziko; (d) patofyziologie ovlivnena psychologickym faktorem",
+      "Psychologicke faktory nejsou lepe vysvetleny jinou dusevni poruchou ani funkci nervoveho systemu spojenou s danym zdravotnim stavem"
     ]
   },
   {
@@ -11742,11 +11750,11 @@
       "F50–F55"
     ],
     "mapovani": {
-      "mkn11": "6B9Z",
+      "mkn11": "6C7Z",
       "dsm5": "307.9"
     },
     "kriteria_mkn11": [
-      "Porucha příjmu potravy splňující obecná kritéria, ale nezapadající do žádné jiné specifikované kategorie poruch příjmu potravy v ICD-11"
+      "Viz MKN-11 6C7Z: Poruchy kontroly impulzů, neurčené"
     ]
   },
   {
@@ -12502,12 +12510,11 @@
       "F07.0"
     ],
     "mapovani": {
-      "mkn11": "6D12",
+      "mkn11": "6D1Y",
       "dsm5": "310.1"
     },
     "kriteria_mkn11": [
-      "Porucha osobnosti se specifickými prominentními rysy nesplňující plná kritéria pro 6D10, ale s klinicky relevantním vzorcem",
-      "Specifické rysy způsobují tíseň nebo narušují fungování v konkrétních kontextech"
+      "Viz MKN-11 6D1Y: Poruchy osobnosti nebo příbuzné rysy, jiné určené"
     ]
   },
   {
@@ -12535,11 +12542,11 @@
       "F60"
     ],
     "mapovani": {
-      "mkn11": "6D12.0",
+      "mkn11": "6D1Y",
       "dsm5": "310.1"
     },
     "kriteria_mkn11": [
-      "Porucha osobnosti s prominentní negativní afektivitou jako dominantním rysem"
+      "Viz MKN-11 6D1Y: Poruchy osobnosti nebo příbuzné rysy, jiné určené"
     ]
   },
   {
@@ -12571,9 +12578,12 @@
       "reziduální schizofrenie"
     ],
     "mapovani": {
-      "mkn11": null,
+      "mkn11": "6D1Y",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Viz MKN-11 6D1Y: Poruchy osobnosti nebo příbuzné rysy, jiné určené"
+    ]
   },
   {
     "id": "F62.8",
@@ -12599,9 +12609,12 @@
       "F60"
     ],
     "mapovani": {
-      "mkn11": null,
+      "mkn11": "6D1Y",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Viz MKN-11 6D1Y: Poruchy osobnosti nebo příbuzné rysy, jiné určené"
+    ]
   },
   {
     "id": "F62.9",
@@ -12625,9 +12638,12 @@
       "F62.1"
     ],
     "mapovani": {
-      "mkn11": null,
+      "mkn11": "6D1Z",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Viz MKN-11 6D1Z: Poruchy osobnosti nebo příbuzné rysy, neurčené"
+    ]
   },
   {
     "id": "F63",
@@ -12722,12 +12738,15 @@
       "F91"
     ],
     "mapovani": {
-      "mkn11": "6C70.1",
+      "mkn11": "6C70",
       "dsm5": "312.33"
     },
     "kriteria_mkn11": [
-      "Přerušovaná explozivní porucha: opakující se epizody verbální nebo fyzické agresivity výrazně nepřiměřené provokaci",
-      "Impulzivní agresivní činy nejsou projevem jiné duševní poruchy"
+      "Záměrné zakládání požárů opakovaně",
+      "Napětí nebo vzrušení před zakládáním požáru",
+      "Fascinace, zájem nebo přitažlivost ohněm",
+      "Úleva nebo satisfakce po zapálení",
+      "Není způsobeno finančním ziskem, pomstou nebo bludy"
     ]
   },
   {
@@ -12757,13 +12776,15 @@
       "F33"
     ],
     "mapovani": {
-      "mkn11": "6C70.2",
+      "mkn11": "6C71",
       "dsm5": "312.32"
     },
     "kriteria_mkn11": [
-      "Pyromaniac: záměrné a cílevědomé zakládání požárů opakovaně",
-      "Napětí nebo afektivní vzrušení před zakládáním požáru; fascinace ohněm",
-      "Úleva nebo satisfakce po zapálení"
+      "Opakující se selhání v odolání impulzu ke kradení věcí",
+      "Věci nejsou nutné pro osobní použití ani pro jejich finanční hodnotu",
+      "Narůstající napětí bezprostředně před krádeží",
+      "Pocit uspokojení nebo úlevy při krádeži",
+      "Krádež není způsobena hněvem, pomstou ani reakcí na bludy"
     ]
   },
   {
@@ -12831,9 +12852,12 @@
       "F60"
     ],
     "mapovani": {
-      "mkn11": null,
+      "mkn11": "6C7Y",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Viz MKN-11 6C7Y: Poruchy kontroly impulzů, jiné určené"
+    ]
   },
   {
     "id": "F63.9",
@@ -12858,9 +12882,12 @@
       "F63.8"
     ],
     "mapovani": {
-      "mkn11": null,
+      "mkn11": "6C7Z",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Viz MKN-11 6C7Z: Poruchy kontroly impulzů, neurčené"
+    ]
   },
   {
     "id": "F64",
@@ -13608,14 +13635,13 @@
       "agravace"
     ],
     "mapovani": {
-      "mkn11": "6D50",
+      "mkn11": "6E40",
       "dsm5": "300.19"
     },
     "kriteria_mkn11": [
-      "Opakující se, rychlé, neplynulé pohyby nebo vokalizace, které jsou náhlé a nemají zřejmý účel",
-      "Příznaky jsou přítomny nejméně 1 rok",
-      "Nástup před 18. rokem věku",
-      "Není způsobeno jiným zdravotním stavem ani účinky látky"
+      "Pritomnost psychologickych nebo behavioralnich faktoru, ktere nepriznive ovlivnuji zdravotni stav nebo onemocneni reclasifikovane jinde",
+      "Psychologicke faktory mohou zahrnovat: (a) casove spojeni mezi psychologickym faktorem a vznikem ci exacerbaci onemocneni; (b) faktor interfere s lecbou onemocneni; (c) faktor predstavuje zdravotni riziko; (d) patofyziologie ovlivnena psychologickym faktorem",
+      "Psychologicke faktory nejsou lepe vysvetleny jinou dusevni poruchou ani funkci nervoveho systemu spojenou s danym zdravotnim stavem"
     ]
   },
   {
@@ -13650,10 +13676,9 @@
       "dsm5": "300.19"
     },
     "kriteria_mkn11": [
-      "Opakující se, rychlé, neplynulé pohyby nebo vokalizace, které jsou náhlé a nemají zřejmý účel",
-      "Příznaky jsou přítomny nejméně 1 rok",
-      "Nástup před 18. rokem věku",
-      "Není způsobeno jiným zdravotním stavem ani účinky látky"
+      "Záměrné předstírání nebo způsobování fyzických nebo psychologických příznaků",
+      "Chování není motivováno jinými vnějšími odměnami (finanční zisk, vyhnutí se závazku)",
+      "Chování přetrvává i po konfrontaci"
     ]
   },
   {
@@ -13680,9 +13705,12 @@
       "F68.1"
     ],
     "mapovani": {
-      "mkn11": null,
+      "mkn11": "6D1Y",
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Viz MKN-11 6D1Y: Poruchy osobnosti nebo příbuzné rysy, jiné určené"
+    ]
   },
   {
     "id": "F69",
@@ -14764,12 +14792,14 @@
       "F80.2"
     ],
     "mapovani": {
-      "mkn11": "6A01.3",
+      "mkn11": "6A01",
       "dsm5": null
     },
     "kriteria_mkn11": [
-      "Vývojová fonologická porucha: trvalé obtíže se správnou produkcí hlásek a slabičné struktury",
-      "Srozumitelnost řeči je výrazně snížena; nástup v průběhu vývojového období"
+      "Trvalé obtíže s nabýváním a používáním jazyka (mluvená, psaná, nebo znaková)",
+      "Jazykové schopnosti výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového období",
+      "Není lépe vysvětlen smyslovým nebo motorickým deficitem"
     ]
   },
   {
@@ -15780,12 +15810,14 @@
       "F91.3"
     ],
     "mapovani": {
-      "mkn11": "6C91.2",
+      "mkn11": "6C91",
       "dsm5": "312.82"
     },
     "kriteria_mkn11": [
-      "Splněna kritéria pro poruchu sociálního chování (6C91)",
-      "S omezenými prosociálními emocemi: krutost, absence empatie nebo remorse, povrchní emocionální výrazy (přetrvávající nejméně 1 rok)"
+      "Opakující se a přetrvávající vzorec chování porušující práva ostatních nebo společenské normy",
+      "Zahrnuje: agresi vůči lidem nebo zvířatům, ničení majetku, podvod nebo krádeže, závažné porušování pravidel",
+      "Vzorec přetrvává nejméně 12 měsíců",
+      "Způsobuje výrazné funkční postižení"
     ],
     "obecna_kriteria_nazev": "Obecná kritéria poruchy chování MKN-10 (G1-G3)",
     "obecna_kriteria": [
@@ -16086,11 +16118,13 @@
       "F41.1"
     ],
     "mapovani": {
-      "mkn11": "6B05.0",
+      "mkn11": "6B05",
       "dsm5": "309.21"
     },
     "kriteria_mkn11": [
-      "Separační úzkostná porucha s nástupem v dětství a adolescenci"
+      "Výrazná a nadměrná úzkost nebo strach ze separace od specifických osob citové vazby",
+      "Projevy: myšlenky na újmu připadajícím osobám, odmítání školy/práce, výrazná tíseň při separaci, odmítání spát mimo domov",
+      "Příznaky trvají nejméně několik měsíců a způsobují výraznou tíseň nebo funkční postižení"
     ]
   },
   {
@@ -16116,11 +16150,13 @@
       "F93.0"
     ],
     "mapovani": {
-      "mkn11": "6B05.1",
+      "mkn11": "6B02",
       "dsm5": "300.29"
     },
     "kriteria_mkn11": [
-      "Separační úzkostná porucha s nástupem v dospělosti"
+      "Výrazná a nadměrná úzkost nebo strach v situacích, kde by útěk mohl být obtížný nebo pomoc nedostupná",
+      "Aktivní vyhýbání se takovým situacím nebo vstupování do nich s doprovodem nebo s intenzivním strachem",
+      "Příznaky přetrvávají nejméně několik měsíců a způsobují výraznou tíseň nebo funkční postižení"
     ]
   },
   {
@@ -16307,11 +16343,14 @@
       "F93.0"
     ],
     "mapovani": {
-      "mkn11": "6B06.0",
+      "mkn11": "6B06",
       "dsm5": "313.23"
     },
     "kriteria_mkn11": [
-      "Selektivní mutismus: konzistentní selhání ve mluvení v specifických sociálních situacích navzdory schopnosti mluvit v jiných situacích"
+      "Konzistentní selhání ve mluvení v specifických sociálních situacích navzdory schopnosti mluvit v jiných",
+      "Neschopnost mluvit je spojena se sociální úzkostí, ne s absencí znalosti jazyka",
+      "Přetrvává nejméně 1 měsíc (neomezeno na první měsíc školní docházky)",
+      "Způsobuje výrazné omezení vzdělávacích nebo pracovních výsledků nebo sociální komunikace"
     ]
   },
   {
@@ -16877,12 +16916,14 @@
       "organická dysartrie"
     ],
     "mapovani": {
-      "mkn11": "6A01.4",
+      "mkn11": "6A01",
       "dsm5": "307.0"
     },
     "kriteria_mkn11": [
-      "Vývojová porucha plynulosti řeči (koktavost): přerušení normální plynulosti a časování řeči",
-      "Opakování hlásek, slabik, slov; prolongace, bloky; trvá nejméně 3 měsíce; způsobuje tíseň nebo funkční postižení"
+      "Trvalé obtíže s nabýváním a používáním jazyka (mluvená, psaná, nebo znaková)",
+      "Jazykové schopnosti výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového období",
+      "Není lépe vysvětlen smyslovým nebo motorickým deficitem"
     ]
   },
   {
