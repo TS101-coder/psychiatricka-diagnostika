@@ -66,7 +66,7 @@
       "F60.5"
     ],
     "mapovani": {
-      "mkn11": "6D10.0",
+      "mkn11": "6D10",
       "dsm5": "301.0"
     },
     "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
@@ -107,7 +107,7 @@
       "F84.5"
     ],
     "mapovani": {
-      "mkn11": "6D10.1",
+      "mkn11": "6D10",
       "dsm5": "301.20"
     },
     "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
@@ -149,7 +149,7 @@
       "F91"
     ],
     "mapovani": {
-      "mkn11": "6D10.2",
+      "mkn11": "6D10",
       "dsm5": "301.7"
     },
     "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
@@ -189,7 +189,7 @@
       "F60.2"
     ],
     "mapovani": {
-      "mkn11": "6D10.5",
+      "mkn11": "6D10",
       "dsm5": "301.83"
     },
     "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
@@ -228,7 +228,7 @@
       "F60.2"
     ],
     "mapovani": {
-      "mkn11": "6D10.5",
+      "mkn11": "6D10",
       "dsm5": "301.83"
     },
     "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
@@ -273,7 +273,7 @@
       "F20"
     ],
     "mapovani": {
-      "mkn11": "6D10.5",
+      "mkn11": "6D10",
       "dsm5": "301.83"
     },
     "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
@@ -314,7 +314,7 @@
       "F60.8"
     ],
     "mapovani": {
-      "mkn11": "6D10.3",
+      "mkn11": "6D10",
       "dsm5": "301.50"
     },
     "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
@@ -354,7 +354,7 @@
       "F60.0"
     ],
     "mapovani": {
-      "mkn11": "6D10.4",
+      "mkn11": "6D10",
       "dsm5": "301.4"
     },
     "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
@@ -394,7 +394,7 @@
       "F34.1"
     ],
     "mapovani": {
-      "mkn11": "6D10.6",
+      "mkn11": "6D10",
       "dsm5": "301.82"
     },
     "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
@@ -435,7 +435,7 @@
       "F41.1"
     ],
     "mapovani": {
-      "mkn11": "6D10.7",
+      "mkn11": "6D10",
       "dsm5": "301.6"
     },
     "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
@@ -470,7 +470,7 @@
       "F60.0–F60.7"
     ],
     "mapovani": {
-      "mkn11": "6D10.8",
+      "mkn11": "6D1Y",
       "dsm5": "301.81"
     },
     "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
@@ -504,7 +504,7 @@
       "F60.0–F60.8"
     ],
     "mapovani": {
-      "mkn11": "6D10.Z",
+      "mkn11": "6D1Z",
       "dsm5": "301.9"
     },
     "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
