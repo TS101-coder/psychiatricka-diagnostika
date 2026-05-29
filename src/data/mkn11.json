@@ -6203,7 +6203,12 @@
     "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
     "podkategorie": null,
     "popis": "Poruchy způsobené užíváním alkoholu zahrnující škodlivé vzorce, závislost, intoxikaci, odvykací stav a alkoholem indukované poruchy.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Poruchy zpusobene uzivanism alkoholu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim alkoholu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -6224,6 +6229,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F10.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním alkoholu (MKN-11 6C40)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism alkoholu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim alkoholu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6239,6 +6251,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F10.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním alkoholu (MKN-11 6C40)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism alkoholu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim alkoholu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6254,6 +6273,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F10.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním alkoholu (MKN-11 6C40)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism alkoholu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim alkoholu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6269,6 +6295,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F10.0"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním alkoholu (MKN-11 6C40)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism alkoholu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim alkoholu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6284,6 +6317,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F10.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním alkoholu (MKN-11 6C40)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism alkoholu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim alkoholu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6299,6 +6339,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F10.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním alkoholu (MKN-11 6C40)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism alkoholu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim alkoholu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6314,6 +6361,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F10.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním alkoholu (MKN-11 6C40)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism alkoholu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim alkoholu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6329,6 +6383,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F10.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním alkoholu (MKN-11 6C40)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism alkoholu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim alkoholu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6344,6 +6405,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F10.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním alkoholu (MKN-11 6C40)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism alkoholu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim alkoholu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6359,6 +6427,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F10.8"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním alkoholu (MKN-11 6C40)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism alkoholu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim alkoholu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6374,6 +6449,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F10.9"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním alkoholu (MKN-11 6C40)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism alkoholu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim alkoholu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6383,7 +6465,12 @@
     "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
     "podkategorie": null,
     "popis": "Porucha způsobená užíváním kanabisu, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Poruchy zpusobene uzivanism kanabisu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kanabisu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -6404,6 +6491,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kanabisu (MKN-11 6C41)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kanabisu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kanabisu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6419,6 +6513,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kanabisu (MKN-11 6C41)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kanabisu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kanabisu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6434,6 +6535,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kanabisu (MKN-11 6C41)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kanabisu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kanabisu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6449,6 +6557,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.0"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kanabisu (MKN-11 6C41)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kanabisu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kanabisu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6464,6 +6579,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kanabisu (MKN-11 6C41)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kanabisu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kanabisu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6479,6 +6601,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kanabisu (MKN-11 6C41)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kanabisu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kanabisu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6494,6 +6623,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kanabisu (MKN-11 6C41)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kanabisu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kanabisu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6509,6 +6645,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kanabisu (MKN-11 6C41)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kanabisu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kanabisu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6524,6 +6667,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kanabisu (MKN-11 6C41)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kanabisu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kanabisu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6539,6 +6689,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.8"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kanabisu (MKN-11 6C41)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kanabisu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kanabisu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6554,6 +6711,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.9"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kanabisu (MKN-11 6C41)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kanabisu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kanabisu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6563,7 +6727,12 @@
     "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
     "podkategorie": null,
     "popis": "Porucha způsobená užíváním syntetických kanabinoidů, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych kanabinoidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych kanabinoidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -6584,6 +6753,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických kanabinoidů (MKN-11 6C42)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych kanabinoidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych kanabinoidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6599,6 +6775,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických kanabinoidů (MKN-11 6C42)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych kanabinoidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych kanabinoidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6614,6 +6797,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických kanabinoidů (MKN-11 6C42)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych kanabinoidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych kanabinoidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6629,6 +6819,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.0"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických kanabinoidů (MKN-11 6C42)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych kanabinoidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych kanabinoidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6644,6 +6841,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických kanabinoidů (MKN-11 6C42)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych kanabinoidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych kanabinoidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6659,6 +6863,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických kanabinoidů (MKN-11 6C42)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych kanabinoidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych kanabinoidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6674,6 +6885,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických kanabinoidů (MKN-11 6C42)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych kanabinoidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych kanabinoidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6689,6 +6907,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických kanabinoidů (MKN-11 6C42)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych kanabinoidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych kanabinoidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6704,6 +6929,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických kanabinoidů (MKN-11 6C42)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych kanabinoidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych kanabinoidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6719,6 +6951,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.8"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických kanabinoidů (MKN-11 6C42)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych kanabinoidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych kanabinoidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6734,6 +6973,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F12.9"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických kanabinoidů (MKN-11 6C42)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych kanabinoidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych kanabinoidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6743,7 +6989,12 @@
     "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
     "podkategorie": null,
     "popis": "Porucha způsobená užíváním opioidů, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Poruchy zpusobene uzivanism opioidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim opioidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -6764,6 +7015,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F11.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním opioidů (MKN-11 6C43)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism opioidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim opioidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6779,6 +7037,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F11.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním opioidů (MKN-11 6C43)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism opioidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim opioidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6794,6 +7059,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F11.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním opioidů (MKN-11 6C43)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism opioidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim opioidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6809,6 +7081,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F11.0"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním opioidů (MKN-11 6C43)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism opioidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim opioidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6824,6 +7103,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F11.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním opioidů (MKN-11 6C43)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism opioidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim opioidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6839,6 +7125,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F11.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním opioidů (MKN-11 6C43)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism opioidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim opioidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6854,6 +7147,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F11.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním opioidů (MKN-11 6C43)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism opioidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim opioidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6869,6 +7169,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F11.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním opioidů (MKN-11 6C43)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism opioidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim opioidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6884,6 +7191,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F11.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním opioidů (MKN-11 6C43)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism opioidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim opioidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6899,6 +7213,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F11.8"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním opioidů (MKN-11 6C43)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism opioidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim opioidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6914,6 +7235,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F11.9"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním opioidů (MKN-11 6C43)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism opioidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim opioidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6923,7 +7251,12 @@
     "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
     "podkategorie": null,
     "popis": "Porucha způsobená užíváním sedativ, hypnotik nebo anxiolytik, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Poruchy zpusobene uzivanism sedativ, hypnotik nebo anxiolytik zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim sedativ, hypnotik nebo anxiolytik musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -6944,6 +7277,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F13.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním sedativ, hypnotik nebo anxiolytik (MKN-11 6C44)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism sedativ, hypnotik nebo anxiolytik zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim sedativ, hypnotik nebo anxiolytik musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6959,6 +7299,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F13.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním sedativ, hypnotik nebo anxiolytik (MKN-11 6C44)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism sedativ, hypnotik nebo anxiolytik zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim sedativ, hypnotik nebo anxiolytik musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6974,6 +7321,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F13.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním sedativ, hypnotik nebo anxiolytik (MKN-11 6C44)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism sedativ, hypnotik nebo anxiolytik zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim sedativ, hypnotik nebo anxiolytik musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -6989,6 +7343,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F13.0"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním sedativ, hypnotik nebo anxiolytik (MKN-11 6C44)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism sedativ, hypnotik nebo anxiolytik zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim sedativ, hypnotik nebo anxiolytik musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7004,6 +7365,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F13.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním sedativ, hypnotik nebo anxiolytik (MKN-11 6C44)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism sedativ, hypnotik nebo anxiolytik zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim sedativ, hypnotik nebo anxiolytik musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7019,6 +7387,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F13.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním sedativ, hypnotik nebo anxiolytik (MKN-11 6C44)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism sedativ, hypnotik nebo anxiolytik zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim sedativ, hypnotik nebo anxiolytik musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7034,6 +7409,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F13.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním sedativ, hypnotik nebo anxiolytik (MKN-11 6C44)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism sedativ, hypnotik nebo anxiolytik zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim sedativ, hypnotik nebo anxiolytik musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7049,6 +7431,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F13.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním sedativ, hypnotik nebo anxiolytik (MKN-11 6C44)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism sedativ, hypnotik nebo anxiolytik zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim sedativ, hypnotik nebo anxiolytik musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7064,6 +7453,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F13.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním sedativ, hypnotik nebo anxiolytik (MKN-11 6C44)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism sedativ, hypnotik nebo anxiolytik zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim sedativ, hypnotik nebo anxiolytik musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7079,6 +7475,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F13.8"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním sedativ, hypnotik nebo anxiolytik (MKN-11 6C44)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism sedativ, hypnotik nebo anxiolytik zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim sedativ, hypnotik nebo anxiolytik musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7094,6 +7497,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F13.9"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním sedativ, hypnotik nebo anxiolytik (MKN-11 6C44)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism sedativ, hypnotik nebo anxiolytik zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim sedativ, hypnotik nebo anxiolytik musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7103,7 +7513,12 @@
     "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
     "podkategorie": null,
     "popis": "Porucha způsobená užíváním kokainu, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Poruchy zpusobene uzivanism kokainu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kokainu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -7124,6 +7539,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F14.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kokainu (MKN-11 6C45)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kokainu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kokainu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7139,6 +7561,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F14.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kokainu (MKN-11 6C45)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kokainu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kokainu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7154,6 +7583,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F14.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kokainu (MKN-11 6C45)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kokainu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kokainu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7169,6 +7605,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F14.0"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kokainu (MKN-11 6C45)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kokainu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kokainu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7184,6 +7627,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F14.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kokainu (MKN-11 6C45)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kokainu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kokainu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7199,6 +7649,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F14.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kokainu (MKN-11 6C45)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kokainu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kokainu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7214,6 +7671,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F14.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kokainu (MKN-11 6C45)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kokainu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kokainu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7229,6 +7693,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F14.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kokainu (MKN-11 6C45)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kokainu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kokainu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7244,6 +7715,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F14.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kokainu (MKN-11 6C45)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kokainu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kokainu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7259,6 +7737,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F14.8"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kokainu (MKN-11 6C45)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kokainu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kokainu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7274,6 +7759,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F14.9"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kokainu (MKN-11 6C45)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kokainu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kokainu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7283,7 +7775,12 @@
     "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
     "podkategorie": null,
     "popis": "Porucha způsobená užíváním stimulancií (amfetaminy, metamfetamin), zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Poruchy zpusobene uzivanism stimulancii (amfetaminy, metamfetamin) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim stimulancii (amfetaminy, metamfetamin) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -7304,6 +7801,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním stimulancií (amfetaminy, metamfetamin) (MKN-11 6C46)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism stimulancii (amfetaminy, metamfetamin) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim stimulancii (amfetaminy, metamfetamin) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7319,6 +7823,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním stimulancií (amfetaminy, metamfetamin) (MKN-11 6C46)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism stimulancii (amfetaminy, metamfetamin) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim stimulancii (amfetaminy, metamfetamin) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7334,6 +7845,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním stimulancií (amfetaminy, metamfetamin) (MKN-11 6C46)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism stimulancii (amfetaminy, metamfetamin) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim stimulancii (amfetaminy, metamfetamin) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7349,6 +7867,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.0"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním stimulancií (amfetaminy, metamfetamin) (MKN-11 6C46)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism stimulancii (amfetaminy, metamfetamin) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim stimulancii (amfetaminy, metamfetamin) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7364,6 +7889,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním stimulancií (amfetaminy, metamfetamin) (MKN-11 6C46)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism stimulancii (amfetaminy, metamfetamin) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim stimulancii (amfetaminy, metamfetamin) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7379,6 +7911,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním stimulancií (amfetaminy, metamfetamin) (MKN-11 6C46)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism stimulancii (amfetaminy, metamfetamin) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim stimulancii (amfetaminy, metamfetamin) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7394,6 +7933,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním stimulancií (amfetaminy, metamfetamin) (MKN-11 6C46)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism stimulancii (amfetaminy, metamfetamin) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim stimulancii (amfetaminy, metamfetamin) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7409,6 +7955,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním stimulancií (amfetaminy, metamfetamin) (MKN-11 6C46)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism stimulancii (amfetaminy, metamfetamin) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim stimulancii (amfetaminy, metamfetamin) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7424,6 +7977,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním stimulancií (amfetaminy, metamfetamin) (MKN-11 6C46)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism stimulancii (amfetaminy, metamfetamin) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim stimulancii (amfetaminy, metamfetamin) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7439,6 +7999,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.8"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním stimulancií (amfetaminy, metamfetamin) (MKN-11 6C46)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism stimulancii (amfetaminy, metamfetamin) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim stimulancii (amfetaminy, metamfetamin) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7454,6 +8021,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.9"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním stimulancií (amfetaminy, metamfetamin) (MKN-11 6C46)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism stimulancii (amfetaminy, metamfetamin) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim stimulancii (amfetaminy, metamfetamin) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7463,7 +8037,12 @@
     "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
     "podkategorie": null,
     "popis": "Porucha způsobená užíváním syntetických katinonů, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych katinonu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych katinonu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -7484,6 +8063,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických katinonů (MKN-11 6C47)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych katinonu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych katinonu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7499,6 +8085,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických katinonů (MKN-11 6C47)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych katinonu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych katinonu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7514,6 +8107,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických katinonů (MKN-11 6C47)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych katinonu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych katinonu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7529,6 +8129,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.0"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických katinonů (MKN-11 6C47)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych katinonu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych katinonu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7544,6 +8151,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických katinonů (MKN-11 6C47)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych katinonu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych katinonu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7559,6 +8173,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických katinonů (MKN-11 6C47)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych katinonu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych katinonu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7574,6 +8195,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických katinonů (MKN-11 6C47)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych katinonu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych katinonu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7589,6 +8217,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických katinonů (MKN-11 6C47)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych katinonu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych katinonu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7604,6 +8239,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických katinonů (MKN-11 6C47)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych katinonu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych katinonu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7619,6 +8261,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.8"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických katinonů (MKN-11 6C47)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych katinonu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych katinonu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7634,6 +8283,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.9"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním syntetických katinonů (MKN-11 6C47)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism syntetickych katinonu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim syntetickych katinonu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7643,7 +8299,12 @@
     "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
     "podkategorie": null,
     "popis": "Porucha způsobená užíváním kofeinu, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Poruchy zpusobene uzivanism kofeinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kofeinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -7664,6 +8325,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kofeinu (MKN-11 6C48)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kofeinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kofeinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7679,6 +8347,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kofeinu (MKN-11 6C48)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kofeinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kofeinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7694,6 +8369,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kofeinu (MKN-11 6C48)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kofeinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kofeinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7709,6 +8391,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.0"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kofeinu (MKN-11 6C48)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kofeinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kofeinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7724,6 +8413,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kofeinu (MKN-11 6C48)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kofeinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kofeinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7739,6 +8435,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kofeinu (MKN-11 6C48)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kofeinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kofeinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7754,6 +8457,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kofeinu (MKN-11 6C48)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kofeinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kofeinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7769,6 +8479,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kofeinu (MKN-11 6C48)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kofeinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kofeinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7784,6 +8501,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kofeinu (MKN-11 6C48)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kofeinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kofeinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7799,6 +8523,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.8"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kofeinu (MKN-11 6C48)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kofeinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kofeinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7814,6 +8545,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F15.9"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním kofeinu (MKN-11 6C48)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism kofeinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim kofeinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7823,7 +8561,12 @@
     "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
     "podkategorie": null,
     "popis": "Porucha způsobená užíváním halucinogenů, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Poruchy zpusobene uzivanism halucinogenu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim halucinogenu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -7844,6 +8587,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F16.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním halucinogenů (MKN-11 6C49)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism halucinogenu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim halucinogenu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7859,6 +8609,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F16.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním halucinogenů (MKN-11 6C49)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism halucinogenu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim halucinogenu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7874,6 +8631,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F16.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním halucinogenů (MKN-11 6C49)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism halucinogenu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim halucinogenu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7889,6 +8653,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F16.0"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním halucinogenů (MKN-11 6C49)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism halucinogenu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim halucinogenu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7904,6 +8675,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F16.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním halucinogenů (MKN-11 6C49)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism halucinogenu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim halucinogenu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7919,6 +8697,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F16.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním halucinogenů (MKN-11 6C49)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism halucinogenu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim halucinogenu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7934,6 +8719,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F16.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním halucinogenů (MKN-11 6C49)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism halucinogenu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim halucinogenu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7949,6 +8741,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F16.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním halucinogenů (MKN-11 6C49)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism halucinogenu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim halucinogenu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7964,6 +8763,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F16.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním halucinogenů (MKN-11 6C49)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism halucinogenu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim halucinogenu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7979,6 +8785,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F16.8"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním halucinogenů (MKN-11 6C49)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism halucinogenu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim halucinogenu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -7994,6 +8807,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F16.9"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním halucinogenů (MKN-11 6C49)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism halucinogenu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim halucinogenu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8003,7 +8823,12 @@
     "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
     "podkategorie": null,
     "popis": "Porucha způsobená užíváním nikotinu, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Poruchy zpusobene uzivanism nikotinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nikotinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -8024,6 +8849,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F17.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním nikotinu (MKN-11 6C4A)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nikotinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nikotinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8039,6 +8871,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F17.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním nikotinu (MKN-11 6C4A)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nikotinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nikotinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8054,6 +8893,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F17.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním nikotinu (MKN-11 6C4A)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nikotinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nikotinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8069,6 +8915,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F17.0"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním nikotinu (MKN-11 6C4A)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nikotinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nikotinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8084,6 +8937,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F17.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním nikotinu (MKN-11 6C4A)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nikotinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nikotinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8099,6 +8959,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F17.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním nikotinu (MKN-11 6C4A)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nikotinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nikotinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8114,6 +8981,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F17.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním nikotinu (MKN-11 6C4A)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nikotinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nikotinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8129,6 +9003,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F17.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním nikotinu (MKN-11 6C4A)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nikotinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nikotinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8144,6 +9025,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F17.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním nikotinu (MKN-11 6C4A)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nikotinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nikotinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8159,6 +9047,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F17.8"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním nikotinu (MKN-11 6C4A)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nikotinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nikotinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8174,6 +9069,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F17.9"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním nikotinu (MKN-11 6C4A)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nikotinu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nikotinu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8183,7 +9085,12 @@
     "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
     "podkategorie": null,
     "popis": "Porucha způsobená užíváním těkavých inhalantů, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Poruchy zpusobene uzivanism tekavych inhalantu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim tekavych inhalantu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -8204,6 +9111,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F18.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním těkavých inhalantů (MKN-11 6C4B)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism tekavych inhalantu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim tekavych inhalantu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8219,6 +9133,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F18.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním těkavých inhalantů (MKN-11 6C4B)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism tekavych inhalantu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim tekavych inhalantu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8234,6 +9155,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F18.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním těkavých inhalantů (MKN-11 6C4B)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism tekavych inhalantu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim tekavych inhalantu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8249,6 +9177,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F18.0"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním těkavých inhalantů (MKN-11 6C4B)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism tekavych inhalantu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim tekavych inhalantu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8264,6 +9199,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F18.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním těkavých inhalantů (MKN-11 6C4B)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism tekavych inhalantu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim tekavych inhalantu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8279,6 +9221,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F18.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním těkavých inhalantů (MKN-11 6C4B)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism tekavych inhalantu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim tekavych inhalantu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8294,6 +9243,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F18.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním těkavých inhalantů (MKN-11 6C4B)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism tekavych inhalantu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim tekavych inhalantu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8309,6 +9265,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F18.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním těkavých inhalantů (MKN-11 6C4B)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism tekavych inhalantu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim tekavych inhalantu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8324,6 +9287,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F18.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním těkavých inhalantů (MKN-11 6C4B)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism tekavych inhalantu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim tekavych inhalantu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8339,6 +9309,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F18.8"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním těkavých inhalantů (MKN-11 6C4B)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism tekavych inhalantu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim tekavych inhalantu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8354,6 +9331,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F18.9"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním těkavých inhalantů (MKN-11 6C4B)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism tekavych inhalantu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim tekavych inhalantu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8363,7 +9347,12 @@
     "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
     "podkategorie": null,
     "popis": "Porucha způsobená užíváním MDMA nebo příbuzných látek, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Poruchy zpusobene uzivanism MDMA nebo pribuznych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim MDMA nebo pribuznych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -8384,6 +9373,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním MDMA nebo příbuzných látek (MKN-11 6C4C)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism MDMA nebo pribuznych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim MDMA nebo pribuznych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8399,6 +9395,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním MDMA nebo příbuzných látek (MKN-11 6C4C)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism MDMA nebo pribuznych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim MDMA nebo pribuznych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8414,6 +9417,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním MDMA nebo příbuzných látek (MKN-11 6C4C)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism MDMA nebo pribuznych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim MDMA nebo pribuznych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8429,6 +9439,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.0"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním MDMA nebo příbuzných látek (MKN-11 6C4C)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism MDMA nebo pribuznych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim MDMA nebo pribuznych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8444,6 +9461,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním MDMA nebo příbuzných látek (MKN-11 6C4C)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism MDMA nebo pribuznych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim MDMA nebo pribuznych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8459,6 +9483,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním MDMA nebo příbuzných látek (MKN-11 6C4C)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism MDMA nebo pribuznych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim MDMA nebo pribuznych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8474,6 +9505,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním MDMA nebo příbuzných látek (MKN-11 6C4C)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism MDMA nebo pribuznych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim MDMA nebo pribuznych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8489,6 +9527,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním MDMA nebo příbuzných látek (MKN-11 6C4C)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism MDMA nebo pribuznych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim MDMA nebo pribuznych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8504,6 +9549,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním MDMA nebo příbuzných látek (MKN-11 6C4C)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism MDMA nebo pribuznych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim MDMA nebo pribuznych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8519,6 +9571,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.8"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním MDMA nebo příbuzných látek (MKN-11 6C4C)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism MDMA nebo pribuznych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim MDMA nebo pribuznych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8534,6 +9593,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.9"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním MDMA nebo příbuzných látek (MKN-11 6C4C)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism MDMA nebo pribuznych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim MDMA nebo pribuznych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8543,7 +9609,12 @@
     "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
     "podkategorie": null,
     "popis": "Porucha způsobená užíváním disociačních drog (ketamin, PCP), zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Poruchy zpusobene uzivanism disociacnich drog (ketamin, PCP) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim disociacnich drog (ketamin, PCP) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -8564,6 +9635,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené disociačními drogami (ketamin, PCP) (MKN-11 6C4D)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism disociacnich drog (ketamin, PCP) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim disociacnich drog (ketamin, PCP) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8579,6 +9657,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené disociačními drogami (ketamin, PCP) (MKN-11 6C4D)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism disociacnich drog (ketamin, PCP) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim disociacnich drog (ketamin, PCP) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8594,6 +9679,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené disociačními drogami (ketamin, PCP) (MKN-11 6C4D)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism disociacnich drog (ketamin, PCP) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim disociacnich drog (ketamin, PCP) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8609,6 +9701,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.0"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené disociačními drogami (ketamin, PCP) (MKN-11 6C4D)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism disociacnich drog (ketamin, PCP) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim disociacnich drog (ketamin, PCP) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8624,6 +9723,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené disociačními drogami (ketamin, PCP) (MKN-11 6C4D)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism disociacnich drog (ketamin, PCP) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim disociacnich drog (ketamin, PCP) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8639,6 +9745,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené disociačními drogami (ketamin, PCP) (MKN-11 6C4D)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism disociacnich drog (ketamin, PCP) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim disociacnich drog (ketamin, PCP) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8654,6 +9767,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené disociačními drogami (ketamin, PCP) (MKN-11 6C4D)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism disociacnich drog (ketamin, PCP) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim disociacnich drog (ketamin, PCP) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8669,6 +9789,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené disociačními drogami (ketamin, PCP) (MKN-11 6C4D)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism disociacnich drog (ketamin, PCP) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim disociacnich drog (ketamin, PCP) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8684,6 +9811,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené disociačními drogami (ketamin, PCP) (MKN-11 6C4D)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism disociacnich drog (ketamin, PCP) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim disociacnich drog (ketamin, PCP) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8699,6 +9833,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.8"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené disociačními drogami (ketamin, PCP) (MKN-11 6C4D)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism disociacnich drog (ketamin, PCP) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim disociacnich drog (ketamin, PCP) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8714,6 +9855,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.9"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené disociačními drogami (ketamin, PCP) (MKN-11 6C4D)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism disociacnich drog (ketamin, PCP) zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim disociacnich drog (ketamin, PCP) musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8723,7 +9871,12 @@
     "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
     "podkategorie": null,
     "popis": "Porucha způsobená užíváním anabolických androgenních steroidů, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Poruchy zpusobene uzivanism anabolickych androgennych steroidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim anabolickych androgennych steroidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -8744,6 +9897,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené anabolickými androgennými steroidy (MKN-11 6C4E)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism anabolickych androgennych steroidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim anabolickych androgennych steroidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8759,6 +9919,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené anabolickými androgennými steroidy (MKN-11 6C4E)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism anabolickych androgennych steroidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim anabolickych androgennych steroidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8774,6 +9941,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené anabolickými androgennými steroidy (MKN-11 6C4E)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism anabolickych androgennych steroidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim anabolickych androgennych steroidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8789,6 +9963,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.0"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené anabolickými androgennými steroidy (MKN-11 6C4E)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism anabolickych androgennych steroidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim anabolickych androgennych steroidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8804,6 +9985,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené anabolickými androgennými steroidy (MKN-11 6C4E)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism anabolickych androgennych steroidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim anabolickych androgennych steroidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8819,6 +10007,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené anabolickými androgennými steroidy (MKN-11 6C4E)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism anabolickych androgennych steroidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim anabolickych androgennych steroidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8834,6 +10029,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené anabolickými androgennými steroidy (MKN-11 6C4E)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism anabolickych androgennych steroidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim anabolickych androgennych steroidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8849,6 +10051,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené anabolickými androgennými steroidy (MKN-11 6C4E)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism anabolickych androgennych steroidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim anabolickych androgennych steroidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8864,6 +10073,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené anabolickými androgennými steroidy (MKN-11 6C4E)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism anabolickych androgennych steroidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim anabolickych androgennych steroidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8879,6 +10095,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.8"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené anabolickými androgennými steroidy (MKN-11 6C4E)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism anabolickych androgennych steroidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim anabolickych androgennych steroidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8894,6 +10117,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.9"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené anabolickými androgennými steroidy (MKN-11 6C4E)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism anabolickych androgennych steroidu zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim anabolickych androgennych steroidu musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8903,7 +10133,12 @@
     "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
     "podkategorie": null,
     "popis": "Porucha způsobená užíváním nepsychoaktivních látek, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Poruchy zpusobene uzivanism nepsychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nepsychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -8924,6 +10159,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F55.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené nepsychoaktivními látkami (MKN-11 6C4F)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nepsychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nepsychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8939,6 +10181,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F55.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené nepsychoaktivními látkami (MKN-11 6C4F)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nepsychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nepsychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8954,6 +10203,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F55.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené nepsychoaktivními látkami (MKN-11 6C4F)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nepsychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nepsychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8969,6 +10225,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F55.0"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené nepsychoaktivními látkami (MKN-11 6C4F)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nepsychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nepsychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8984,6 +10247,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F55.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené nepsychoaktivními látkami (MKN-11 6C4F)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nepsychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nepsychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -8999,6 +10269,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F55.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené nepsychoaktivními látkami (MKN-11 6C4F)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nepsychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nepsychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9014,6 +10291,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F55.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené nepsychoaktivními látkami (MKN-11 6C4F)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nepsychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nepsychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9029,6 +10313,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F55.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené nepsychoaktivními látkami (MKN-11 6C4F)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nepsychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nepsychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9044,6 +10335,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F55.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené nepsychoaktivními látkami (MKN-11 6C4F)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nepsychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nepsychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9059,6 +10357,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F55.8"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené nepsychoaktivními látkami (MKN-11 6C4F)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nepsychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nepsychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9074,6 +10379,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F55.9"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené nepsychoaktivními látkami (MKN-11 6C4F)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism nepsychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim nepsychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9083,7 +10395,12 @@
     "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
     "podkategorie": null,
     "popis": "Porucha způsobená užíváním neznámých nebo neurčených látek, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Poruchy zpusobene uzivanism neznamych nebo neurcenych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim neznamych nebo neurcenych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -9104,6 +10421,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené neznámými nebo neurčenými látkami (MKN-11 6C4G)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism neznamych nebo neurcenych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim neznamych nebo neurcenych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9119,6 +10443,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené neznámými nebo neurčenými látkami (MKN-11 6C4G)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism neznamych nebo neurcenych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim neznamych nebo neurcenych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9134,6 +10465,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené neznámými nebo neurčenými látkami (MKN-11 6C4G)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism neznamych nebo neurcenych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim neznamych nebo neurcenych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9149,6 +10487,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.0"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené neznámými nebo neurčenými látkami (MKN-11 6C4G)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism neznamych nebo neurcenych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim neznamych nebo neurcenych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9164,6 +10509,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené neznámými nebo neurčenými látkami (MKN-11 6C4G)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism neznamych nebo neurcenych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim neznamych nebo neurcenych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9179,6 +10531,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené neznámými nebo neurčenými látkami (MKN-11 6C4G)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism neznamych nebo neurcenych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim neznamych nebo neurcenych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9194,6 +10553,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené neznámými nebo neurčenými látkami (MKN-11 6C4G)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism neznamych nebo neurcenych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim neznamych nebo neurcenych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9209,6 +10575,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené neznámými nebo neurčenými látkami (MKN-11 6C4G)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism neznamych nebo neurcenych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim neznamych nebo neurcenych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9224,6 +10597,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené neznámými nebo neurčenými látkami (MKN-11 6C4G)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism neznamych nebo neurcenych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim neznamych nebo neurcenych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9239,6 +10619,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.8"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené neznámými nebo neurčenými látkami (MKN-11 6C4G)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism neznamych nebo neurcenych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim neznamych nebo neurcenych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9254,6 +10641,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.9"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené neznámými nebo neurčenými látkami (MKN-11 6C4G)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism neznamych nebo neurcenych latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim neznamych nebo neurcenych latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9263,7 +10657,12 @@
     "kategorie": "Poruchy způsobené užíváním návykových látek nebo návykovým chováním",
     "podkategorie": null,
     "popis": "Porucha způsobená užíváním vícero látek, zahrnující škodlivé vzorce, závislost, intoxikaci nebo abstinenční příznaky.",
-    "diagnosticka_kriteria": [],
+    "diagnosticka_kriteria": [
+      "Poruchy zpusobene uzivanism vicero latek nebo jinych psychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim vicero latek nebo jinych psychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
+    ],
     "priznaky": [],
     "prubeh": null,
     "onset": null,
@@ -9284,6 +10683,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním vícero látek nebo jiných psychoaktivních látek (MKN-11 6C4H)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism vicero latek nebo jinych psychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim vicero latek nebo jinych psychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9299,6 +10705,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.1"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním vícero látek nebo jiných psychoaktivních látek (MKN-11 6C4H)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism vicero latek nebo jinych psychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim vicero latek nebo jinych psychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9314,6 +10727,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.2"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním vícero látek nebo jiných psychoaktivních látek (MKN-11 6C4H)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism vicero latek nebo jinych psychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim vicero latek nebo jinych psychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9329,6 +10749,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.0"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním vícero látek nebo jiných psychoaktivních látek (MKN-11 6C4H)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism vicero latek nebo jinych psychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim vicero latek nebo jinych psychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9344,6 +10771,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.3"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním vícero látek nebo jiných psychoaktivních látek (MKN-11 6C4H)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism vicero latek nebo jinych psychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim vicero latek nebo jinych psychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9359,6 +10793,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.4"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním vícero látek nebo jiných psychoaktivních látek (MKN-11 6C4H)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism vicero latek nebo jinych psychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim vicero latek nebo jinych psychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9374,6 +10815,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním vícero látek nebo jiných psychoaktivních látek (MKN-11 6C4H)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism vicero latek nebo jinych psychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim vicero latek nebo jinych psychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9389,6 +10837,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním vícero látek nebo jiných psychoaktivních látek (MKN-11 6C4H)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism vicero latek nebo jinych psychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim vicero latek nebo jinych psychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9404,6 +10859,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.5"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním vícero látek nebo jiných psychoaktivních látek (MKN-11 6C4H)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism vicero latek nebo jinych psychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim vicero latek nebo jinych psychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9419,6 +10881,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.8"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním vícero látek nebo jiných psychoaktivních látek (MKN-11 6C4H)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism vicero latek nebo jinych psychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim vicero latek nebo jinych psychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
@@ -9434,6 +10903,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F19.9"
+    ],
+    "obecna_kriteria_nazev": "Obecna kriteria: Poruchy způsobené užíváním vícero látek nebo jiných psychoaktivních látek (MKN-11 6C4H)",
+    "obecna_kriteria": [
+      "Poruchy zpusobene uzivanism vicero latek nebo jinych psychoaktivnich latek zahrnuji klinicke jednotky charakterizovane vzorcem a nasledky uzivani teto latky",
+      "Zahrnuji: skodlive epizodické uzivani (.0), skodlivy vzorec uzivani (.1), zavislost (.2), intoxikace (.3), odvykaci stav (.4), delirium (.5), psychoticka porucha (.6), porucha nalady (.7), uzkostna porucha (.8)",
+      "Pricinska souvislost s uzivaanim vicero latek nebo jinych psychoaktivnich latek musi byt prokázana z anamnezy, fyzikalniho vysetreni nebo laboratornich nalezu",
+      "Porrucchy nejsou lepe vysvetleny jinou dusevni poruchou existujici nezavisle na uzivani latky"
     ]
   },
   {
