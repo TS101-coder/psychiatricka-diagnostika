@@ -12999,7 +12999,7 @@
   {
     "id": "F71",
     "kod": "F71",
-    "nazev_cz": "Středně těžká mentální retardace",
+    "nazev_cz": "Střední mentální retardace",
     "system": "MKN-10",
     "kategorie": "F70–F79 Mentální retardace",
     "podkategorie": "Mentální retardace",
@@ -13035,7 +13035,7 @@
   {
     "id": "F71.0",
     "kod": "F71.0",
-    "nazev_cz": "Středně těžká mentální retardace – bez poruch chování nebo s minimálními poruchami chování",
+    "nazev_cz": "Střední mentální retardace – bez poruch chování nebo s minimálními poruchami chování",
     "system": "MKN-10",
     "kategorie": "F70–F79 Mentální retardace",
     "podkategorie": "Středně těžká mentální retardace",
@@ -13064,7 +13064,7 @@
   {
     "id": "F71.1",
     "kod": "F71.1",
-    "nazev_cz": "Středně těžká mentální retardace – s výraznou poruchou chování vyžadující léčbu nebo péči",
+    "nazev_cz": "Střední mentální retardace – s výraznou poruchou chování vyžadující léčbu nebo péči",
     "system": "MKN-10",
     "kategorie": "F70–F79 Mentální retardace",
     "podkategorie": "Středně těžká mentální retardace",
@@ -13097,7 +13097,7 @@
   {
     "id": "F71.8",
     "kod": "F71.8",
-    "nazev_cz": "Středně těžká mentální retardace – s jinou poruchou chování",
+    "nazev_cz": "Střední mentální retardace – s jinou poruchou chování",
     "system": "MKN-10",
     "kategorie": "F70–F79 Mentální retardace",
     "podkategorie": "Středně těžká mentální retardace",
@@ -13127,7 +13127,7 @@
   {
     "id": "F71.9",
     "kod": "F71.9",
-    "nazev_cz": "Středně těžká mentální retardace – bez informace o poruše chování",
+    "nazev_cz": "Střední mentální retardace – bez informace o poruše chování",
     "system": "MKN-10",
     "kategorie": "F70–F79 Mentální retardace",
     "podkategorie": "Středně těžká mentální retardace",
@@ -13866,7 +13866,7 @@
   {
     "id": "F80.3",
     "kod": "F80.3",
-    "nazev_cz": "Získaná afázie s epilepsií (Landau-Kleffnerův syndrom)",
+    "nazev_cz": "Získaná afázie s epilepsií (Landauův–Kleffnerův syndrom)",
     "system": "MKN-10",
     "kategorie": "F80–F89 Poruchy psychického vývoje",
     "podkategorie": "Specifické vývojové poruchy řeči a jazyka",
@@ -14022,7 +14022,7 @@
   {
     "id": "F81.1",
     "kod": "F81.1",
-    "nazev_cz": "Specifická porucha hláskování",
+    "nazev_cz": "Specifická porucha psaní a výslovnosti",
     "system": "MKN-10",
     "kategorie": "F80–F89 Poruchy psychického vývoje",
     "podkategorie": "Specifické poruchy učení",
@@ -14086,7 +14086,7 @@
   {
     "id": "F81.3",
     "kod": "F81.3",
-    "nazev_cz": "Smíšená vývojová porucha školních dovedností",
+    "nazev_cz": "Smíšená porucha školních dovedností",
     "system": "MKN-10",
     "kategorie": "F80–F89 Poruchy psychického vývoje",
     "podkategorie": "Specifické vývojové poruchy školních dovedností",
@@ -14268,7 +14268,7 @@
   {
     "id": "F84.0",
     "kod": "F84.0",
-    "nazev_cz": "Dětský autismus (Kannerův autismus)",
+    "nazev_cz": "Dětský autismus",
     "system": "MKN-10",
     "kategorie": "F80–F89 Poruchy psychického vývoje",
     "podkategorie": "Pervazivní poruchy",
@@ -14381,7 +14381,7 @@
   {
     "id": "F84.3",
     "kod": "F84.3",
-    "nazev_cz": "Jiná dezintegrační porucha v dětství",
+    "nazev_cz": "Jiná dětská dezintegrační porucha",
     "system": "MKN-10",
     "kategorie": "F80–F89 Poruchy psychického vývoje",
     "podkategorie": "Pervazivní poruchy",
@@ -14597,7 +14597,7 @@
     "kod": "F90",
     "nazev_cz": "Hyperkinetické poruchy",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování v dětství",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Hyperkinetické poruchy",
     "popis": "Poruchy charakterizované výraznou nepozorností, hyperaktivitou a impulzivitou.",
     "diagnosticka_kriteria": [
@@ -14631,9 +14631,9 @@
   {
     "id": "F90.0",
     "kod": "F90.0",
-    "nazev_cz": "Porucha aktivity a pozornosti (ADHD)",
+    "nazev_cz": "Porucha aktivity a pozornosti",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování v dětství",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Hyperkinetické poruchy",
     "popis": "ADHD – nejčastější neurovývojová porucha dětského věku. Splňuje základní kritéria hyperkinetické poruchy.",
     "diagnosticka_kriteria": [
@@ -14674,7 +14674,7 @@
     "kod": "F90.1",
     "nazev_cz": "Hyperkinetická porucha chování",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování v dětství",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Hyperkinetické poruchy",
     "popis": "Splnění kritérií pro ADHD i pro poruchu chování.",
     "diagnosticka_kriteria": [
@@ -14763,7 +14763,7 @@
     "kod": "F91",
     "nazev_cz": "Poruchy chování",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování v dětství",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Poruchy chování",
     "popis": "Poruchy charakterizované opakujícím se a trvalým vzorcem disociálního, agresivního nebo vzdorovitého chování.",
     "diagnosticka_kriteria": [
@@ -14906,9 +14906,9 @@
   {
     "id": "F91.3",
     "kod": "F91.3",
-    "nazev_cz": "Opoziční vzdorovitá porucha",
+    "nazev_cz": "Opoziční vzdorovité chování",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování v dětství",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Poruchy chování",
     "popis": "Porucha chování obvykle u mladších dětí charakterizovaná vzdorovitým, neposlušným a provokativním chováním bez závažné disociality.",
     "diagnosticka_kriteria": [
@@ -15139,7 +15139,7 @@
     "kod": "F93",
     "nazev_cz": "Emocionální poruchy se začátkem specifickým pro dětský věk",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování v dětství",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Emocionální poruchy dětství",
     "popis": "Poruchy patologicky zesílených normálních vývojových trendů.",
     "diagnosticka_kriteria": [
@@ -15171,9 +15171,9 @@
   {
     "id": "F93.0",
     "kod": "F93.0",
-    "nazev_cz": "Úzkostná porucha ze separace v dětství",
+    "nazev_cz": "Separační anxiózní porucha v dětství",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování v dětství",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Emocionální poruchy dětství",
     "popis": "Úzkost ze separace od hlavní pečující osoby přesahující úroveň odpovídající věku.",
     "diagnosticka_kriteria": [
@@ -15205,9 +15205,9 @@
   {
     "id": "F93.1",
     "kod": "F93.1",
-    "nazev_cz": "Fobická úzkostná porucha v dětství",
+    "nazev_cz": "Fobická anxiózní porucha v dětství",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování v dětství",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Emocionální poruchy dětství",
     "popis": "Fobické strachy typické pro určitou vývojovou fázi, ale výrazně nadprůměrné.",
     "diagnosticka_kriteria": [
@@ -15235,7 +15235,7 @@
   {
     "id": "F93.2",
     "kod": "F93.2",
-    "nazev_cz": "Sociální úzkostná porucha v dětství",
+    "nazev_cz": "Sociální anxiózní porucha v dětství",
     "system": "MKN-10",
     "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
     "podkategorie": "Emocionální poruchy s počátkem v dětství",
@@ -15362,7 +15362,7 @@
     "kod": "F94",
     "nazev_cz": "Poruchy sociálního fungování se začátkem specifickým pro dětský věk",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování v dětství",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Poruchy sociálního fungování",
     "popis": "Poruchy sociálního fungování s nástupem v dětství.",
     "diagnosticka_kriteria": [
@@ -15395,7 +15395,7 @@
     "kod": "F94.0",
     "nazev_cz": "Elektivní mutismus",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování v dětství",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Poruchy sociálního fungování",
     "popis": "Výrazná selektivita v mluvení, závislá na situaci, s normálním nebo téměř normálním jazykovým vývojem.",
     "diagnosticka_kriteria": [
@@ -15465,7 +15465,7 @@
   {
     "id": "F94.2",
     "kod": "F94.2",
-    "nazev_cz": "Dezinhibiční porucha příchylnosti v dětství",
+    "nazev_cz": "Porucha desinhibovaných vztahů u dětí",
     "system": "MKN-10",
     "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
     "podkategorie": "Poruchy sociálního fungování s počátkem v dětství",
@@ -15554,9 +15554,9 @@
   {
     "id": "F95",
     "kod": "F95",
-    "nazev_cz": "Tikové poruchy",
+    "nazev_cz": "Tiky",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování v dětství",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Tikové poruchy",
     "popis": "Poruchy, jejichž dominantní projev jsou tiky – náhlé, rychlé, opakující se, nerytmické pohyby nebo vokalizace.",
     "diagnosticka_kriteria": [
@@ -15624,7 +15624,7 @@
   {
     "id": "F95.1",
     "kod": "F95.1",
-    "nazev_cz": "Chronická motorická nebo vokální tiková porucha",
+    "nazev_cz": "Chronické motorické nebo vokální tiky",
     "system": "MKN-10",
     "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
     "podkategorie": "Tikové poruchy",
@@ -15660,9 +15660,9 @@
   {
     "id": "F95.2",
     "kod": "F95.2",
-    "nazev_cz": "Kombinovaná vokální a mnohočetná motorická tiková porucha (Tourettův syndrom)",
+    "nazev_cz": "Kombinovaná tiková porucha vokální a mnohočetná motorická (Touretteův syndrom)",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování v dětství",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Tikové poruchy",
     "popis": "Porucha s mnohočetnými motorickými tiky a alespoň jedním vokálním tikem (ne nutně současně).",
     "diagnosticka_kriteria": [
@@ -15753,7 +15753,7 @@
     "kod": "F98",
     "nazev_cz": "Jiné poruchy chování a emocí se začátkem obvykle v dětství a adolescenci",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování v dětství",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Jiné dětské poruchy",
     "popis": "Různorodá skupina poruch se začátkem v dětství nebo adolescenci.",
     "diagnosticka_kriteria": [
@@ -15780,7 +15780,7 @@
     "kod": "F98.0",
     "nazev_cz": "Neorganická enuréza",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování v dětství",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Jiné dětské poruchy",
     "popis": "Mimovolní pomočování (denní nebo noční) mimo věkovou hranici, bez organické příčiny.",
     "diagnosticka_kriteria": [
@@ -15812,7 +15812,7 @@
     "kod": "F98.1",
     "nazev_cz": "Neorganická enkopréza",
     "system": "MKN-10",
-    "kategorie": "F90–F98 Poruchy chování v dětství",
+    "kategorie": "F90–F98 Poruchy chování a emocí s obvyklým nástupem v dětství a dospívání",
     "podkategorie": "Jiné dětské poruchy",
     "popis": "Opakované mimovolní nebo záměrné vyprazdňování stolice mimo místa k tomu určená, bez organické příčiny.",
     "diagnosticka_kriteria": [
@@ -15844,7 +15844,7 @@
   {
     "id": "F98.2",
     "kod": "F98.2",
-    "nazev_cz": "Poruchy příjmu potravy v kojeneckém věku a v dětství",
+    "nazev_cz": "Poruchy příjmu potravy v kojeneckém a dětském věku",
     "system": "MKN-10",
     "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
     "podkategorie": "Jiné poruchy chování s počátkem v dětství",
@@ -15882,7 +15882,7 @@
   {
     "id": "F98.3",
     "kod": "F98.3",
-    "nazev_cz": "Pika v kojeneckém věku a v dětství",
+    "nazev_cz": "Pika kojenců a dětí",
     "system": "MKN-10",
     "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
     "podkategorie": "Jiné poruchy chování s počátkem v dětství",
@@ -15959,7 +15959,7 @@
   {
     "id": "F98.5",
     "kod": "F98.5",
-    "nazev_cz": "Koktavost",
+    "nazev_cz": "Koktavost (zadrhávání v řeči)",
     "system": "MKN-10",
     "kategorie": "F90–F98 Poruchy chování s počátkem v dětství a dospívání",
     "podkategorie": "Jiné poruchy chování s počátkem v dětství",
