@@ -41,6 +41,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F70"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Poruchy vývoje intelektu (MKN-11 6A00)",
+    "obecna_kriteria": [
+      "Výrazně podprůměrné intelektuální fungování (přibližně 2+ SD pod průměrem)",
+      "Deficity v adaptivním chování v konceptuální, sociální a praktické oblasti",
+      "Nástup v průběhu vývojového období"
     ]
   },
   {
@@ -56,6 +62,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F71"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Poruchy vývoje intelektu (MKN-11 6A00)",
+    "obecna_kriteria": [
+      "Výrazně podprůměrné intelektuální fungování (přibližně 2+ SD pod průměrem)",
+      "Deficity v adaptivním chování v konceptuální, sociální a praktické oblasti",
+      "Nástup v průběhu vývojového období"
     ]
   },
   {
@@ -71,6 +83,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F72"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Poruchy vývoje intelektu (MKN-11 6A00)",
+    "obecna_kriteria": [
+      "Výrazně podprůměrné intelektuální fungování (přibližně 2+ SD pod průměrem)",
+      "Deficity v adaptivním chování v konceptuální, sociální a praktické oblasti",
+      "Nástup v průběhu vývojového období"
     ]
   },
   {
@@ -86,6 +104,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F73"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Poruchy vývoje intelektu (MKN-11 6A00)",
+    "obecna_kriteria": [
+      "Výrazně podprůměrné intelektuální fungování (přibližně 2+ SD pod průměrem)",
+      "Deficity v adaptivním chování v konceptuální, sociální a praktické oblasti",
+      "Nástup v průběhu vývojového období"
     ]
   },
   {
@@ -101,6 +125,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F78"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Poruchy vývoje intelektu (MKN-11 6A00)",
+    "obecna_kriteria": [
+      "Výrazně podprůměrné intelektuální fungování (přibližně 2+ SD pod průměrem)",
+      "Deficity v adaptivním chování v konceptuální, sociální a praktické oblasti",
+      "Nástup v průběhu vývojového období"
     ]
   },
   {
@@ -116,6 +146,12 @@
     "onset": null,
     "mapovani_mkn10": [
       "F79"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Poruchy vývoje intelektu (MKN-11 6A00)",
+    "obecna_kriteria": [
+      "Výrazně podprůměrné intelektuální fungování (přibližně 2+ SD pod průměrem)",
+      "Deficity v adaptivním chování v konceptuální, sociální a praktické oblasti",
+      "Nástup v průběhu vývojového období"
     ]
   },
   {
@@ -151,6 +187,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F80.0"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Vývojové poruchy řeči nebo jazyka (MKN-11 6A01)",
+    "obecna_kriteria": [
+      "Trvalé obtíže s nabýváním a používáním jazyka (mluvená, psaná, nebo znaková)",
+      "Jazykové schopnosti výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového období",
+      "Není lépe vysvětlen smyslovým nebo motorickým deficitem"
     ]
   },
   {
@@ -166,6 +209,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F98.5"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Vývojové poruchy řeči nebo jazyka (MKN-11 6A01)",
+    "obecna_kriteria": [
+      "Trvalé obtíže s nabýváním a používáním jazyka (mluvená, psaná, nebo znaková)",
+      "Jazykové schopnosti výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového období",
+      "Není lépe vysvětlen smyslovým nebo motorickým deficitem"
     ]
   },
   {
@@ -182,6 +232,13 @@
     "mapovani_mkn10": [
       "F80.1",
       "F80.2"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Vývojové poruchy řeči nebo jazyka (MKN-11 6A01)",
+    "obecna_kriteria": [
+      "Trvalé obtíže s nabýváním a používáním jazyka (mluvená, psaná, nebo znaková)",
+      "Jazykové schopnosti výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového období",
+      "Není lépe vysvětlen smyslovým nebo motorickým deficitem"
     ]
   },
   {
@@ -197,6 +254,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F80.2"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Vývojové poruchy řeči nebo jazyka (MKN-11 6A01)",
+    "obecna_kriteria": [
+      "Trvalé obtíže s nabýváním a používáním jazyka (mluvená, psaná, nebo znaková)",
+      "Jazykové schopnosti výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového období",
+      "Není lépe vysvětlen smyslovým nebo motorickým deficitem"
     ]
   },
   {
@@ -212,6 +276,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F80.1"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Vývojové poruchy řeči nebo jazyka (MKN-11 6A01)",
+    "obecna_kriteria": [
+      "Trvalé obtíže s nabýváním a používáním jazyka (mluvená, psaná, nebo znaková)",
+      "Jazykové schopnosti výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového období",
+      "Není lépe vysvětlen smyslovým nebo motorickým deficitem"
     ]
   },
   {
@@ -227,6 +298,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F80.8"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Vývojové poruchy řeči nebo jazyka (MKN-11 6A01)",
+    "obecna_kriteria": [
+      "Trvalé obtíže s nabýváním a používáním jazyka (mluvená, psaná, nebo znaková)",
+      "Jazykové schopnosti výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového období",
+      "Není lépe vysvětlen smyslovým nebo motorickým deficitem"
     ]
   },
   {
@@ -242,6 +320,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F80.8"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Vývojové poruchy řeči nebo jazyka (MKN-11 6A01)",
+    "obecna_kriteria": [
+      "Trvalé obtíže s nabýváním a používáním jazyka (mluvená, psaná, nebo znaková)",
+      "Jazykové schopnosti výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového období",
+      "Není lépe vysvětlen smyslovým nebo motorickým deficitem"
     ]
   },
   {
@@ -257,6 +342,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F80.8"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Vývojové poruchy řeči nebo jazyka (MKN-11 6A01)",
+    "obecna_kriteria": [
+      "Trvalé obtíže s nabýváním a používáním jazyka (mluvená, psaná, nebo znaková)",
+      "Jazykové schopnosti výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového období",
+      "Není lépe vysvětlen smyslovým nebo motorickým deficitem"
     ]
   },
   {
@@ -272,6 +364,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F80.9"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Vývojové poruchy řeči nebo jazyka (MKN-11 6A01)",
+    "obecna_kriteria": [
+      "Trvalé obtíže s nabýváním a používáním jazyka (mluvená, psaná, nebo znaková)",
+      "Jazykové schopnosti výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového období",
+      "Není lépe vysvětlen smyslovým nebo motorickým deficitem"
     ]
   },
   {
@@ -315,6 +414,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F84.5"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Porucha autistického spektra (MKN-11 6A02)",
+    "obecna_kriteria": [
+      "Přetrvávající deficity ve schopnosti zahájit a udržet oboustrannou sociální interakci a komunikaci",
+      "Omezené, opakující se a nepružné vzorce chování, zájmů nebo aktivit, které jsou pro věk atypické",
+      "Nástup v průběhu vývojového období, typicky v raném dětství",
+      "Příznaky způsobují výrazné funkční postižení"
     ]
   },
   {
@@ -330,6 +436,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F84.0"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Porucha autistického spektra (MKN-11 6A02)",
+    "obecna_kriteria": [
+      "Přetrvávající deficity ve schopnosti zahájit a udržet oboustrannou sociální interakci a komunikaci",
+      "Omezené, opakující se a nepružné vzorce chování, zájmů nebo aktivit, které jsou pro věk atypické",
+      "Nástup v průběhu vývojového období, typicky v raném dětství",
+      "Příznaky způsobují výrazné funkční postižení"
     ]
   },
   {
@@ -345,6 +458,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F84.0"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Porucha autistického spektra (MKN-11 6A02)",
+    "obecna_kriteria": [
+      "Přetrvávající deficity ve schopnosti zahájit a udržet oboustrannou sociální interakci a komunikaci",
+      "Omezené, opakující se a nepružné vzorce chování, zájmů nebo aktivit, které jsou pro věk atypické",
+      "Nástup v průběhu vývojového období, typicky v raném dětství",
+      "Příznaky způsobují výrazné funkční postižení"
     ]
   },
   {
@@ -360,6 +480,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F84.0"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Porucha autistického spektra (MKN-11 6A02)",
+    "obecna_kriteria": [
+      "Přetrvávající deficity ve schopnosti zahájit a udržet oboustrannou sociální interakci a komunikaci",
+      "Omezené, opakující se a nepružné vzorce chování, zájmů nebo aktivit, které jsou pro věk atypické",
+      "Nástup v průběhu vývojového období, typicky v raném dětství",
+      "Příznaky způsobují výrazné funkční postižení"
     ]
   },
   {
@@ -375,6 +502,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F84.0"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Porucha autistického spektra (MKN-11 6A02)",
+    "obecna_kriteria": [
+      "Přetrvávající deficity ve schopnosti zahájit a udržet oboustrannou sociální interakci a komunikaci",
+      "Omezené, opakující se a nepružné vzorce chování, zájmů nebo aktivit, které jsou pro věk atypické",
+      "Nástup v průběhu vývojového období, typicky v raném dětství",
+      "Příznaky způsobují výrazné funkční postižení"
     ]
   },
   {
@@ -390,6 +524,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F84.8"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Porucha autistického spektra (MKN-11 6A02)",
+    "obecna_kriteria": [
+      "Přetrvávající deficity ve schopnosti zahájit a udržet oboustrannou sociální interakci a komunikaci",
+      "Omezené, opakující se a nepružné vzorce chování, zájmů nebo aktivit, které jsou pro věk atypické",
+      "Nástup v průběhu vývojového období, typicky v raném dětství",
+      "Příznaky způsobují výrazné funkční postižení"
     ]
   },
   {
@@ -405,6 +546,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F84.9"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Porucha autistického spektra (MKN-11 6A02)",
+    "obecna_kriteria": [
+      "Přetrvávající deficity ve schopnosti zahájit a udržet oboustrannou sociální interakci a komunikaci",
+      "Omezené, opakující se a nepružné vzorce chování, zájmů nebo aktivit, které jsou pro věk atypické",
+      "Nástup v průběhu vývojového období, typicky v raném dětství",
+      "Příznaky způsobují výrazné funkční postižení"
     ]
   },
   {
@@ -440,6 +588,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F81.0"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Vývojová porucha učení (MKN-11 6A03)",
+    "obecna_kriteria": [
+      "Trvalé obtíže s nabýváním specifických akademických dovedností (čtení, psaní, matematika)",
+      "Výkon výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového/školního věku",
+      "Není lépe vysvětlen poruchou intelektového vývoje ani smyslovým deficitem"
     ]
   },
   {
@@ -455,6 +610,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F81.1"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Vývojová porucha učení (MKN-11 6A03)",
+    "obecna_kriteria": [
+      "Trvalé obtíže s nabýváním specifických akademických dovedností (čtení, psaní, matematika)",
+      "Výkon výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového/školního věku",
+      "Není lépe vysvětlen poruchou intelektového vývoje ani smyslovým deficitem"
     ]
   },
   {
@@ -470,6 +632,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F81.2"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Vývojová porucha učení (MKN-11 6A03)",
+    "obecna_kriteria": [
+      "Trvalé obtíže s nabýváním specifických akademických dovedností (čtení, psaní, matematika)",
+      "Výkon výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového/školního věku",
+      "Není lépe vysvětlen poruchou intelektového vývoje ani smyslovým deficitem"
     ]
   },
   {
@@ -485,6 +654,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F81.8"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Vývojová porucha učení (MKN-11 6A03)",
+    "obecna_kriteria": [
+      "Trvalé obtíže s nabýváním specifických akademických dovedností (čtení, psaní, matematika)",
+      "Výkon výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového/školního věku",
+      "Není lépe vysvětlen poruchou intelektového vývoje ani smyslovým deficitem"
     ]
   },
   {
@@ -500,6 +676,13 @@
     "onset": null,
     "mapovani_mkn10": [
       "F81.9"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Vývojová porucha učení (MKN-11 6A03)",
+    "obecna_kriteria": [
+      "Trvalé obtíže s nabýváním specifických akademických dovedností (čtení, psaní, matematika)",
+      "Výkon výrazně nižší oproti věkovým a intelektovým očekáváním",
+      "Nástup v průběhu vývojového/školního věku",
+      "Není lépe vysvětlen poruchou intelektového vývoje ani smyslovým deficitem"
     ]
   },
   {
@@ -565,6 +748,14 @@
     "onset": null,
     "mapovani_mkn10": [
       "F90.0"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Porucha pozornosti s hyperaktivitou (MKN-11 6A05)",
+    "obecna_kriteria": [
+      "Přetrvávající vzorec (nejméně 6 měsíců) nepozornosti a/nebo hyperaktivity-impulzivity",
+      "Příznaky mají přímý negativní dopad na akademické, pracovní nebo sociální fungování",
+      "Příznaky se projevily před 12. rokem věku a přesahují normální vývojovou variaci",
+      "Projevuje se v různých prostředích (domov, škola, práce)",
+      "Není lépe vysvětlen jinou duševní poruchou ani účinky látky"
     ]
   },
   {
@@ -580,6 +771,14 @@
     "onset": null,
     "mapovani_mkn10": [
       "F90.1"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Porucha pozornosti s hyperaktivitou (MKN-11 6A05)",
+    "obecna_kriteria": [
+      "Přetrvávající vzorec (nejméně 6 měsíců) nepozornosti a/nebo hyperaktivity-impulzivity",
+      "Příznaky mají přímý negativní dopad na akademické, pracovní nebo sociální fungování",
+      "Příznaky se projevily před 12. rokem věku a přesahují normální vývojovou variaci",
+      "Projevuje se v různých prostředích (domov, škola, práce)",
+      "Není lépe vysvětlen jinou duševní poruchou ani účinky látky"
     ]
   },
   {
@@ -596,6 +795,14 @@
     "mapovani_mkn10": [
       "F90.0",
       "F90.1"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Porucha pozornosti s hyperaktivitou (MKN-11 6A05)",
+    "obecna_kriteria": [
+      "Přetrvávající vzorec (nejméně 6 měsíců) nepozornosti a/nebo hyperaktivity-impulzivity",
+      "Příznaky mají přímý negativní dopad na akademické, pracovní nebo sociální fungování",
+      "Příznaky se projevily před 12. rokem věku a přesahují normální vývojovou variaci",
+      "Projevuje se v různých prostředích (domov, škola, práce)",
+      "Není lépe vysvětlen jinou duševní poruchou ani účinky látky"
     ]
   },
   {
@@ -611,6 +818,14 @@
     "onset": null,
     "mapovani_mkn10": [
       "F90.8"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Porucha pozornosti s hyperaktivitou (MKN-11 6A05)",
+    "obecna_kriteria": [
+      "Přetrvávající vzorec (nejméně 6 měsíců) nepozornosti a/nebo hyperaktivity-impulzivity",
+      "Příznaky mají přímý negativní dopad na akademické, pracovní nebo sociální fungování",
+      "Příznaky se projevily před 12. rokem věku a přesahují normální vývojovou variaci",
+      "Projevuje se v různých prostředích (domov, škola, práce)",
+      "Není lépe vysvětlen jinou duševní poruchou ani účinky látky"
     ]
   },
   {
@@ -626,6 +841,14 @@
     "onset": null,
     "mapovani_mkn10": [
       "F90.9"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria: Porucha pozornosti s hyperaktivitou (MKN-11 6A05)",
+    "obecna_kriteria": [
+      "Přetrvávající vzorec (nejméně 6 měsíců) nepozornosti a/nebo hyperaktivity-impulzivity",
+      "Příznaky mají přímý negativní dopad na akademické, pracovní nebo sociální fungování",
+      "Příznaky se projevily před 12. rokem věku a přesahují normální vývojovou variaci",
+      "Projevuje se v různých prostředích (domov, škola, práce)",
+      "Není lépe vysvětlen jinou duševní poruchou ani účinky látky"
     ]
   },
   {
