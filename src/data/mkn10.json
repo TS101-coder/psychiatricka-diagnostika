@@ -3749,6 +3749,33 @@
     }
   },
   {
+    "id": "F16.7",
+    "kod": "F16.7",
+    "nazev_cz": "Poruchy způsobené užíváním halucinogenů – reziduální a pozdní psychotická porucha",
+    "system": "MKN-10",
+    "kategorie": "F10–F19 Poruchy způsobené psychoaktivními látkami",
+    "podkategorie": "Halucinogeny",
+    "popis": "Porucha kognitivních funkcí nebo chování přetrvávající po odeznění přímého účinku látky.",
+    "diagnosticka_kriteria": [
+      "Příznaky přetrvávají po ukončení přímého účinku látky",
+      "Příznaky se liší od odvykacího stavu",
+      "Kauzální role látky pravděpodobná"
+    ],
+    "priznaky": [
+      "flashbacky",
+      "kognitivní poruchy",
+      "poruchy nálady",
+      "poruchy osobnosti"
+    ],
+    "prubeh": "Variabilní, může být trvalý.",
+    "onset": "Přetrvává po akutní fázi.",
+    "diferencialni_diagnozy": [],
+    "mapovani": {
+      "mkn11": null,
+      "dsm5": null
+    }
+  },
+  {
     "id": "F16.70",
     "kod": "F16.70",
     "nazev_cz": "Posthalucinogenní porucha vnímání (HPPD)",
@@ -3780,33 +3807,6 @@
     "kriteria_mkn11": [
       "Přetrvávající percepční porucha vyvolaná halucinogeny (HPPD): opakované přepisy percepčních symptomů z dřívější intoxikace halucinogeny"
     ]
-  },
-  {
-    "id": "F16.7",
-    "kod": "F16.7",
-    "nazev_cz": "Poruchy způsobené užíváním halucinogenů – reziduální a pozdní psychotická porucha",
-    "system": "MKN-10",
-    "kategorie": "F10–F19 Poruchy způsobené psychoaktivními látkami",
-    "podkategorie": "Halucinogeny",
-    "popis": "Porucha kognitivních funkcí nebo chování přetrvávající po odeznění přímého účinku látky.",
-    "diagnosticka_kriteria": [
-      "Příznaky přetrvávají po ukončení přímého účinku látky",
-      "Příznaky se liší od odvykacího stavu",
-      "Kauzální role látky pravděpodobná"
-    ],
-    "priznaky": [
-      "flashbacky",
-      "kognitivní poruchy",
-      "poruchy nálady",
-      "poruchy osobnosti"
-    ],
-    "prubeh": "Variabilní, může být trvalý.",
-    "onset": "Přetrvává po akutní fázi.",
-    "diferencialni_diagnozy": [],
-    "mapovani": {
-      "mkn11": null,
-      "dsm5": null
-    }
   },
   {
     "id": "F16.8",
@@ -7137,6 +7137,34 @@
     ]
   },
   {
+    "id": "F38.0",
+    "kod": "F38.0",
+    "nazev_cz": "Jiné jednotlivé afektivní poruchy",
+    "system": "MKN-10",
+    "kategorie": "F30–F39 Afektivní poruchy",
+    "podkategorie": "Jiné afektivní poruchy",
+    "popis": "Afektivní poruchy tvořené jedinou epizodou (nikoliv rekurentní), nespadající do F30–F33. Zahrnuje smíšenou afektivní epizodu.",
+    "diagnosticka_kriteria": [
+      "Jednotlivá afektivní epizoda",
+      "Nespadá do F30–F33"
+    ],
+    "priznaky": [
+      "smíšená nebo jiná afektivní epizoda",
+      "poruchy nálady"
+    ],
+    "prubeh": "Epizodický.",
+    "onset": "Variabilní.",
+    "diferencialni_diagnozy": [
+      "F38.00",
+      "F31.6",
+      "F30"
+    ],
+    "mapovani": {
+      "mkn11": null,
+      "dsm5": null
+    }
+  },
+  {
     "id": "F38.00",
     "kod": "F38.00",
     "nazev_cz": "Smíšená afektivní epizoda",
@@ -7170,34 +7198,6 @@
       "Splněna kritéria pro bipolární poruchu I (6A60)",
       "Aktuálně smíšená epizoda: simultánní nebo rychle se střídající výrazné manické i depresivní příznaky"
     ]
-  },
-  {
-    "id": "F38.0",
-    "kod": "F38.0",
-    "nazev_cz": "Jiné jednotlivé afektivní poruchy",
-    "system": "MKN-10",
-    "kategorie": "F30–F39 Afektivní poruchy",
-    "podkategorie": "Jiné afektivní poruchy",
-    "popis": "Afektivní poruchy tvořené jedinou epizodou (nikoliv rekurentní), nespadající do F30–F33. Zahrnuje smíšenou afektivní epizodu.",
-    "diagnosticka_kriteria": [
-      "Jednotlivá afektivní epizoda",
-      "Nespadá do F30–F33"
-    ],
-    "priznaky": [
-      "smíšená nebo jiná afektivní epizoda",
-      "poruchy nálady"
-    ],
-    "prubeh": "Epizodický.",
-    "onset": "Variabilní.",
-    "diferencialni_diagnozy": [
-      "F38.00",
-      "F31.6",
-      "F30"
-    ],
-    "mapovani": {
-      "mkn11": null,
-      "dsm5": null
-    }
   },
   {
     "id": "F38.1",
