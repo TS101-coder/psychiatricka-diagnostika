@@ -1735,5 +1735,1315 @@
       "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
       "SÚKL Databáze léčiv – ověřeno 2025"
     ]
+  },
+  {
+    "kod_mkn10": "F12",
+    "nazev_poruchy": "Poruchy způsobené užíváním kanabinoidů",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Žádná specifická farmakologická léčba závislosti na kanabinoidech není registrována",
+          "priklady_generik": [],
+          "dostupnost_cr_sukl": false,
+          "sukl_poznamka": "Akutní intoxikace konopím nevyžaduje specifickou farmakoterapii – pouze klidné prostředí, monitorace. Při silné anxietě nebo psychóze z intoxikace: benzodiazepiny krátkodobě nebo haloperidol."
+        },
+        {
+          "skupina_latek": "Léčba komorbidních poruch (deprese, úzkost) – SSRI",
+          "priklady_generik": ["sertralin", "escitalopram"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Komorbidní psychiatrické poruchy jsou časté u závislých na konopí a jejich léčba zlepšuje výsledky léčby závislosti.",
+          "doporucene_davkovani_zahajovaci": "Sertralin 50 mg/den, escitalopram 10 mg/den.",
+          "hlavni_nezadouci_ucinky": ["viz F32"],
+          "kontraindikace": ["viz F32"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "CBT zaměřená na závislost – motivační rozhovor, prevence relapsu",
+        "Motivační rozhovor (MI) – zvláště efektivní pro ambivalentní uživatele",
+        "Mindfulness-Based Relapse Prevention (MBRP)",
+        "Léčba komorbidní psychózy nebo afektivní poruchy"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "N-acetylcystein (NAC) – experimentální pro craving",
+          "priklady_generik": ["acetylcystein"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Off-label. Slibné výsledky v studiích pro redukci craving u závislosti na konopí; v ČR dostupný jako mukolytikum.",
+          "doporucene_davkovani_zahajovaci": "600–1200 mg 2× denně.",
+          "hlavni_nezadouci_ucinky": ["nauzea", "průjem"],
+          "kontraindikace": ["přecitlivělost"],
+          "indikace_k_nasazeni": "Snížení craving při odvykání od kanabinoidů."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Kanabinoidy mohou precipitovat nebo zhoršit psychózu u geneticky predisponovaných osob. Pravidelné užívání ve adolescenci výrazně zvyšuje riziko rozvoje schizofrenie.",
+      "interakce": ["THC + CNS depresanty – aditivní útlum CNS", "THC + warfarin – možné zvýšení INR"],
+      "monitoring": ["Psychotické příznaky", "Komorbidní psychiatrické poruchy", "Frekvence užívání (cannabis use diary)"]
+    },
+    "zdroje": [
+      "NICE NG214 (2007, aktualizace 2022)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F13",
+    "nazev_poruchy": "Poruchy způsobené užíváním sedativ nebo hypnotik",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Postupné snižování dávky benzodiazepinu (tapering) – převod na dlouhodobě působící BZD",
+          "priklady_generik": ["diazepam", "chlordiazepoxid"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Standardní postup: převést na ekvivalentní dávku diazepamu, pak snižovat o 10 % každé 1–2 týdny. Příliš rychlé vysazení – riziko záchvatů a těžkého abstinenčního syndromu.",
+          "doporucene_davkovani_zahajovaci": "Výpočet ekvivalentu: alprazolam 1 mg = diazepam 10 mg; lorazepam 1 mg = diazepam 10 mg; klonazepam 0,5 mg = diazepam 10 mg.",
+          "hlavni_nezadouci_ucinky": ["sedace", "závratě", "ústupové příznaky při příliš rychlém snižování"],
+          "kontraindikace": ["těžká respirační insuficience"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "CBT pro nespavost (CBT-I) – jako náhrada hypnotik",
+        "Spánková hygiena",
+        "Motivační rozhovor",
+        "Psychoedukace o abstinenčním syndromu"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Karbamazepin nebo valproát – adjuvantní při detoxifikaci s vysokým rizikem záchvatů",
+          "priklady_generik": ["karbamazepin", "valproát"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Přidán k BZD taperingovému schématu u pacientů s anamnézou záchvatů nebo polysubstanční závislostí.",
+          "doporucene_davkovani_zahajovaci": "Karbamazepin 200–400 mg 3× denně. Valproát 500 mg 2× denně.",
+          "hlavni_nezadouci_ucinky": ["sedace", "hepatotoxicita", "aplastická anémie (karbamazepin)"],
+          "kontraindikace": ["AV blok (karbamazepin)", "jaterní insuficience (valproát)"],
+          "indikace_k_nasazeni": "Vysoké riziko abstinentních záchvatů, polysubstanční závislost."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Náhlé vysazení benzodiazepinů po dlouhodobém užívání může vyvolat těžký abstinenční syndrom zahrnující záchvaty, delirium a smrt. Vždy postupné vysazování.",
+      "interakce": ["Benzodiazepiny + alkohol nebo opiáty – synergistický útlum CNS, riziko fatálního předávkování"],
+      "monitoring": ["CIWA-B škála při detoxifikaci", "EEG při záchvatech", "Spánkové parametry (polysomnografie dle indikace)"]
+    },
+    "zdroje": [
+      "NICE NG214 (2007, aktualizace 2022)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F14",
+    "nazev_poruchy": "Poruchy způsobené užíváním kokainu",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Žádná specifická farmakologická léčba závislosti na kokainu není schválena",
+          "priklady_generik": [],
+          "dostupnost_cr_sukl": false,
+          "sukl_poznamka": "Akutní intoxikace kokainem: benzodiazepiny pro anxiettu a agitaci; betablokátory jsou KONTRAINDIKOVÁNY při kokainem způsobené hypertenzní krizi (riziko paradoxní vazokonstrikce). Přidej nitroglycerin nebo benzodiazepiny."
+        },
+        {
+          "skupina_latek": "Léčba deprese a craving – off-label přístupy",
+          "priklady_generik": ["disulfiram", "bupropion", "modafinil"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Disulfiram (inhibitor dopamin-beta-hydroxylasy) snižuje craving na kokain – off-label, limitovaná evidence. Bupropion off-label pro craving. Modafinil dostupný v ČR pro narkolepsii; off-label pro závislost na stimulanciích.",
+          "doporucene_davkovani_zahajovaci": "Disulfiram 250 mg/den. Bupropion 150–300 mg/den. Modafinil 200 mg/den.",
+          "hlavni_nezadouci_ucinky": ["disulfiram: hepatotoxicita, neuropatie, interakce s alkoholem", "bupropion: záchvaty při předávkování, suicidální myšlenky u adolescentů"],
+          "kontraindikace": ["disulfiram: viz F10", "bupropion: bulimie, epilepsie, MAOI"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "CBT s prevencí relapsu – nejsilnější evidence pro léčbu závislosti na kokainu",
+        "Motivační rozhovor",
+        "Contingency management (token economy) – prokázaně efektivní",
+        "12-krokové programy (Narcotics Anonymous)"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Antipsychotika – pro kokainem vyvolanou psychózu",
+          "priklady_generik": ["haloperidol", "olanzapin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Krátkodobě pro psychotické příznaky při intoxikaci nebo po ní. Po odeznění intoxikace zvážit vysazení.",
+          "doporucene_davkovani_zahajovaci": "Haloperidol 5 mg i.m. nebo p.o. akutně.",
+          "hlavni_nezadouci_ucinky": ["EPS", "sedace"],
+          "kontraindikace": ["viz F20"],
+          "indikace_k_nasazeni": "Kokainem indukovaná psychóza."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Kokain + betablokátory: absolutní kontraindikace – betablokátor způsobuje neantagonizovanou alfa-adrenergní vazokonstrikci → hypertenzní krize, infarkt. Pro kokainem způsobené kardiovaskulární komplikace použít benzodiazepiny a nitroglycerin.",
+      "interakce": ["Kokain + alkohol – tvorba kokaethylenu (hepatotoxický, kardiotoxický metabolit)", "Kokain + MAOI – hypertenzní krize"],
+      "monitoring": ["EKG (arytmie, ischemie)", "Krevní tlak", "Toxikologické testy", "Psychiatrické komorbidity"]
+    },
+    "zdroje": [
+      "NICE NG214 (2007, aktualizace 2022)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F15",
+    "nazev_poruchy": "Poruchy způsobené užíváním jiných stimulantů (amfetaminy, metamfetamin, MDMA)",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Akutní intoxikace – benzodiazepiny pro agitaci a záchvaty",
+          "priklady_generik": ["diazepam", "lorazepam"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Akutní léčba intoxikace stimulancii. Při hypertermi: chlazení; při hypertenzní krizi: benzodiazepiny nebo nitroprusid (betablokátory kontraindikovány stejně jako u kokainu).",
+          "doporucene_davkovani_zahajovaci": "Diazepam 5–10 mg i.v. nebo p.o., opakovat dle potřeby.",
+          "hlavni_nezadouci_ucinky": ["sedace", "respirační deprese"],
+          "kontraindikace": ["viz F13"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Motivační rozhovor",
+        "CBT s prevencí relapsu",
+        "Contingency management",
+        "Léčba komorbidního ADHD (methylfenidát při diagnóze ADHD a závislosti – zvážit opatrně)"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Mirtazapin – pro abstinenční syndrom (insomnie, úzkost, deprese)",
+          "priklady_generik": ["mirtazapin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Off-label. Mirtazapin zmírňuje abstinenční příznaky po stimulanciích (insomnie, deprese, craving). Evidence z klinických studií pro metamfetamin.",
+          "doporucene_davkovani_zahajovaci": "15–30 mg na noc.",
+          "hlavni_nezadouci_ucinky": ["sedace", "přírůstek hmotnosti"],
+          "kontraindikace": ["MAOI"],
+          "indikace_k_nasazeni": "Abstinenční syndrom po stimulanciích s insomnií a depresivní symptomatikou."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "MDMA (extáze) – riziko serotoninového syndromu zvláště v kombinaci s SSRI nebo MAOI. Hypertermie při MDMA může být fatální. Metamfetamin: těžká kardiovaskulární toxicita, metamfetaminová psychóza může přetrvávat dlouho po abstinenci.",
+      "interakce": ["Stimulancia + MAOI – hypertenzní krize, serotoninový syndrom", "MDMA + SSRI – serotoninový syndrom"],
+      "monitoring": ["EKG", "Tělesná teplota (hypertermie)", "Psychotické příznaky", "Komorbidní ADHD"]
+    },
+    "zdroje": [
+      "NICE NG214 (2007, aktualizace 2022)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F16",
+    "nazev_poruchy": "Poruchy způsobené užíváním halucinogenů",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Akutní bad trip – benzodiazepiny",
+          "priklady_generik": ["diazepam", "lorazepam"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Klidné prostředí (talking down) je primární intervencí. Benzodiazepiny při silné anxietě nebo agitaci. Antipsychotika (haloperidol) jen pokud BZD nestačí – mohou prodloužit dysfórii u LSD.",
+          "doporucene_davkovani_zahajovaci": "Diazepam 5–10 mg p.o. nebo i.v.",
+          "hlavni_nezadouci_ucinky": ["sedace"],
+          "kontraindikace": []
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Talking down – klidné, podpůrné prostředí",
+        "Psychoterapie pro HPPD (Hallucinogen Persisting Perception Disorder)",
+        "Motivační rozhovor"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Klonazepam – pro HPPD (perzistentní percepční porucha)",
+          "priklady_generik": ["klonazepam"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "HPPD (trvalé flashbacky po LSD) – klonazepam nebo valproát mají nejlepší evidenci.",
+          "doporucene_davkovani_zahajovaci": "Klonazepam 0,5 mg 2× denně.",
+          "hlavni_nezadouci_ucinky": ["sedace", "závislost"],
+          "kontraindikace": [],
+          "indikace_k_nasazeni": "HPPD způsobující klinicky závažný distres."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Halucinogeny mohou precipitovat trvalou psychózu u predisponovaných osob. Fencyklidin (PCP) – extrémně nebezpečný: disociace, agrese, neuroprotektivní efekty vyžadující speciální bezpečnostní přístupy.",
+      "interakce": ["LSD + lithium – riziko záchvatů a srdečních arytmií", "PCP + CNS depresanty – synergistický útlum"],
+      "monitoring": ["Psychotické příznaky", "HPPD – frekvence a intenzita flashbacků"]
+    },
+    "zdroje": [
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F17",
+    "nazev_poruchy": "Poruchy způsobené užíváním tabáku",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Vareniklin (parciální agonista nAChR) – nejvyšší efektivita",
+          "priklady_generik": ["vareniklin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Vareniklin (Champix) je registrován v ČR pro odvykání kouření. Nejúčinnější farmakologická léčba (OR 2,3–3,0 oproti placebu). Léčba 12 týdnů, při úspěchu prodloužit na 24 týdnů.",
+          "doporucene_davkovani_zahajovaci": "0,5 mg 1× denně 1.–3. den, 0,5 mg 2× denně 4.–7. den, pak 1 mg 2× denně. Den ukončení kouření: 8.–14. den léčby.",
+          "hlavni_nezadouci_ucinky": ["nauzea (nejčastější – brát s jídlem)", "insomnie", "abnormální sny", "bolest hlavy"],
+          "kontraindikace": ["těžká renální insuficience (nutná úprava dávky)", "přecitlivělost"]
+        },
+        {
+          "skupina_latek": "Náhradní nikotinová terapie (NRT)",
+          "priklady_generik": ["nikotinová náplast", "nikotinová žvýkačka", "nikotinový inhalátor"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "NRT dostupná v ČR (volně prodejná). Náplast (16h nebo 24h) + rychle působící forma (žvýkačka, pastilky) pro optimální výsledky.",
+          "doporucene_davkovani_zahajovaci": "Náplast: 21 mg/24 h (> 20 cigaret/den) nebo 14 mg/24 h (< 20 cigaret/den); postupně snižovat. Žvýkačka: 2–4 mg dle potřeby, max 24 kusů/den.",
+          "hlavni_nezadouci_ucinky": ["kožní reakce (náplast)", "nauzea a pálení žáhy (žvýkačka)", "insomnie (24h náplast)"],
+          "kontraindikace": ["akutní IM (relativní)", "těhotenství (preferovat NRT nad kouřením)"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Behaviorální intervence a poradenství – prokázané zvýšení úspěšnosti odvykání",
+        "Telefonní quit-line (v ČR: 844 600 500)",
+        "Mobilní aplikace pro odvykání kouření",
+        "Skupiny na odvykání kouření"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Bupropion – antidepresivum s antinikotinovou indikací",
+          "priklady_generik": ["bupropion"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Bupropion SR registrován v ČR pro odvykání kouření. Vhodný zejm. při komorbidní depresi nebo kontraindikaci vareniklinu.",
+          "doporucene_davkovani_zahajovaci": "150 mg/den 1.–3. den, pak 150 mg 2× denně. Zahájit 1–2 týdny před plánovaným dnem D.",
+          "hlavni_nezadouci_ucinky": ["insomnie", "sucho v ústech", "záchvaty (při epilepsii)"],
+          "kontraindikace": ["epilepsie", "bulimie nebo anorexie", "MAOI", "náhlé vysazení alkoholu/benzodiazepinů"],
+          "indikace_k_nasazeni": "Intolerance vareniklinu, komorbidní deprese."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Vareniklin: FDA dříve varoval před neuropsychiatrickými nežádoucími účinky (změny nálady, suicidální myšlenky) – novější data toto riziko nepotvrdila v relevantní míře, varování bylo staženo. Přesto sledovat u pacientů s anamnézou deprese.",
+      "interakce": ["Kouření indukuje CYP1A2 – při zanechání kouření stoupají hladiny klozapinu, olanzapinu, theofylinu, warfarinu (upravit dávky)", "Vareniklin: minimální lékové interakce (eliminace renálně nezmněněn)"],
+      "monitoring": ["Datum ukončení kouření (den D)", "Abstinenční příznaky (Fagerströmův test)", "Hladiny léků metabolizovaných CYP1A2 po zanechání kouření"]
+    },
+    "zdroje": [
+      "NICE Guideline PH10: Stop smoking services (2008, aktualizace 2023)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F18",
+    "nazev_poruchy": "Poruchy způsobené užíváním těkavých látek",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Symptomatická léčba akutní intoxikace – podpůrná péče",
+          "priklady_generik": [],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Žádná specifická antidota pro intoxikaci těkavými látkami. Podpůrná péče: kyslík, monitorace srdečního rytmu, rehydratace. Arytmie léčit betablokátory (NE adrenalinem – riziko fibrilace).",
+          "doporucene_davkovani_zahajovaci": "Dle klinického stavu.",
+          "hlavni_nezadouci_ucinky": [],
+          "kontraindikace": []
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Motivační rozhovor",
+        "CBT – prevence relapsu",
+        "Rodinná terapie a sociální intervence",
+        "Neurorehabilitace při chronické neurotoxicitě"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Antidepresiva – komorbidní deprese nebo anxiety",
+          "priklady_generik": ["sertralin", "escitalopram"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Léčba komorbidních poruch. Žádná specifická farmakoterapie závislosti na těkavých látkách není dostupná.",
+          "doporucene_davkovani_zahajovaci": "Sertralin 50 mg/den.",
+          "hlavni_nezadouci_ucinky": ["viz F32"],
+          "kontraindikace": ["viz F32"],
+          "indikace_k_nasazeni": "Komorbidní deprese nebo úzkostná porucha."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Náhlá srdeční smrt při inhalaci – sensitized heart syndrome: adrenalin, stres nebo fyzická zátěž může při intoxikaci způsobit fatální arytmii. Chronické užívání způsobuje ireverzibilní neurologické poškození.",
+      "interakce": ["Těkavé látky + adrenalin/sympatomimetika – riziko fatální arytmie"],
+      "monitoring": ["EKG (QTc, arytmie)", "Neurologický stav a kognitivní funkce", "Jaterní a renální funkce (hepatotoxicita, nefrotoxicita)"]
+    },
+    "zdroje": [
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F21",
+    "nazev_poruchy": "Schizotypní porucha",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Nízká dávka atypického antipsychotika",
+          "priklady_generik": ["risperidon", "olanzapin", "aripiprazol"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Schizotypní porucha není schizofrenií – farmakoterapie indikována při výrazné psychotické symptomatice nebo při velkém stresu. Nižší dávky než u schizofrenie. Off-label použití.",
+          "doporucene_davkovani_zahajovaci": "Risperidon 0,5–2 mg/den. Aripiprazol 5–10 mg/den.",
+          "hlavni_nezadouci_ucinky": ["EPS", "sedace", "metabolický syndrom"],
+          "kontraindikace": ["viz F20"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Podpůrná psychoterapie – budování terapeutického vztahu",
+        "Kognitivní terapie pro podivné přesvědčení a sociální izolaci",
+        "Nácvik sociálních dovedností",
+        "Psychoedukace"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "SSRI – pro komorbidní anxiettu a depresivní příznaky",
+          "priklady_generik": ["sertralin", "escitalopram"],
+          "dostupnost_cr_sukl": true,
+          "indikace_k_nasazeni": "Komorbidní deprese nebo sociální fobie u schizotypní poruchy."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Schizotypní porucha zvyšuje riziko konverze do schizofrenie – sledovat klinický vývoj.",
+      "interakce": ["viz F20"],
+      "monitoring": ["Klinická symptomatika", "Konverze do schizofrenie (roční sledování)"]
+    },
+    "zdroje": [
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F23",
+    "nazev_poruchy": "Akutní a přechodné psychotické poruchy",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Atypická antipsychotika – krátkodobá léčba",
+          "priklady_generik": ["olanzapin", "risperidon", "quetiapin", "haloperidol"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Léčba akutní epizody. U F23 je prognóza příznivá – většina epizod odeznívá do 1–3 měsíců. Antipsychotika nasadit v akutní fázi, po remisi (3–6 měsíců) zvážit vysazení. Odlišit od schizofrenie (trvání > 1 měsíc).",
+          "doporucene_davkovani_zahajovaci": "Olanzapin 10 mg/den. Risperidon 2–4 mg/den. Quetiapin 300–400 mg/den.",
+          "hlavni_nezadouci_ucinky": ["viz F20"],
+          "kontraindikace": ["viz F20"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Klidné a strukturované prostředí",
+        "Psychoedukace pacienta a rodiny",
+        "Podpůrná psychoterapie po odeznění akutní fáze"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Benzodiazepiny – pro akutní agitaci jako adjuvantum",
+          "priklady_generik": ["lorazepam"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Krátkodobě pro agitaci v akutní fázi. Nepodávat dlouhodobě.",
+          "doporucene_davkovani_zahajovaci": "Lorazepam 1–2 mg p.o. nebo i.m.",
+          "hlavni_nezadouci_ucinky": ["sedace", "respirační deprese"],
+          "kontraindikace": ["viz F13"],
+          "indikace_k_nasazeni": "Akutní agitace v rámci psychotické epizody."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Reaktivní nebo stresem precipitovaná psychóza – vyloučit organickou příčinu (encefalitida, metabolická porucha, intoxikace) a bipolární poruchu.",
+      "interakce": ["viz F20"],
+      "monitoring": ["Klinický stav každé 2–4 týdny", "Délka trvání – rozlišení od schizofrenie", "Stres a psychosociální faktory"]
+    },
+    "zdroje": [
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F24",
+    "nazev_poruchy": "Indukovaná porucha s bludy",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Separace od primárního pacienta – primární intervence (nefarmakologická)",
+          "priklady_generik": [],
+          "dostupnost_cr_sukl": false,
+          "sukl_poznamka": "Oddělení od primárního pacienta (induktora) vede v mnoha případech k rychlé remisi u sekundárního pacienta (recipient). Pokud bludy přetrvávají po separaci, nasadit antipsychotika."
+        },
+        {
+          "skupina_latek": "Atypická antipsychotika – při přetrvávání příznaků po separaci",
+          "priklady_generik": ["risperidon", "olanzapin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Nízká dávka antipsychotika, krátkodobě. Primární pacient (induktor) vyžaduje léčbu jako pro poruchu s bludy (viz F22).",
+          "doporucene_davkovani_zahajovaci": "Risperidon 1–3 mg/den.",
+          "hlavni_nezadouci_ucinky": ["viz F20"],
+          "kontraindikace": ["viz F20"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Separace primárního a sekundárního pacienta – klíčová intervence",
+        "Rodinná terapie",
+        "Podpůrná psychoterapie"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Viz F22 (porucha s bludy) pro primárního pacienta",
+          "priklady_generik": ["risperidon", "olanzapin", "haloperidol"],
+          "dostupnost_cr_sukl": true,
+          "indikace_k_nasazeni": "Primární pacient vyžaduje plnou léčbu poruchy s bludy."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Folie à deux – vzácná, ale závažná porucha; bez intervence může dojít k tragickým důsledkům (Werther efekt, vzájemné poranění).",
+      "interakce": [],
+      "monitoring": ["Remise příznaků po separaci", "Vývoj příznaků u primárního pacienta"]
+    },
+    "zdroje": [
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F34.0",
+    "nazev_poruchy": "Cyklotymie",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Thymostabilizátory",
+          "priklady_generik": ["lithium", "lamotrigin", "valproát"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "U cyklotymie je farmakoterapie indikována při klinicky závažném narušení fungování nebo při riziku progrese do bipolární poruchy. Lithium nebo lamotrigin jsou preferovány.",
+          "doporucene_davkovani_zahajovaci": "Lithium: cílová hladina 0,6–0,8 mmol/l. Lamotrigin: titrace od 25 mg/den na 100–200 mg/den.",
+          "hlavni_nezadouci_ucinky": ["viz F30 pro lithium a lamotrigin"],
+          "kontraindikace": ["viz F30"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Psychoedukace – rozpoznávání cyklů, spouštěče",
+        "Regulace spánku a cirkadiánního rytmu (IPSRT)",
+        "CBT pro bipolární spektrum",
+        "Redukce stresu (mindfulness)"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Atypická antipsychotika v nízké dávce",
+          "priklady_generik": ["quetiapin", "aripiprazol"],
+          "dostupnost_cr_sukl": true,
+          "indikace_k_nasazeni": "Při výrazné hypomanické nebo subdepresivní symptomatice a nedostatečné odpovědi na thymostabilizátory."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Antidepresiva v monoterapii mohou zhoršit cyklování nebo způsobit přesmyk do (hypo)mánie – použít pouze s thymostabilizátorem.",
+      "interakce": ["viz F31"],
+      "monitoring": ["Mood chart (denní hodnocení nálady)", "Spánkový rytmus", "Sledování rozvoje bipolární poruchy"]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Bipolar Disorder (2010)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F43.0",
+    "nazev_poruchy": "Akutní stresová reakce",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Farmakoterapie obvykle není indikována – primárně psychologická podpora",
+          "priklady_generik": [],
+          "dostupnost_cr_sukl": false,
+          "sukl_poznamka": "Akutní stresová reakce je přirozená odpověď na mimořádný stres a zpravidla odeznívá do hodin až 4 týdnů. Farmakoterapie jen při výrazné anxietě nebo insomnii bránící fungování."
+        },
+        {
+          "skupina_latek": "Benzodiazepiny – krátkodobě při nesnesitelné anxietě nebo insomnii",
+          "priklady_generik": ["lorazepam", "diazepam"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Max. 2–3 dny, nejnižší účinná dávka. Benzodiazepiny mohou bránit přirozené adaptaci a zvyšují riziko PTSD.",
+          "doporucene_davkovani_zahajovaci": "Lorazepam 0,5–1 mg 2× denně, max. 3 dny.",
+          "hlavni_nezadouci_ucinky": ["sedace", "závislost"],
+          "kontraindikace": ["závislost v anamnéze"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Psychological first aid (PFA) – psychologická první pomoc",
+        "Podpůrné prostředí, přítomnost blízkých osob",
+        "Praktická pomoc (bezpečné prostředí, informace)",
+        "Sledování příznaků – screenovat PTSD po 4 týdnech"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Propranolol – k prevenci rozvoje PTSD (kontroverzní, off-label)",
+          "priklady_generik": ["propranolol"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Kontroverzní. Studie naznačují, že propranolol podaný do 6 hodin po traumatu může snížit konsolidaci traumatické paměti. Klinické doporučení není jednoznačné.",
+          "doporucene_davkovani_zahajovaci": "40 mg 3× denně 10 dní.",
+          "hlavni_nezadouci_ucinky": ["bradykardie", "hypotenze", "bronchospasmus"],
+          "kontraindikace": ["astma", "AV blok"],
+          "indikace_k_nasazeni": "Experimentální – zvážit u osob s vysokým rizikem PTSD."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Debriefing (CISD – Critical Incident Stress Debriefing) není doporučen – studie ukazují, že může zvyšovat riziko PTSD. Místo toho: Psychological First Aid.",
+      "interakce": [],
+      "monitoring": ["Screening PTSD po 4 týdnech (PCL-5)", "Suicidální riziko", "Zneužívání alkoholu nebo drog jako copingové strategie"]
+    },
+    "zdroje": [
+      "WHO Guidelines for PTSD 2013",
+      "NICE CG26: PTSD (2005, aktualizace 2018)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F43.2",
+    "nazev_poruchy": "Porucha přizpůsobení",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Farmakoterapie obvykle není léčbou první volby",
+          "priklady_generik": [],
+          "dostupnost_cr_sukl": false,
+          "sukl_poznamka": "Adaptační porucha je primárně léčena psychoterapeuticky. Farmakoterapie pouze při výrazných symptomech (těžká insomnie, závažná anxieta nebo depresivní příznaky)."
+        },
+        {
+          "skupina_latek": "SSRI – při depresivních příznacích trvajících > 4 týdny",
+          "priklady_generik": ["sertralin", "escitalopram"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Krátkodobá léčba. Preferovat psychoterapii; SSRI pouze pokud psychoterapie není dostupná nebo příznaky jsou výrazné.",
+          "doporucene_davkovani_zahajovaci": "Sertralin 50 mg/den, escitalopram 10 mg/den.",
+          "hlavni_nezadouci_ucinky": ["viz F32"],
+          "kontraindikace": ["viz F32"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Krátkodobá CBT nebo supportivní psychoterapie – léčba první volby",
+        "Problémově orientovaná terapie (Problem-Solving Therapy)",
+        "Psychoedukace o normální reakci na stres",
+        "Sociální a praktická podpora (sociální pracovník)"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Buspiron nebo pregabalin – pro přetrvávající anxiettu",
+          "priklady_generik": ["buspiron", "pregabalin"],
+          "dostupnost_cr_sukl": true,
+          "indikace_k_nasazeni": "Anxiozní subtyp adaptační poruchy nereagující na psychoterapii."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Benzodiazepiny jsou u adaptační poruchy nevhodné pro dlouhodobé použití – riziko závislosti a chronifikace. Sledovat rozvoj PTSD, těžké deprese nebo bipolární poruchy.",
+      "interakce": [],
+      "monitoring": ["Odeznění stresorů a symptomů – obvykle < 6 měsíců", "Rozvoj PTSD nebo depresivní poruchy"]
+    },
+    "zdroje": [
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F44",
+    "nazev_poruchy": "Disociativní (konverzní) poruchy",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Farmakoterapie základního onemocnění – deprese, anxiety",
+          "priklady_generik": ["sertralin", "escitalopram", "venlafaxin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Disociativní poruchy primárně psychoterapeutická léčba. SSRI nebo SNRI jsou indikovány při komorbidní depresi nebo úzkostné poruše, nikoliv specificky pro disociaci samotnou.",
+          "doporucene_davkovani_zahajovaci": "Sertralin 50 mg/den. Venlafaxin 75 mg/den.",
+          "hlavni_nezadouci_ucinky": ["viz F32"],
+          "kontraindikace": ["viz F32"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Psychodynamická psychoterapie – práce s traumatem a konflikty",
+        "CBT – kognitivní restrukturace a behaviorální techniky",
+        "EMDR pro trauma-asociované disociace",
+        "Terapie zaměřená na trauma (Trauma-Focused Therapy)",
+        "Hypnóza jako adjuvantní technika (při disociativní amnézii)"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Nízká dávka antipsychotika – při psychotické dezorganizaci",
+          "priklady_generik": ["quetiapin", "olanzapin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Pouze při výrazné psychotické dezorganizaci nebo závažném funkčním narušení. Disociativní poruchy nejsou psychózou.",
+          "doporucene_davkovani_zahajovaci": "Quetiapin 25–100 mg na noc.",
+          "hlavni_nezadouci_ucinky": ["sedace", "metabolický syndrom"],
+          "kontraindikace": ["viz F20"],
+          "indikace_k_nasazeni": "Výrazná dezorganizace nebo agitace při disociativní epizodě."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Disociativní záchvaty (PNES – Psychogenic Non-Epileptic Seizures) – vyloučit epilepsii. PNES jsou nejčastěji způsobeny disociací, ne konvulzivní aktivitou. Antiepileptika u PNES jsou neúčinná.",
+      "interakce": [],
+      "monitoring": ["Frekvence disociativních epizod (DES škála)", "Komorbidní PTSD, deprese", "Video-EEG při PNES pro diferenciaci od epilepsie"]
+    },
+    "zdroje": [
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F45",
+    "nazev_poruchy": "Somatoformní poruchy",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "SSRI nebo SNRI – pro somatizační poruchu a hypochondrii",
+          "priklady_generik": ["escitalopram", "sertralin", "venlafaxin", "duloxetin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Duloxetin registrován v ČR pro fibromyalgii a neuropatickou bolest (komorbidní somatoformní poruchy s bolestivou složkou). Escitalopram a sertralin pro hypochondrii a somatizaci. Léčba je dlouhodobá.",
+          "doporucene_davkovani_zahajovaci": "Escitalopram 10–20 mg/den. Duloxetin 60 mg/den pro bolest.",
+          "hlavni_nezadouci_ucinky": ["viz F32"],
+          "kontraindikace": ["viz F32"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "CBT – zpochybnění katastrofické interpretace tělesných příznaků",
+        "Mindfulness-Based CBT",
+        "Pravidelné lékařské konzultace s garantovanou četností (snižuje zdravotní úzkost)",
+        "Fyzická aktivita",
+        "Psychoedukace o vztahu psychiky a tělesných příznaků"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Tricyklická antidepresiva v nízké dávce – pro somatoformní bolest",
+          "priklady_generik": ["amitriptylin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Amitriptylin v analgetické dávce (10–75 mg) – jiný mechanismus účinku než antidepresivní dávky. Registrován pro chronickou bolest.",
+          "doporucene_davkovani_zahajovaci": "10 mg na noc, titrace na 25–75 mg/den.",
+          "hlavni_nezadouci_ucinky": ["sucho v ústech", "zácpa", "sedace", "ortostatická hypotenze", "QTc prodloužení"],
+          "kontraindikace": ["glaukom s uzavřeným úhlem", "AV blok", "MAOI"],
+          "indikace_k_nasazeni": "Somatoformní bolest nereagující na SSRI/SNRI."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Somatoformní poruchy vyžadují vyloučení organické příčiny – souběžné organické onemocnění je možné. Příliš časté nebo invazivní vyšetřování udržuje zdravotní úzkost (medicalizace).",
+      "interakce": ["Amitriptylin + MAOI – absolutní KI", "Duloxetin + tramadol – serotoninový syndrom"],
+      "monitoring": ["Frekvence a intenzita tělesných příznaků", "Zdravotní využívání služeb", "PHQ-15 (somatizace) a HAI (zdravotní úzkost)"]
+    },
+    "zdroje": [
+      "NICE CG53: CFS/ME and somatoform disorders (2007, aktualizace 2021)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F48",
+    "nazev_poruchy": "Jiné neurotické poruchy (neurastenie, depersonalizace)",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "SSRI – pro neurastenii s depresivní nebo anxiozní komponentou",
+          "priklady_generik": ["sertralin", "escitalopram"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Neurastenie: SSRI nebo SNRI při komorbidní depresi nebo úzkosti. Depersonalizační porucha – SSRI mají limitovanou specifickou evidenci.",
+          "doporucene_davkovani_zahajovaci": "Sertralin 50 mg/den, escitalopram 10 mg/den.",
+          "hlavni_nezadouci_ucinky": ["viz F32"],
+          "kontraindikace": ["viz F32"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "CBT pro depersonalizaci (specializovaná) – nejlepší evidence",
+        "Mindfulness – pozornost zaměřená na přítomný okamžik",
+        "Psychoedukace o přirozenosti přechodné depersonalizace",
+        "Redukce stresu a spánková hygiena"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Lamotrigin – pro depersonalizační poruchu (off-label)",
+          "priklady_generik": ["lamotrigin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Limitovaná evidence pro depersonalizaci. Některé studie naznačují zlepšení.",
+          "doporucene_davkovani_zahajovaci": "25 mg/den, titrace na 100–200 mg/den.",
+          "hlavni_nezadouci_ucinky": ["Stevens-Johnsonův syndrom (rychlá titrace)", "závratě"],
+          "kontraindikace": [],
+          "indikace_k_nasazeni": "Refrakterní depersonalizační porucha."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Depersonalizace může být příznakem epilepsie (temporální lalok), disociativní poruchy, PTSD nebo intoxikace – vyloučit sekundární příčiny.",
+      "interakce": ["viz F32 pro SSRI"],
+      "monitoring": ["Cambridge Depersonalization Scale (CDS)", "Komorbidní deprese a úzkost"]
+    },
+    "zdroje": [
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F50",
+    "nazev_poruchy": "Poruchy příjmu potravy",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "F50.0–F50.1 (Anorexia nervosa) – žádná schválená farmakologická léčba specificky pro anorexii",
+          "priklady_generik": ["olanzapin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Olanzapin je nejlépe prozkoumanou farmakologickou možností u AN (zlepšení hmotnosti a anxiety před jídlem) – off-label, nízká dávka. SSRI u AN nejsou účinné při nízké hmotnosti (podvýživa mění metabolismus serotoninu). Primárně nutrice a psychoterapie.",
+          "doporucene_davkovani_zahajovaci": "Olanzapin: 2,5–10 mg/den.",
+          "hlavni_nezadouci_ucinky": ["metabolický syndrom", "sedace"],
+          "kontraindikace": ["viz F20"]
+        },
+        {
+          "skupina_latek": "F50.2–F50.3 (Bulimia nervosa) – SSRI (fluoxetin – jediný FDA schválený pro BN)",
+          "priklady_generik": ["fluoxetin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Fluoxetin 60 mg/den – nejvyšší dávka ze SSRI – je FDA schválen pro bulimii. Redukuje frekvenci záchvatů přejídání a purgace. V ČR dostupný, off-label pro BN (v ČR registrace pro velkou depresi a OCD).",
+          "doporucene_davkovani_zahajovaci": "Fluoxetin: 20 mg/den zahájení, titrace na 60 mg/den.",
+          "hlavni_nezadouci_ucinky": ["nauzea", "insomnie", "sexuální dysfunkce"],
+          "kontraindikace": ["MAOI"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Anorexia nervosa: rehabilitace výživy (nutritional rehabilitation) – primární priorita; refeeding program",
+        "CBT-ED (CBT for Eating Disorders) – léčba první volby pro AN i BN",
+        "Familial based treatment (FBT, Maudsley approach) – pro adolescenty s AN",
+        "Dialektická behaviorální terapie (DBT) – pro BN s emoční dysregulací",
+        "Interpersonální terapie (IPT) pro BN"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "F50.2 BN – topiramat (off-label pro redukci přejídání)",
+          "priklady_generik": ["topiramat"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Off-label. Topiramat snižuje frekvenci záchvatů přejídání. Nutné sledovat kognitivní nežádoucí účinky a snížení tělesné hmotnosti.",
+          "doporucene_davkovani_zahajovaci": "25 mg/den, titrace na 100–200 mg/den.",
+          "hlavni_nezadouci_ucinky": ["kognitivní zpomalení (word-finding difficulties)", "parestézie", "nefrokalcináza", "hmotnostní úbytek"],
+          "kontraindikace": ["těhotenství (teratogen)", "renální kameny"],
+          "indikace_k_nasazeni": "BN nereagující na fluoxetin nebo záchvatovité přejídání (BED)."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Anorexia nervosa má nejvyšší mortalitu ze všech psychiatrických poruch (5–10 %). Při BMI < 14 nebo rychlém poklesu hmotnosti je indikována hospitalizace. Refeeding syndrome: rychlé podání výživy u těžce podvyživeného pacienta může způsobit fatální hypofosfatémii – pomalá nutriční rehabilitace s monitorací fosfátů, hořčíku a draslíku.",
+      "interakce": ["Elektrolytová dysbalance u BN + QTc prodlužující léky – riziko arytmie", "Fluoxetin + lithium nebo warfarin – zvýšení hladin"],
+      "monitoring": ["BMI a tělesná hmotnost weekly při léčbě AN", "Elektrolyty (K+, Na+, Mg2+, fosfáty) – u BN a AN", "EKG (QTc při elektrolytové dysbalanci)", "EDEQ nebo EDE-Q škála (Eating Disorder Examination Questionnaire)"]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Eating Disorders (2006, aktualizace 2023)",
+      "NICE CG9: Eating disorders (2004, aktualizace 2020)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F60",
+    "nazev_poruchy": "Specifické poruchy osobnosti",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Žádná farmakoterapie není schválena pro poruchy osobnosti jako takové – léčí se komorbidity a specifické symptomy",
+          "priklady_generik": [],
+          "dostupnost_cr_sukl": false,
+          "sukl_poznamka": "Psychoterapie je léčbou první volby pro všechny poruchy osobnosti. Farmakoterapie cílí na specifické symptomové dimenze: impulzivita (stabilizátory nálady), dysforie (SSRI), psychotické příznaky (antipsychotika), anxieta (SSRI, SNRI)."
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "F60.3 (BPD): Dialektická behaviorální terapie (DBT) – zlatý standard, nejsilnější evidence",
+        "F60.3 (BPD): Mentalization-Based Treatment (MBT)",
+        "F60.3 (BPD): Schema therapy",
+        "F60.3 (BPD): Transference-Focused Psychotherapy (TFP)",
+        "F60.0 (paranoidní): Supportivní terapie a kognitivní techniky",
+        "F60.2 (disociální): Kognitivně-analytická terapie; programy zaměřené na redukci násilí"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "F60.3 BPD – SSRI pro emoční dysregulaci a impulzivitu",
+          "priklady_generik": ["fluoxetin", "sertralin", "fluvoxamin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "SSRI mírně redukují impulzivitu a emoční dysregulaci u BPD. Efekt je skromný – psychoterapie zůstává prioritou.",
+          "doporucene_davkovani_zahajovaci": "Fluoxetin 20–40 mg/den. Sertralin 50–100 mg/den.",
+          "hlavni_nezadouci_ucinky": ["viz F32"],
+          "kontraindikace": ["viz F32"],
+          "indikace_k_nasazeni": "Impulzivita, emoční dysregulace, chronická dysforie u BPD."
+        },
+        {
+          "skupina_latek": "F60.3 BPD – thymostabilizátory pro impulzivitu a afektivní nestabilitu",
+          "priklady_generik": ["lamotrigin", "valproát", "lithium"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Lamotrigin a valproát mají evidenci pro redukci impulzivity a hněvu u BPD.",
+          "doporucene_davkovani_zahajovaci": "Lamotrigin 100–200 mg/den. Valproát 500–1000 mg/den.",
+          "hlavni_nezadouci_ucinky": ["viz F31"],
+          "kontraindikace": ["viz F31"],
+          "indikace_k_nasazeni": "Afektivní nestabilita a impulzivita u BPD nereagující na SSRI."
+        },
+        {
+          "skupina_latek": "F60.3 BPD – nízká dávka atypického antipsychotika pro psychotické nebo disociativní příznaky",
+          "priklady_generik": ["aripiprazol", "olanzapin", "quetiapin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Aripiprazol a olanzapin mají nejlepší evidenci pro BPD (kontrolované studie). Krátkodobě nebo nízkodávkově dlouhodobě.",
+          "doporucene_davkovani_zahajovaci": "Aripiprazol 5–15 mg/den. Olanzapin 2,5–10 mg/den.",
+          "hlavni_nezadouci_ucinky": ["metabolický syndrom (olanzapin)", "akatizie (aripiprazol)"],
+          "kontraindikace": ["viz F20"],
+          "indikace_k_nasazeni": "Mikropsychotické příznaky, těžká disociace nebo agitace u BPD."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "BPD: Vysoké riziko sebevražedného jednání (8–10 % dokončí sebevraždu). Benzodiazepiny u BPD jsou kontraindikovány pro dlouhodobé užití – paradoxní disinhibice, zneužívání, riziko předávkování.",
+      "interakce": ["Valproát + lamotrigin – zdvojnásobení hladin lamotriginu", "viz F31 pro thymostabilizátory"],
+      "monitoring": ["Suicidalita a parasuicidální chování (BPD)", "Metabolický screening (antipsychotika)", "Adherence k psychoterapii", "Lithium: hladiny a renální funkce"]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Borderline Personality Disorder (2001, aktualizace 2010)",
+      "NICE CG78: Borderline personality disorder (2009, aktualizace 2022)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F63",
+    "nazev_poruchy": "Návykové a impulzivní poruchy (patologické hráčství, pyromanie, kleptomanie)",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "F63.0 Patologické hráčství – naltrexon (opioidní antagonista, snižuje craving)",
+          "priklady_generik": ["naltrexon"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Naltrexon snižuje craving a příjemné pocity ze hry. Off-label pro hráčství v ČR. Nejlépe prozkoumaná farmakologická možnost.",
+          "doporucene_davkovani_zahajovaci": "50 mg/den p.o.",
+          "hlavni_nezadouci_ucinky": ["nauzea", "bolest hlavy", "jaterní toxicita"],
+          "kontraindikace": ["jaterní insuficience", "závislost na opiátech"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "CBT s prevencí relapsu – léčba první volby",
+        "Motivační rozhovor",
+        "Gamblers Anonymous (12-krokový program)",
+        "Finanční poradenství a ochrana majetku"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "SSRI – pro komorbidní depresi a obsedantní složku",
+          "priklady_generik": ["sertralin", "fluvoxamin"],
+          "dostupnost_cr_sukl": true,
+          "indikace_k_nasazeni": "Patologické hráčství s výraznou obsedantní složkou nebo komorbidní depresí/úzkostí."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Dopaminoví agonisté (pramipexol, ropinirol) mohou precipitovat nebo zhoršit patologické hráčství – kontrolovat u pacientů s Parkinsonovou chorobou.",
+      "interakce": ["Naltrexon + opioidní analgetika – zrušení analgezie"],
+      "monitoring": ["South Oaks Gambling Screen (SOGS)", "Finanční situace", "Komorbidní deprese a suicidalita"]
+    },
+    "zdroje": [
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F70",
+    "nazev_poruchy": "Mentální retardace lehká",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Farmakoterapie komorbidních psychiatrických poruch dle specifické diagnózy",
+          "priklady_generik": ["risperidon", "aripiprazol", "sertralin", "methylfenidát"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Mentální retardace samotná není indikací pro farmakoterapii. Léčí se komorbidní poruchy: ADHD (methylfenidát, atomoxetin), agrese a sebepoškozování (risperidon – registrován pro drážlivost u autismu a intelektuální disability), deprese (SSRI), epilepsie (antiepileptika).",
+          "doporucene_davkovani_zahajovaci": "Risperidon pro agitaci: 0,25–1 mg/den (nižší dávky než u dospělých bez ID). Methylfenidát: 5 mg/den, titrace opatrně.",
+          "hlavni_nezadouci_ucinky": ["EPS (risperidon)", "přírůstek hmotnosti", "sedace"],
+          "kontraindikace": ["viz dle specifické skupiny"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Speciální vzdělávání a pedagogická podpora",
+        "Behaviorální terapie – redukce problémového chování",
+        "Logopedie, ergoterapie, fyzioterapie",
+        "Podpora rodiny a pečovatelů",
+        "Komunitní služby a podpůrné bydlení"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Atomoxetin – pro ADHD u lehké MR",
+          "priklady_generik": ["atomoxetin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Atomoxetin registrován pro ADHD u dětí, adolescentů a dospělých. Vhodná alternativa methylfenidátu při záchvatové anamnéze.",
+          "doporucene_davkovani_zahajovaci": "0,5 mg/kg/den, titrace na 1,2 mg/kg/den.",
+          "hlavni_nezadouci_ucinky": ["zvýšení TK a TF", "nauzea", "hepatotoxicita (vzácná)"],
+          "kontraindikace": ["MAOI", "glaukom", "feochromocytom"],
+          "indikace_k_nasazeni": "ADHD u lehké MR, zejm. při epilepsii nebo kontraindikaci methylfenidátu."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Antipsychotika u mentální retardace – vyšší citlivost na EPS a metabolické nežádoucí účinky. Benzodiazepiny mohou paradoxně zvyšovat agitaci a problémové chování.",
+      "interakce": ["Methylfenidát + MAOI – hypertenzní krize"],
+      "monitoring": ["Kognitivní a adaptivní funkce (Vineland, IQ testy)", "Chování – ABC škála (Aberrant Behavior Checklist)", "Metabolické parametry u antipsychotik", "EEG při záchvatech"]
+    },
+    "zdroje": [
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F84",
+    "nazev_poruchy": "Pervazivní vývojové poruchy (Autismus, Aspergerův syndrom)",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Žádná farmakoterapie není schválena pro jádrové příznaky autismu",
+          "priklady_generik": [],
+          "dostupnost_cr_sukl": false,
+          "sukl_poznamka": "Farmakoterapie cílí na komorbidní příznaky: agitace a sebepoškozování (risperidon a aripiprazol – FDA/EMA registrace), ADHD příznaky (methylfenidát, atomoxetin), anxiety a obsedantní příznaky (SSRI)."
+        },
+        {
+          "skupina_latek": "Risperidon nebo aripiprazol – pro dráždivost, agresi a sebepoškozování",
+          "priklady_generik": ["risperidon", "aripiprazol"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Risperidon a aripiprazol jsou jediné léky registrované FDA/EMA pro dráždivost spojenou s autistickou poruchou u dětí. V ČR dostupné.",
+          "doporucene_davkovani_zahajovaci": "Risperidon: 0,5 mg/den, titrace na 1–3 mg/den. Aripiprazol: 2 mg/den, titrace na 5–15 mg/den.",
+          "hlavni_nezadouci_ucinky": ["přírůstek hmotnosti (risperidon >> aripiprazol)", "sedace", "EPS", "hyperprolaktinémie (risperidon)"],
+          "kontraindikace": ["viz F20"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "ABA (Applied Behavior Analysis) – nejvíce evidence pro zlepšení komunikace a adaptivního chování",
+        "Speech and language therapy (logopedie)",
+        "Ergoterapie – smyslová integrace",
+        "TEACCH (Treatment and Education of Autistic and Communication Handicapped Children)",
+        "Sociální dovednosti skupiny",
+        "Rodinná podpora a psychoedukace"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "SSRI – pro repetitivní chování a anxiety (off-label)",
+          "priklady_generik": ["fluoxetin", "sertralin", "fluvoxamin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "SSRI redukují repetitivní chování a anxietu u autistů. Evidence je méně robustní než u aripiprazolu/risperidonu. Vyšší citlivost na aktivizační nežádoucí účinky.",
+          "doporucene_davkovani_zahajovaci": "Nižší startovací dávky než u neurotypických: fluoxetin 5–10 mg/den.",
+          "hlavni_nezadouci_ucinky": ["aktivizace (agitace, insomnie – časté u autistů)", "GI NÚ"],
+          "kontraindikace": ["MAOI"],
+          "indikace_k_nasazeni": "Repetitivní chování, OCD-like příznaky, anxiety u autismu."
+        },
+        {
+          "skupina_latek": "Methylfenidát nebo atomoxetin – pro ADHD příznaky u autismu",
+          "priklady_generik": ["methylfenidát", "atomoxetin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "ADHD je velmi častá komorbidita autismu. Methylfenidát je méně účinný a hůře tolerován u autistů než u neurotypických dětí – začínat nízkou dávkou.",
+          "doporucene_davkovani_zahajovaci": "Methylfenidát: 5 mg ráno, pomalá titrace.",
+          "hlavni_nezadouci_ucinky": ["insomnie", "ztráta chuti k jídlu", "aktivizace (může zhoršit stereotypie)"],
+          "kontraindikace": ["MAOI"],
+          "indikace_k_nasazeni": "ADHD jako komorbidita autismu."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Pacient s PAS (poruchou autistického spektra) může mít atypické nežádoucí účinky na běžnou farmakoterapii – začínat vždy nízkou dávkou (start low, go slow).",
+      "interakce": ["viz specifické skupiny"],
+      "monitoring": ["ABC škála (Aberrant Behavior Checklist) – agitace, stereotypie", "Přírůstek hmotnosti a metabolické parametry (antipsychotika)", "Kognitivní a komunikační funkce", "Spánek (poruchy spánku jsou časté u PAS)"]
+    },
+    "zdroje": [
+      "APA Practice Guideline for Autism Spectrum Disorder (2014)",
+      "NICE CG170: Autism in adults (2012, aktualizace 2021)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F90",
+    "nazev_poruchy": "Hyperkinetické poruchy (ADHD)",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Methylfenidát – stimulancia, léčba první volby (děti i dospělí)",
+          "priklady_generik": ["methylfenidát"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Methylfenidát je registrován v ČR pro ADHD u dětí (od 6 let) a dospělých. Dostupné formáty: krátkodobě působící (Ritalin), středně dlouze (Medikinet CR), dlouhodobě (Concerta, Ritalin LA). Preskripce podléhá omezení – předepisuje psychiatr nebo neurolog. Kontrolovaná látka (Seznam II).",
+          "doporucene_davkovani_zahajovaci": "Děti: 5 mg ráno, titrace o 5–10 mg/týden, cílová 0,5–1 mg/kg/den. Dospělí: 10 mg ráno, cílová 20–60 mg/den (IR) nebo ekvivalent v LA formě.",
+          "hlavni_nezadouci_ucinky": ["snížení chuti k jídlu", "insomnie", "bolest hlavy", "zvýšení TK a TF", "zpomalení růstu u dětí (při dlouhodobém podávání)"],
+          "kontraindikace": ["MAOI", "glaukom", "feochromocytom", "těžká kardiovaskulární onemocnění", "anorexie"]
+        },
+        {
+          "skupina_latek": "Amfetaminové preparáty (lisdexamfetamin) – alternativa methylfenidátu",
+          "priklady_generik": ["lisdexamfetamin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Lisdexamfetamin (Vyvanse) je registrován v ČR pro ADHD u dětí od 6 let a dospělých. Prodrug amfetaminu – delší účinek, nižší zneužitelný potenciál.",
+          "doporucene_davkovani_zahajovaci": "20–30 mg/den ráno, titrace na 30–70 mg/den.",
+          "hlavni_nezadouci_ucinky": ["snížení chuti k jídlu", "insomnie", "sucho v ústech", "zvýšení TK a TF"],
+          "kontraindikace": ["MAOI", "glaukom", "feochromocytom", "kardiovaskulární onemocnění"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Psychoedukace pacienta, rodiny a učitelů",
+        "Behaviorální intervence – strukturované prostředí, jasná pravidla, odměnový systém",
+        "CBT pro dospělé s ADHD – organizace, plánování, emoční regulace",
+        "Podpůrné skupiny (ADHD coaching)",
+        "Školní accommodace (individuální vzdělávací plán)"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Atomoxetin – nonstimulans, léčba druhé volby",
+          "priklady_generik": ["atomoxetin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Atomoxetin (Strattera) je registrován v ČR pro ADHD. Není kontrolovanou látkou – výhoda při záchvatech, komorbiditě závislosti nebo kontraindikaci stimulancií. Nástup účinku 4–8 týdnů.",
+          "doporucene_davkovani_zahajovaci": "Děti: 0,5 mg/kg/den 4 týdny, pak 1,2 mg/kg/den. Dospělí: 40 mg/den 4 týdny, pak 80–100 mg/den.",
+          "hlavni_nezadouci_ucinky": ["nauzea", "snížení chuti k jídlu", "insomnie", "zvýšení TK a TF", "hepatotoxicita (vzácně)", "suicidální myšlenky u dětí (FDA warning)"],
+          "kontraindikace": ["MAOI", "glaukom", "feochromocytom"],
+          "indikace_k_nasazeni": "Kontraindikace stimulancií, komorbidní závislost, záchvaty, anxieta."
+        },
+        {
+          "skupina_latek": "Bupropion – off-label, alternativa u dospělých",
+          "priklady_generik": ["bupropion"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Off-label pro ADHD. Vhodný při komorbidní depresi nebo při kontraindikaci stimulancií.",
+          "doporucene_davkovani_zahajovaci": "150 mg/den, titrace na 300 mg/den.",
+          "hlavni_nezadouci_ucinky": ["záchvaty (dávkově závislé)", "insomnie", "sucho v ústech"],
+          "kontraindikace": ["epilepsie", "bulimie"],
+          "indikace_k_nasazeni": "Dospělí s ADHD a komorbidní depresí."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Stimulancia ADHD: Zneužitelný potenciál – bezpečná preskripce, sledovat neoprávněné používání. Kardiovaskulární screening před zahájením (TK, TF, EKG při klinické indikaci). Atomoxetin: FDA warning suicidální myšlenky u dětí a adolescentů – monitorovat prvních 4 týdnů.",
+      "interakce": ["Methylfenidát + MAOI – hypertenzní krize (absolutní KI, wash-out 14 dní)", "Methylfenidát + warfarin – zvýšení INR", "Atomoxetin + fluoxetin/paroxetin – zvýšení hladin atomoxetinu (CYP2D6)"],
+      "monitoring": ["TK a TF při každé návštěvě", "Tělesná výška a hmotnost u dětí (stimulancia zpomalují růst)", "Léčebný efekt – Conners škály nebo ADHD Rating Scale", "Drug holidays v létě u dětí (při výrazném ovlivnění růstu)"]
+    },
+    "zdroje": [
+      "APA Practice Parameter for ADHD (2007)",
+      "NICE CG87: Attention deficit hyperactivity disorder (2008, aktualizace 2019)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F91",
+    "nazev_poruchy": "Poruchy chování",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Farmakoterapie je adjuvantní – primárně léčit komorbidity (ADHD, deprese)",
+          "priklady_generik": ["methylfenidát", "risperidon"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "U poruchy chování s komorbidním ADHD je léčba stimulancii (methylfenidát) klinicky indikována a zlepšuje i chování. Risperidon v nízké dávce pro agresivní chování – off-label u poruchy chování.",
+          "doporucene_davkovani_zahajovaci": "Methylfenidát: viz F90. Risperidon: 0,5–2 mg/den.",
+          "hlavni_nezadouci_ucinky": ["viz F90 a F20"],
+          "kontraindikace": ["viz F90 a F20"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Parent Management Training (PMT) – nejsilnější evidence pro poruchy chování u dětí",
+        "Multisystemická terapie (MST) pro závažné poruchy chování",
+        "Funkční rodinná terapie",
+        "CBT zaměřená na řešení problémů a sociální dovednosti",
+        "Školní intervence a podpora"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Valproát nebo lithium – pro agresivní impulzivitu",
+          "priklady_generik": ["valproát", "lithium"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Off-label. Limitovaná evidence pro redukci agresivity u poruch chování.",
+          "doporucene_davkovani_zahajovaci": "Valproát 250–750 mg/den. Lithium: cílová hladina 0,5–0,8 mmol/l.",
+          "hlavni_nezadouci_ucinky": ["viz F30"],
+          "kontraindikace": ["viz F30"],
+          "indikace_k_nasazeni": "Závažná agresivita nereagující na psychoterapii a methylfenidát."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Porucha chování je rizikovým faktorem rozvoje disociální poruchy osobnosti a kriminality v dospělosti – včasná intervence je zásadní. Farmakoterapie sama o sobě bez psychosociálních intervencí je nedostatečná.",
+      "interakce": ["viz specifické skupiny"],
+      "monitoring": ["Conners škály nebo SDQ (Strengths and Difficulties Questionnaire)", "Školní prospěch a chování", "Komorbidní ADHD, deprese, závislosti"]
+    },
+    "zdroje": [
+      "NICE CG158: Antisocial behaviour and conduct disorders (2013, aktualizace 2023)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F93",
+    "nazev_poruchy": "Emoční poruchy se začátkem specifickým pro dětství",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "F93.0 Separační úzkost – SSRI při těžkém průběhu",
+          "priklady_generik": ["sertralin", "fluoxetin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "SSRI jsou lékem druhé volby (po psychoterapii). Sertralin a fluoxetin mají nejlepší evidenci u dětské úzkosti. Začínat nízkou dávkou.",
+          "doporucene_davkovani_zahajovaci": "Sertralin: 12,5–25 mg/den. Fluoxetin: 5–10 mg/den.",
+          "hlavni_nezadouci_ucinky": ["aktivizace", "insomnie", "suicidální myšlenky (sledovat prvních 4 týdnů)"],
+          "kontraindikace": ["MAOI"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "CBT pro dětskou úzkost – léčba první volby",
+        "Expozice a prevence vyhýbání",
+        "Rodinná terapie",
+        "Školní spolupráce (postupný návrat do školy)"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "SNRI – při nedostatečné odpovědi na SSRI",
+          "priklady_generik": ["venlafaxin", "duloxetin"],
+          "dostupnost_cr_sukl": true,
+          "indikace_k_nasazeni": "Těžká separační úzkost nebo školní fobie nereagující na SSRI."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "SSRI u dětí a adolescentů: FDA black box warning – zvýšené riziko suicidálních myšlenek. Monitorovat intenzivně prvních 4–8 týdnů.",
+      "interakce": ["viz F32 pro SSRI"],
+      "monitoring": ["Anxiozní škály (SCARED, MASC)", "Docházka do školy", "Suicidalita (prvních 4 týdnů SSRI)"]
+    },
+    "zdroje": [
+      "APA Practice Parameter for Anxiety Disorders in Children (2007)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F95",
+    "nazev_poruchy": "Tikové poruchy (Tourettův syndrom)",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Alfa-2 agonisté – pro mírné až středně těžké tiky",
+          "priklady_generik": ["klonidin", "guanfacin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Klonidin je první volbou pro mírné tiky, zvláště s komorbidním ADHD. Guanfacin má příznivější profil nežádoucích účinků (méně sedace). Obě látky dostupné v ČR.",
+          "doporucene_davkovani_zahajovaci": "Klonidin: 0,025 mg/den ráno, titrace na 0,1–0,3 mg/den. Guanfacin: 0,5 mg ráno, titrace na 1–4 mg/den.",
+          "hlavni_nezadouci_ucinky": ["sedace", "hypotenze", "bradykardie", "sucho v ústech"],
+          "kontraindikace": ["AV blok", "bradykardie"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "CBIT (Comprehensive Behavioral Intervention for Tics) – kombinace HRT + funkční intervence – léčba první volby pro mírné–středně těžké tiky",
+        "HRT (Habit Reversal Training) – nácvik kompetitivní odpovědi",
+        "Psychoedukace o Tourettově syndromu",
+        "Podpora ve škole a vrstevnická skupina"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Haloperidol nebo pimozid – pro těžké tiky",
+          "priklady_generik": ["haloperidol", "pimozid"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Haloperidol a pimozid jsou tradičně nejúčinnější pro tiky, ale nežádoucí účinky (EPS, tardivní dyskineze, QTc) omezují jejich použití. Pimozid: monitorovat EKG.",
+          "doporucene_davkovani_zahajovaci": "Haloperidol: 0,25–0,5 mg/den, titrace na 1–4 mg/den. Pimozid: 1 mg/den, titrace na 2–8 mg/den.",
+          "hlavni_nezadouci_ucinky": ["EPS", "tardivní dyskineze (dlouhodobé)", "QTc prodloužení (pimozid)"],
+          "kontraindikace": ["QTc > 450 ms (pimozid)", "kombinace s makrolidy nebo azoly (pimozid)"],
+          "indikace_k_nasazeni": "Těžké tiky výrazně narušující fungování, nereagující na alfa-2 agonisty."
+        },
+        {
+          "skupina_latek": "Atypická antipsychotika – aripiprazol, risperidon",
+          "priklady_generik": ["aripiprazol", "risperidon"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Aripiprazol je lépe tolerován než haloperidol. Risperidon také účinný.",
+          "doporucene_davkovani_zahajovaci": "Aripiprazol: 2,5–5 mg/den, titrace na 10–20 mg/den.",
+          "hlavni_nezadouci_ucinky": ["akatizie (aripiprazol)", "přírůstek hmotnosti"],
+          "kontraindikace": ["viz F20"],
+          "indikace_k_nasazeni": "Těžké tiky – alternativa haloperidolu s lepší tolerabilitou."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Tardivní dyskineze při dlouhodobém podávání antipsychotik – zvláště haloperidol. Tiky mohou fluktuovat spontánně – hodnotit efekt léčby při stabilním stavu.",
+      "interakce": ["Pimozid + makrolidy nebo flukonazol – absolutní KI (QTc prodloužení)", "Klonidin + betablokátory – riziko bradykardie"],
+      "monitoring": ["YGTSS (Yale Global Tic Severity Scale)", "EKG při pimozidu", "AIMS pro tardivní dyskinezi", "Komorbidní ADHD a OCD"]
+    },
+    "zdroje": [
+      "APA Practice Parameter for Tourette Syndrome (2013)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
+  },
+  {
+    "kod_mkn10": "F98",
+    "nazev_poruchy": "Jiné poruchy chování a emocí se začátkem v dětství a dospívání (enuréza, enkopréza)",
+    "terapie_prvni_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "F98.0 Enuréza – desmopressin (syntetický analolog ADH)",
+          "priklady_generik": ["desmopressin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Desmopressin (DDAVP) je registrován v ČR pro nykturii a noční enurézu. Krátkodobý účinek (při přerušení léčby se enuréza vrací u ~70 %). Kombinovat s behaviorálními metodami.",
+          "doporucene_davkovani_zahajovaci": "Tablety: 0,2 mg 1 hod před spánkem, titrace na 0,4 mg. Nosní sprej: 20–40 μg před spánkem.",
+          "hlavni_nezadouci_ucinky": ["hyponatrémie (zvláště při nadměrném příjmu tekutin)", "bolest hlavy", "nauzea"],
+          "kontraindikace": ["polydipsie nebo primární polydipsie", "srdečné selhání, nefrotický syndrom – retence tekutin"]
+        }
+      ],
+      "nefarmakologicka_terapie": [
+        "Alarm terapie (enurézní alarm) – léčba první volby, nejvyšší trvalá remise (70–90 %)",
+        "Motivační systém a odměny",
+        "Omezení tekutin večer",
+        "Pravidelné noční buzení (lifting)"
+      ]
+    },
+    "terapie_druhe_volby": {
+      "farmakoterapie": [
+        {
+          "skupina_latek": "Imipramin (TCA) – při nedostatečné odpovědi na desmopressin a alarm",
+          "priklady_generik": ["imipramin"],
+          "dostupnost_cr_sukl": true,
+          "sukl_poznamka": "Imipramin je účinný pro enurézu, ale riziko kardiotoxicity a fatálního předávkování omezuje použití. Vyhrazen pro refrakterní případy. Maximální opatrnost při předepisování.",
+          "doporucene_davkovani_zahajovaci": "25 mg na noc (6–7 let), 50 mg (8–12 let), max. 75 mg.",
+          "hlavni_nezadouci_ucinky": ["kardiotoxicita (arytmie)", "sucho v ústech", "zácpa", "sedace"],
+          "kontraindikace": ["srdeční onemocnění", "MAOI"],
+          "indikace_k_nasazeni": "Enuréza rezistentní na alarm terapii a desmopressin."
+        }
+      ]
+    },
+    "zvlastni_upozorneni_a_bezpecnost": {
+      "black_box_warning": "Desmopressin: riziko těžké hyponatrémie a záchvatů při kombinaci s nadměrným příjmem tekutin – omezit příjem tekutin od 1 hodiny před podáním do rána. Imipramin: letální dávka je nízká – pečlivě hlídat dostupnost léku.",
+      "interakce": ["Desmopressin + NSAID nebo tricyklická antidepresiva – riziko hyponatrémie"],
+      "monitoring": ["Frekvence epizod enurézy (deník)", "Elektrolyty při desmopressinu (Na+)", "EKG při imipraminu"]
+    },
+    "zdroje": [
+      "NICE CG111: Bedwetting in under 19s (2010, aktualizace 2023)",
+      "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+      "SÚKL Databáze léčiv – ověřeno 2025"
+    ]
   }
 ]
