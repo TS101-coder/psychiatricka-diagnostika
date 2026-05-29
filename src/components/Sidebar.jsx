@@ -27,6 +27,9 @@ export default function Sidebar({ open }) {
   const mkn11Data  = useMkn11()
   const navigate   = useNavigate()
 
+  // MKN-10 sekce – defaultně otevřená
+  const [mkn10Open, setMkn10Open] = useState(true)
+
   // MKN-10 accordion
   const [openKat,   setOpenKat]   = useState(new Set())
   const [openRodic, setOpenRodic] = useState(new Set())
@@ -127,11 +130,20 @@ export default function Sidebar({ open }) {
 
       {/* Společný scrollovatelný blok – MKN-10 + MKN-11 pod sebou */}
       <div className="flex-1 overflow-y-auto">
-        <nav className="py-2">
-        <div className="px-3 py-1 text-xs font-semibold text-slate-400 uppercase tracking-wider">
-          MKN-10
-        </div>
 
+        {/* ════ MKN-10 ZÁHLAVÍ (klikací, modré) ════════════════════ */}
+        <button
+          onClick={() => setMkn10Open(v => !v)}
+          className="w-full flex items-center gap-2 px-3 py-2.5 text-left hover:bg-blue-50 bg-blue-50 border-b border-blue-100"
+        >
+          <span className="w-2 h-2 rounded-full shrink-0 bg-blue-500" />
+          <span className="text-xs font-bold text-blue-700 flex-1">MKN-10</span>
+          <span className="text-xs text-blue-400 font-mono">F00–F99</span>
+          <ChevronIcon open={mkn10Open} />
+        </button>
+
+        {mkn10Open && (
+        <nav className="py-2">
         {kategorie.map(kat => {
           const barva     = BARVA_MAP[kat.barva] || 'bg-slate-400'
           const katOpen   = openKat.has(kat.rozsah)
@@ -200,6 +212,7 @@ export default function Sidebar({ open }) {
           )
         })}
         </nav>
+        )}
 
         {/* ════ MKN-11 SEKCE – hned pod MKN-10 ════════════════════ */}
         <div className="border-t-2 border-green-200">
