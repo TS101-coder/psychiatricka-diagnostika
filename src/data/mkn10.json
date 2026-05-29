@@ -40,7 +40,23 @@
       "Zhoršení v dalších doménách: exekutivní funkce, pozornost, jazyk, sociální kognice, psychomotorické tempo, visuopercepce nebo visuoprostorové schopnosti",
       "V časných stadiích možná depresivní nálada a apatie; v pokročilých stadiích psychotické příznaky, dráždivost, agrese, zmatenost, poruchy chůze, záchvaty",
       "Podpůrné: pozitivní genetické testování, rodinná anamnéza, postupný kognitivní pokles"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F00.0",
@@ -80,7 +96,23 @@
       "Nástup před 65. rokem věku",
       "Tvoří méně než 5 % případů; může být autozomálně dominantní forma",
       "Relativně rychlejší progrese s výraznými poruchami paměti"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F00.1",
@@ -118,7 +150,23 @@
       "Nástup ve věku 65 let nebo později",
       "Tvoří více než 95 % všech případů",
       "Pomalejší progrese s dominující amnézií"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F00.2",
@@ -154,7 +202,23 @@
       "Zhoršení v dalších doménách: exekutivní funkce, pozornost, jazyk, sociální kognice, psychomotorické tempo, visuopercepce nebo visuoprostorové schopnosti",
       "V časných stadiích možná depresivní nálada a apatie; v pokročilých stadiích psychotické příznaky, dráždivost, agrese, zmatenost, poruchy chůze, záchvaty",
       "Podpůrné: pozitivní genetické testování, rodinná anamnéza, postupný kognitivní pokles"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F00.9",
@@ -190,7 +254,15 @@
       "Zhoršení v dalších kognitivních doménách: exekutivní funkce, pozornost, jazyk, psychomotorické tempo, vizuální/prostorové schopnosti",
       "V časných stadiích možná depresivní nálada a apatie; v pokročilých stadiích psychotické příznaky, záchvaty",
       "Podpůrné: pozitivní genetické testování, rodinná anamnéza, postupný pokles"
-    ]
+    ],
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F01",
@@ -229,7 +301,23 @@
       "Nástup kognitivních deficitů je časově spojen s jednou nebo více cerebrovaskulárními příhodami",
       "Kognitivní pokles je typicky nejzřetelnější v rychlosti zpracování informací, komplexní pozornosti a frontálně-exekutivních funkcích",
       "Průkaz cerebrovaskulárního onemocnění z anamnézy, fyzikálního vyšetření a neuroimagingu, které je dostatečné k vysvětlení neurokognitivních deficitů"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F01.0",
@@ -261,7 +349,23 @@
     "kriteria_mkn11": [
       "Splněna kritéria pro vaskulární demenci (8A21)",
       "Akutní nástup kognitivních příznaků po cévní příhodě"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F01.1",
@@ -295,7 +399,23 @@
     "kriteria_mkn11": [
       "Splněna kritéria pro vaskulární demenci (8A21)",
       "Postupný nástup bez zjevné cévní příhody"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F01.2",
@@ -332,7 +452,23 @@
     "kriteria_mkn11": [
       "Splněna kritéria pro vaskulární demenci (8A21)",
       "Smíšený obraz akutního i postupného nástupu"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F01.3",
@@ -371,7 +507,15 @@
       "Nástup kognitivních deficitů je časově spojen s jednou nebo více cerebrovaskulárními příhodami",
       "Kognitivní pokles nejzřetelnější v rychlosti zpracování informací, komplexní pozornosti a frontálně-exekutivních funkcích",
       "Průkaz cerebrovaskulárního onemocnění z anamnézy, fyzikálního vyšetření a neuroimagingu dostatečného k vysvětlení deficitů"
-    ]
+    ],
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F01.8",
@@ -405,7 +549,15 @@
       "Nástup kognitivních deficitů je časově spojen s jednou nebo více cerebrovaskulárními příhodami",
       "Kognitivní pokles nejzřetelnější v rychlosti zpracování informací, komplexní pozornosti a frontálně-exekutivních funkcích",
       "Průkaz cerebrovaskulárního onemocnění z anamnézy, fyzikálního vyšetření a neuroimagingu dostatečného k vysvětlení deficitů"
-    ]
+    ],
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F01.9",
@@ -437,7 +589,15 @@
       "Nástup kognitivních deficitů je časově spojen s jednou nebo více cerebrovaskulárními příhodami",
       "Kognitivní pokles nejzřetelnější v rychlosti zpracování informací, komplexní pozornosti a frontálně-exekutivních funkcích",
       "Průkaz cerebrovaskulárního onemocnění z anamnézy, fyzikálního vyšetření a neuroimagingu dostatečného k vysvětlení deficitů"
-    ]
+    ],
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F02",
@@ -470,7 +630,23 @@
     "kriteria_mkn11": [
       "Demence způsobená specifikovaným neurodegenerativním nebo jiným onemocněním mozku, nespadajícím pod Alzheimerovu chorobu (8A20) ani cerebrovaskulární onemocnění (8A21)",
       "Kognitivní pokles splňující kritéria demence; etiologie identifikována z anamnézy, fyzikálního vyšetření nebo laboratorních testů"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F02.0",
@@ -506,7 +682,23 @@
     "kriteria_mkn11": [
       "Demence u Lewyho tělísek: fluktuující kognice, zrakové halucinace, parkinsonismus a poruchy spánku ve fázi REM",
       "Výrazná citlivost na antipsychotika; kognitivní výkyvy jsou charakteristickým rysem"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F02.1",
@@ -544,7 +736,23 @@
     "kriteria_mkn11": [
       "Demence při Parkinsonově nemoci: demence vznikající v kontextu etablované Parkinsonovy nemoci",
       "Kognitivní příznaky rozvíjejí se nejméně 1 rok po nástupu motorických příznaků Parkinsonovy choroby"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F02.2",
@@ -581,7 +789,23 @@
     "kriteria_mkn11": [
       "Demence u Huntingtonovy nemoci: kognitivní pokles v kontextu Huntingtonovy chorey",
       "Poruchy exekutivních funkcí, procesní paměti a psychomotoriky; typicky autozomálně dominantní dědičnost"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F02.3",
@@ -617,7 +841,23 @@
     "kriteria_mkn11": [
       "Fronttemporální demence: progresivní demence s frontální nebo temporální lobární degenerací",
       "Dominující změny osobnosti a chování (frontální varianta) nebo jazykové poruchy (temporální varianta)"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F02.4",
@@ -653,7 +893,23 @@
     "kriteria_mkn11": [
       "Demence při HIV/AIDS: kognitivní pokles způsobený HIV infekcí CNS",
       "Poruchy paměti, psychomotorická pomalost, behaviorální změny při potvrzené HIV infekci"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F02.8",
@@ -687,7 +943,15 @@
       "Progresivní demence způsobená frontální nebo temporální lobární degenerací",
       "Výrazné změny osobnosti a chování nebo jazykové poruchy jako dominující rysy",
       "Poruchy paměti mohou být v časných stadiích méně výrazné"
-    ]
+    ],
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F03",
@@ -720,7 +984,23 @@
     "kriteria_mkn11": [
       "Demence blíže neurčeného typu nebo způsobená nespecifikovanou příčinou",
       "Kognitivní pokles splňující kritéria demence bez dostatečných informací k určení etiologie"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1a. Pokles paměti – zhoršení schopnosti učit se novým informacím; v těžších případech i porucha vybavování dříve naučeného; postihuje verbální i neverbální materiál",
+      "G1b. Pokles dalších kognitivních schopností – deteriorace úsudku a myšlení (plánování, organizace, zpracování informací)",
+      "G2. Zachované vědomí a jasná orientace v prostředí (bez zastřeného vědomí) po dostatečně dlouhou dobu",
+      "G3. Pokles emočního řízení nebo motivace, nebo změna v sociálním chování – nejméně jeden z: emocionální labilita, podrážděnost, apatie, hrubší sociální chování",
+      "G4. Příznaky G1 přítomny nejméně 6 měsíců (pro jistou diagnózu); při kratší době jen předběžná diagnóza"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria demence MKN-10 (G1–G4)",
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F04",
@@ -973,7 +1253,15 @@
     "kriteria_mkn11": [
       "Příznaky organické duševní poruchy způsobené průkazným onemocněním mozku, úrazem nebo jinými tělesnými poruchami",
       "Nesplňuje plná kritéria pro jinou specifickou organickou duševní poruchu dle ICD-11"
-    ]
+    ],
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F06.0",
@@ -1009,7 +1297,15 @@
     "kriteria_mkn11": [
       "Příznaky organické duševní poruchy způsobené průkazným onemocněním mozku, úrazem nebo jinými tělesnými poruchami",
       "Nesplňuje plná kritéria pro jinou specifickou organickou duševní poruchu dle ICD-11"
-    ]
+    ],
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F06.1",
@@ -1044,7 +1340,15 @@
     "kriteria_mkn11": [
       "Příznaky organické duševní poruchy způsobené průkazným onemocněním mozku, úrazem nebo jinými tělesnými poruchami",
       "Nesplňuje plná kritéria pro jinou specifickou organickou duševní poruchu dle ICD-11"
-    ]
+    ],
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F06.2",
@@ -1078,7 +1382,15 @@
     "kriteria_mkn11": [
       "Příznaky organické duševní poruchy způsobené průkazným onemocněním mozku, úrazem nebo jinými tělesnými poruchami",
       "Nesplňuje plná kritéria pro jinou specifickou organickou duševní poruchu dle ICD-11"
-    ]
+    ],
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F06.3",
@@ -1111,7 +1423,15 @@
     "kriteria_mkn11": [
       "Příznaky organické duševní poruchy způsobené průkazným onemocněním mozku, úrazem nebo jinými tělesnými poruchami",
       "Nesplňuje plná kritéria pro jinou specifickou organickou duševní poruchu dle ICD-11"
-    ]
+    ],
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F06.30",
@@ -1143,7 +1463,15 @@
     "mapovani": {
       "mkn11": "6D8Z",
       "dsm5": null
-    }
+    },
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F06.31",
@@ -1173,7 +1501,15 @@
     "mapovani": {
       "mkn11": "6D8Z",
       "dsm5": null
-    }
+    },
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F06.32",
@@ -1205,7 +1541,15 @@
     "mapovani": {
       "mkn11": "6D8Z",
       "dsm5": null
-    }
+    },
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F06.33",
@@ -1235,7 +1579,15 @@
     "mapovani": {
       "mkn11": "6D8Z",
       "dsm5": null
-    }
+    },
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F06.4",
@@ -1269,7 +1621,15 @@
     "kriteria_mkn11": [
       "Příznaky organické duševní poruchy způsobené průkazným onemocněním mozku, úrazem nebo jinými tělesnými poruchami",
       "Nesplňuje plná kritéria pro jinou specifickou organickou duševní poruchu dle ICD-11"
-    ]
+    ],
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F06.5",
@@ -1306,7 +1666,15 @@
       "Příznaky typicky kolísají v průběhu dne",
       "Může zahrnovat behaviorální a emocionální poruchy, narušení cyklu spánku a bdění a mnohočetné kognitivní deficity",
       "Příčina: důsledek jiného onemocnění, psychoaktivní látky/léky nebo kombinace příčin"
-    ]
+    ],
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F06.6",
@@ -1345,7 +1713,15 @@
       "Příznaky typicky kolísají v průběhu dne",
       "Může zahrnovat behaviorální a emocionální poruchy, narušení cyklu spánku a bdění a mnohočetné kognitivní deficity",
       "Příčina: důsledek jiného onemocnění, psychoaktivní látky/léky nebo kombinace příčin"
-    ]
+    ],
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F06.7",
@@ -1384,7 +1760,15 @@
       "Výkon v neuropsychologickém testování je typicky 1–2 SD pod normou pro věk a vzdělání",
       "Každodenní aktivity jsou zachovány, ale mohou vyžadovat větší úsilí nebo kompenzační strategie",
       "Příznaky nejsou způsobeny jiným onemocněním mozku, jinou duševní poruchou ani účinky látek"
-    ]
+    ],
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F06.8",
@@ -1411,7 +1795,15 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": null
-    }
+    },
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F06.9",
@@ -1438,7 +1830,15 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": null
-    }
+    },
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F07",
@@ -1472,7 +1872,15 @@
     "kriteria_mkn11": [
       "Jiná specifikovaná organická duševní porucha způsobená průkazným onemocněním nebo poškozením mozku",
       "Nesplňuje kritéria pro jinou specifickou kategorii ICD-11 organických poruch"
-    ]
+    ],
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F07.0",
@@ -1507,7 +1915,15 @@
     },
     "kriteria_mkn11": [
       "Specifikovaná organická porucha osobnosti a chování způsobená přímými fyziologickými účinky onemocnění, úrazu nebo dysfunkce mozku"
-    ]
+    ],
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F07.1",
@@ -1546,7 +1962,15 @@
       "Příznaky typicky kolísají v průběhu dne",
       "Může zahrnovat behaviorální a emocionální poruchy, narušení cyklu spánku a bdění a mnohočetné kognitivní deficity",
       "Příčina: důsledek jiného onemocnění, psychoaktivní látky/léky nebo kombinace příčin"
-    ]
+    ],
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F07.2",
@@ -1584,7 +2008,15 @@
     "kriteria_mkn11": [
       "Organická porucha způsobená specificky identifikovanou příčinou (trauma hlavy, toxická expozice apod.)",
       "Příznaky splňují kritéria příslušné kategorie organické duševní poruchy"
-    ]
+    ],
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F07.8",
@@ -1613,7 +2045,15 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": null
-    }
+    },
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F07.9",
@@ -1640,7 +2080,15 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": null
-    }
+    },
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F09",
@@ -1670,7 +2118,15 @@
     "kriteria_mkn11": [
       "Příznaky organické duševní poruchy způsobené průkazným onemocněním mozku, úrazem nebo jinými tělesnými poruchami",
       "Nesplňuje plná kritéria pro jinou specifickou organickou duševní poruchu dle ICD-11"
-    ]
+    ],
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F10",
@@ -1997,7 +2453,15 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": null
-    }
+    },
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F10.8",
@@ -2961,7 +3425,15 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": null
-    }
+    },
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F13.8",
@@ -4544,7 +5016,15 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": null
-    }
+    },
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F18.8",
@@ -4846,7 +5326,15 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": null
-    }
+    },
+    "obecna_kriteria_mkn11": [
+      "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
+      "B. Funkční dopad: kognitivní deficity jsou natolik závažné, že způsobují závislost na pomoci při každodenních aktivitách (zhoršení soběstačnosti)",
+      "C. Průkaz: zhoršení je zdokumentováno z anamnézy, přímého pozorování kliniky nebo standardizovaného neuropsychologického testování",
+      "D. Vědomí: porucha se rozvíjí mimo epizody deliria (zastřené vědomí nesmí být primárním vysvětlením příznaků)",
+      "E. Diferenciální diagnóza: kognitivní pokles není lépe vysvětlen jinou duševní poruchou (např. depresí nebo schizofrenií)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria demence MKN-11"
   },
   {
     "id": "F19.8",
@@ -4970,7 +5458,14 @@
       "Základní příznaky: trvalé bludy, trvalé halucinace, dezorganizace myšlení, zážitky ovlivňování nebo kontroly jsou jádrovými příznaky",
       "Příznaky přetrvávají nejméně 1 měsíc",
       "Nejsou projevem jiného onemocnění ani důsledkem účinků látky nebo léku na CNS"
-    ]
+    ],
+    "obecna_kriteria": [
+      "A. Alespoň 1 z příznaků první řady (Schneiderovy příznaky 1. řady) přítomný po dobu ≥ 1 měsíce: ozvučování myšlenek, vkládání nebo odnímání myšlenek, vysílání myšlenek; bludy ovládání, ovlivňování nebo pasivity vztahující se k pohybům těla, myšlenkám, pocitům nebo jednání; hlasové halucinace komentující chování nebo diskutující o pacientovi ve třetí osobě; kulturně nepřiměřené přetrvávající bludy",
+      "B. NEBO alespoň 2 z příznaků druhé řady přítomné po dobu ≥ 1 měsíce: přetrvávající halucinace jakéhokoli smyslu, provázené přechodnými nebo neúplnými bludy bez výrazné afektivní složky; neologismy, zábrany nebo inkoherence řeči; katatonní příznaky; negativní příznaky (apatie, ochuzení řeči, oploštění nebo nepřiměřenost afektu)",
+      "C. Vyloučení: diagnóza nesplňuje kritéria pro manickou (F30) ani depresivní epizodu (F32), přičemž afektivní příznaky jsou-li přítomny, musí nastat po splnění schizofrenních kritérií",
+      "D. Porucha není způsobena organickým onemocněním mozku (F0x), intoxikací ani odvykáním od psychoaktivních látek (F1x)"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria schizofrenie MKN-10 (F20)"
   },
   {
     "id": "F20.1",
@@ -5009,7 +5504,14 @@
       "Základní příznaky: trvalé bludy, trvalé halucinace, dezorganizace myšlení, zážitky ovlivňování nebo kontroly jsou jádrovými příznaky",
       "Příznaky přetrvávají nejméně 1 měsíc",
       "Nejsou projevem jiného onemocnění ani důsledkem účinků látky nebo léku na CNS"
-    ]
+    ],
+    "obecna_kriteria": [
+      "A. Alespoň 1 z příznaků první řady (Schneiderovy příznaky 1. řady) přítomný po dobu ≥ 1 měsíce: ozvučování myšlenek, vkládání nebo odnímání myšlenek, vysílání myšlenek; bludy ovládání, ovlivňování nebo pasivity vztahující se k pohybům těla, myšlenkám, pocitům nebo jednání; hlasové halucinace komentující chování nebo diskutující o pacientovi ve třetí osobě; kulturně nepřiměřené přetrvávající bludy",
+      "B. NEBO alespoň 2 z příznaků druhé řady přítomné po dobu ≥ 1 měsíce: přetrvávající halucinace jakéhokoli smyslu, provázené přechodnými nebo neúplnými bludy bez výrazné afektivní složky; neologismy, zábrany nebo inkoherence řeči; katatonní příznaky; negativní příznaky (apatie, ochuzení řeči, oploštění nebo nepřiměřenost afektu)",
+      "C. Vyloučení: diagnóza nesplňuje kritéria pro manickou (F30) ani depresivní epizodu (F32), přičemž afektivní příznaky jsou-li přítomny, musí nastat po splnění schizofrenních kritérií",
+      "D. Porucha není způsobena organickým onemocněním mozku (F0x), intoxikací ani odvykáním od psychoaktivních látek (F1x)"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria schizofrenie MKN-10 (F20)"
   },
   {
     "id": "F20.2",
@@ -5048,7 +5550,14 @@
       "Základní příznaky: trvalé bludy, trvalé halucinace, dezorganizace myšlení, zážitky ovlivňování nebo kontroly jsou jádrovými příznaky",
       "Příznaky přetrvávají nejméně 1 měsíc",
       "Nejsou projevem jiného onemocnění ani důsledkem účinků látky nebo léku na CNS"
-    ]
+    ],
+    "obecna_kriteria": [
+      "A. Alespoň 1 z příznaků první řady (Schneiderovy příznaky 1. řady) přítomný po dobu ≥ 1 měsíce: ozvučování myšlenek, vkládání nebo odnímání myšlenek, vysílání myšlenek; bludy ovládání, ovlivňování nebo pasivity vztahující se k pohybům těla, myšlenkám, pocitům nebo jednání; hlasové halucinace komentující chování nebo diskutující o pacientovi ve třetí osobě; kulturně nepřiměřené přetrvávající bludy",
+      "B. NEBO alespoň 2 z příznaků druhé řady přítomné po dobu ≥ 1 měsíce: přetrvávající halucinace jakéhokoli smyslu, provázené přechodnými nebo neúplnými bludy bez výrazné afektivní složky; neologismy, zábrany nebo inkoherence řeči; katatonní příznaky; negativní příznaky (apatie, ochuzení řeči, oploštění nebo nepřiměřenost afektu)",
+      "C. Vyloučení: diagnóza nesplňuje kritéria pro manickou (F30) ani depresivní epizodu (F32), přičemž afektivní příznaky jsou-li přítomny, musí nastat po splnění schizofrenních kritérií",
+      "D. Porucha není způsobena organickým onemocněním mozku (F0x), intoxikací ani odvykáním od psychoaktivních látek (F1x)"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria schizofrenie MKN-10 (F20)"
   },
   {
     "id": "F20.3",
@@ -5081,7 +5590,14 @@
       "Základní příznaky: trvalé bludy, trvalé halucinace, dezorganizace myšlení, zážitky ovlivňování nebo kontroly jsou jádrovými příznaky",
       "Příznaky přetrvávají nejméně 1 měsíc",
       "Nejsou projevem jiného onemocnění ani důsledkem účinků látky nebo léku na CNS"
-    ]
+    ],
+    "obecna_kriteria": [
+      "A. Alespoň 1 z příznaků první řady (Schneiderovy příznaky 1. řady) přítomný po dobu ≥ 1 měsíce: ozvučování myšlenek, vkládání nebo odnímání myšlenek, vysílání myšlenek; bludy ovládání, ovlivňování nebo pasivity vztahující se k pohybům těla, myšlenkám, pocitům nebo jednání; hlasové halucinace komentující chování nebo diskutující o pacientovi ve třetí osobě; kulturně nepřiměřené přetrvávající bludy",
+      "B. NEBO alespoň 2 z příznaků druhé řady přítomné po dobu ≥ 1 měsíce: přetrvávající halucinace jakéhokoli smyslu, provázené přechodnými nebo neúplnými bludy bez výrazné afektivní složky; neologismy, zábrany nebo inkoherence řeči; katatonní příznaky; negativní příznaky (apatie, ochuzení řeči, oploštění nebo nepřiměřenost afektu)",
+      "C. Vyloučení: diagnóza nesplňuje kritéria pro manickou (F30) ani depresivní epizodu (F32), přičemž afektivní příznaky jsou-li přítomny, musí nastat po splnění schizofrenních kritérií",
+      "D. Porucha není způsobena organickým onemocněním mozku (F0x), intoxikací ani odvykáním od psychoaktivních látek (F1x)"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria schizofrenie MKN-10 (F20)"
   },
   {
     "id": "F20.4",
@@ -5119,7 +5635,14 @@
       "Základní příznaky: trvalé bludy, trvalé halucinace, dezorganizace myšlení, zážitky ovlivňování nebo kontroly jsou jádrovými příznaky",
       "Příznaky přetrvávají nejméně 1 měsíc",
       "Nejsou projevem jiného onemocnění ani důsledkem účinků látky nebo léku na CNS"
-    ]
+    ],
+    "obecna_kriteria": [
+      "A. Alespoň 1 z příznaků první řady (Schneiderovy příznaky 1. řady) přítomný po dobu ≥ 1 měsíce: ozvučování myšlenek, vkládání nebo odnímání myšlenek, vysílání myšlenek; bludy ovládání, ovlivňování nebo pasivity vztahující se k pohybům těla, myšlenkám, pocitům nebo jednání; hlasové halucinace komentující chování nebo diskutující o pacientovi ve třetí osobě; kulturně nepřiměřené přetrvávající bludy",
+      "B. NEBO alespoň 2 z příznaků druhé řady přítomné po dobu ≥ 1 měsíce: přetrvávající halucinace jakéhokoli smyslu, provázené přechodnými nebo neúplnými bludy bez výrazné afektivní složky; neologismy, zábrany nebo inkoherence řeči; katatonní příznaky; negativní příznaky (apatie, ochuzení řeči, oploštění nebo nepřiměřenost afektu)",
+      "C. Vyloučení: diagnóza nesplňuje kritéria pro manickou (F30) ani depresivní epizodu (F32), přičemž afektivní příznaky jsou-li přítomny, musí nastat po splnění schizofrenních kritérií",
+      "D. Porucha není způsobena organickým onemocněním mozku (F0x), intoxikací ani odvykáním od psychoaktivních látek (F1x)"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria schizofrenie MKN-10 (F20)"
   },
   {
     "id": "F20.5",
@@ -5155,7 +5678,14 @@
       "Základní příznaky: trvalé bludy, trvalé halucinace, dezorganizace myšlení, zážitky ovlivňování nebo kontroly jsou jádrovými příznaky",
       "Příznaky přetrvávají nejméně 1 měsíc",
       "Nejsou projevem jiného onemocnění ani důsledkem účinků látky nebo léku na CNS"
-    ]
+    ],
+    "obecna_kriteria": [
+      "A. Alespoň 1 z příznaků první řady (Schneiderovy příznaky 1. řady) přítomný po dobu ≥ 1 měsíce: ozvučování myšlenek, vkládání nebo odnímání myšlenek, vysílání myšlenek; bludy ovládání, ovlivňování nebo pasivity vztahující se k pohybům těla, myšlenkám, pocitům nebo jednání; hlasové halucinace komentující chování nebo diskutující o pacientovi ve třetí osobě; kulturně nepřiměřené přetrvávající bludy",
+      "B. NEBO alespoň 2 z příznaků druhé řady přítomné po dobu ≥ 1 měsíce: přetrvávající halucinace jakéhokoli smyslu, provázené přechodnými nebo neúplnými bludy bez výrazné afektivní složky; neologismy, zábrany nebo inkoherence řeči; katatonní příznaky; negativní příznaky (apatie, ochuzení řeči, oploštění nebo nepřiměřenost afektu)",
+      "C. Vyloučení: diagnóza nesplňuje kritéria pro manickou (F30) ani depresivní epizodu (F32), přičemž afektivní příznaky jsou-li přítomny, musí nastat po splnění schizofrenních kritérií",
+      "D. Porucha není způsobena organickým onemocněním mozku (F0x), intoxikací ani odvykáním od psychoaktivních látek (F1x)"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria schizofrenie MKN-10 (F20)"
   },
   {
     "id": "F20.6",
@@ -11162,7 +11692,25 @@
       "Projevuje se nepřizpůsobivými vzorci kognice, emocionálního prožívání, emocionálního vyjadřování a chování",
       "Způsobuje výraznou tíseň nebo funkční postižení",
       "Není způsobena vývojově přiměřenou charakteristikou, primárně kulturními nebo sociopolitickými faktory, jiným duševním onemocněním ani účinky látky"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria_mkn11": [
+      "A. Trvalé problémy ve fungování vlastního já: poruchy identity (nestabilní nebo negativní sebepojetí), poruchy sebeúcty (nerealisticky nízká nebo vysoká), poruchy v dosahování cílů (nejasnost nebo nestabilita životních cílů), schopnosti sebereflexe (omezená introspekce)",
+      "B. Mezilidské dysfunkce: obtíže s rozvojem a udržením blízkých vztahů, obtíže s porozuměním perspektivám druhých, přetrvávající vzorce problematického chování v mezilidských interakcích",
+      "C. Přetrvávání: porucha trvá nejméně 2 roky a projevuje se v širokém spektru situací (doma, v práci, ve vztazích), nikoli pouze ve specifickém kontextu",
+      "D. Maladaptivní vzorce: projevuje se rigidními vzorci kognice, emočního prožívání a chování, které jsou maladaptivní a nezapadají do vývojových norem",
+      "E. Klinicky závažný dopad: porucha způsobuje klinicky závažný distres nebo výrazné funkční zhoršení v osobní, rodinné, sociální, vzdělávací, pracovní nebo jiné oblasti",
+      "F. Neredukujeme na jiné příčiny: porucha není důsledkem přímého fyziologického účinku psychoaktivní látky nebo léku, ani jiného zdravotního stavu (neurologického nebo jiného)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria poruchy osobnosti MKN-11 (6D10)"
   },
   {
     "id": "F60.0",
@@ -11199,7 +11747,25 @@
     "kriteria_mkn11": [
       "Splněna kritéria pro poruchu osobnosti (6D10)",
       "Mírná závažnost: postižení funkce vlastního já nebo mezilidských vztahů, ale zachovány obecné kapacity fungování"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria_mkn11": [
+      "A. Trvalé problémy ve fungování vlastního já: poruchy identity (nestabilní nebo negativní sebepojetí), poruchy sebeúcty (nerealisticky nízká nebo vysoká), poruchy v dosahování cílů (nejasnost nebo nestabilita životních cílů), schopnosti sebereflexe (omezená introspekce)",
+      "B. Mezilidské dysfunkce: obtíže s rozvojem a udržením blízkých vztahů, obtíže s porozuměním perspektivám druhých, přetrvávající vzorce problematického chování v mezilidských interakcích",
+      "C. Přetrvávání: porucha trvá nejméně 2 roky a projevuje se v širokém spektru situací (doma, v práci, ve vztazích), nikoli pouze ve specifickém kontextu",
+      "D. Maladaptivní vzorce: projevuje se rigidními vzorci kognice, emočního prožívání a chování, které jsou maladaptivní a nezapadají do vývojových norem",
+      "E. Klinicky závažný dopad: porucha způsobuje klinicky závažný distres nebo výrazné funkční zhoršení v osobní, rodinné, sociální, vzdělávací, pracovní nebo jiné oblasti",
+      "F. Neredukujeme na jiné příčiny: porucha není důsledkem přímého fyziologického účinku psychoaktivní látky nebo léku, ani jiného zdravotního stavu (neurologického nebo jiného)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria poruchy osobnosti MKN-11 (6D10)"
   },
   {
     "id": "F60.1",
@@ -11235,7 +11801,25 @@
     "kriteria_mkn11": [
       "Splněna kritéria pro poruchu osobnosti (6D10)",
       "Středně těžká závažnost: výrazné postižení ve fungování vlastního já nebo mezilidských vztahů ve více oblastech"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria_mkn11": [
+      "A. Trvalé problémy ve fungování vlastního já: poruchy identity (nestabilní nebo negativní sebepojetí), poruchy sebeúcty (nerealisticky nízká nebo vysoká), poruchy v dosahování cílů (nejasnost nebo nestabilita životních cílů), schopnosti sebereflexe (omezená introspekce)",
+      "B. Mezilidské dysfunkce: obtíže s rozvojem a udržením blízkých vztahů, obtíže s porozuměním perspektivám druhých, přetrvávající vzorce problematického chování v mezilidských interakcích",
+      "C. Přetrvávání: porucha trvá nejméně 2 roky a projevuje se v širokém spektru situací (doma, v práci, ve vztazích), nikoli pouze ve specifickém kontextu",
+      "D. Maladaptivní vzorce: projevuje se rigidními vzorci kognice, emočního prožívání a chování, které jsou maladaptivní a nezapadají do vývojových norem",
+      "E. Klinicky závažný dopad: porucha způsobuje klinicky závažný distres nebo výrazné funkční zhoršení v osobní, rodinné, sociální, vzdělávací, pracovní nebo jiné oblasti",
+      "F. Neredukujeme na jiné příčiny: porucha není důsledkem přímého fyziologického účinku psychoaktivní látky nebo léku, ani jiného zdravotního stavu (neurologického nebo jiného)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria poruchy osobnosti MKN-11 (6D10)"
   },
   {
     "id": "F60.2",
@@ -11272,7 +11856,25 @@
     "kriteria_mkn11": [
       "Splněna kritéria pro poruchu osobnosti (6D10)",
       "Těžká závažnost: závažné a rozsáhlé postižení fungování vlastního já nebo mezilidských vztahů"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria_mkn11": [
+      "A. Trvalé problémy ve fungování vlastního já: poruchy identity (nestabilní nebo negativní sebepojetí), poruchy sebeúcty (nerealisticky nízká nebo vysoká), poruchy v dosahování cílů (nejasnost nebo nestabilita životních cílů), schopnosti sebereflexe (omezená introspekce)",
+      "B. Mezilidské dysfunkce: obtíže s rozvojem a udržením blízkých vztahů, obtíže s porozuměním perspektivám druhých, přetrvávající vzorce problematického chování v mezilidských interakcích",
+      "C. Přetrvávání: porucha trvá nejméně 2 roky a projevuje se v širokém spektru situací (doma, v práci, ve vztazích), nikoli pouze ve specifickém kontextu",
+      "D. Maladaptivní vzorce: projevuje se rigidními vzorci kognice, emočního prožívání a chování, které jsou maladaptivní a nezapadají do vývojových norem",
+      "E. Klinicky závažný dopad: porucha způsobuje klinicky závažný distres nebo výrazné funkční zhoršení v osobní, rodinné, sociální, vzdělávací, pracovní nebo jiné oblasti",
+      "F. Neredukujeme na jiné příčiny: porucha není důsledkem přímého fyziologického účinku psychoaktivní látky nebo léku, ani jiného zdravotního stavu (neurologického nebo jiného)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria poruchy osobnosti MKN-11 (6D10)"
   },
   {
     "id": "F60.3",
@@ -11307,7 +11909,25 @@
     "kriteria_mkn11": [
       "Splněna kritéria pro poruchu osobnosti (6D10)",
       "Prominentní disocialita: nezájem o práva a pocity druhých, krutost, agrese, neschopnost empatie"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria_mkn11": [
+      "A. Trvalé problémy ve fungování vlastního já: poruchy identity (nestabilní nebo negativní sebepojetí), poruchy sebeúcty (nerealisticky nízká nebo vysoká), poruchy v dosahování cílů (nejasnost nebo nestabilita životních cílů), schopnosti sebereflexe (omezená introspekce)",
+      "B. Mezilidské dysfunkce: obtíže s rozvojem a udržením blízkých vztahů, obtíže s porozuměním perspektivám druhých, přetrvávající vzorce problematického chování v mezilidských interakcích",
+      "C. Přetrvávání: porucha trvá nejméně 2 roky a projevuje se v širokém spektru situací (doma, v práci, ve vztazích), nikoli pouze ve specifickém kontextu",
+      "D. Maladaptivní vzorce: projevuje se rigidními vzorci kognice, emočního prožívání a chování, které jsou maladaptivní a nezapadají do vývojových norem",
+      "E. Klinicky závažný dopad: porucha způsobuje klinicky závažný distres nebo výrazné funkční zhoršení v osobní, rodinné, sociální, vzdělávací, pracovní nebo jiné oblasti",
+      "F. Neredukujeme na jiné příčiny: porucha není důsledkem přímého fyziologického účinku psychoaktivní látky nebo léku, ani jiného zdravotního stavu (neurologického nebo jiného)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria poruchy osobnosti MKN-11 (6D10)"
   },
   {
     "id": "F60.30",
@@ -11341,7 +11961,25 @@
     "kriteria_mkn11": [
       "Splněna kritéria pro poruchu osobnosti (6D10)",
       "Prominentní disocialita: nezájem o práva a pocity druhých, krutost, agrese, neschopnost empatie"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria_mkn11": [
+      "A. Trvalé problémy ve fungování vlastního já: poruchy identity (nestabilní nebo negativní sebepojetí), poruchy sebeúcty (nerealisticky nízká nebo vysoká), poruchy v dosahování cílů (nejasnost nebo nestabilita životních cílů), schopnosti sebereflexe (omezená introspekce)",
+      "B. Mezilidské dysfunkce: obtíže s rozvojem a udržením blízkých vztahů, obtíže s porozuměním perspektivám druhých, přetrvávající vzorce problematického chování v mezilidských interakcích",
+      "C. Přetrvávání: porucha trvá nejméně 2 roky a projevuje se v širokém spektru situací (doma, v práci, ve vztazích), nikoli pouze ve specifickém kontextu",
+      "D. Maladaptivní vzorce: projevuje se rigidními vzorci kognice, emočního prožívání a chování, které jsou maladaptivní a nezapadají do vývojových norem",
+      "E. Klinicky závažný dopad: porucha způsobuje klinicky závažný distres nebo výrazné funkční zhoršení v osobní, rodinné, sociální, vzdělávací, pracovní nebo jiné oblasti",
+      "F. Neredukujeme na jiné příčiny: porucha není důsledkem přímého fyziologického účinku psychoaktivní látky nebo léku, ani jiného zdravotního stavu (neurologického nebo jiného)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria poruchy osobnosti MKN-11 (6D10)"
   },
   {
     "id": "F60.31",
@@ -11381,7 +12019,25 @@
     "kriteria_mkn11": [
       "Splněna kritéria pro poruchu osobnosti (6D10)",
       "Prominentní disocialita: nezájem o práva a pocity druhých, krutost, agrese, neschopnost empatie"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria_mkn11": [
+      "A. Trvalé problémy ve fungování vlastního já: poruchy identity (nestabilní nebo negativní sebepojetí), poruchy sebeúcty (nerealisticky nízká nebo vysoká), poruchy v dosahování cílů (nejasnost nebo nestabilita životních cílů), schopnosti sebereflexe (omezená introspekce)",
+      "B. Mezilidské dysfunkce: obtíže s rozvojem a udržením blízkých vztahů, obtíže s porozuměním perspektivám druhých, přetrvávající vzorce problematického chování v mezilidských interakcích",
+      "C. Přetrvávání: porucha trvá nejméně 2 roky a projevuje se v širokém spektru situací (doma, v práci, ve vztazích), nikoli pouze ve specifickém kontextu",
+      "D. Maladaptivní vzorce: projevuje se rigidními vzorci kognice, emočního prožívání a chování, které jsou maladaptivní a nezapadají do vývojových norem",
+      "E. Klinicky závažný dopad: porucha způsobuje klinicky závažný distres nebo výrazné funkční zhoršení v osobní, rodinné, sociální, vzdělávací, pracovní nebo jiné oblasti",
+      "F. Neredukujeme na jiné příčiny: porucha není důsledkem přímého fyziologického účinku psychoaktivní látky nebo léku, ani jiného zdravotního stavu (neurologického nebo jiného)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria poruchy osobnosti MKN-11 (6D10)"
   },
   {
     "id": "F60.4",
@@ -11417,7 +12073,25 @@
     "kriteria_mkn11": [
       "Splněna kritéria pro poruchu osobnosti (6D10)",
       "Prominentní negativní afektivita: emocionální nestabilita, úzkostnost, separační úzkost, nízká sebedůvěra"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria_mkn11": [
+      "A. Trvalé problémy ve fungování vlastního já: poruchy identity (nestabilní nebo negativní sebepojetí), poruchy sebeúcty (nerealisticky nízká nebo vysoká), poruchy v dosahování cílů (nejasnost nebo nestabilita životních cílů), schopnosti sebereflexe (omezená introspekce)",
+      "B. Mezilidské dysfunkce: obtíže s rozvojem a udržením blízkých vztahů, obtíže s porozuměním perspektivám druhých, přetrvávající vzorce problematického chování v mezilidských interakcích",
+      "C. Přetrvávání: porucha trvá nejméně 2 roky a projevuje se v širokém spektru situací (doma, v práci, ve vztazích), nikoli pouze ve specifickém kontextu",
+      "D. Maladaptivní vzorce: projevuje se rigidními vzorci kognice, emočního prožívání a chování, které jsou maladaptivní a nezapadají do vývojových norem",
+      "E. Klinicky závažný dopad: porucha způsobuje klinicky závažný distres nebo výrazné funkční zhoršení v osobní, rodinné, sociální, vzdělávací, pracovní nebo jiné oblasti",
+      "F. Neredukujeme na jiné příčiny: porucha není důsledkem přímého fyziologického účinku psychoaktivní látky nebo léku, ani jiného zdravotního stavu (neurologického nebo jiného)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria poruchy osobnosti MKN-11 (6D10)"
   },
   {
     "id": "F60.5",
@@ -11452,7 +12126,25 @@
     "kriteria_mkn11": [
       "Splněna kritéria pro poruchu osobnosti (6D10)",
       "Prominentní odtažitost: sociální izolace, omezená emocionální výraznost, nízká potřeba blízkosti"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria_mkn11": [
+      "A. Trvalé problémy ve fungování vlastního já: poruchy identity (nestabilní nebo negativní sebepojetí), poruchy sebeúcty (nerealisticky nízká nebo vysoká), poruchy v dosahování cílů (nejasnost nebo nestabilita životních cílů), schopnosti sebereflexe (omezená introspekce)",
+      "B. Mezilidské dysfunkce: obtíže s rozvojem a udržením blízkých vztahů, obtíže s porozuměním perspektivám druhých, přetrvávající vzorce problematického chování v mezilidských interakcích",
+      "C. Přetrvávání: porucha trvá nejméně 2 roky a projevuje se v širokém spektru situací (doma, v práci, ve vztazích), nikoli pouze ve specifickém kontextu",
+      "D. Maladaptivní vzorce: projevuje se rigidními vzorci kognice, emočního prožívání a chování, které jsou maladaptivní a nezapadají do vývojových norem",
+      "E. Klinicky závažný dopad: porucha způsobuje klinicky závažný distres nebo výrazné funkční zhoršení v osobní, rodinné, sociální, vzdělávací, pracovní nebo jiné oblasti",
+      "F. Neredukujeme na jiné příčiny: porucha není důsledkem přímého fyziologického účinku psychoaktivní látky nebo léku, ani jiného zdravotního stavu (neurologického nebo jiného)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria poruchy osobnosti MKN-11 (6D10)"
   },
   {
     "id": "F60.6",
@@ -11487,7 +12179,25 @@
     "kriteria_mkn11": [
       "Splněna kritéria pro poruchu osobnosti (6D10)",
       "Prominentní disinhibice: impulzivita, lehkomyslnost, neschopnost plánovat nebo odkládat uspokojení"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria_mkn11": [
+      "A. Trvalé problémy ve fungování vlastního já: poruchy identity (nestabilní nebo negativní sebepojetí), poruchy sebeúcty (nerealisticky nízká nebo vysoká), poruchy v dosahování cílů (nejasnost nebo nestabilita životních cílů), schopnosti sebereflexe (omezená introspekce)",
+      "B. Mezilidské dysfunkce: obtíže s rozvojem a udržením blízkých vztahů, obtíže s porozuměním perspektivám druhých, přetrvávající vzorce problematického chování v mezilidských interakcích",
+      "C. Přetrvávání: porucha trvá nejméně 2 roky a projevuje se v širokém spektru situací (doma, v práci, ve vztazích), nikoli pouze ve specifickém kontextu",
+      "D. Maladaptivní vzorce: projevuje se rigidními vzorci kognice, emočního prožívání a chování, které jsou maladaptivní a nezapadají do vývojových norem",
+      "E. Klinicky závažný dopad: porucha způsobuje klinicky závažný distres nebo výrazné funkční zhoršení v osobní, rodinné, sociální, vzdělávací, pracovní nebo jiné oblasti",
+      "F. Neredukujeme na jiné příčiny: porucha není důsledkem přímého fyziologického účinku psychoaktivní látky nebo léku, ani jiného zdravotního stavu (neurologického nebo jiného)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria poruchy osobnosti MKN-11 (6D10)"
   },
   {
     "id": "F60.7",
@@ -11523,7 +12233,25 @@
     "kriteria_mkn11": [
       "Splněna kritéria pro poruchu osobnosti (6D10)",
       "Prominentní anankasticita (obsedantnost): rigidní perfekcionismus, kontrola, lpění na pravidlech, neflexibilita"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria_mkn11": [
+      "A. Trvalé problémy ve fungování vlastního já: poruchy identity (nestabilní nebo negativní sebepojetí), poruchy sebeúcty (nerealisticky nízká nebo vysoká), poruchy v dosahování cílů (nejasnost nebo nestabilita životních cílů), schopnosti sebereflexe (omezená introspekce)",
+      "B. Mezilidské dysfunkce: obtíže s rozvojem a udržením blízkých vztahů, obtíže s porozuměním perspektivám druhých, přetrvávající vzorce problematického chování v mezilidských interakcích",
+      "C. Přetrvávání: porucha trvá nejméně 2 roky a projevuje se v širokém spektru situací (doma, v práci, ve vztazích), nikoli pouze ve specifickém kontextu",
+      "D. Maladaptivní vzorce: projevuje se rigidními vzorci kognice, emočního prožívání a chování, které jsou maladaptivní a nezapadají do vývojových norem",
+      "E. Klinicky závažný dopad: porucha způsobuje klinicky závažný distres nebo výrazné funkční zhoršení v osobní, rodinné, sociální, vzdělávací, pracovní nebo jiné oblasti",
+      "F. Neredukujeme na jiné příčiny: porucha není důsledkem přímého fyziologického účinku psychoaktivní látky nebo léku, ani jiného zdravotního stavu (neurologického nebo jiného)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria poruchy osobnosti MKN-11 (6D10)"
   },
   {
     "id": "F60.8",
@@ -11553,7 +12281,25 @@
     "kriteria_mkn11": [
       "Splněna kritéria pro poruchu osobnosti (6D10)",
       "Prominentní hraniční (borderline) vzorec: intenzivní nestabilní vztahy, sebepoškozenicí nebo suicidální chování, nestabilní sebeobraz, impulzivita, intenzivní emocionální dysregulace"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria_mkn11": [
+      "A. Trvalé problémy ve fungování vlastního já: poruchy identity (nestabilní nebo negativní sebepojetí), poruchy sebeúcty (nerealisticky nízká nebo vysoká), poruchy v dosahování cílů (nejasnost nebo nestabilita životních cílů), schopnosti sebereflexe (omezená introspekce)",
+      "B. Mezilidské dysfunkce: obtíže s rozvojem a udržením blízkých vztahů, obtíže s porozuměním perspektivám druhých, přetrvávající vzorce problematického chování v mezilidských interakcích",
+      "C. Přetrvávání: porucha trvá nejméně 2 roky a projevuje se v širokém spektru situací (doma, v práci, ve vztazích), nikoli pouze ve specifickém kontextu",
+      "D. Maladaptivní vzorce: projevuje se rigidními vzorci kognice, emočního prožívání a chování, které jsou maladaptivní a nezapadají do vývojových norem",
+      "E. Klinicky závažný dopad: porucha způsobuje klinicky závažný distres nebo výrazné funkční zhoršení v osobní, rodinné, sociální, vzdělávací, pracovní nebo jiné oblasti",
+      "F. Neredukujeme na jiné příčiny: porucha není důsledkem přímého fyziologického účinku psychoaktivní látky nebo léku, ani jiného zdravotního stavu (neurologického nebo jiného)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria poruchy osobnosti MKN-11 (6D10)"
   },
   {
     "id": "F60.9",
@@ -11582,7 +12328,25 @@
     "kriteria_mkn11": [
       "Splněna kritéria pro poruchu osobnosti (6D10)",
       "Blíže nespecifikovaná porucha osobnosti"
-    ]
+    ],
+    "obecna_kriteria": [
+      "G1. Charakteristické a trvalé vzorce vnitřního prožívání a chování jedince se výrazně odchylují od kulturně očekávaného rozsahu ve více než jedné z oblastí: kognice (vnímání, postoje k sobě i druhým), emocionalita (rozsah, intenzita a přiměřenost emočních reakcí), kontrola impulzů a uspokojování potřeb, způsoby navazování vztahů a mezilidské chování",
+      "G2. Odchylka se projevuje jako rigidní, maladaptivní nebo jinak dysfunkční chování v širokém spektru osobních a sociálních situací (není omezena na jeden spouštěcí podnět nebo situaci)",
+      "G3. Osobní distres nebo výrazný nepříznivý dopad na sociální prostředí, jednoznačně způsobený chováním popsaným v G2",
+      "G4. Odchylka je stabilní a dlouhodobá; její vznik je datován do pozdního dětství nebo adolescence; diagnóza v dospělosti může být spolehlivá, pokud je přítomna nejméně 2 roky",
+      "G5. Odchylka není lépe vysvětlena jako projev nebo důsledek jiné duševní poruchy dospělého věku (přestože epizodické nebo chronické stavy z oddílů F0–F7 mohou koexistovat)",
+      "G6. Musí být vyloučeno organické poškození, úraz nebo dysfunkce mozku jako možná příčina odchylky (pokud je prokázána organická příčina, použít F07)"
+    ],
+    "obecna_kriteria_nazev": "Obecná kritéria specifických poruch osobnosti MKN-10 (G1–G6)",
+    "obecna_kriteria_mkn11": [
+      "A. Trvalé problémy ve fungování vlastního já: poruchy identity (nestabilní nebo negativní sebepojetí), poruchy sebeúcty (nerealisticky nízká nebo vysoká), poruchy v dosahování cílů (nejasnost nebo nestabilita životních cílů), schopnosti sebereflexe (omezená introspekce)",
+      "B. Mezilidské dysfunkce: obtíže s rozvojem a udržením blízkých vztahů, obtíže s porozuměním perspektivám druhých, přetrvávající vzorce problematického chování v mezilidských interakcích",
+      "C. Přetrvávání: porucha trvá nejméně 2 roky a projevuje se v širokém spektru situací (doma, v práci, ve vztazích), nikoli pouze ve specifickém kontextu",
+      "D. Maladaptivní vzorce: projevuje se rigidními vzorci kognice, emočního prožívání a chování, které jsou maladaptivní a nezapadají do vývojových norem",
+      "E. Klinicky závažný dopad: porucha způsobuje klinicky závažný distres nebo výrazné funkční zhoršení v osobní, rodinné, sociální, vzdělávací, pracovní nebo jiné oblasti",
+      "F. Neredukujeme na jiné příčiny: porucha není důsledkem přímého fyziologického účinku psychoaktivní látky nebo léku, ani jiného zdravotního stavu (neurologického nebo jiného)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria poruchy osobnosti MKN-11 (6D10)"
   },
   {
     "id": "F61",
@@ -11610,7 +12374,16 @@
     "kriteria_mkn11": [
       "Osobnostní rysy nebo vzorce, které jsou klinicky pozoruhodné nebo problematické, ale nedosahují plných kritérií pro poruchu osobnosti (6D10)",
       "Mohou způsobovat omezenou tíseň nebo funkční postižení, ale bez trvalé a rozsáhlé poruchy fungování"
-    ]
+    ],
+    "obecna_kriteria_mkn11": [
+      "A. Trvalé problémy ve fungování vlastního já: poruchy identity (nestabilní nebo negativní sebepojetí), poruchy sebeúcty (nerealisticky nízká nebo vysoká), poruchy v dosahování cílů (nejasnost nebo nestabilita životních cílů), schopnosti sebereflexe (omezená introspekce)",
+      "B. Mezilidské dysfunkce: obtíže s rozvojem a udržením blízkých vztahů, obtíže s porozuměním perspektivám druhých, přetrvávající vzorce problematického chování v mezilidských interakcích",
+      "C. Přetrvávání: porucha trvá nejméně 2 roky a projevuje se v širokém spektru situací (doma, v práci, ve vztazích), nikoli pouze ve specifickém kontextu",
+      "D. Maladaptivní vzorce: projevuje se rigidními vzorci kognice, emočního prožívání a chování, které jsou maladaptivní a nezapadají do vývojových norem",
+      "E. Klinicky závažný dopad: porucha způsobuje klinicky závažný distres nebo výrazné funkční zhoršení v osobní, rodinné, sociální, vzdělávací, pracovní nebo jiné oblasti",
+      "F. Neredukujeme na jiné příčiny: porucha není důsledkem přímého fyziologického účinku psychoaktivní látky nebo léku, ani jiného zdravotního stavu (neurologického nebo jiného)"
+    ],
+    "obecna_kriteria_nazev_mkn11": "Obecná kritéria poruchy osobnosti MKN-11 (6D10)"
   },
   {
     "id": "F62",

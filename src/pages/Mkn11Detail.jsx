@@ -82,21 +82,43 @@ export default function Mkn11Detail() {
           )}
 
           {/* Diagnostická kritéria */}
-          {diagnoza.diagnosticka_kriteria?.length > 0 && (
+          {(diagnoza.obecna_kriteria?.length > 0 || diagnoza.diagnosticka_kriteria?.length > 0) && (
             <section>
               <h2 className="text-sm font-semibold text-slate-500 uppercase tracking-wide mb-2">
                 Diagnostická kritéria <span className={`font-semibold normal-case ${bc.text}`}>MKN-11</span>
               </h2>
-              <ul className="space-y-1.5">
-                {diagnoza.diagnosticka_kriteria.map((k, i) => (
-                  <li key={i} className="flex items-start gap-2 text-sm text-slate-800">
-                    <span className={`w-5 h-5 rounded-full flex items-center justify-center text-xs font-bold shrink-0 mt-0.5 ${bc.bg} ${bc.text}`}>
-                      {i + 1}
-                    </span>
-                    {k}
-                  </li>
-                ))}
-              </ul>
+
+              {/* Obecná kritéria MKN-11 nad specifickými */}
+              {diagnoza.obecna_kriteria?.length > 0 && (
+                <div className={`mb-3 border rounded-lg p-3 ${bc.bg} ${bc.border}`}>
+                  <p className={`text-xs font-semibold uppercase tracking-wide mb-2 ${bc.text}`}>
+                    {diagnoza.obecna_kriteria_nazev || 'Obecná kritéria MKN-11'}
+                  </p>
+                  <ul className="space-y-1.5">
+                    {diagnoza.obecna_kriteria.map((k, i) => (
+                      <li key={i} className="flex items-start gap-2 text-xs text-slate-800">
+                        <span className={`w-5 h-5 rounded-full flex items-center justify-center text-xs font-bold shrink-0 mt-0.5 ${bc.bg} ${bc.text} border ${bc.border}`}>
+                          {k.match(/^[A-F]\./)?.[0]?.replace('.', '') || (i + 1)}
+                        </span>
+                        {k.replace(/^[A-F]\.\s*/, '')}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+
+              {diagnoza.diagnosticka_kriteria?.length > 0 && (
+                <ul className="space-y-1.5">
+                  {diagnoza.diagnosticka_kriteria.map((k, i) => (
+                    <li key={i} className="flex items-start gap-2 text-sm text-slate-800">
+                      <span className={`w-5 h-5 rounded-full flex items-center justify-center text-xs font-bold shrink-0 mt-0.5 ${bc.bg} ${bc.text}`}>
+                        {i + 1}
+                      </span>
+                      {k}
+                    </li>
+                  ))}
+                </ul>
+              )}
             </section>
           )}
 
