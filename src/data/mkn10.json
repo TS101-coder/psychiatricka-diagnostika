@@ -2063,8 +2063,7 @@
       "dsm5": "310.89"
     },
     "kriteria_mkn11": [
-      "Organická porucha způsobená specificky identifikovanou příčinou (trauma hlavy, toxická expozice apod.)",
-      "Příznaky splňují kritéria příslušné kategorie organické duševní poruchy"
+      "Viz MKN-11 Postkomoční syndrom – v MKN-11 klasifikován v kapitole příčin (MB50.3)"
     ],
     "obecna_kriteria_mkn11": [
       "A. Kognitivní pokles: výrazné zhoršení v jedné nebo více kognitivních oblastech (paměť a učení, jazyk, exekutivní funkce, pozornost a rychlost zpracování, percepčně-motorické dovednosti, sociální kognice) ve srovnání s předchozí úrovní výkonnosti",
@@ -10602,10 +10601,7 @@
       "dsm5": "307.42"
     },
     "kriteria_mkn11": [
-      "Přetrvávající obtíže s usínáním, udržením spánku nebo příliš raným probuzením s neschopností znovu usnout",
-      "Obtíže se spánkem přítomné přes adekvátní příležitost a podmínky ke spánku",
-      "Způsobují klinicky závažnou tíseň nebo funkční postižení (únava, snížená koncentrace, výkonnost)",
-      "Příznaky přetrvávají nejméně několik měsíců"
+      "Poruchy spánku přesunuty v MKN-11 do kapitoly 07 (Poruchy spánku a bdění)"
     ]
   },
   {
@@ -10642,10 +10638,7 @@
       "dsm5": "307.42"
     },
     "kriteria_mkn11": [
-      "Přetrvávající obtíže s usínáním, udržením spánku nebo příliš raným probuzením s neschopností znovu usnout",
-      "Obtíže se spánkem přítomné přes adekvátní příležitost a podmínky ke spánku",
-      "Způsobují klinicky závažnou tíseň nebo funkční postižení (únava, snížená koncentrace, výkonnost)",
-      "Příznaky přetrvávají nejméně několik měsíců"
+      "Viz MKN-11 Nespavostní porucha (7A00) – přesunuta mimo psychiatrickou klasifikaci"
     ]
   },
   {
@@ -10682,9 +10675,7 @@
       "dsm5": "307.44"
     },
     "kriteria_mkn11": [
-      "Nadměrná ospalost navzdory hlavní spánkové epizodě trvající nejméně 7 hodin",
-      "Projevuje se opakovanými epizodami neplánovaného spánku nebo denní ospalostí",
-      "Příznaky přetrvávají nejméně 3 měsíce a způsobují výrazné funkční postižení"
+      "Viz MKN-11 Porucha hypersomnolence (7B20) – přesunuta mimo psychiatrickou klasifikaci"
     ]
   },
   {
@@ -10718,8 +10709,7 @@
       "dsm5": "307.45"
     },
     "kriteria_mkn11": [
-      "Abnormální chování, pohyby, emoce, percepce nebo sny spojené se spánkem nebo přechodem spánek-bdění",
-      "Příznaky způsobují klinicky závažnou tíseň nebo funkční postižení nebo bezpečnostní riziko"
+      "Viz MKN-11 Poruchy rytmu spánek-bdění – přesunuta mimo psychiatrickou klasifikaci"
     ]
   },
   {
@@ -10755,9 +10745,7 @@
       "dsm5": "307.46"
     },
     "kriteria_mkn11": [
-      "Narkolepsie: denní záchvaty nezdolné ospalosti nebo nechtěný spánek",
-      "Kataplexie: epizodická ztráta svalového tonu vyvolaná silnými emocemi",
-      "Deficit orexinu/hypokretinu v mozkomíšním moku nebo typický nález v MSLT testu"
+      "Viz MKN-11 Non-REM spánkové arousální poruchy (7B01) – parasomnické poruchy"
     ]
   },
   {
@@ -10794,8 +10782,7 @@
       "dsm5": "307.46"
     },
     "kriteria_mkn11": [
-      "Narkolepsie bez kataplexie: denní záchvaty nezdolné ospalosti bez epizod kataplexie",
-      "Typický nález v MSLT testu nebo snížená hladina orexinu v CSF"
+      "Viz MKN-11 Non-REM spánkové arousální poruchy (7B01) – noční děsy"
     ]
   },
   {
@@ -10829,7 +10816,7 @@
       "dsm5": "307.47"
     },
     "kriteria_mkn11": [
-      "Sekundární narkolepsie způsobená jiným onemocněním nebo stavem"
+      "Viz MKN-11 Porucha nočních můr (7B02) – přesunuta mimo psychiatrickou klasifikaci"
     ]
   },
   {
@@ -10857,7 +10844,10 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Poruchy spánku – jiné; přesunuty v MKN-11 mimo psychiatrickou klasifikaci"
+    ]
   },
   {
     "id": "F51.9",
@@ -10884,7 +10874,10 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": "307.40"
-    }
+    },
+    "kriteria_mkn11": [
+      "Poruchy spánku neurčené – přesunuty v MKN-11 mimo psychiatrickou klasifikaci"
+    ]
   },
   {
     "id": "F52",
@@ -10913,9 +10906,7 @@
       "dsm5": "302.72"
     },
     "kriteria_mkn11": [
-      "Neschopnost participovat v sexuálním vztahu podle přání jedince z důvodu problémů se sexuální touhou, vzrušením, orgasmem nebo bolestí",
-      "Příznaky přetrvávají nejméně několik měsíců a způsobují výraznou tíseň nebo mezilidské obtíže",
-      "Nejsou lépe vysvětleny jinou duševní poruchou, zdravotním stavem ani účinky látky"
+      "Sexuální dysfunkce přesunuty v MKN-11 do kapitoly HA (Sexuální zdraví)"
     ]
   },
   {
@@ -10947,9 +10938,7 @@
       "dsm5": "302.71"
     },
     "kriteria_mkn11": [
-      "Neschopnost participovat v sexuálním vztahu podle přání jedince z důvodu problémů se sexuální touhou, vzrušením, orgasmem nebo bolestí",
-      "Příznaky přetrvávají nejméně několik měsíců a způsobují výraznou tíseň nebo mezilidské obtíže",
-      "Nejsou lépe vysvětleny jinou duševní poruchou, zdravotním stavem ani účinky látky"
+      "Viz MKN-11 Porucha sexuální žádostivosti (HA00) – přesunuta mimo psychiatrickou klasifikaci"
     ]
   },
   {
@@ -10983,9 +10972,7 @@
       "dsm5": "302.71"
     },
     "kriteria_mkn11": [
-      "Výrazná a trvalá sexuální přitažlivost k nestandardním předmětům, situacím nebo jedincům způsobující tíseň nebo riziko poškození",
-      "Sexuální touha nebo chování jsou namířeny na nekonsenzuální jedince nebo způsobují psychologické nebo fyzické poškození sobě nebo jiným",
-      "Příznaky přetrvávají nejméně 6 měsíců"
+      "Viz MKN-11 Sexuální averze (HA01) – přesunuta mimo psychiatrickou klasifikaci"
     ]
   },
   {
@@ -11020,9 +11007,7 @@
       "dsm5": "302.72"
     },
     "kriteria_mkn11": [
-      "Výrazná a trvalá sexuální přitažlivost k nestandardním předmětům, situacím nebo jedincům způsobující tíseň nebo riziko poškození",
-      "Sexuální touha nebo chování jsou namířeny na nekonsenzuální jedince nebo způsobují psychologické nebo fyzické poškození sobě nebo jiným",
-      "Příznaky přetrvávají nejméně 6 měsíců"
+      "Viz MKN-11 Porucha pohlavního vzrušení (HA20) – přesunuta mimo psychiatrickou klasifikaci"
     ]
   },
   {
@@ -11056,9 +11041,7 @@
       "dsm5": "302.73"
     },
     "kriteria_mkn11": [
-      "Výrazná a trvalá sexuální přitažlivost k nestandardním předmětům, situacím nebo jedincům způsobující tíseň nebo riziko poškození",
-      "Sexuální touha nebo chování jsou namířeny na nekonsenzuální jedince nebo způsobují psychologické nebo fyzické poškození sobě nebo jiným",
-      "Příznaky přetrvávají nejméně 6 měsíců"
+      "Viz MKN-11 Porucha orgasmu (HA20) – přesunuta mimo psychiatrickou klasifikaci"
     ]
   },
   {
@@ -11092,9 +11075,7 @@
       "dsm5": "302.76"
     },
     "kriteria_mkn11": [
-      "Neschopnost kontrolovat ejakulaci natolik, aby pohlavní styk byl pro oba partnery uspokojivý",
-      "Příznaky přetrvávají nejméně 6 měsíců a způsobují výraznou tíseň nebo mezilidské obtíže",
-      "Nejsou lépe vysvětleny jinou duševní poruchou, zdravotním stavem ani účinky látky"
+      "Viz MKN-11 Předčasná ejakulace (HA02) – přesunuta mimo psychiatrickou klasifikaci"
     ]
   },
   {
@@ -11128,9 +11109,7 @@
       "dsm5": "306.51"
     },
     "kriteria_mkn11": [
-      "Výrazná a trvalá sexuální přitažlivost k nestandardním předmětům, situacím nebo jedincům způsobující tíseň nebo riziko poškození",
-      "Sexuální touha nebo chování jsou namířeny na nekonsenzuální jedince nebo způsobují psychologické nebo fyzické poškození sobě nebo jiným",
-      "Příznaky přetrvávají nejméně 6 měsíců"
+      "Viz MKN-11 Genitovelická bolest/porucha penetrace (HA20) – přesunuta mimo psychiatrickou klasifikaci"
     ]
   },
   {
@@ -11163,9 +11142,7 @@
       "dsm5": "302.76"
     },
     "kriteria_mkn11": [
-      "Výrazná a trvalá sexuální přitažlivost k nestandardním předmětům, situacím nebo jedincům způsobující tíseň nebo riziko poškození",
-      "Sexuální touha nebo chování jsou namířeny na nekonsenzuální jedince nebo způsobují psychologické nebo fyzické poškození sobě nebo jiným",
-      "Příznaky přetrvávají nejméně 6 měsíců"
+      "Viz MKN-11 Dyspareunie (HA20) – přesunuta mimo psychiatrickou klasifikaci"
     ]
   },
   {
@@ -11195,12 +11172,13 @@
       "organická hypersexualita"
     ],
     "mapovani": {
-      "mkn11": "HA20",
+      "mkn11": "6C72",
       "dsm5": null
     },
     "kriteria_mkn11": [
-      "Výrazná a trvalá sexuální přitažlivost k nestandardním předmětům, situacím nebo jedincům způsobující tíseň nebo riziko poškození",
-      "Sexuální touha nebo chování jsou namířeny na nekonsenzuální jedince nebo způsobují psychologické nebo fyzické poškození sobě nebo jiným",
+      "Přetrvávající vzorec intenzivního, opakujícího se sexuálního impulzu nebo nutkání",
+      "Opakované sexuální chování způsobující tíseň nebo závažné funkční postižení",
+      "Sexuální chování se stalo prioritou; zanedbávání zdraví nebo jiných aktivit",
       "Příznaky přetrvávají nejméně 6 měsíců"
     ]
   },
@@ -11228,7 +11206,10 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Viz MKN-11 Jiné sexuální dysfunkce – přesunuty mimo psychiatrickou klasifikaci"
+    ]
   },
   {
     "id": "F52.9",
@@ -11254,7 +11235,10 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": "302.70"
-    }
+    },
+    "kriteria_mkn11": [
+      "Viz MKN-11 Sexuální dysfunkce NS – přesunuta mimo psychiatrickou klasifikaci"
+    ]
   },
   {
     "id": "F53",
@@ -12913,8 +12897,7 @@
       "dsm5": "302.85"
     },
     "kriteria_mkn11": [
-      "Porucha erekcí, lubrikace nebo jiných fyziologických reakcí při sexuální aktivitě",
-      "Příznaky přetrvávají nejméně 6 měsíců a způsobují výraznou tíseň nebo mezilidské obtíže"
+      "Poruchy pohlavní identity přesunuty v MKN-11 do kapitoly HA jako Gender Incongruence"
     ]
   },
   {
@@ -12946,8 +12929,7 @@
       "dsm5": "302.85"
     },
     "kriteria_mkn11": [
-      "Porucha erekcí, lubrikace nebo jiných fyziologických reakcí při sexuální aktivitě",
-      "Příznaky přetrvávají nejméně 6 měsíců a způsobují výraznou tíseň nebo mezilidské obtíže"
+      "Viz MKN-11 Gender inkongruence v adolescenci nebo dospělosti (HA60) – přesunuta mimo psychiatrickou klasifikaci"
     ]
   },
   {
@@ -12981,8 +12963,7 @@
       "dsm5": null
     },
     "kriteria_mkn11": [
-      "Porucha erekcí, lubrikace nebo jiných fyziologických reakcí při sexuální aktivitě",
-      "Příznaky přetrvávají nejméně 6 měsíců a způsobují výraznou tíseň nebo mezilidské obtíže"
+      "Viz MKN-11 Gender inkongruence v adolescenci nebo dospělosti (HA60) – přesunuta mimo psychiatrickou klasifikaci"
     ]
   },
   {
@@ -13016,8 +12997,7 @@
       "dsm5": "302.6"
     },
     "kriteria_mkn11": [
-      "Porucha pohlavního vzrušení způsobující výraznou tíseň nebo obtíže v mezilidských vztazích",
-      "Příznaky přetrvávají nejméně 6 měsíců"
+      "Viz MKN-11 Gender inkongruence v dětství (HA61) – přesunuta mimo psychiatrickou klasifikaci"
     ]
   },
   {
@@ -13045,7 +13025,10 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Viz MKN-11 Jiná gender inkongruence – přesunuta mimo psychiatrickou klasifikaci"
+    ]
   },
   {
     "id": "F64.9",
@@ -13070,7 +13053,10 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": "302.85"
-    }
+    },
+    "kriteria_mkn11": [
+      "Viz MKN-11 Gender inkongruence NS – přesunuta mimo psychiatrickou klasifikaci"
+    ]
   },
   {
     "id": "F65",
@@ -13434,8 +13420,7 @@
       "dsm5": "302.9"
     },
     "kriteria_mkn11": [
-      "Porucha erekcí, lubrikace nebo jiných fyziologických reakcí při sexuální aktivitě",
-      "Příznaky přetrvávají nejméně 6 měsíců a způsobují výraznou tíseň nebo mezilidské obtíže"
+      "Psychosexuální vývojové poruchy – v MKN-11 přesunuty mimo psychiatrickou klasifikaci"
     ]
   },
   {
@@ -13467,7 +13452,10 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha sexuálního vyzrávání – v MKN-11 přesunuta mimo psychiatrickou klasifikaci"
+    ]
   },
   {
     "id": "F66.1",
@@ -13498,7 +13486,10 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Egodystonická sexuální orientace – v MKN-11 přesunuta mimo psychiatrickou klasifikaci"
+    ]
   },
   {
     "id": "F66.2",
@@ -13526,7 +13517,10 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Porucha sexuálních vztahů – v MKN-11 přesunuta mimo psychiatrickou klasifikaci"
+    ]
   },
   {
     "id": "F66.8",
@@ -13552,7 +13546,10 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Jiné psychosexuální vývojové poruchy – v MKN-11 přesunuty mimo psychiatrickou klasifikaci"
+    ]
   },
   {
     "id": "F66.9",
@@ -13577,7 +13574,10 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Psychosexuální vývojová porucha NS – v MKN-11 přesunuta mimo psychiatrická"
+    ]
   },
   {
     "id": "F68",
@@ -16510,10 +16510,7 @@
       "dsm5": "307.20"
     },
     "kriteria_mkn11": [
-      "Přítomnost motorických nebo vokálních tiků (opakující se, rychlé, neplánované pohyby nebo vokalizace)",
-      "Trvají nejméně 1 rok od nástupu první tikvé",
-      "Nástup před 18. rokem věku",
-      "Nejsou způsobeny jiným zdravotním stavem ani účinky látky"
+      "Tikové poruchy přesunuty v MKN-11 do kapitoly 08 (Nervová soustava: 8A05)"
     ]
   },
   {
@@ -16545,10 +16542,7 @@
       "dsm5": "307.21"
     },
     "kriteria_mkn11": [
-      "Přítomnost motorických nebo vokálních tiků (opakující se, rychlé, neplánované pohyby nebo vokalizace)",
-      "Trvají nejméně 1 rok od nástupu první tikvé",
-      "Nástup před 18. rokem věku",
-      "Nejsou způsobeny jiným zdravotním stavem ani účinky látky"
+      "Viz MKN-11 Přechodná tiková porucha (8A05) – přesunuta mimo psychiatrickou klasifikaci"
     ]
   },
   {
@@ -16581,10 +16575,7 @@
       "dsm5": "307.22"
     },
     "kriteria_mkn11": [
-      "Přítomnost motorických nebo vokálních tiků (opakující se, rychlé, neplánované pohyby nebo vokalizace)",
-      "Trvají nejméně 1 rok od nástupu první tikvé",
-      "Nástup před 18. rokem věku",
-      "Nejsou způsobeny jiným zdravotním stavem ani účinky látky"
+      "Viz MKN-11 Chronická motorická nebo vokální tiková porucha (8A05) – přesunuta mimo psychiatrickou klasifikaci"
     ]
   },
   {
@@ -16620,8 +16611,7 @@
       "dsm5": "307.23"
     },
     "kriteria_mkn11": [
-      "Tourettův syndrom: přítomnost jak motorických (nejméně 2 různé), tak vokálních tiků (nemusí být simultánní)",
-      "Tiky přetrvávají nejméně 1 rok a nástup je před 18. rokem"
+      "Viz MKN-11 Tourettův syndrom (8A05.00) – přesunuta mimo psychiatrickou klasifikaci"
     ]
   },
   {
@@ -16650,7 +16640,10 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": null
-    }
+    },
+    "kriteria_mkn11": [
+      "Viz MKN-11 Jiné tikové poruchy (8A05) – přesunuty mimo psychiatrickou klasifikaci"
+    ]
   },
   {
     "id": "F95.9",
@@ -16676,7 +16669,10 @@
     "mapovani": {
       "mkn11": null,
       "dsm5": "307.20"
-    }
+    },
+    "kriteria_mkn11": [
+      "Viz MKN-11 Tiková porucha NS (8A05) – přesunuta mimo psychiatrickou klasifikaci"
+    ]
   },
   {
     "id": "F98",
@@ -16876,14 +16872,13 @@
       "organické poruchy"
     ],
     "mapovani": {
-      "mkn11": "8A05",
+      "mkn11": "6A06",
       "dsm5": "307.3"
     },
     "kriteria_mkn11": [
-      "Přítomnost motorických nebo vokálních tiků (opakující se, rychlé, neplánované pohyby nebo vokalizace)",
-      "Trvají nejméně 1 rok od nástupu první tikvé",
-      "Nástup před 18. rokem věku",
-      "Nejsou způsobeny jiným zdravotním stavem ani účinky látky"
+      "Opakovane, jakoby nereflektovane pohybove chovani (stereotypie), ktere narusuje normalni aktivity nebo vede k sebeposkozenı",
+      "Chovani neni lepe vysvetleno tikovou poruchou, OCD, trichotilomanii ani znamkou jine dusevni poruchy",
+      "Chovani je pritomno nejmenej 4 tydny; je-li asociovano se znamym genetickym stavem, neurologickym onemocnenim nebo faktory prostredi, je dostatecne zavazne pro samostatnou klinickou pozornost"
     ]
   },
   {
