@@ -3331,9 +3331,7 @@
         {
           "skupina_latek": "Náhradní nikotinová terapie (NRT)",
           "priklady_generik": [
-            "nikotinová náplast",
-            "nikotinová žvýkačka",
-            "nikotinový inhalátor"
+            "nikotin"
           ],
           "dostupnost_cr_sukl": true,
           "sukl_poznamka": "NRT dostupná v ČR (volně prodejná). Náplast (16h nebo 24h) + rychle působící forma (žvýkačka, pastilky) pro optimální výsledky.",
