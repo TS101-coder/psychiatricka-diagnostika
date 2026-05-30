@@ -2711,7 +2711,8 @@
         {
           "skupina_latek": "Opioidní substituční terapie (OST) – buprenorfin/naloxon",
           "priklady_generik": [
-            "buprenorfin/naloxon"
+            "buprenorfin",
+            "naloxon"
           ],
           "dostupnost_cr_sukl": true,
           "sukl_poznamka": "Kombinovaný přípravek buprenorfin/naloxon (Suboxone a generika) registrován v ČR. Parciální opioidní agonista – nižší riziko předávkování než metadon. Naloxon brání i.v. zneužití. Výhodný pro ambulantní léčbu.",
@@ -2822,7 +2823,7 @@
           "skupina_latek": "Léčba dle dominantní substance + aditivní přístupy",
           "priklady_generik": [
             "diazepam",
-            "buprenorfin/naloxon",
+            "buprenorfin",
             "naltrexon"
           ],
           "dostupnost_cr_sukl": true,
