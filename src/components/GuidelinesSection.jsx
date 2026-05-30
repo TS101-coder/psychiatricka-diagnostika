@@ -80,7 +80,7 @@ function DrugCard({ drug, index, colorClass, stavDostupnosti, nacitam }) {
         {/* Informační badge – neznamená "nedostupné", jen "výpadek u části výrobců" */}
         {pocetSVypadkem > 0 && !nacitam && (
           <span className="text-xs text-amber-700 font-medium shrink-0">
-            ⚠ {pocetSVypadkem} látka s výpadkem výrobce
+            ⚠ {pocetSVypadkem} {pocetSVypadkem === 1 ? 'látka' : pocetSVypadkem < 5 ? 'látky' : 'látek'} s výpadkem výrobce
           </span>
         )}
         <svg className={`w-4 h-4 text-slate-400 transition-transform ${open ? 'rotate-180' : ''}`}
