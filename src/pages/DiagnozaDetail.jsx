@@ -322,7 +322,10 @@ export default function DiagnozaDetail() {
                     </div>
               )}
               {aktivniZalozka === 'psycho' && (
-                <PsychoterapieSection psychoGuideline={psychoGuideline} />
+                <PsychoterapieSection
+                  psychoGuideline={psychoGuideline}
+                  nefarmakologickaTerapie={guideline?.terapie_prvni_volby?.nefarmakologicka_terapie || []}
+                />
               )}
             </section>
           )}
