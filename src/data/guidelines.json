@@ -1998,7 +1998,7 @@
           "priklady_generik": [
             "risperidon",
             "aripiprazol",
-            "quetiapine",
+            "quetiapin",
             "haloperidol"
           ],
           "dostupnost_cr_sukl": true,
@@ -6171,7 +6171,7 @@
           "priklady_generik": [
             "sertralin",
             "valproát",
-            "quetiapine"
+            "quetiapin"
           ],
           "dostupnost_cr_sukl": true,
           "sukl_poznamka": "F62.0 (trvalá změna po katastrofickém zážitku) a F62.1 (po psychiatrické nemoci) – farmakoterapie cílí na komorbidní příznaky (deprese, anxieta, impulzivita). Psychoterapie je primární."
