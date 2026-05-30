@@ -3,6 +3,7 @@ import { useSearchParams, useNavigate } from 'react-router-dom'
 import { useDiagnozy } from '../hooks/useDiagnozy'
 import { vyhledej, porovnejDiagnozy, getKategorieBarva, BARVA_CLASSES } from '../utils/helpers'
 import DiagnozaKarta from '../components/DiagnozaKarta'
+import ComparisonMatrix from '../components/ComparisonMatrix'
 
 const MAX = 2  // porovnáváme vždy 2 diagnózy
 
@@ -103,6 +104,14 @@ export default function DifferentialPage() {
               )
             })}
           </div>
+
+          {/* Taxonomie příznaků — strukturované srovnání symptomových klíčů */}
+          <ComparisonMatrix
+            diagnozaA={vybrane[0]}
+            diagnozaB={vybrane[1]}
+            barvaA={bcs[0]}
+            barvaB={bcs[1]}
+          />
 
           {/* Tabulka klinických odlišností */}
           {srovnani.srovnaniRows.length > 0 && (
