@@ -249,7 +249,7 @@ export default function Sidebar({ open }) {
       </div>
 
       {/* Differential */}
-      <div className="px-4 pt-3 pb-1 border-b border-slate-100">
+      <div className="px-4 py-2 border-b border-slate-100">
         <NavLink
           to="/diferencialni"
           className={({ isActive }) =>
@@ -263,9 +263,6 @@ export default function Sidebar({ open }) {
           </svg>
           Diferenciální diagnostika
         </NavLink>
-
-        {/* Škály */}
-        <SkalySekce navigate={navigate} />
       </div>
 
       {/* Společný scrollovatelný blok – MKN-10 + MKN-11 pod sebou */}
@@ -502,8 +499,13 @@ export default function Sidebar({ open }) {
         )}
         </div>
 
-
       </div>
+
+      {/* ════ ŠKÁLY — pevně dole ════════════════════════════════════ */}
+      <div className="border-t-2 border-rose-100 bg-rose-50/40 shrink-0 max-h-72 overflow-y-auto">
+        <SkalySekce navigate={navigate} />
+      </div>
+
     </aside>
   )
 }

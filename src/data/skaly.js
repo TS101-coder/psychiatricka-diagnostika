@@ -684,6 +684,7 @@ export const SKALY = [
     nazev: 'Epworthova škála spavosti',
     kategorie: 'spanek',
     popis: '8-položkový nástroj pro hodnocení denní spavosti. Hodnotí pravděpodobnost podřimování v různých situacích.',
+    licencniUpozorneni: '© Epworth Sleep Centre, M.W. Johns. Škála je volně dostupná pro nekomerční klinické použití. Komerční využití vyžaduje licenci.',
     casNaplneni: '3–5 min',
     pocetOtazek: 8,
     castoU: ['F51.1', 'F51'],

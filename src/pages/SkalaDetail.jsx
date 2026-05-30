@@ -284,14 +284,19 @@ export default function SkalaDetail() {
       )}
 
       {/* Zdroj */}
-      <div className="mt-4 pt-4 border-t border-slate-100 pb-8">
+      <div className="mt-4 pt-4 border-t border-slate-100 pb-8 space-y-1.5">
         <p className="text-xs text-slate-400">
           <span className="font-medium">Zdroj: </span>{skala.zdroj}
           {skala.url && (
             <> · <a href={skala.url} target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">{skala.url}</a></>
           )}
         </p>
-        <p className="text-xs text-slate-400 mt-1">
+        {skala.licencniUpozorneni && (
+          <p className="text-xs text-amber-700 bg-amber-50 border border-amber-200 rounded px-2 py-1.5">
+            ℹ️ <span className="font-medium">Licence: </span>{skala.licencniUpozorneni}
+          </p>
+        )}
+        <p className="text-xs text-slate-400">
           Tento nástroj slouží pouze jako podpůrný klinický nástroj a nenahrazuje klinické vyšetření.
         </p>
       </div>
