@@ -91,16 +91,25 @@ export default function DifferentialPage() {
             </button>
           </div>
 
-          {/* Záhlaví diagnóz */}
+          {/* Záhlaví diagnóz — kliknutí přejde na detail */}
           <div className="grid grid-cols-2 gap-4 print-section">
             {vybrane.map((d, idx) => {
               const bc = bcs[idx]
               return (
-                <div key={d.id} className={`rounded-xl p-4 border-2 ${bc.border} ${bc.bg}`}>
-                  <span className={`font-mono text-base font-bold ${bc.text}`}>{d.kod}</span>
+                <button
+                  key={d.id}
+                  onClick={() => navigate(`/diagnoza/${d.id}`)}
+                  className={`rounded-xl p-4 border-2 text-left transition-opacity hover:opacity-80 active:opacity-60 no-print ${bc.border} ${bc.bg}`}
+                >
+                  <div className="flex items-start justify-between gap-2">
+                    <span className={`font-mono text-base font-bold ${bc.text}`}>{d.kod}</span>
+                    <svg className={`w-4 h-4 shrink-0 mt-0.5 opacity-50 ${bc.text}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                    </svg>
+                  </div>
                   <p className="font-semibold text-slate-800 text-sm mt-1 leading-snug">{d.nazev_cz}</p>
                   <p className="text-xs text-slate-500 mt-1">{d.kategorie}</p>
-                </div>
+                </button>
               )
             })}
           </div>
