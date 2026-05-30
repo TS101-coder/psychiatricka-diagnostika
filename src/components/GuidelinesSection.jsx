@@ -8,7 +8,15 @@ import { useSuklDostupnost } from '../hooks/useSuklDostupnost'
  * Jeden INN má zpravidla více výrobců – kliknutím se otevře SÚKL pro ověření.
  */
 function SuklBadge({ generikum, stavDostupnosti, nacitam }) {
+  const [zkopirovan, setZkopirovan] = useState(false)
   const stav = stavDostupnosti[generikum]
+
+  // Zkopíruje název léčivé látky do schránky – uživatel vloží do SÚKL vyhledávacího pole
+  function handleClick() {
+    navigator.clipboard.writeText(generikum).catch(() => {})
+    setZkopirovan(true)
+    setTimeout(() => setZkopirovan(false), 2500)
+  }
 
   // Načítání – pulzující badge
   if (nacitam) return (
@@ -19,28 +27,39 @@ function SuklBadge({ generikum, stavDostupnosti, nacitam }) {
 
   const pocet = stav?.pocetVypadku
   const suklUrl = stav?.suklUrl
+  const tooltipBase = `Kliknutím otevřete SÚKL přehled léčiv.\nNázev "${generikum}" bude zkopírován do schránky – vložte do vyhledávacího pole SÚKL.`
 
   // Chyba načítání nebo neznámý stav
   if (pocet === null || pocet === undefined) return (
     <a href={suklUrl} target="_blank" rel="noopener noreferrer"
+      onClick={handleClick}
+      title={tooltipBase}
       className="font-mono text-xs bg-blue-50 text-blue-800 border border-blue-200 px-2 py-0.5 rounded-full hover:bg-blue-100 transition-colors"
-    >{generikum}</a>
+    >{zkopirovan ? '✓ zkopírováno' : generikum}</a>
   )
 
   // Výpadky u některých výrobců – informační hnědooranžový badge + link na SÚKL
   if (pocet > 0) {
-    const tooltip = stav.vypadky?.map(v => `${v.nazev} (${v.obnoveni})`).join('\n') || ''
+    const outageList = stav.vypadky?.map(v => `  • ${v.nazev} (${v.obnoveni})`).join('\n') || ''
+    const tooltip = `⚠ ${pocet} ${pocet === 1 ? 'výrobek' : pocet < 5 ? 'výrobci' : 'výrobců'} s hlášeným výpadkem.\nVýpadek výrobce ≠ nedostupnost látky.\n\n${outageList}\n\n${tooltipBase}`
     return (
       <a
         href={suklUrl}
         target="_blank"
         rel="noopener noreferrer"
-        title={`${pocet} ${pocet === 1 ? 'výrobek' : pocet < 5 ? 'výrobci' : 'výrobců'} s hlášeným výpadkem dle SÚKL.\nVýpadek výrobce ≠ nedostupnost látky.\nKliknutím ověřte dostupnost přímo na SÚKL.\n\n${tooltip}`}
+        onClick={handleClick}
+        title={tooltip}
         className="font-mono text-xs bg-amber-50 text-amber-800 border border-amber-300 px-2 py-0.5 rounded-full hover:bg-amber-100 transition-colors flex items-center gap-1 cursor-pointer"
       >
-        <span>⚠</span>
-        <span>{generikum}</span>
-        <span className="text-amber-600 font-normal">({pocet}×)</span>
+        {zkopirovan ? (
+          <span className="text-green-700 font-medium">✓ zkopírováno</span>
+        ) : (
+          <>
+            <span>⚠</span>
+            <span>{generikum}</span>
+            <span className="text-amber-600 font-normal">({pocet}×)</span>
+          </>
+        )}
       </a>
     )
   }
@@ -51,10 +70,11 @@ function SuklBadge({ generikum, stavDostupnosti, nacitam }) {
       href={suklUrl}
       target="_blank"
       rel="noopener noreferrer"
-      title={`Žádné hlášené výpadky dle SÚKL. Kliknutím ověřte na SÚKL.`}
+      onClick={handleClick}
+      title={tooltipBase}
       className="font-mono text-xs bg-blue-50 text-blue-800 border border-blue-200 px-2 py-0.5 rounded-full hover:bg-blue-100 transition-colors"
     >
-      {generikum}
+      {zkopirovan ? <span className="text-green-700">✓ zkopírováno</span> : generikum}
     </a>
   )
 }
