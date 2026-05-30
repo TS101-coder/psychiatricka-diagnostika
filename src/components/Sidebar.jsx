@@ -2,6 +2,7 @@ import { NavLink, useNavigate } from 'react-router-dom'
 import { useKategorie, useDiagnozy } from '../hooks/useDiagnozy'
 import { useMkn11, getMkn11Barva, MKN11_BARVA_CLASSES } from '../hooks/useMkn11'
 import { useState, useMemo } from 'react'
+import { KATEGORIE_SKAL, SKALY } from '../data/skaly'
 
 // Colour dots per category
 const BARVA_MAP = {
@@ -18,6 +19,118 @@ function ChevronIcon({ open }) {
     >
       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
     </svg>
+  )
+}
+
+// Barvy kategorií škál
+const SKALY_BARVA = {
+  deprese:   'text-yellow-700 bg-yellow-50 border-yellow-200',
+  uzkost:    'text-orange-700 bg-orange-50 border-orange-200',
+  ptsd:      'text-red-700 bg-red-50 border-red-200',
+  bipolarni: 'text-purple-700 bg-purple-50 border-purple-200',
+  psychoza:  'text-violet-700 bg-violet-50 border-violet-200',
+  ocd:       'text-teal-700 bg-teal-50 border-teal-200',
+  alkohol:   'text-amber-700 bg-amber-50 border-amber-200',
+  spanek:    'text-indigo-700 bg-indigo-50 border-indigo-200',
+  adhd:      'text-sky-700 bg-sky-50 border-sky-200',
+  kognitivni:'text-green-700 bg-green-50 border-green-200',
+  obecne:    'text-slate-700 bg-slate-50 border-slate-200',
+}
+
+function SkalySekce({ navigate }) {
+  const [open, setOpen] = useState(false)
+  const [openKat, setOpenKat] = useState(new Set())
+
+  // Skupiny škál dle kategorie
+  const skupiny = useMemo(() => {
+    const map = new Map()
+    for (const kat of KATEGORIE_SKAL) {
+      const skaly = SKALY.filter(s => s.kategorie === kat.id)
+      if (skaly.length > 0) map.set(kat, skaly)
+    }
+    return map
+  }, [])
+
+  function toggleKat(id) {
+    setOpenKat(prev => {
+      const next = new Set(prev)
+      next.has(id) ? next.delete(id) : next.add(id)
+      return next
+    })
+  }
+
+  return (
+    <div className="mt-1">
+      {/* Záhlaví sekce */}
+      <button
+        onClick={() => setOpen(v => !v)}
+        className="w-full flex items-center gap-2 px-3 py-2 rounded-lg text-left hover:bg-rose-50 transition-colors"
+      >
+        <svg className="w-4 h-4 text-rose-600 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
+            d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
+        </svg>
+        <span className="text-sm font-medium text-slate-700 flex-1">Škály a dotazníky</span>
+        <span className="text-xs text-slate-400">{SKALY.length}</span>
+        <ChevronIcon open={open} />
+      </button>
+
+      {open && (
+        <div className="mt-1 space-y-0.5">
+          {[...skupiny.entries()].map(([kat, skaly]) => {
+            const katOpen = openKat.has(kat.id)
+            return (
+              <div key={kat.id}>
+                {/* Kategorie */}
+                <button
+                  onClick={() => toggleKat(kat.id)}
+                  className="w-full flex items-center gap-2 px-3 py-1.5 rounded hover:bg-slate-50 text-left"
+                >
+                  <span className="text-sm shrink-0">{kat.ikona}</span>
+                  <span className="text-xs text-slate-600 font-medium flex-1">{kat.nazev}</span>
+                  <span className="text-xs text-slate-400">{skaly.length}</span>
+                  <ChevronIcon open={katOpen} />
+                </button>
+
+                {/* Škály v kategorii */}
+                {katOpen && (
+                  <div className="ml-5 border-l-2 border-slate-100 space-y-0.5 mb-1">
+                    {skaly.map(skala => (
+                      <button
+                        key={skala.id}
+                        onClick={() => navigate(`/skaly/${skala.id}`)}
+                        className="w-full flex items-center gap-2 pl-3 pr-2 py-1.5 rounded text-left hover:bg-rose-50 group"
+                      >
+                        <span className={`text-xs font-mono font-bold px-1.5 py-0.5 rounded border shrink-0 ${SKALY_BARVA[skala.kategorie] || SKALY_BARVA.obecne}`}>
+                          {skala.zkratka}
+                        </span>
+                        <span className="text-xs text-slate-500 group-hover:text-slate-700 leading-tight line-clamp-1 flex-1">
+                          {skala.pocetOtazek} pol.
+                        </span>
+                      </button>
+                    ))}
+                  </div>
+                )}
+              </div>
+            )
+          })}
+
+          {/* Odkaz na přehled všech */}
+          <NavLink
+            to="/skaly"
+            className={({ isActive }) =>
+              `flex items-center gap-2 px-3 py-2 rounded-lg text-xs transition-colors mt-1
+               ${isActive ? 'bg-rose-50 text-rose-700 font-medium' : 'text-slate-500 hover:bg-slate-50 hover:text-slate-700'}`
+            }
+          >
+            <svg className="w-3 h-3 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 10h16M4 14h16M4 18h7" />
+            </svg>
+            Přehled všech škál
+          </NavLink>
+        </div>
+      )}
+    </div>
   )
 }
 
@@ -136,7 +249,7 @@ export default function Sidebar({ open }) {
       </div>
 
       {/* Differential */}
-      <div className="p-4 border-b border-slate-100">
+      <div className="px-4 pt-3 pb-1 border-b border-slate-100">
         <NavLink
           to="/diferencialni"
           className={({ isActive }) =>
@@ -150,6 +263,9 @@ export default function Sidebar({ open }) {
           </svg>
           Diferenciální diagnostika
         </NavLink>
+
+        {/* Škály */}
+        <SkalySekce navigate={navigate} />
       </div>
 
       {/* Společný scrollovatelný blok – MKN-10 + MKN-11 pod sebou */}
