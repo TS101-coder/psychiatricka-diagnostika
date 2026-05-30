@@ -3,7 +3,8 @@ import react from '@vitejs/plugin-react'
 import https from 'https'
 import { unzipSync } from 'fflate'
 
-// Sdílená logika pro zpracování SÚKL dat (stejná jako v api/sukl-vypadky.js)
+// ── Pomocné funkce pro zpracování SÚKL dat ──────────────────────────────────
+
 function win1250ToUtf8(buffer) {
   const map = [
     0x20AC,0xFFFD,0x201A,0xFFFD,0x201E,0x2026,0x2020,0x2021,
@@ -58,63 +59,77 @@ function parseCsv(text) {
     duvod:    hdr.indexOf('DUVOD_PRERUSENI_UKONCENI'),
     kod:      hdr.indexOf('KOD_SUKL'),
   }
-  const dnes = new Date(); dnes.setHours(0,0,0,0)
+  const dnes = new Date(); dnes.setHours(0, 0, 0, 0)
   const vypadky = []
   for (let i = 1; i < radky.length; i++) {
     const r = radky[i].trim(); if (!r) continue
-    const s = r.split(';').map(c => c.replace(/"/g,'').trim())
+    const s = r.split(';').map(c => c.replace(/"/g, '').trim())
     if (s[idx.typ] !== 'preruseni') continue
     if (s[idx.posledni] !== 'ANO') continue
     const ob = s[idx.obnoveni] || ''
     let aktivni = false; let datum = 'Termín neurčen'
-    if (!ob) { aktivni = true }
-    else {
+    if (!ob) {
+      aktivni = true
+    } else {
       const p = ob.split('.')
       if (p.length === 3) {
-        const d = new Date(+p[2], +p[1]-1, +p[0])
+        const d = new Date(+p[2], +p[1] - 1, +p[0])
         if (d >= dnes) { aktivni = true; datum = ob }
       }
     }
     if (!aktivni) continue
-    vypadky.push({ kodSukl: s[idx.kod]||'', nazev: s[idx.nazev]||'', atc: s[idx.atc]||'', obnoveni: datum, duvod: s[idx.duvod]||'' })
+    vypadky.push({
+      kodSukl: s[idx.kod] || '',
+      nazev:   s[idx.nazev] || '',
+      atc:     s[idx.atc] || '',
+      obnoveni: datum,
+      duvod:   s[idx.duvod] || ''
+    })
   }
   return vypadky
 }
 
-// Cache pro dev server
-let devCache = null; let devCacheTime = 0
+// In-memory cache pro dev server
+let devCache = null
+let devCacheTime = 0
+const CACHE_TTL = 60 * 60 * 1000
+
+// ── Plugin: dev API middleware pro /api/sukl-vypadky ────────────────────────
+function suklApiPlugin() {
+  return {
+    name: 'sukl-api',
+    // configureServer je plugin hook – musí být uvnitř plugin objektu
+    configureServer(server) {
+      server.middlewares.use('/api/sukl-vypadky', async (req, res) => {
+        res.setHeader('Content-Type', 'application/json; charset=utf-8')
+        res.setHeader('Access-Control-Allow-Origin', '*')
+        try {
+          if (devCache && Date.now() - devCacheTime < CACHE_TTL) {
+            res.end(JSON.stringify(devCache))
+            return
+          }
+          console.log('[SÚKL] Stahuji data ze SÚKL (mr.zip)...')
+          const zipBuf = await fetchBuffer('https://opendata.sukl.cz/soubory/MR/mr.zip')
+          const unzipped = unzipSync(new Uint8Array(zipBuf))
+          const csvBuf = unzipped['mr_hlaseni.csv']
+          if (!csvBuf) throw new Error('mr_hlaseni.csv nenalezen v ZIP')
+          const csvText = win1250ToUtf8(Buffer.from(csvBuf))
+          const vypadky = parseCsv(csvText)
+          devCache = { vypadky, aktualizovano: new Date().toISOString() }
+          devCacheTime = Date.now()
+          console.log(`[SÚKL] OK – ${vypadky.length} aktivních výpadků`)
+          res.end(JSON.stringify(devCache))
+        } catch (err) {
+          console.error('[SÚKL] Chyba:', err.message)
+          res.statusCode = 502
+          res.end(JSON.stringify({ chyba: err.message }))
+        }
+      })
+    }
+  }
+}
 
 // https://vite.dev/config/
 export default defineConfig({
-  plugins: [react()],
-  server: {
-    // Middleware pro /api/sukl-vypadky v dev módu (stejná logika jako Vercel funkce)
-    setupMiddleware: undefined,
-  },
-  // configureServer hook
-  configureServer(server) {
-    server.middlewares.use('/api/sukl-vypadky', async (req, res) => {
-      res.setHeader('Content-Type', 'application/json')
-      res.setHeader('Access-Control-Allow-Origin', '*')
-      try {
-        const TTL = 60 * 60 * 1000
-        if (devCache && Date.now() - devCacheTime < TTL) {
-          res.end(JSON.stringify(devCache))
-          return
-        }
-        const zipBuf = await fetchBuffer('https://opendata.sukl.cz/soubory/MR/mr.zip')
-        const unzipped = unzipSync(new Uint8Array(zipBuf))
-        const csvBuf = unzipped['mr_hlaseni.csv']
-        if (!csvBuf) throw new Error('mr_hlaseni.csv nenalezen v ZIP')
-        const csvText = win1250ToUtf8(Buffer.from(csvBuf))
-        const vypadky = parseCsv(csvText)
-        devCache = { vypadky, aktualizovano: new Date().toISOString() }
-        devCacheTime = Date.now()
-        res.end(JSON.stringify(devCache))
-      } catch (err) {
-        res.statusCode = 502
-        res.end(JSON.stringify({ chyba: err.message }))
-      }
-    })
-  }
+  plugins: [react(), suklApiPlugin()],
 })
