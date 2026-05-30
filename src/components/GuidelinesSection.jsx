@@ -35,7 +35,7 @@ function SuklBadge({ generikum, stavDostupnosti, nacitam }) {
         href={suklUrl}
         target="_blank"
         rel="noopener noreferrer"
-        title={`${pocet} výrobek/výrobců s hlášeným výpadkem dle SÚKL.\nVýpadek výrobce ≠ nedostupnost látky.\nKliknutím ověřte dostupnost přímo na SÚKL.\n\n${tooltip}`}
+        title={`${pocet} ${pocet === 1 ? 'výrobek' : pocet < 5 ? 'výrobci' : 'výrobců'} s hlášeným výpadkem dle SÚKL.\nVýpadek výrobce ≠ nedostupnost látky.\nKliknutím ověřte dostupnost přímo na SÚKL.\n\n${tooltip}`}
         className="font-mono text-xs bg-amber-50 text-amber-800 border border-amber-300 px-2 py-0.5 rounded-full hover:bg-amber-100 transition-colors flex items-center gap-1 cursor-pointer"
       >
         <span>⚠</span>
