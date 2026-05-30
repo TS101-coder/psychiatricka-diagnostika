@@ -758,6 +758,143 @@ export const SKALY = [
     },
     poznamka: 'Skóre 0–25 bodů → vynásobit 4 pro procenta (0–100 %). Skóre ≤ 50 % (≤12) → doporučen PHQ-9.',
   },
+
+  // ════════════════════════════════════════════════
+  // KOGNICE
+  // ════════════════════════════════════════════════
+
+  {
+    id: 'mmse',
+    zkratka: 'MMSE',
+    nazev: 'Mini Mental State Examination',
+    kategorie: 'kognitivni',
+    popis: 'Standardní screeningový test kognitivních funkcí. Hodnotí orientaci, paměť, pozornost, řeč a konstruktivní praxis. Administruje klinický pracovník. Celkem 30 bodů.',
+    casNaplneni: '5–10 min (klinické interview)',
+    pocetOtazek: 11,
+    castoU: ['F00', 'F01', 'F02', 'F03', 'F05', 'F06.7'],
+    zdroj: 'Folstein MF, Folstein SE, McHugh PR (1975). J Psychiatr Res. Originál volně dostupný. Formátovaná verze © PAR Inc. – pro klinické nekomerční použití bezplatné.',
+    licencniUpozorneni: 'Originál MMSE (1975) je akademická publikace, volně používaná v ČR. Formátovaná verze © Psychological Assessment Resources (PAR) – copyright vymáhaný primárně pro komerční produkty v USA. Pro nekomerční klinické použití v ČR běžně bezplatné.',
+    instrukce: 'Klinický pracovník administruje test pacientovi. Každý bod zaznamená za správnou odpověď. Body sečtěte po dokončení všech sekcí.',
+    otazky: [
+      {
+        id: 1,
+        text: 'Orientace časem (5 bodů) — Zeptejte se: „Který je rok? Roční období? Měsíc? Datum? Den v týdnu?"',
+        odpovedi: [
+          { label: '0 – Žádná správná odpověď', hodnota: 0 },
+          { label: '1 – 1 správně', hodnota: 1 },
+          { label: '2 – 2 správně', hodnota: 2 },
+          { label: '3 – 3 správně', hodnota: 3 },
+          { label: '4 – 4 správně', hodnota: 4 },
+          { label: '5 – Vše správně (rok, roč. obd., měsíc, datum, den)', hodnota: 5 },
+        ],
+      },
+      {
+        id: 2,
+        text: 'Orientace místem (5 bodů) — Zeptejte se: „V jaké jsme zemi? Kraji/regionu? Městě? Budově/nemocnici? V jakém patře/oddělení?"',
+        odpovedi: [
+          { label: '0', hodnota: 0 },
+          { label: '1', hodnota: 1 },
+          { label: '2', hodnota: 2 },
+          { label: '3', hodnota: 3 },
+          { label: '4', hodnota: 4 },
+          { label: '5 – Vše správně (země, kraj, město, budova, patro)', hodnota: 5 },
+        ],
+      },
+      {
+        id: 3,
+        text: 'Registrace — Opakování 3 slov (3 body) — Řekněte zřetelně tři nesouvisející slova (např. „jablko – stůl – koruna"). Požádejte pacienta, aby je zopakoval. Zaznamenejte počet správně zopakovaných slov při prvním pokusu.',
+        odpovedi: [
+          { label: '0 – Žádné slovo nezopakoval/a', hodnota: 0 },
+          { label: '1 – 1 slovo správně', hodnota: 1 },
+          { label: '2 – 2 slova správně', hodnota: 2 },
+          { label: '3 – Všechna 3 slova správně', hodnota: 3 },
+        ],
+      },
+      {
+        id: 4,
+        text: 'Pozornost a počítání (5 bodů) — Varianta A: Odečítejte 7 od 100 pětkrát za sebou (100→93→86→79→72→65). Nebo varianta B: Hláskujte slovo „SVĚTLO" pozpátku (O-L-T-V-Ě-S). Skórujte počet správných kroků.',
+        odpovedi: [
+          { label: '0 – Žádný správný krok', hodnota: 0 },
+          { label: '1 – 1 správně', hodnota: 1 },
+          { label: '2 – 2 správně', hodnota: 2 },
+          { label: '3 – 3 správně', hodnota: 3 },
+          { label: '4 – 4 správně', hodnota: 4 },
+          { label: '5 – Všech 5 kroků správně', hodnota: 5 },
+        ],
+      },
+      {
+        id: 5,
+        text: 'Vybavení — Vzpomínání 3 slov (3 body) — Požádejte pacienta, aby si vzpomněl na 3 slova z registrace. 1 bod za každé správně vybavené slovo.',
+        odpovedi: [
+          { label: '0 – Žádné slovo si nevybavil/a', hodnota: 0 },
+          { label: '1 – 1 slovo', hodnota: 1 },
+          { label: '2 – 2 slova', hodnota: 2 },
+          { label: '3 – Všechna 3 slova', hodnota: 3 },
+        ],
+      },
+      {
+        id: 6,
+        text: 'Pojmenování předmětů (2 body) — Ukažte hodinky a tužku (nebo jiné běžné předměty). Požádejte pacienta, aby každý pojmenoval.',
+        odpovedi: [
+          { label: '0 – Žádný pojmenoval/a', hodnota: 0 },
+          { label: '1 – 1 předmět správně', hodnota: 1 },
+          { label: '2 – Oba předměty správně', hodnota: 2 },
+        ],
+      },
+      {
+        id: 7,
+        text: 'Opakování věty (1 bod) — Požádejte pacienta, aby zopakoval: „Žádné ale, žádné kdyby, žádné pokud." (nebo jinou větu bez osobního zájmena). Správně pouze při prvním pokusu a doslova.',
+        odpovedi: [
+          { label: '0 – Nezopakoval/a správně', hodnota: 0 },
+          { label: '1 – Správně zopakoval/a', hodnota: 1 },
+        ],
+      },
+      {
+        id: 8,
+        text: 'Třístupňový příkaz (3 body) — Předejte pacientovi list papíru a řekněte: „Vezměte papír pravou rukou, přeložte ho na polovinu a položte na podlahu." 1 bod za každý správně provedený krok.',
+        odpovedi: [
+          { label: '0 – Žádný krok', hodnota: 0 },
+          { label: '1 – 1 krok správně', hodnota: 1 },
+          { label: '2 – 2 kroky správně', hodnota: 2 },
+          { label: '3 – Všechny 3 kroky správně', hodnota: 3 },
+        ],
+      },
+      {
+        id: 9,
+        text: 'Čtení a porozumění (1 bod) — Napište velkými písmeny na papír: „ZAVŘETE OČI." Požádejte pacienta, aby přečetl a udělal to, co je napsáno.',
+        odpovedi: [
+          { label: '0 – Nezavřel/a oči', hodnota: 0 },
+          { label: '1 – Přečetl/a a zavřel/a oči', hodnota: 1 },
+        ],
+      },
+      {
+        id: 10,
+        text: 'Psaní věty (1 bod) — Požádejte pacienta, aby napsal libovolnou smysluplnou větu (subjekt + sloveso, alespoň 2 slova). Nehodnotí se pravopis.',
+        odpovedi: [
+          { label: '0 – Nenapsal/a smysluplnou větu', hodnota: 0 },
+          { label: '1 – Napsal/a smysluplnou větu', hodnota: 1 },
+        ],
+      },
+      {
+        id: 11,
+        text: 'Překreslení vzoru (1 bod) — Předložte pacientovi vzor dvou překrývajících se pětiúhelníků a požádejte ho, aby ho překreslil. Správně = 10 rohů, oba pětiúhelníky rozpoznatelné, překryv patrný.',
+        odpovedi: [
+          { label: '0 – Nesplnil/a kritéria', hodnota: 0 },
+          { label: '1 – Správně překreslil/a', hodnota: 1 },
+        ],
+      },
+    ],
+    skoring: {
+      rozsah: [0, 30],
+      interpretace: [
+        { od: 24, do: 30, label: 'Normální kognitivní funkce',       barva: 'green',  popis: 'Bez kognitivního deficitu nebo minimální deficit odpovídající věku.' },
+        { od: 18, do: 23, label: 'Mírná kognitivní porucha',         barva: 'yellow', popis: 'Suspektní kognitivní deficity — zvážit podrobnější neuropsychologické vyšetření.' },
+        { od: 12, do: 17, label: 'Středně závažná demence',          barva: 'orange', popis: 'Výrazné kognitivní deficity — doporučeno komplexní neuropsychologické a neurologické vyšetření.' },
+        { od: 0,  do: 11, label: 'Těžká demence',                    barva: 'red',    popis: 'Závažné kognitivní postižení — nutná hospitalizace nebo intenzivní péče.' },
+      ],
+    },
+    poznamka: 'MMSE je screeningový nástroj — výsledky mohou být ovlivněny vzděláním, kulturou, věkem a smyslovými deficity. Skóre 24+ nevylučuje demenci u vzdělanějších pacientů. Interpretujte vždy v klinickém kontextu.',
+  },
 ]
 
 export default SKALY
