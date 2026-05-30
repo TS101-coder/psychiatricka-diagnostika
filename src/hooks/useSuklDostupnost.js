@@ -105,8 +105,9 @@ export function useSuklDostupnost(generika) {
             return normNazev.includes(normGen)
           })
 
-          // URL pro přímé vyhledávání na SÚKL prehledy
-          const suklUrl = `https://prehledy.sukl.cz/prehled_leciv.html#/vyhledavani?searchText=${encodeURIComponent(generikum)}`
+          // URL na SÚKL přehled léčiv (nový portál gov.cz)
+          // SÚKL nepodporuje předvyplnění hledání přes URL – název se zkopíruje do schránky při kliknutí
+          const suklUrl = 'https://prehledy.sukl.gov.cz/prehled_leciv.html#/'
 
           if (shody.length > 0) {
             // Seřaď: nejnovější obnovení první, neurčené nakonec
@@ -134,7 +135,7 @@ export function useSuklDostupnost(generika) {
         generika.forEach(g => {
           result[g] = {
             pocetVypadku: null, // null = neznámé (chyba načítání)
-            suklUrl: `https://prehledy.sukl.cz/prehled_leciv.html#/vyhledavani?searchText=${encodeURIComponent(g)}`
+            suklUrl: 'https://prehledy.sukl.gov.cz/prehled_leciv.html#/'
           }
         })
         setStavDostupnosti(result)
