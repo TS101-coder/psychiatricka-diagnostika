@@ -1,0 +1,495 @@
+[
+  {
+    "kod_mkn10": "F32",
+    "alternativni_kody": ["F32.0", "F32.1", "F32.2", "F33"],
+    "nazev_poruchy": "Depresivní fáze / Recidivující depresivní porucha",
+    "psychoterapie_prvni_volby": [
+      {
+        "metoda": "Kognitivně-behaviorální terapie (KBT) deprese (Beckův protokol)",
+        "uroven_evidence_apa": "Strong Support (Vysoká účinnost)",
+        "struktura_a_konkretni_postupy": [
+          {
+            "nazev_modulu": "Behaviorální aktivace",
+            "techniky": [
+              "Sledování denních aktivit a nálady (Activity Scheduling)",
+              "Hodnocení míry uspokojení (Pleasure) a zvládnutí (Mastery) na škále 0–10",
+              "Identifikace a postupné odbourávání vyhýbavého chování (Avoidance Patterns)"
+            ]
+          },
+          {
+            "nazev_modulu": "Kognitivní restrukturalizace",
+            "techniky": [
+              "Identifikace automatických negativních myšlenek (ANM) pomocí 3-sloupcového deníku",
+              "Zkoumání kognitivních zkreslení (katastrofizace, černobílé myšlení, personalizace)",
+              "Sokratovské dotazování – hledání důkazů pro a proti myšlence",
+              "Behaviorální experimenty k testování platnosti depresivních přesvědčení"
+            ]
+          }
+        ],
+        "format_a_frekvence": "Individuální nebo skupinová, standardně 12–20 sezení, frekvence 1× týdně."
+      },
+      {
+        "metoda": "Interpersonální psychoterapie (IPT) pro depresi (Klerman & Weissman protokol)",
+        "uroven_evidence_apa": "Strong Support (Vysoká účinnost)",
+        "struktura_a_konkretni_postupy": [
+          {
+            "nazev_modulu": "Fokusace na interpersonální krizovou doménu",
+            "techniky": [
+              "Terapeut s pacientem vybere jednu ze 4 cílových oblastí: 1. Nezvládnutý zármutek (Grief) po ztrátě blízkého, 2. Interpersonální role-spory (Disputes) v partnerství/rodině, 3. Životní role-tranzice (Transitions) jako rozvod či důchod, 4. Interpersonální deficit (izolace)",
+              "Analýza komunikačních vzorců a nácvik efektivního vyjadřování potřeb",
+              "Rozhodovací analýza a hledání nových sociálních zdrojů"
+            ]
+          }
+        ],
+        "format_a_frekvence": "Striktně časově omezená: 12–16 sezení strukturovaná do počáteční (diagnostické), střední (fokusované) a ukončovací fáze."
+      }
+    ]
+  },
+  {
+    "kod_mkn10": "F33",
+    "alternativni_kody": ["F33.0", "F33.1", "F33.2", "F33.3"],
+    "nazev_poruchy": "Rekurentní depresivní porucha",
+    "psychoterapie_prvni_volby": [
+      {
+        "metoda": "Mindfulness-Based Cognitive Therapy (MBCT)",
+        "uroven_evidence_apa": "Strong Support (Prevence relapsu u ≥ 3 epizod)",
+        "struktura_a_konkretni_postupy": [
+          {
+            "nazev_modulu": "Trénink všímavosti (Mindfulness)",
+            "techniky": [
+              "Body Scan – systematické skenování tělesných pocitů bez hodnocení",
+              "Mindfulness of breathing – 3minutová dechová technika jako kotva přítomnosti",
+              "Decentering – schopnost pozorovat myšlenky jako mentální události, nikoliv fakty"
+            ]
+          },
+          {
+            "nazev_modulu": "Rozpoznání depresivního myšlenkového vzorce",
+            "techniky": [
+              "Identifikace varovných příznaků relapsu (individuální seznam prodromů)",
+              "Akční plán při hrozícím relapsu (co dělat, koho kontaktovat)",
+              "Cultivation of compassion – sebesoucit jako alternativa k ruminaci"
+            ]
+          }
+        ],
+        "format_a_frekvence": "Skupinová (6–12 účastníků), 8 týdnů, 1× týdně 2 hodiny + domácí cvičení 45 min/den."
+      }
+    ]
+  },
+  {
+    "kod_mkn10": "F20",
+    "alternativni_kody": ["F20.0", "F20.1", "F20.2", "F20.3"],
+    "nazev_poruchy": "Schizofrenie",
+    "psychoterapie_prvni_volby": [
+      {
+        "metoda": "Kognitivně-behaviorální terapie pro psychózy (KBT-p / CBTp)",
+        "uroven_evidence_apa": "Strong Support (Vysoká účinnost – adjuvantní k farmakoterapii)",
+        "struktura_a_konkretni_postupy": [
+          {
+            "nazev_modulu": "Normalizace a destigmatizace",
+            "techniky": [
+              "Edukace o tom, že sluchové halucinace se vyskytují i u běžné populace při spánkové deprivaci nebo extrémním stresu",
+              "De-katastrofizace vzniku psychotické epizody – snížení prožívané hrůzy a úzkosti ze symptomů"
+            ]
+          },
+          {
+            "nazev_modulu": "Práce s bludy a halucinacemi",
+            "techniky": [
+              "Periferní zpochybňování (Gentle Peripheral Questioning) – terapeut nenapadá blud přímo, ale zkoumá logické mezery v pacientově interpretaci reality",
+              "Zkoumání alternativních vysvětlení pro paranoidní nápady",
+              "Testování reality pomocí behaviorálních experimentů v bezpečném prostředí",
+              "Coping Strategy Enhancement (CSE) – nácvik technik pro přehlušení hlasů (subvokální řeč, poslech hudby, soustředěná pozornost)"
+            ]
+          }
+        ],
+        "format_a_frekvence": "Individuální, dlouhodobá (6–12 měsíců), tempo přizpůsobené kognitivnímu deficitu pacienta."
+      },
+      {
+        "metoda": "Behaviorální rodinná psychoedukace (Family-Focused Therapy / FFT)",
+        "uroven_evidence_apa": "Strong Support (Zásadní pro prevenci relapsu)",
+        "struktura_a_konkretni_postupy": [
+          {
+            "nazev_modulu": "Snížení vyjádřené emoce (Expressed Emotion – EE)",
+            "techniky": [
+              "Nácvik komunikačních dovedností v rodině – jasné vyjadřování pozitivních i negativních pocitů, aktivní naslouchání",
+              "Strukturované řešení rodinných problémů (Problem-Solving Training) k zamezení kritiky, hostility a emoční hyperprotektivity vůči pacientovi"
+            ]
+          }
+        ],
+        "format_a_frekvence": "Rodinná sezení za účasti pacienta i klíčových pečujících, minimálně 9–12 měsíců."
+      }
+    ]
+  },
+  {
+    "kod_mkn10": "F31",
+    "alternativni_kody": ["F31.0", "F31.1", "F31.2", "F31.3", "F31.6"],
+    "nazev_poruchy": "Bipolární afektivní porucha",
+    "psychoterapie_prvni_volby": [
+      {
+        "metoda": "Interpersonální a sociální rytmická terapie (IPSRT) dle prof. Frankové",
+        "uroven_evidence_apa": "Strong Support (Klíčová stabilizace biologických rytmů)",
+        "struktura_a_konkretni_postupy": [
+          {
+            "nazev_modulu": "Stabilizace sociálních Zeitgeberů (dárců času)",
+            "techniky": [
+              "Vedení deníku SRM (Social Rhythm Metric) – sledování 5 klíčových denních bodů: čas probuzení, první kontakt s osobou, čas oběda, čas večeře, čas ulehnutí ke spánku",
+              "Striktní stabilizace spánkového cyklu – zabránění spánkové deprivaci jako primárnímu spouštěči mánie"
+            ]
+          },
+          {
+            "nazev_modulu": "Zpracování interpersonálního zármutku",
+            "techniky": [
+              "Terapeutické zpracování traumatu ze ztráty 'zdravého já' – přijetí faktu chronického onemocnění a potřeby dlouhodobé medikace",
+              "Psychoedukace o varovných příznacích nadcházející manické nebo depresivní fáze (individuální profil)"
+            ]
+          }
+        ],
+        "format_a_frekvence": "Individuální, v remisi onemocnění, dlouhodobá (udržovací terapie po dobu několika let)."
+      },
+      {
+        "metoda": "Psychoedukační skupinový program (PGBP – Psychoeducation Group for Bipolar)",
+        "uroven_evidence_apa": "Strong Support (Snižuje počet hospitalizací)",
+        "struktura_a_konkretni_postupy": [
+          {
+            "nazev_modulu": "Edukace o nemoci a léčbě",
+            "techniky": [
+              "Detailní vysvětlení mechanismu bipolární poruchy a farmakoterapie",
+              "Práce s mýty o lithiu a thymostabilizátorech",
+              "Sestavení individuálního krizového plánu (co dělat při prvních příznacích relapsu)"
+            ]
+          }
+        ],
+        "format_a_frekvence": "Skupinový program, 21 sezení, strukturovaný curriculum, ideálně v remisi."
+      }
+    ]
+  },
+  {
+    "kod_mkn10": "F00",
+    "alternativni_kody": ["F00.0", "F00.1", "F00.2", "F01"],
+    "nazev_poruchy": "Demence (Alzheimerova, vaskulární)",
+    "psychoterapie_prvni_volby": [
+      {
+        "metoda": "Kognitivně-stimulační terapie (CST) u mírné až středně těžké demence",
+        "uroven_evidence_apa": "NICE Guidelines Recommended (Zlatý standard nefarmakologické péče)",
+        "struktura_a_konkretni_postupy": [
+          {
+            "nazev_modulu": "Strukturovaná stimulace kognitivních funkcí",
+            "techniky": [
+              "Protokol o 14 sezeních s pevnou strukturou: písnička na uvítanou, práce s orientační tabulí (datum, čas, místo)",
+              "Tematické lekce: kategorizace předmětů (kuchyňské náčiní), slovní asociace, práce s penězi",
+              "Reminiscenční techniky – práce se starými fotografiemi a předměty z dřívějška"
+            ]
+          }
+        ],
+        "format_a_frekvence": "Skupinová (5–8 pacientů), 14 základních sezení, 2× týdně po 45 minut."
+      },
+      {
+        "metoda": "Validizační terapie (Validation Therapy dle Naomi Feil) u pokročilé demence",
+        "uroven_evidence_apa": "Klinicky vysoce podporovaný standard pro zvládání BPSD",
+        "struktura_a_konkretni_postupy": [
+          {
+            "nazev_modulu": "Přijetí vnitřní reality pacienta",
+            "techniky": [
+              "Striktní zákaz konfrontace s realitou – pokud dezorientovaný pacient hledá zesnulou matku, terapeut mu neříká, že matka nežije",
+              "Zrcadlení emocí (Matching emotional tone) – terapeut reaguje na emoční náboj: 'Musela jste ji velmi milovat, že ano?'",
+              "Využití otevřených tázacích zájmen (Kdo, Co, Jak) a vyhýbání se otázce 'Proč', která vyžaduje kognitivní analýzu"
+            ]
+          }
+        ],
+        "format_a_frekvence": "Individuální, aplikovaná personálem nebo rodinnými příslušníky kontinuálně během každodenní péče."
+      }
+    ]
+  },
+  {
+    "kod_mkn10": "F40",
+    "alternativni_kody": ["F40.0", "F40.1", "F40.2"],
+    "nazev_poruchy": "Fobické úzkostné poruchy",
+    "psychoterapie_prvni_volby": [
+      {
+        "metoda": "Expozice in vivo (Exposure Therapy) – Goldový standard pro fobie",
+        "uroven_evidence_apa": "Strong Support (Nejvyšší účinnost pro specifické fobie)",
+        "struktura_a_konkretni_postupy": [
+          {
+            "nazev_modulu": "Sestavení hierarchie obávaných situací",
+            "techniky": [
+              "SUDS škála (Subjective Units of Distress Scale, 0–100) – ohodnocení každé situace pacientem",
+              "Sestavení expozičního žebříčku od nejméně (20 SUDS) po nejvíce (100 SUDS) obávanou situaci",
+              "Detailní popisy scén – terapeut a pacient společně specifikují přesný kontext každé situace"
+            ]
+          },
+          {
+            "nazev_modulu": "Systematická expozice",
+            "techniky": [
+              "Prolongovaná expozice – pacient zůstává v obávané situaci až do poklesu úzkosti o 50 % (habituace)",
+              "Zábrany bezpečnostního chování – identifikace a postupné odstraňování 'bezpečnostních manévrů' (amulet, mobil, doprovod)",
+              "Imaginární expozice jako přípravný krok před expozicí in vivo u těžkých fobií"
+            ]
+          }
+        ],
+        "format_a_frekvence": "Individuální, 8–15 sezení, u specifických fobií někdy i intensivní jednodenní formát (one-session treatment)."
+      }
+    ]
+  },
+  {
+    "kod_mkn10": "F41.0",
+    "alternativni_kody": ["F41"],
+    "nazev_poruchy": "Panická porucha",
+    "psychoterapie_prvni_volby": [
+      {
+        "metoda": "KBT pro panickou poruchu (Clarkův model paniky)",
+        "uroven_evidence_apa": "Strong Support (Nejúčinnější psychologická léčba paniky)",
+        "struktura_a_konkretni_postupy": [
+          {
+            "nazev_modulu": "Psychoedukace o fyziologii paniky",
+            "techniky": [
+              "Vicious Cycle modelu paniky – vysvětlení jak katastrofická interpretace tělesných pocitů (bušení srdce = infarkt) spouští spirálu úzkosti",
+              "Normalizace tělesných příznaků úzkosti – anatomie sympatické odpovědi (fight or flight)"
+            ]
+          },
+          {
+            "nazev_modulu": "Interoceptivní expozice",
+            "techniky": [
+              "Indukce tělesných příznaků paniky v bezpečném prostředí: točení na židli (závratě), hyperventilace (dušnost), skok na místě (bušení srdce)",
+              "Kognitivní restrukturalizace katastrofických interpretací (Co nejhoršího se může stát? Jak pravděpodobné to je?)",
+              "Dechové techniky – pomalé brániční dýchání jako zvládací dovednost (ne vyhýbání)"
+            ]
+          }
+        ],
+        "format_a_frekvence": "Individuální, 12–15 sezení, 1× týdně."
+      }
+    ]
+  },
+  {
+    "kod_mkn10": "F41.1",
+    "alternativni_kody": [],
+    "nazev_poruchy": "Generalizovaná úzkostná porucha (GAD)",
+    "psychoterapie_prvni_volby": [
+      {
+        "metoda": "KBT pro generalizovanou úzkostnou poruchu (Dugas & Robichaud protokol)",
+        "uroven_evidence_apa": "Strong Support (Vysoká účinnost)",
+        "struktura_a_konkretni_postupy": [
+          {
+            "nazev_modulu": "Práce s intolerancí nejistoty",
+            "techniky": [
+              "Psychoedukace o roli intolerancí nejistoty jako udržujícího faktoru GAD",
+              "Expozice nejistotě – postupné vystavování situacím bez jistoty výsledku",
+              "Technika odložení starostí – vyhrazený 'čas na starosti' 20 min/den (worry time)"
+            ]
+          },
+          {
+            "nazev_modulu": "Zpochybnění přesvědčení o užitečnosti starostí",
+            "techniky": [
+              "Průzkum výhod a nevýhod starání se (Pros and Cons of worrying)",
+              "Rozdíl mezi řešitelným a neřešitelným problémem – zaměřit se jen na řešitelné",
+              "Mindfulness jako alternativa k chronické ruminaci"
+            ]
+          }
+        ],
+        "format_a_frekvence": "Individuální, 14–16 sezení, 1× týdně."
+      }
+    ]
+  },
+  {
+    "kod_mkn10": "F42",
+    "alternativni_kody": [],
+    "nazev_poruchy": "Obsedantně-kompulzivní porucha (OCD)",
+    "psychoterapie_prvni_volby": [
+      {
+        "metoda": "Expozice se zábranou reakce (ERP – Exposure and Response Prevention) dle Foa & Kozak",
+        "uroven_evidence_apa": "Strong Support (Zlatý standard pro OCD – stejná nebo vyšší účinnost než farmakoterapie)",
+        "struktura_a_konkretni_postupy": [
+          {
+            "nazev_modulu": "Mapování OCD struktury",
+            "techniky": [
+              "Y-BOCS (Yale-Brown Obsessive Compulsive Scale) – strukturované hodnocení obsesí a kompulzí",
+              "Sestavení individuální mapy spouštěčů → obsesí → kompulzí → krátkodobé úlevy → udržení OCD",
+              "Hierarchie ERP situací na škále distressu (0–100)"
+            ]
+          },
+          {
+            "nazev_modulu": "Expozice se zábranou kompulze",
+            "techniky": [
+              "Imaginativní expozice – mentální konfrontace s obávanou katastrofou bez neutralizace",
+              "In vivo expozice – kontakt s kontaminačním spouštěčem (dotyk kliky) bez mytí rukou",
+              "Prolongovaná expozice – setrvání v situaci až do poklesu SUDS o 50 % bez kompulze",
+              "Generalizace – provádění ERP v různých prostředích a situacích"
+            ]
+          }
+        ],
+        "format_a_frekvence": "Individuální, 16–20 sezení intenzivní ERP, nebo skupinová forma. Domácí ERP úkoly jsou klíčové."
+      }
+    ]
+  },
+  {
+    "kod_mkn10": "F43.1",
+    "alternativni_kody": ["F43"],
+    "nazev_poruchy": "Posttraumatická stresová porucha (PTSD)",
+    "psychoterapie_prvni_volby": [
+      {
+        "metoda": "Trauma-fokusovaná KBT (TF-CBT) / Prolonged Exposure (PE) dle Foa",
+        "uroven_evidence_apa": "Strong Support (Nejsilnější evidence pro PTSD)",
+        "struktura_a_konkretni_postupy": [
+          {
+            "nazev_modulu": "Imaginativní expozice traumatu",
+            "techniky": [
+              "In sensu expozice – podrobné opakované vyprávění traumatické události v přítomném čase (nahrává se a pacient poslouchá doma)",
+              "In vivo expozice – postupná konfrontace s vyhýbanými bezpečnými situacemi spojenými s traumatem",
+              "Processing – po každé expozici terapeut pomáhá pacientovi zpracovat prožitky a modifikovat dysfunkční kognitivní hodnocení"
+            ]
+          }
+        ],
+        "format_a_frekvence": "Individuální, 8–15 sezení, 1–2× týdně."
+      },
+      {
+        "metoda": "EMDR (Eye Movement Desensitization and Reprocessing) dle Shapirové",
+        "uroven_evidence_apa": "Strong Support (WHO i APA Doporučená léčba první linie)",
+        "struktura_a_konkretni_postupy": [
+          {
+            "nazev_modulu": "Standardní EMDR protokol (8 fází)",
+            "techniky": [
+              "Fáze 1–2: Anamnéza, assessment traumatické sítě a příprava pacienta na zpracování",
+              "Fáze 3: Aktivace traumatického vzpomínek (obraz, negativní kognitivní přesvědčení, emoce, SUDS)",
+              "Fáze 4: Desenzitizace – série bilaterálních stimulací (pohyby očí, tapping, zvuk) při simultánní aktivaci traumatické vzpomínky",
+              "Fáze 5: Instalace pozitivního kognice (PC) – VoC škála (Validity of Cognition, 1–7)",
+              "Fáze 6–8: Body Scan, uzavření sezení, přehodnocení na začátku příštího sezení"
+            ]
+          }
+        ],
+        "format_a_frekvence": "Individuální, 8–12 sezení pro jednoduchá traumata, více pro komplexní PTSD."
+      }
+    ]
+  },
+  {
+    "kod_mkn10": "F50",
+    "alternativni_kody": ["F50.0", "F50.1", "F50.2", "F50.3"],
+    "nazev_poruchy": "Poruchy příjmu potravy (Anorexie, Bulimie)",
+    "psychoterapie_prvni_volby": [
+      {
+        "metoda": "Enhanced CBT for Eating Disorders (CBT-E) dle Fairburna",
+        "uroven_evidence_apa": "Strong Support (Nejlépe prokázaná léčba bulimie a BED)",
+        "struktura_a_konkretni_postupy": [
+          {
+            "nazev_modulu": "Regulace příjmu potravy",
+            "techniky": [
+              "Jídelní deník s přesným záznamem (co, kdy, kde, myšlenky, pocity) – základ celé léčby",
+              "Strukturované stravování – 3 jídla + 2–3 svačiny denně v pevných časech bez ohledu na hlad",
+              "Vážení 1× týdně terapeutem (ne každodenní vážení – snižuje ritualistické chování)"
+            ]
+          },
+          {
+            "nazev_modulu": "Práce s jádrovou psychopatologií PPP",
+            "techniky": [
+              "Sdílená formulace – diagram zobrazující udržující faktory (diety → přejídání → kompenzace)",
+              "Kognitivní restrukturalizace přesvědčení o hmotnosti, tvaru těla a jejich vlivu na sebehodnocení",
+              "Expozice tělu – přímé a nepřímé expozice obávaným situacím (plavky, zrcadlo)"
+            ]
+          }
+        ],
+        "format_a_frekvence": "Individuální, 20 sezení pro nekomplikovanou formu nebo 40 sezení pro těžší / komplexní formu."
+      },
+      {
+        "metoda": "Maudsley Approach / FBT (Family-Based Treatment) pro adolescenty s AN",
+        "uroven_evidence_apa": "Strong Support (Nejúčinnější léčba adolescentní anorexie)",
+        "struktura_a_konkretni_postupy": [
+          {
+            "nazev_modulu": "Fáze 1 – Externalizace onemocnění a rodinné prevzetí kontroly",
+            "techniky": [
+              "Terapeut pomáhá rodičům externalizovat anorexii ('AN není vaše dítě, ale nemoc, která ho ovládla')",
+              "Rodiče přebírají 100% kontrolu nad stravováním a váhou dítěte – společné rodinné jídlo každé sezení",
+              "Technika rodinného jídla (Family Meal) – první sezení s jídlem přineseným rodiči, terapeut pozoruje dynamiku"
+            ]
+          },
+          {
+            "nazev_modulu": "Fáze 2–3 – Postupné předávání kontroly adolescentovi",
+            "techniky": [
+              "Jakmile je váha stabilizovaná, kontrola nad jídlem se postupně vrací adolescentovi",
+              "Práce na vývojových tématech adolescence – identita, autonomie, vztahy s vrstevníky"
+            ]
+          }
+        ],
+        "format_a_frekvence": "Rodinná terapie, 15–20 sezení po dobu 6–12 měsíců."
+      }
+    ]
+  },
+  {
+    "kod_mkn10": "F60",
+    "alternativni_kody": ["F60.3", "F60.31"],
+    "nazev_poruchy": "Hraniční porucha osobnosti (BPD)",
+    "psychoterapie_prvni_volby": [
+      {
+        "metoda": "Dialektická behaviorální terapie (DBT) dle Marshi Linehanové",
+        "uroven_evidence_apa": "Strong Support (Zlatý standard pro BPD – nejvyšší evidence)",
+        "struktura_a_konkretni_postupy": [
+          {
+            "nazev_modulu": "Trénink dovedností (Skills Training) – 4 moduly",
+            "techniky": [
+              "Mindfulness (Základní modul) – pozorování, popis, participace bez hodnocení; zaujmout postoj 'Wise Mind' (moudré mysli)",
+              "Distress Tolerance – přežití krize bez zhoršení situace: TIPP (Temperature, Intense exercise, Paced breathing, Paired muscle relaxation), ACCEPTS, IMPROVE",
+              "Emotion Regulation – identifikace emocí, snížení vulnerability (PLEASE: Physical illness, Eating, Avoiding substances, Sleep, Exercise)",
+              "Interpersonal Effectiveness – DEAR MAN (Describe, Express, Assert, Reinforce, Mindful, Appear confident, Negotiate) pro asertivní komunikaci"
+            ]
+          },
+          {
+            "nazev_modulu": "Individuální terapie – práce s cílovými hierarchickými chováními",
+            "techniky": [
+              "Hierarchie cílů: 1. Život ohrožující chování (suicidalita, sebepoškozování), 2. Terapii ohrožující chování (absence, skrývání), 3. QoL ohrožující chování",
+              "Diary Cards – denní záznamy emocí, impulzů, dovedností a problémových chování",
+              "Chain Analysis (Řetězová analýza) – detailní mapování antecedentů a důsledků konkrétního problémového chování"
+            ]
+          }
+        ],
+        "format_a_frekvence": "Kombinace individuální terapie (1× týdně) + skupinový trénink dovedností (2,5 h/týden) po dobu minimálně 1 roku. Telefonický koučink dostupný pro krizové situace."
+      },
+      {
+        "metoda": "Schema Therapy (ST) dle Jeffreyho Younga",
+        "uroven_evidence_apa": "Strong Support (Účinná alternativa DBT pro BPD)",
+        "struktura_a_konkretni_postupy": [
+          {
+            "nazev_modulu": "Identifikace a práce se schématy",
+            "techniky": [
+              "Young Schema Questionnaire (YSQ) – identifikace aktivních maladaptivních schémat (Opuštění, Nedůvěra, Emoční deprivace...)",
+              "Schema Mode mapping – mapování aktuálně aktivního modu: Opuštěné dítě, Hněvivé dítě, Trestající rodič, Zdravý dospělý",
+              "Limited Reparenting – terapeut vědomě naplňuje nenaplněné dětské potřeby v rámci terapeutického vztahu"
+            ]
+          },
+          {
+            "nazev_modulu": "Imaginativní techniky a práce s módy",
+            "techniky": [
+              "Imagery Rescripting – pacient se v imaginaci vrátí do traumatické scény a terapeut (nebo dospělá část pacienta) ji přepíše",
+              "Chair work (Práce s židlemi) – dialog mezi různými mody pacienta prostřednictvím fyzického přesazování"
+            ]
+          }
+        ],
+        "format_a_frekvence": "Individuální, dlouhodobá terapie (2–4 roky), 1× týdně."
+      }
+    ]
+  },
+  {
+    "kod_mkn10": "F90",
+    "alternativni_kody": ["F90.0", "F90.1"],
+    "nazev_poruchy": "ADHD – Hyperkinetická porucha",
+    "psychoterapie_prvni_volby": [
+      {
+        "metoda": "KBT pro dospělé s ADHD (Safren & Otto protokol)",
+        "uroven_evidence_apa": "Moderate/Strong Support (Adjuvantní k farmakoterapii)",
+        "struktura_a_konkretni_postupy": [
+          {
+            "nazev_modulu": "Organizační dovednosti a time management",
+            "techniky": [
+              "Externalizace paměti – systém diářů, to-do listů, připomínek; 'Všechno ven z hlavy'",
+              "Zadání úkolu (Task prioritization) – metoda MIT (Most Important Task) na každý den",
+              "Dělení velkých úkolů (Task breakdown) – technika 'dalšího malého kroku'"
+            ]
+          },
+          {
+            "nazev_modulu": "Kognitivní restrukturalizace ADHD přesvědčení",
+            "techniky": [
+              "Práce s prokrastinací a perfekcionismem ('Musím to udělat perfektně, jinak nezačnu')",
+              "Zvládání emočních výbuchů – krátkodobé strategie regulace (STOP technika, odložení reakce)"
+            ]
+          }
+        ],
+        "format_a_frekvence": "Individuální nebo skupinová, 12–15 sezení, 1× týdně."
+      }
+    ]
+  }
+]
