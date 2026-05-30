@@ -90,20 +90,40 @@ export function useSuklDostupnost(generika) {
 
     globalniNacitani
       .then(vypadky => {
-        // Pro každé generikum hledáme shodu v názvech výpadků ze SÚKL
+        // Pro každé generikum spočítáme VŠECHNY záznamy s výpadkem
+        // (jeden INN může mít výpadky u více výrobců)
         const result = {}
         for (const generikum of generika) {
           const normGen = normalizuj(generikum)
 
-          const nalezeny = vypadky.find(v => {
+          // Najdi VŠECHNY záznamy pro tuto látku (ne jen první)
+          const shody = vypadky.filter(v => {
             const normNazev = normalizuj(v.nazev)
-            // Shoda pokud název léku obsahuje název generika nebo naopak
-            return normNazev.includes(normGen) || normGen.includes(normNazev.split(' ')[0])
+            // Název produktu ze SÚKL musí obsahovat INN jako celé slovo nebo prefix
+            // Příklad: "sertralin" najde "SERTRALIN ARROW 50 MG", "SERTRALINUM AUROBINDO"
+            // ale NE "sertralinum" při hledání "sertal" apod.
+            return normNazev.includes(normGen)
           })
 
-          result[generikum] = nalezeny
-            ? { maVypadek: true, obnoveni: nalezeny.obnoveni, duvod: nalezeny.duvod }
-            : { maVypadek: false, obnoveni: null, duvod: null }
+          // URL pro přímé vyhledávání na SÚKL prehledy
+          const suklUrl = `https://prehledy.sukl.cz/prehled_leciv.html#/vyhledavani?searchText=${encodeURIComponent(generikum)}`
+
+          if (shody.length > 0) {
+            // Seřaď: nejnovější obnovení první, neurčené nakonec
+            const serazene = [...shody].sort((a, b) => {
+              if (a.obnoveni === 'Termín neurčen') return 1
+              if (b.obnoveni === 'Termín neurčen') return -1
+              return a.obnoveni.localeCompare(b.obnoveni)
+            })
+            result[generikum] = {
+              pocetVypadku: shody.length,
+              nejblizsiObnoveni: serazene[0].obnoveni,
+              vypadky: serazene.slice(0, 3), // max 3 pro tooltip
+              suklUrl
+            }
+          } else {
+            result[generikum] = { pocetVypadku: 0, suklUrl }
+          }
         }
         setStavDostupnosti(result)
       })
@@ -111,7 +131,12 @@ export function useSuklDostupnost(generika) {
         console.warn('SÚKL dostupnost:', err.message)
         setChyba('SÚKL data dočasně nedostupná')
         const result = {}
-        generika.forEach(g => { result[g] = { maVypadek: false, obnoveni: null, duvod: null } })
+        generika.forEach(g => {
+          result[g] = {
+            pocetVypadku: null, // null = neznámé (chyba načítání)
+            suklUrl: `https://prehledy.sukl.cz/prehled_leciv.html#/vyhledavani?searchText=${encodeURIComponent(g)}`
+          }
+        })
         setStavDostupnosti(result)
       })
       .finally(() => setNacitam(false))

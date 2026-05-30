@@ -1,47 +1,87 @@
 import { useState, useMemo } from 'react'
 import { useSuklDostupnost } from '../hooks/useSuklDostupnost'
 
-// Badge dostupnosti pro jedno generikum
+/**
+ * Badge pro jedno generikum.
+ * Zobrazuje počet výpadků konkrétních výrobků dle SÚKL.
+ * DŮLEŽITÉ: Výpadek výrobku ≠ nedostupnost látky.
+ * Jeden INN má zpravidla více výrobců – kliknutím se otevře SÚKL pro ověření.
+ */
 function SuklBadge({ generikum, stavDostupnosti, nacitam }) {
   const stav = stavDostupnosti[generikum]
+
+  // Načítání – pulzující badge
   if (nacitam) return (
     <span className="font-mono text-xs bg-slate-100 text-slate-400 border border-slate-200 px-2 py-0.5 rounded-full animate-pulse">
       {generikum}
     </span>
   )
-  if (stav?.maVypadek) return (
-    <span
-      className="font-mono text-xs bg-red-50 text-red-700 border border-red-300 px-2 py-0.5 rounded-full cursor-help"
-      title={`⚠ Výpadek SÚKL – obnovení: ${stav.obnoveni}${stav.duvod ? ' | ' + stav.duvod : ''}`}
-    >
-      ⚠ {generikum}
-    </span>
+
+  const pocet = stav?.pocetVypadku
+  const suklUrl = stav?.suklUrl
+
+  // Chyba načítání nebo neznámý stav
+  if (pocet === null || pocet === undefined) return (
+    <a href={suklUrl} target="_blank" rel="noopener noreferrer"
+      className="font-mono text-xs bg-blue-50 text-blue-800 border border-blue-200 px-2 py-0.5 rounded-full hover:bg-blue-100 transition-colors"
+    >{generikum}</a>
   )
+
+  // Výpadky u některých výrobců – informační hnědooranžový badge + link na SÚKL
+  if (pocet > 0) {
+    const tooltip = stav.vypadky?.map(v => `${v.nazev} (${v.obnoveni})`).join('\n') || ''
+    return (
+      <a
+        href={suklUrl}
+        target="_blank"
+        rel="noopener noreferrer"
+        title={`${pocet} výrobek/výrobců s hlášeným výpadkem dle SÚKL.\nVýpadek výrobce ≠ nedostupnost látky.\nKliknutím ověřte dostupnost přímo na SÚKL.\n\n${tooltip}`}
+        className="font-mono text-xs bg-amber-50 text-amber-800 border border-amber-300 px-2 py-0.5 rounded-full hover:bg-amber-100 transition-colors flex items-center gap-1 cursor-pointer"
+      >
+        <span>⚠</span>
+        <span>{generikum}</span>
+        <span className="text-amber-600 font-normal">({pocet}×)</span>
+      </a>
+    )
+  }
+
+  // Žádné výpadky – modrý badge + link na SÚKL
   return (
-    <span className="font-mono text-xs bg-blue-50 text-blue-800 border border-blue-200 px-2 py-0.5 rounded-full">
+    <a
+      href={suklUrl}
+      target="_blank"
+      rel="noopener noreferrer"
+      title={`Žádné hlášené výpadky dle SÚKL. Kliknutím ověřte na SÚKL.`}
+      className="font-mono text-xs bg-blue-50 text-blue-800 border border-blue-200 px-2 py-0.5 rounded-full hover:bg-blue-100 transition-colors"
+    >
       {generikum}
-    </span>
+    </a>
   )
 }
 
 function DrugCard({ drug, index, colorClass, stavDostupnosti, nacitam }) {
   const [open, setOpen] = useState(index === 0)
 
-  // Zjistíme, zda má alespoň jeden lék aktivní výpadek
-  const maVypadek = drug.priklady_generik?.some(g => stavDostupnosti[g]?.maVypadek)
+  // Počet generik s výpadky (jen pro záhlaví karty)
+  const pocetSVypadkem = drug.priklady_generik?.filter(
+    g => (stavDostupnosti[g]?.pocetVypadku ?? 0) > 0
+  ).length ?? 0
 
   return (
-    <div className={`border rounded-lg overflow-hidden ${maVypadek ? 'border-red-200' : 'border-slate-200'}`}>
+    <div className="border border-slate-200 rounded-lg overflow-hidden">
       <button
         onClick={() => setOpen(v => !v)}
-        className={`w-full flex items-center gap-2 px-3 py-2.5 text-left transition-colors ${maVypadek ? 'bg-red-50 hover:bg-red-100' : 'bg-slate-50 hover:bg-slate-100'}`}
+        className="w-full flex items-center gap-2 px-3 py-2.5 bg-slate-50 hover:bg-slate-100 text-left transition-colors"
       >
         <span className={`text-xs font-bold px-2 py-0.5 rounded ${colorClass}`}>
           {index + 1}
         </span>
         <span className="text-sm font-semibold text-slate-800 flex-1">{drug.skupina_latek}</span>
-        {maVypadek && (
-          <span className="text-xs text-red-600 font-semibold shrink-0">⚠ Výpadek SÚKL</span>
+        {/* Informační badge – neznamená "nedostupné", jen "výpadek u části výrobců" */}
+        {pocetSVypadkem > 0 && !nacitam && (
+          <span className="text-xs text-amber-700 font-medium shrink-0">
+            ⚠ {pocetSVypadkem} látka s výpadkem výrobce
+          </span>
         )}
         <svg className={`w-4 h-4 text-slate-400 transition-transform ${open ? 'rotate-180' : ''}`}
           fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -51,7 +91,7 @@ function DrugCard({ drug, index, colorClass, stavDostupnosti, nacitam }) {
 
       {open && (
         <div className="p-3 space-y-2.5 bg-white text-sm">
-          {/* Generika s SÚKL dostupností */}
+          {/* Generika – každý je odkaz na SÚKL, žlutý badge pokud má výpadky */}
           {drug.priklady_generik?.length > 0 && (
             <div className="space-y-1.5">
               <div className="flex flex-wrap gap-1.5">
@@ -63,20 +103,20 @@ function DrugCard({ drug, index, colorClass, stavDostupnosti, nacitam }) {
                     nacitam={nacitam}
                   />
                 ))}
-                {drug.dostupnost_cr_sukl && !maVypadek && !nacitam && (
+                {drug.dostupnost_cr_sukl && !nacitam && (
                   <span className="text-xs bg-green-50 text-green-700 border border-green-200 px-2 py-0.5 rounded-full">
                     ✓ SÚKL registrováno
                   </span>
                 )}
               </div>
-              {/* Výpadkové detaily */}
-              {drug.priklady_generik.filter(g => stavDostupnosti[g]?.maVypadek).map(g => (
-                <div key={g} className="text-xs text-red-700 bg-red-50 border border-red-200 rounded px-2 py-1">
-                  <span className="font-semibold">{g}</span> – výpadek SÚKL, očekávané obnovení:{' '}
-                  <span className="font-semibold">{stavDostupnosti[g].obnoveni}</span>
-                  {stavDostupnosti[g].duvod && <span className="text-red-500"> ({stavDostupnosti[g].duvod})</span>}
-                </div>
-              ))}
+              {/* Vysvětlivka jen pokud jsou výpadky */}
+              {pocetSVypadkem > 0 && !nacitam && (
+                <p className="text-xs text-amber-700 bg-amber-50 border border-amber-200 rounded px-2 py-1">
+                  ⚠ Číslo v závorce = počet hlášených výpadků konkrétních výrobků dle SÚKL.
+                  Výpadek jednoho výrobce <strong>neznamená nedostupnost látky</strong> –
+                  kliknutím na název ověřte aktuální dostupnost přímo na SÚKL.
+                </p>
+              )}
             </div>
           )}
 
