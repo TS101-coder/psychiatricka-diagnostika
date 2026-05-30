@@ -49,8 +49,11 @@ const PRIZNAKY_KLICE = {
   'F23.8': ['abrupt_onset','delusions_paranoid','hallucinations_auditory'],
   'F23.9': ['abrupt_onset','delusions_paranoid'],
 
-  // ── F24, F28, F29 ────────────────────────────────────────────────
+  // ── F24-F29 ───────────────────────────────────────────────────────
   'F24':   ['delusions_paranoid','social_dysfunction'],
+  'F25':   ['delusions_paranoid','hallucinations_auditory','depressed_mood','elevated_mood','social_dysfunction'],
+  'F25.0': ['delusions_paranoid','hallucinations_auditory','elevated_mood','flight_of_ideas'],
+  'F25.1': ['delusions_paranoid','hallucinations_auditory','depressed_mood','psychomotor_retardation'],
   'F25.2': ['delusions_paranoid','hallucinations_auditory','elevated_mood','depressed_mood'],
   'F25.8': ['delusions_paranoid','hallucinations_auditory','elevated_mood','depressed_mood'],
   'F25.9': ['delusions_paranoid','hallucinations_auditory','elevated_mood','depressed_mood'],
@@ -184,6 +187,90 @@ const PRIZNAKY_KLICE = {
   'F50.2': ['binge_eating','purging','fear_weight_gain','body_image_distortion'],
   'F50.3': ['binge_eating','purging','fear_weight_gain'],
 
+  // ── F02: Demence při jiných chorobách ───────────────────────────
+  'F02':   ['cognitive_decline','memory_short_term','social_dysfunction'],
+  'F02.0': ['cognitive_decline','memory_short_term','emotional_lability','insidious_onset'],
+  'F02.1': ['cognitive_decline','memory_short_term','psychomotor_retardation','insidious_onset'],
+  'F02.2': ['cognitive_decline','memory_short_term','emotional_lability','abrupt_onset'],
+  'F02.3': ['cognitive_decline','memory_short_term','hallucinations_visual','emotional_lability'],
+  'F02.4': ['cognitive_decline','memory_short_term','focal_neurology'],
+
+  // ── F06: Organické psychické poruchy ────────────────────────────
+  'F06.0': ['hallucinations_auditory','hallucinations_visual','consciousness_impaired'],
+  'F06.1': ['delusions_paranoid','hallucinations_auditory','consciousness_impaired'],
+  'F06.2': ['delusions_paranoid','hallucinations_auditory','disorganized_speech'],
+  'F06.3': ['depressed_mood','anhedonia','loss_of_energy','emotional_lability'],
+  'F06.4': ['elevated_mood','grandiosity','psychomotor_agitation','emotional_lability'],
+  'F06.5': ['anxiety_general','somatic_anxiety','emotional_lability'],
+
+  // ── F30-F34 varianty NS ──────────────────────────────────────────
+  'F30.8': ['elevated_mood','grandiosity','flight_of_ideas'],
+  'F30.9': ['elevated_mood','grandiosity'],
+  'F31.6': ['depressed_mood','anhedonia','elevated_mood'],
+  'F31.7': ['depressed_mood','anhedonia','loss_of_energy'],
+  'F31.8': ['elevated_mood','depressed_mood','grandiosity'],
+  'F31.9': ['elevated_mood','depressed_mood'],
+  'F32.8': ['depressed_mood','anhedonia','loss_of_energy'],
+  'F32.9': ['depressed_mood','anhedonia'],
+  'F33.3': ['depressed_mood','anhedonia','loss_of_energy','psychomotor_retardation','suicidal_ideation','delusions_paranoid'],
+  'F33.4': ['depressed_mood','anhedonia'],
+  'F33.8': ['depressed_mood','anhedonia','loss_of_energy'],
+  'F33.9': ['depressed_mood','anhedonia'],
+  'F34':   ['depressed_mood','elevated_mood'],
+  'F34.8': ['depressed_mood','elevated_mood'],
+  'F34.9': ['depressed_mood'],
+  'F38':   ['depressed_mood','elevated_mood'],
+  'F38.0': ['elevated_mood','grandiosity','depressed_mood'],
+  'F38.1': ['depressed_mood','anhedonia','loss_of_energy'],
+  'F39':   ['depressed_mood','elevated_mood'],
+
+  // ── F40 varianty ─────────────────────────────────────────────────
+  'F40.00':['panic_attacks','phobic_avoidance','anxiety_general','derealization'],
+  'F40.01':['panic_attacks','phobic_avoidance','anxiety_general','derealization'],
+  'F40.8': ['phobic_avoidance','anxiety_general'],
+  'F40.9': ['phobic_avoidance','anxiety_general'],
+  'F41.3': ['anxiety_general','somatic_anxiety','depressed_mood'],
+  'F41.8': ['anxiety_general','somatic_anxiety'],
+  'F41.9': ['anxiety_general','somatic_anxiety'],
+  'F42.8': ['obsessions','compulsions','anxiety_general'],
+  'F42.9': ['obsessions','compulsions','anxiety_general'],
+
+  // ── F43 podkódy ─────────────────────────────────────────────────
+  'F43':   ['anxiety_general','emotional_lability'],
+  'F43.20':['depressed_mood','anxiety_general','emotional_lability'],
+  'F43.21':['depressed_mood','anxiety_general','emotional_lability'],
+  'F43.22':['depressed_mood','anxiety_general','emotional_lability'],
+  'F43.23':['depressed_mood','anxiety_general','emotional_lability'],
+  'F43.24':['depressed_mood','anhedonia','anxiety_general'],
+  'F43.25':['anxiety_general','somatic_anxiety'],
+  'F43.28':['depressed_mood','anxiety_general'],
+  'F43.8': ['anxiety_general','emotional_lability'],
+  'F43.9': ['anxiety_general','emotional_lability'],
+
+  // ── F63: Impulzivní poruchy ──────────────────────────────────────
+  'F63':   ['impulsivity','risky_behavior'],
+  'F63.0': ['impulsivity','risky_behavior','anxiety_general'],
+  'F63.1': ['impulsivity','risky_behavior'],
+  'F63.2': ['impulsivity','risky_behavior','elevated_mood'],
+  'F63.3': ['impulsivity','risky_behavior','emotional_lability'],
+
+  // ── F91-F95: Poruchy chování a emocí v dětství ──────────────────
+  'F91':   ['impulsivity','risky_behavior','emotional_lability','social_dysfunction'],
+  'F91.0': ['impulsivity','risky_behavior','emotional_lability'],
+  'F91.1': ['impulsivity','risky_behavior','social_dysfunction'],
+  'F91.2': ['impulsivity','risky_behavior','social_dysfunction'],
+  'F91.3': ['impulsivity','risky_behavior','anxiety_general'],
+  'F92':   ['impulsivity','depressed_mood','anxiety_general'],
+  'F92.0': ['impulsivity','risky_behavior','depressed_mood'],
+  'F93':   ['anxiety_general','emotional_lability','phobic_avoidance'],
+  'F93.0': ['anxiety_general','phobic_avoidance','somatic_anxiety'],
+  'F93.1': ['phobic_avoidance','anxiety_general'],
+  'F93.2': ['anxiety_general','emotional_lability','social_dysfunction'],
+  'F95':   ['psychomotor_agitation','concentration_impaired'],
+  'F95.0': ['psychomotor_agitation','concentration_impaired'],
+  'F95.1': ['psychomotor_agitation','concentration_impaired'],
+  'F95.2': ['psychomotor_agitation','concentration_impaired','social_dysfunction'],
+
   // ── F60: Poruchy osobnosti ───────────────────────────────────────
   'F60.0': ['delusions_paranoid','hypervigilance','social_dysfunction'],
   'F60.1': ['negative_symptoms','social_dysfunction'],
@@ -195,6 +282,92 @@ const PRIZNAKY_KLICE = {
   'F60.5': ['obsessions','compulsions','anxiety_general'],
   'F60.6': ['anxiety_general','phobic_avoidance','somatic_anxiety'],
   'F60.7': ['anxiety_general','phobic_avoidance','depressed_mood'],
+  'F60.8': ['emotional_lability','social_dysfunction'],
+  'F60.9': ['emotional_lability','social_dysfunction'],
+  'F60':   ['emotional_lability','social_dysfunction'],
+
+  // ── NS varianty F01, F02, F05 ────────────────────────────────────
+  'F01.8': ['cognitive_decline','memory_short_term','emotional_lability','focal_neurology'],
+  'F01.9': ['cognitive_decline','memory_short_term','emotional_lability'],
+  'F02.8': ['cognitive_decline','memory_short_term','social_dysfunction'],
+  'F05.8': ['consciousness_impaired','fluctuating_course','hallucinations_visual'],
+  'F05.9': ['consciousness_impaired','fluctuating_course'],
+  'F06':   ['consciousness_impaired','emotional_lability','cognitive_decline'],
+  'F06.30':['depressed_mood','anhedonia','loss_of_energy','emotional_lability'],
+  'F06.31':['depressed_mood','anhedonia','loss_of_energy','emotional_lability'],
+  'F06.32':['depressed_mood','anhedonia','loss_of_energy','emotional_lability'],
+  'F06.33':['depressed_mood','anhedonia','loss_of_energy','emotional_lability'],
+  'F06.6': ['anxiety_general','somatic_anxiety','emotional_lability'],
+  'F06.7': ['cognitive_decline','concentration_impaired'],
+  'F06.8': ['consciousness_impaired','emotional_lability'],
+  'F06.9': ['consciousness_impaired','emotional_lability'],
+
+  // ── NS varianty závislostí (harmful use, withdrawal, NS) ─────────
+  'F10.1': ['emotional_lability','anxiety_general','risky_behavior'],
+  'F10.5': ['cognitive_decline','memory_short_term','psychomotor_retardation'],
+  'F11.0': ['psychomotor_retardation','consciousness_impaired'],
+  'F11.1': ['social_dysfunction','risky_behavior','impulsivity'],
+  'F12.1': ['social_dysfunction','risky_behavior','impulsivity'],
+  'F14.1': ['risky_behavior','impulsivity','elevated_mood'],
+  'F15.1': ['risky_behavior','impulsivity','elevated_mood'],
+  'F17.0': ['anxiety_general','somatic_anxiety'],
+  'F17.1': ['anxiety_general','somatic_anxiety','risky_behavior'],
+  'F19.0': ['consciousness_impaired','psychomotor_agitation'],
+  'F19.1': ['social_dysfunction','risky_behavior','impulsivity'],
+  'F19.2': ['cognitive_decline','social_dysfunction','emotional_lability'],
+
+  // ── F50 NS, F53 NS ───────────────────────────────────────────────
+  'F50':   ['restriction_eating','anxiety_general'],
+  'F50.4': ['restriction_eating','somatic_anxiety'],
+  'F50.5': ['binge_eating','anxiety_general'],
+  'F50.8': ['restriction_eating','binge_eating','anxiety_general'],
+  'F50.9': ['restriction_eating','anxiety_general'],
+  'F53':   ['depressed_mood','anxiety_general','emotional_lability'],
+  'F53.8': ['depressed_mood','anxiety_general'],
+  'F53.9': ['depressed_mood','anxiety_general'],
+
+  // ── F38 podkódy ─────────────────────────────────────────────────
+  'F38.00':['elevated_mood','grandiosity','depressed_mood'],
+  'F38.10':['depressed_mood','anhedonia','loss_of_energy'],
+  'F38.80':['depressed_mood','elevated_mood'],
+
+  // ── F44 NS, F45 NS, F48 NS ───────────────────────────────────────
+  'F44.6': ['somatic_anxiety','dissociation','emotional_lability'],
+  'F44.8': ['dissociation','emotional_lability'],
+  'F44.9': ['dissociation','emotional_lability'],
+  'F45.8': ['somatic_anxiety','anxiety_general'],
+  'F45.9': ['somatic_anxiety','anxiety_general'],
+  'F45.30':['somatic_anxiety','anxiety_general'],
+  'F45.31':['somatic_anxiety','anxiety_general'],
+  'F45.32':['somatic_anxiety','anxiety_general'],
+  'F45.33':['somatic_anxiety','anxiety_general'],
+  'F45.34':['somatic_anxiety','anxiety_general'],
+  'F45.38':['somatic_anxiety','anxiety_general'],
+  'F48':   ['loss_of_energy','anxiety_general','somatic_anxiety'],
+  'F48.1': ['derealization','anxiety_general','somatic_anxiety'],
+  'F48.8': ['anxiety_general','somatic_anxiety'],
+  'F48.9': ['anxiety_general','somatic_anxiety'],
+
+  // ── F84 vzácnější varianty ───────────────────────────────────────
+  'F84.1': ['social_dysfunction','disorganized_speech','cognitive_decline'],
+  'F84.2': ['cognitive_decline','social_dysfunction','disorganized_speech'],
+  'F84.3': ['cognitive_decline','social_dysfunction'],
+  'F84.4': ['cognitive_decline','social_dysfunction'],
+  'F84.8': ['social_dysfunction','disorganized_speech'],
+  'F84.9': ['social_dysfunction'],
+
+  // ── F90-F95 NS ───────────────────────────────────────────────────
+  'F90.8': ['concentration_impaired','impulsivity','psychomotor_agitation'],
+  'F90.9': ['concentration_impaired','impulsivity'],
+  'F91.8': ['impulsivity','risky_behavior','emotional_lability'],
+  'F91.9': ['impulsivity','risky_behavior'],
+  'F92.8': ['impulsivity','depressed_mood','anxiety_general'],
+  'F92.9': ['impulsivity','anxiety_general'],
+  'F93.3': ['anxiety_general','emotional_lability','social_dysfunction'],
+  'F93.8': ['anxiety_general','emotional_lability'],
+  'F93.9': ['anxiety_general'],
+  'F95.8': ['psychomotor_agitation','concentration_impaired'],
+  'F95.9': ['psychomotor_agitation'],
 }
 
 export default PRIZNAKY_KLICE
