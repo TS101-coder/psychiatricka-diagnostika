@@ -117,9 +117,52 @@ function MetodaKarta({ metoda, index }) {
   )
 }
 
+// Sekce: Nefarmakologická terapie (z guidelines farmakoterapie)
+function NefarmakologickaKarta({ polozky }) {
+  const [open, setOpen] = useState(true)
+  if (!polozky || polozky.length === 0) return null
+
+  return (
+    <div className="border border-sky-200 rounded-xl overflow-hidden shadow-sm">
+      <button
+        onClick={() => setOpen(v => !v)}
+        className="w-full flex items-center gap-3 px-4 py-3 bg-sky-50 hover:bg-sky-100 text-left transition-colors"
+      >
+        <span className="w-7 h-7 flex-shrink-0 flex items-center justify-center rounded-full bg-sky-600 text-white text-sm">
+          ★
+        </span>
+        <div className="flex-1 min-w-0">
+          <p className="text-sm font-semibold text-sky-900">Nefarmakologická terapie</p>
+          <p className="text-xs text-sky-600 mt-0.5">Doporučené nefarmakologické intervence dle klinických guidelines</p>
+        </div>
+        <svg
+          className={`w-4 h-4 text-sky-400 transition-transform shrink-0 ${open ? 'rotate-180' : ''}`}
+          fill="none" stroke="currentColor" viewBox="0 0 24 24"
+        >
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+
+      {open && (
+        <ul className="px-4 py-3 space-y-2 bg-white border-t border-sky-100">
+          {polozky.map((item, i) => (
+            <li key={i} className="flex items-start gap-2 text-sm text-slate-700">
+              <span className="mt-1.5 w-1.5 h-1.5 rounded-full bg-sky-400 shrink-0" />
+              <span className="leading-snug">{item}</span>
+            </li>
+          ))}
+        </ul>
+      )}
+    </div>
+  )
+}
+
 // Hlavní komponenta sekce
-export default function PsychoterapieSection({ psychoGuideline }) {
-  if (!psychoGuideline) {
+export default function PsychoterapieSection({ psychoGuideline, nefarmakologickaTerapie = [] }) {
+  const metody = psychoGuideline?.psychoterapie_prvni_volby || []
+  const maNeco = metody.length > 0 || nefarmakologickaTerapie.length > 0
+
+  if (!maNeco) {
     return (
       <div className="bg-slate-50 border border-slate-200 rounded-xl p-6 text-center">
         <svg className="w-8 h-8 text-slate-300 mx-auto mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -130,29 +173,43 @@ export default function PsychoterapieSection({ psychoGuideline }) {
     )
   }
 
-  const metody = psychoGuideline.psychoterapie_prvni_volby || []
-
   return (
-    <section className="print-section">
-      <div className="flex items-center gap-2 mb-3">
+    <section className="print-section space-y-4">
+
+      {/* Záhlaví */}
+      <div className="flex items-center gap-2 flex-wrap">
         <span className="text-lg">🧠</span>
         <h2 className="text-sm font-semibold text-slate-500 uppercase tracking-wide">
-          Psychoterapeutické postupy
+          Psychoterapeutické postupy & Nefarmakologická terapie
         </h2>
-        <span className="text-xs text-indigo-600 font-medium bg-indigo-50 border border-indigo-200 px-2 py-0.5 rounded-full">
-          {metody.length} {metody.length === 1 ? 'metoda' : metody.length < 5 ? 'metody' : 'metod'}
-        </span>
+        {metody.length > 0 && (
+          <span className="text-xs text-indigo-600 font-medium bg-indigo-50 border border-indigo-200 px-2 py-0.5 rounded-full">
+            {metody.length} {metody.length === 1 ? 'metoda' : metody.length < 5 ? 'metody' : 'metod'}
+          </span>
+        )}
       </div>
 
-      {metody.length === 0 ? (
-        <p className="text-sm text-slate-400">Žádné metody nejsou k dispozici.</p>
-      ) : (
+      {/* Nefarmakologická terapie nahoře – přehledné shrnutí */}
+      {nefarmakologickaTerapie.length > 0 && (
+        <NefarmakologickaKarta polozky={nefarmakologickaTerapie} />
+      )}
+
+      {/* Podrobné psychoterapeutické metody s Accordion */}
+      {metody.length > 0 && (
         <div className="space-y-3">
           {metody.map((m, i) => (
             <MetodaKarta key={i} metoda={m} index={i} />
           ))}
         </div>
       )}
+
+      {/* Pokud jsou jen nefarmakologická data bez psychoterapeutických guidelines */}
+      {metody.length === 0 && nefarmakologickaTerapie.length > 0 && (
+        <p className="text-xs text-slate-400 text-center pt-2">
+          Detailní psychoterapeutické protokoly pro tuto diagnózu nejsou v databázi.
+        </p>
+      )}
+
     </section>
   )
 }
