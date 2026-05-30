@@ -29,13 +29,33 @@ const PRIZNAKY_KLICE = {
   'F20.1': ['disorganized_speech','negative_symptoms','social_dysfunction','emotional_lability'],
   'F20.2': ['catatonia','psychomotor_agitation','psychomotor_retardation','disorganized_speech'],
   'F20.3': ['delusions_paranoid','hallucinations_auditory','disorganized_speech','negative_symptoms','psychomotor_agitation'],
+  'F20.4': ['depressed_mood','negative_symptoms','social_dysfunction','anhedonia','loss_of_energy'],
   'F20.5': ['negative_symptoms','social_dysfunction','emotional_lability'],
+  'F20.6': ['negative_symptoms','social_dysfunction','insidious_onset','cognitive_decline'],
+  'F20.8': ['delusions_paranoid','hallucinations_auditory','negative_symptoms','social_dysfunction'],
+  'F20.9': ['delusions_paranoid','hallucinations_auditory','negative_symptoms','social_dysfunction'],
   'F21':   ['social_dysfunction','delusions_paranoid','thought_insertion','disorganized_speech'],
   'F22':   ['delusions_paranoid','social_dysfunction'],
   'F22.0': ['delusions_paranoid','social_dysfunction'],
-  'F25':   ['delusions_paranoid','hallucinations_auditory','depressed_mood','elevated_mood','social_dysfunction'],
-  'F25.0': ['delusions_paranoid','hallucinations_auditory','elevated_mood','flight_of_ideas'],
-  'F25.1': ['delusions_paranoid','hallucinations_auditory','depressed_mood','psychomotor_retardation'],
+  'F22.8': ['delusions_paranoid','social_dysfunction'],
+  'F22.9': ['delusions_paranoid','social_dysfunction'],
+
+  // ── F23: Akutní a přechodné psychotické poruchy ─────────────────
+  'F23':   ['abrupt_onset','delusions_paranoid','hallucinations_auditory','disorganized_speech','emotional_lability'],
+  'F23.0': ['abrupt_onset','emotional_lability','psychomotor_agitation','disorganized_speech','hallucinations_visual'],
+  'F23.1': ['abrupt_onset','delusions_paranoid','hallucinations_auditory','thought_insertion','disorganized_speech','emotional_lability'],
+  'F23.2': ['abrupt_onset','delusions_paranoid','hallucinations_auditory','disorganized_speech'],
+  'F23.3': ['abrupt_onset','delusions_paranoid','hallucinations_auditory'],
+  'F23.8': ['abrupt_onset','delusions_paranoid','hallucinations_auditory'],
+  'F23.9': ['abrupt_onset','delusions_paranoid'],
+
+  // ── F24, F28, F29 ────────────────────────────────────────────────
+  'F24':   ['delusions_paranoid','social_dysfunction'],
+  'F25.2': ['delusions_paranoid','hallucinations_auditory','elevated_mood','depressed_mood'],
+  'F25.8': ['delusions_paranoid','hallucinations_auditory','elevated_mood','depressed_mood'],
+  'F25.9': ['delusions_paranoid','hallucinations_auditory','elevated_mood','depressed_mood'],
+  'F28':   ['delusions_paranoid','hallucinations_auditory','disorganized_speech'],
+  'F29':   ['delusions_paranoid','hallucinations_auditory'],
 
   // ── F30-F31: Mánie a bipolární porucha ──────────────────────────
   'F30':   ['elevated_mood','grandiosity','flight_of_ideas','risky_behavior','psychomotor_agitation','sleep_disturbance_insomnia'],
