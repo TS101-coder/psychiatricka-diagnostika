@@ -1,17 +1,48 @@
-import { useState } from 'react'
+import { useState, useMemo } from 'react'
+import { useSuklDostupnost } from '../hooks/useSuklDostupnost'
 
-function DrugCard({ drug, index, colorClass }) {
-  const [open, setOpen] = useState(index === 0)
+// Badge dostupnosti pro jedno generikum
+function SuklBadge({ generikum, stavDostupnosti, nacitam }) {
+  const stav = stavDostupnosti[generikum]
+  if (nacitam) return (
+    <span className="font-mono text-xs bg-slate-100 text-slate-400 border border-slate-200 px-2 py-0.5 rounded-full animate-pulse">
+      {generikum}
+    </span>
+  )
+  if (stav?.maVypadek) return (
+    <span
+      className="font-mono text-xs bg-red-50 text-red-700 border border-red-300 px-2 py-0.5 rounded-full cursor-help"
+      title={`⚠ Výpadek SÚKL – obnovení: ${stav.obnoveni}${stav.duvod ? ' | ' + stav.duvod : ''}`}
+    >
+      ⚠ {generikum}
+    </span>
+  )
   return (
-    <div className="border border-slate-200 rounded-lg overflow-hidden">
+    <span className="font-mono text-xs bg-blue-50 text-blue-800 border border-blue-200 px-2 py-0.5 rounded-full">
+      {generikum}
+    </span>
+  )
+}
+
+function DrugCard({ drug, index, colorClass, stavDostupnosti, nacitam }) {
+  const [open, setOpen] = useState(index === 0)
+
+  // Zjistíme, zda má alespoň jeden lék aktivní výpadek
+  const maVypadek = drug.priklady_generik?.some(g => stavDostupnosti[g]?.maVypadek)
+
+  return (
+    <div className={`border rounded-lg overflow-hidden ${maVypadek ? 'border-red-200' : 'border-slate-200'}`}>
       <button
         onClick={() => setOpen(v => !v)}
-        className="w-full flex items-center gap-2 px-3 py-2.5 bg-slate-50 hover:bg-slate-100 text-left transition-colors"
+        className={`w-full flex items-center gap-2 px-3 py-2.5 text-left transition-colors ${maVypadek ? 'bg-red-50 hover:bg-red-100' : 'bg-slate-50 hover:bg-slate-100'}`}
       >
         <span className={`text-xs font-bold px-2 py-0.5 rounded ${colorClass}`}>
           {index + 1}
         </span>
         <span className="text-sm font-semibold text-slate-800 flex-1">{drug.skupina_latek}</span>
+        {maVypadek && (
+          <span className="text-xs text-red-600 font-semibold shrink-0">⚠ Výpadek SÚKL</span>
+        )}
         <svg className={`w-4 h-4 text-slate-400 transition-transform ${open ? 'rotate-180' : ''}`}
           fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
@@ -20,19 +51,32 @@ function DrugCard({ drug, index, colorClass }) {
 
       {open && (
         <div className="p-3 space-y-2.5 bg-white text-sm">
-          {/* Generika */}
+          {/* Generika s SÚKL dostupností */}
           {drug.priklady_generik?.length > 0 && (
-            <div className="flex flex-wrap gap-1.5">
-              {drug.priklady_generik.map(g => (
-                <span key={g} className="font-mono text-xs bg-blue-50 text-blue-800 border border-blue-200 px-2 py-0.5 rounded-full">
-                  {g}
-                </span>
+            <div className="space-y-1.5">
+              <div className="flex flex-wrap gap-1.5">
+                {drug.priklady_generik.map(g => (
+                  <SuklBadge
+                    key={g}
+                    generikum={g}
+                    stavDostupnosti={stavDostupnosti}
+                    nacitam={nacitam}
+                  />
+                ))}
+                {drug.dostupnost_cr_sukl && !maVypadek && !nacitam && (
+                  <span className="text-xs bg-green-50 text-green-700 border border-green-200 px-2 py-0.5 rounded-full">
+                    ✓ SÚKL registrováno
+                  </span>
+                )}
+              </div>
+              {/* Výpadkové detaily */}
+              {drug.priklady_generik.filter(g => stavDostupnosti[g]?.maVypadek).map(g => (
+                <div key={g} className="text-xs text-red-700 bg-red-50 border border-red-200 rounded px-2 py-1">
+                  <span className="font-semibold">{g}</span> – výpadek SÚKL, očekávané obnovení:{' '}
+                  <span className="font-semibold">{stavDostupnosti[g].obnoveni}</span>
+                  {stavDostupnosti[g].duvod && <span className="text-red-500"> ({stavDostupnosti[g].duvod})</span>}
+                </div>
               ))}
-              {drug.dostupnost_cr_sukl && (
-                <span className="text-xs bg-green-50 text-green-700 border border-green-200 px-2 py-0.5 rounded-full">
-                  ✓ SÚKL registrováno
-                </span>
-              )}
             </div>
           )}
 
@@ -108,13 +152,36 @@ export default function GuidelinesSection({ guideline }) {
   const safety = guideline.zvlastni_upozorneni_a_bezpecnost
   const zdroje = guideline.zdroje || []
 
+  // Sesbíráme všechna generika pro SÚKL checker
+  const vsechnaGenerika = useMemo(() => {
+    const gen = new Set()
+    ;[...farma1, ...farma2].forEach(f =>
+      f.priklady_generik?.forEach(g => gen.add(g))
+    )
+    return [...gen]
+  }, [farma1, farma2])
+
+  const { stavDostupnosti, nacitam, chyba } = useSuklDostupnost(vsechnaGenerika)
+
   return (
     <section className="print-section">
       {/* Záhlaví */}
-      <div className="flex items-center gap-2 mb-3">
+      <div className="flex items-center gap-2 mb-3 flex-wrap">
         <h2 className="text-sm font-semibold text-slate-500 uppercase tracking-wide">
           Terapeutické postupy & Medikace
         </h2>
+        {nacitam && (
+          <span className="text-xs text-slate-400 flex items-center gap-1">
+            <svg className="w-3 h-3 animate-spin" fill="none" viewBox="0 0 24 24">
+              <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"/>
+              <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z"/>
+            </svg>
+            Ověřuji dostupnost v SÚKL…
+          </span>
+        )}
+        {chyba && (
+          <span className="text-xs text-slate-400" title={chyba}>⚠ SÚKL offline</span>
+        )}
         <span className="text-xs bg-emerald-100 text-emerald-700 border border-emerald-200 px-2 py-0.5 rounded-full font-medium">
           Guidelines
         </span>
@@ -131,7 +198,7 @@ export default function GuidelinesSection({ guideline }) {
             </p>
             <div className="space-y-2">
               {farma1.map((drug, i) => (
-                <DrugCard key={i} drug={drug} index={i} colorClass="bg-emerald-100 text-emerald-800" />
+                <DrugCard key={i} drug={drug} index={i} colorClass="bg-emerald-100 text-emerald-800" stavDostupnosti={stavDostupnosti} nacitam={nacitam} />
               ))}
             </div>
           </div>
@@ -164,7 +231,7 @@ export default function GuidelinesSection({ guideline }) {
             </p>
             <div className="space-y-2">
               {farma2.map((drug, i) => (
-                <DrugCard key={i} drug={drug} index={i} colorClass="bg-amber-100 text-amber-800" />
+                <DrugCard key={i} drug={drug} index={i} colorClass="bg-amber-100 text-amber-800" stavDostupnosti={stavDostupnosti} nacitam={nacitam} />
               ))}
             </div>
           </div>

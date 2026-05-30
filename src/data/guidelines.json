@@ -1,99 +1,104 @@
 [
   {
     "kod_mkn10": "F00",
+    "alternativni_kody": [
+      "F00.0",
+      "F00.1",
+      "F00.2"
+    ],
+    "kod_mkn11": "6D80",
+    "kod_dsm5": "294.11",
     "nazev_poruchy": "Demence u Alzheimerovy nemoci",
     "terapie_prvni_volby": {
       "farmakoterapie": [
         {
-          "skupina_latek": "Inhibitory acetylcholinesterázy (AChEI)",
+          "skupina_latek": "Inhibitory cholinesterázy (IChE / AChEI)",
           "priklady_generik": [
             "donepezil",
             "rivastigmin",
             "galantamin"
           ],
           "dostupnost_cr_sukl": true,
-          "sukl_poznamka": "Všechny tři látky jsou registrovány v ČR. Preskripce je vázána na psychiatra, neurologa nebo geriatra. Donepezil a galantamin p.o., rivastigmin dostupný také ve formě transdermální náplasti (výhodné při GI intoleranci). Pozn.: V USA byl schválen lecanemab (Leqembi) a donanemab – protilátky cílící na amyloid; v EU/ČR k datu sestavení dat nejsou dostupné.",
-          "doporucene_davkovani_zahajovaci": "Donepezil: 5 mg 1× denně večer, po 4–6 týdnech zvýšit na 10 mg/den. Rivastigmin p.o.: 1,5 mg 2× denně s jídlem, titrace po 2 týdnech o 1,5 mg/den, cílová 3–6 mg 2× denně; náplast: 4,6 mg/24 h → po 4 týdnech 9,5 mg/24 h. Galantamin: 4 mg 2× denně, po 4 týdnech 8 mg 2× denně, cílová 8–12 mg 2× denně.",
+          "sukl_poznamka": "Preskripční omezení: psychiatr, neurolog, geriatr. Úhrada pojišťovny vázána na MMSE 25–13 bodů. Při poklesu MMSE pod 13 bodů zákonný nárok na úhradu IChE zaniká. Donepezil a galantamin p.o., rivastigmin také jako transdermální náplast (výhodné při GI intoleranci).",
+          "doporucene_davkovani_zahajovaci": "Donepezil: 5 mg 1× denně večer, po 4–6 týdnech zvýšit na 10 mg/den. Rivastigmin (náplast): 4,6 mg/24 h → po 4 týdnech 9,5 mg/24 h. Galantamin: 4 mg 2× denně, po 4 týdnech 8 mg 2× denně, cílová 8–12 mg 2× denně.",
           "hlavni_nezadouci_ucinky": [
             "nauzea",
             "zvracení",
             "průjem",
-            "nechutenství",
+            "insomnie",
             "bradykardie",
-            "insomnie (donepezil)"
+            "nechutenství"
           ],
           "kontraindikace": [
-            "přecitlivělost na látku",
-            "závažné srdeční arytmie (sick sinus syndrom, AV blok II–III. stupně)",
-            "aktivní peptický vřed (relativní)",
+            "závažné převodní poruchy srdce (AV blokáda II–III. st., sick sinus syndrom)",
+            "aktivní vředová choroba žaludku (relativní)",
             "astma nebo CHOPN (rivastigmin – relativní)"
           ]
         }
       ],
       "nefarmakologicka_terapie": [
-        "Kognitivní trénink a stimulace (individuální i skupinová)",
-        "Fyzická aktivita – prokázaný vliv na zpomalení progrese",
-        "Reminiscenční terapie",
-        "Edukace a podpora pečovatelů/rodinných příslušníků",
-        "Strukturovaný denní režim",
-        "Occupational therapy – trénink ADL dovedností"
+        "Kognitivní trénink a strukturovaná kognitivní stimulace (CST)",
+        "Reminiscenční techniky, validační terapie dle Naomi Feil",
+        "Pravidelná aerobní fyzická aktivita (zpomalení progrese vaskulární složky)",
+        "Edukace a podpora pečovatelů / rodinných příslušníků",
+        "Strukturovaný denní režim a úprava prostředí pro bezpečnost"
       ]
     },
     "terapie_druhe_volby": {
       "farmakoterapie": [
         {
-          "skupina_latek": "Antagonisté NMDA receptorů",
+          "skupina_latek": "Parciální antagonisté NMDA receptorů",
           "priklady_generik": [
             "memantin"
           ],
           "dostupnost_cr_sukl": true,
-          "sukl_poznamka": "Registrován v ČR. Indikován u středně těžké až těžké Alzheimerovy demence (MMSE 3–19). Preskripce vázána na psychiatra, neurologa nebo geriatra. Možná kombinace s AChEI u středně těžkých stadií.",
-          "doporucene_davkovani_zahajovaci": "5 mg 1× denně, titrace o 5 mg týdně, cílová dávka 20 mg/den (10 mg 2× denně nebo 20 mg 1× denně prodloužené uvolňování).",
+          "sukl_poznamka": "V ČR hrazeno při MMSE 17–6 bodů. Výhodná kombinovaná terapie IChE + memantin u středně těžkých forem nebo smíšené etiologie. Preskripce: psychiatr, neurolog, geriatr.",
+          "doporucene_davkovani_zahajovaci": "5 mg 1× denně, titrace o 5 mg týdně, cílová dávka 20 mg/den (10 mg 2× denně nebo 20 mg PR 1× denně).",
           "hlavni_nezadouci_ucinky": [
             "závratě",
             "bolest hlavy",
             "obstipace",
-            "somnolence",
-            "hypertenze"
+            "somnolence"
           ],
           "kontraindikace": [
-            "závažné poškození ledvin (nutná úprava dávky při GFR < 30 ml/min)",
+            "závažné poškození ledvin (nutná úprava dávky při GFR < 30)",
             "přecitlivělost na látku"
           ],
-          "indikace_k_nasazeni": "Středně těžká až těžká demence (MMSE < 20), intolerance nebo nedostatečný efekt AChEI, nebo jako augmentace k AChEI."
+          "indikace_k_nasazeni": "Progrese do středně těžké až těžké fáze (MMSE < 17), absolutní intolerance IChE, nebo jako augmentace k IChE."
         }
       ]
     },
     "zvlastni_upozorneni_a_bezpecnost": {
-      "black_box_warning": "Atypická antipsychotika (risperidon, olanzapin, quetiapin aj.) jsou u starších pacientů s demencí spojena se zvýšenou mortalitou (cerebrovaskulární příhody, pneumonie) – používat pouze výjimečně při závažných behaviorálních poruchách (BPSD) nereagujících na nefarmakologické intervence, v co nejnižší dávce a po nejkratší nutnou dobu.",
+      "black_box_warning": "KRITICKÉ VAROVÁNÍ: Atypická antipsychotika (off-label u BPSD) prokazatelně zvyšují riziko cévních mozkových příhod a celkovou mortalitu u starších pacientů s demencí. Podávat pouze krátkodobě při selhání nefarmakologických přístupů, v nejnižší účinné dávce.",
       "interakce": [
-        "AChEI + anticholinergika (oxybutynin, difenhydramin) – antagonistický efekt, nevhodná kombinace",
-        "Donepezil/galantamin + inhibitory CYP2D6 nebo CYP3A4 (fluoxetin, paroxetin, ketokonazol) – možné zvýšení plazmatické hladiny",
-        "AChEI + betablokátory nebo antiarytmika – riziko bradykardie a AV bloku",
-        "Memantin + amantadin, ketamin – riziko psychózy (kumulativní antagonismus NMDA)",
-        "Memantin + digoxin, metformin – možná změna renální eliminace"
+        "IChE + betablokátory (metoprolol, atenolol) – výrazně zvyšuje riziko těžké bradykardie a synkopy",
+        "IChE + anticholinergika (oxybutynin, difenhydramin, starší TCA) – přímo antagonizují a ruší terapeutický efekt IChE",
+        "Donepezil/galantamin + inhibitory CYP2D6 nebo CYP3A4 (fluoxetin, paroxetin, ketokonazol) – zvýšení plazmatických hladin AChEI",
+        "Memantin + amantadin, ketamin – riziko psychózy (kumulativní NMDA antagonismus)"
       ],
       "monitoring": [
-        "MMSE nebo MoCA při zahájení a každých 6–12 měsíců pro sledování progrese",
-        "EKG před zahájením AChEI (vyloučení bradyarytmií)",
-        "Krevní tlak a tepová frekvence – při každé návštěvě",
-        "Renální funkce (kreatinin, GFR) – při zahájení memantinu a ročně",
-        "Tělesná hmotnost – každé 3–6 měsíců (AChEI mohou způsobit úbytek hmotnosti)",
-        "Hodnocení BPSD (behaviorálních a psychologických symptomů demence) – NPI nebo zkrácené škály"
+        "MMSE nebo MoCA – SÚKL vyžaduje retesty á 3–6 měsíců pro pokračování úhrady IChE",
+        "EKG před zahájením a při klinické indikaci – sledování QT intervalu a srdeční frekvence",
+        "Renální funkce ročně (úprava dávky memantinu při GFR < 30)",
+        "Hodnocení BPSD (NPI škála) a sledování pádů"
       ]
     },
     "zdroje": [
       {
-        "nazev": "APA Practice Guideline for the Treatment of Patients with Alzheimer's Disease and Other Dementias (2007, s aktualizacemi)",
-        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines"
-      },
-      {
-        "nazev": "Psychiatrická společnost ČLS JEP: Doporučený postup pro léčbu Alzheimerovy nemoci (aktuální verze na postupy-pece.psychiatrie.cz)",
+        "nazev": "Psychiatrická společnost ČLS JEP – Alzheimerova choroba",
         "url": "https://postupy-pece.psychiatrie.cz/specialni-psychiatrie/demence/alzheimerova-choroba"
       },
       {
-        "nazev": "SÚKL Databáze léčiv – ověřeno 2025 (prehledy.sukl.cz)",
+        "nazev": "SÚKL SPC databáze léčiv",
         "url": "https://prehledy.sukl.cz/prehled_leciv.html"
+      },
+      {
+        "nazev": "APA Guidelines for Dementia (PubMed)",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines"
+      },
+      {
+        "nazev": "NICE CG42: Dementia",
+        "url": "https://www.nice.org.uk/guidance/ng97"
       }
     ]
   },
@@ -699,45 +704,52 @@
   },
   {
     "kod_mkn10": "F20",
+    "alternativni_kody": [
+      "F20.0",
+      "F20.1",
+      "F20.2",
+      "F20.3",
+      "F20.5"
+    ],
+    "kod_mkn11": "6A20",
+    "kod_dsm5": "295.90",
     "nazev_poruchy": "Schizofrenie",
     "terapie_prvni_volby": {
       "farmakoterapie": [
         {
-          "skupina_latek": "Atypická (druhá generace) antipsychotika (SGA)",
+          "skupina_latek": "Antipsychotika 2. generace (SGA – SDA / MARTA / parciální agonisté D2)",
           "priklady_generik": [
             "risperidon",
             "olanzapin",
-            "quetiapin",
             "aripiprazol",
+            "paliperidon",
+            "quetiapin",
             "ziprasidon",
             "amisulprid"
           ],
           "dostupnost_cr_sukl": true,
-          "sukl_poznamka": "Všechny uvedené látky jsou registrovány v ČR. Aripiprazol, risperidon a paliperidol jsou dostupné také jako dlouhodobě působící injekce (LAI/depot) – výhodné při non-komplianci. Klozapin je vyhrazen pro rezistentní schizofrenii (viz 2. volba).",
-          "doporucene_davkovani_zahajovaci": "Risperidon: 1–2 mg/den, titrace na 4–6 mg/den. Olanzapin: 5–10 mg/den, cílová 10–20 mg/den. Quetiapin: 50 mg/den, titrace na 300–750 mg/den. Aripiprazol: 10–15 mg/den, cílová 15–30 mg/den. Amisulprid: 400–800 mg/den.",
+          "sukl_poznamka": "Preskripce omezena na psychiatra. Při parciální nebo úplné non-komplianci jsou v ČR plně hrazeny dlouhodobě působící injekční formy (LAI) – paliperidon-palmitát (Xeplion měsíčně / Trevicta á 3 měsíce), aripiprazol-monohydrát (Abilify Maintena měsíčně), risperidon LAI (Risperdal Consta á 2 týdny).",
+          "doporucene_davkovani_zahajovaci": "Olanzapin: 5–10 mg 1× denně večer, cílová dávka 10–20 mg/den. Aripiprazol: 10–15 mg 1× denně ráno, cílová 15–30 mg/den. Risperidon: 1–2 mg/den, titrace na 4–6 mg/den.",
           "hlavni_nezadouci_ucinky": [
-            "extrapyramidové příznaky (risperidon > olanzapin > quetiapin)",
-            "metabolický syndrom (olanzapin, quetiapin – nejvyšší riziko)",
-            "hyperprolaktinémie (risperidon, amisulprid)",
+            "přírůstek hmotnosti a rozvoj metabolického syndromu (olanzapin > quetiapin)",
+            "akatizie (aripiprazol, risperidon)",
             "prodloužení QTc (ziprasidon, amisulprid)",
-            "sedace (quetiapin, olanzapin)",
-            "akatizie (aripiprazol, risperidon)"
+            "hyperprolaktinémie (risperidon, amisulprid)",
+            "extrapyramidové příznaky – EPS"
           ],
           "kontraindikace": [
-            "kóma nebo těžká CNS deprese",
-            "feochromocytom (amisulprid)",
-            "prodloužení QTc > 500 ms (ziprasidon)",
-            "souběžná léčba léky prodlužujícími QT interval"
+            "komatózní stavy",
+            "těžká deprese kostní dřeně a poruchy krvetvorby",
+            "prodloužený QTc interval > 500 ms",
+            "demence s Lewyho tělísky (konvenční AP a risperidon – kontraindikováno)"
           ]
         }
       ],
       "nefarmakologicka_terapie": [
-        "Kognitivně-behaviorální terapie (CBT) pro psychózu – redukce pozitivních příznaků a distres",
-        "Psychoedukace pacienta a rodiny (family therapy, psychoedukační skupiny)",
-        "Nácvik sociálních dovedností (social skills training)",
-        "Podporované zaměstnání (IPS – Individual Placement and Support)",
-        "Asertivní komunitní péče (ACT) u těžkých forem",
-        "Pohybová aktivita – vliv na negativní příznaky a metabolismus"
+        "Kognitivně-behaviorální terapie zaměřená na psychózy (CBTp)",
+        "Systematická psychoedukace pacienta i rodinných příslušníků – klíčový faktor adherence",
+        "Komunitní psychiatrická péče, sociální rehabilitace, chráněné dílny a bydlení",
+        "Individuální placement and support (IPS) – podporované zaměstnání"
       ]
     },
     "terapie_druhe_volby": {
@@ -748,75 +760,56 @@
             "klozapin"
           ],
           "dostupnost_cr_sukl": true,
-          "sukl_poznamka": "Registrován v ČR. Indikován po selhání alespoň dvou antipsychotik různých skupin v adekvátní dávce a době. Preskripce podléhá povinné registraci pacienta do systému monitoringu KO (hematologický monitoring). Preskripci mohou zahájit pouze psychiatři se zkušeností s klozapinem.",
-          "doporucene_davkovani_zahajovaci": "12,5–25 mg na noc, velmi pomalá titrace o 25–50 mg/týden. Cílová dávka 200–450 mg/den. Terapeutická hladina: 350–600 ng/ml.",
+          "sukl_poznamka": "Klozapin podléhá v ČR nejpřísnějšímu bezpečnostnímu sledování. Výdej v lékárně je podmíněn doložením aktuálního krevního obrazu s vyhovujícím počtem leukocytů (ANC ≥ 1500/mm³). Preskripce pouze psychiatrem se zkušeností s klozapinem.",
+          "doporucene_davkovani_zahajovaci": "12,5–25 mg na noc, velmi pomalá titrace o 25–50 mg/týden, cílová dávka 200–450 mg/den. Terapeutická hladina: 350–600 ng/ml.",
           "hlavni_nezadouci_ucinky": [
-            "agranulocytóza (1–2 %, vyžaduje pravidelný KO)",
+            "agranulocytóza (1–2 %, fatální při nesledování)",
             "myokarditida (první 4–8 týdnů)",
-            "záchvaty (dávkově závislé, > 600 mg)",
+            "záchvaty ve vyšších dávkách (> 600 mg)",
             "hypersalivace",
-            "sedace",
             "metabolický syndrom",
-            "obstipace až ileus",
-            "ortostatická hypotenze"
+            "obstipace až ileus"
           ],
           "kontraindikace": [
             "agranulocytóza nebo granulocytopenie v anamnéze",
-            "těžké onemocnění srdce (myokarditida)",
-            "epilepsie neléčená antiepileptiky",
-            "alkohol nebo jiné CNS depresanty",
-            "souběžná léčba myelosupresivními látkami"
+            "myokarditida",
+            "epilepsie bez antiepileptické léčby",
+            "myelosupresivní léky"
           ],
-          "indikace_k_nasazeni": "Terapeuticky rezistentní schizofrenie (selhání ≥ 2 antipsychotik), suicidální riziko u schizofrenie nebo schizoafektivní poruchy."
-        },
-        {
-          "skupina_latek": "Konvenční (první generace) antipsychotika (FGA)",
-          "priklady_generik": [
-            "haloperidol",
-            "flufenazin",
-            "zuklopentixol",
-            "chlorpromazin"
-          ],
-          "dostupnost_cr_sukl": true,
-          "sukl_poznamka": "Haloperidol a zuklopentixol dostupné v ČR také jako depotní injekce (každé 2–4 týdny). FGA jsou účinná na pozitivní příznaky, ale mají vyšší riziko EPS a tardivní dyskineze. Vhodná volba při potřebě depotní formy nebo při intolerance SGA.",
-          "indikace_k_nasazeni": "Intolerance nebo nedostatečná účinnost SGA, potřeba depotní formy, ekonomické důvody."
+          "indikace_k_nasazeni": "Terapeutická rezistence – selhání účinku nejméně dvou různých antipsychotik (z nichž alespoň jedno 2. generace) podávaných v adekvátní dávce ≥ 6–8 týdnů."
         }
       ]
     },
     "zvlastni_upozorneni_a_bezpecnost": {
-      "black_box_warning": "Klozapin: Povinný hematologický monitoring (diferenciální KO) – týdně prvních 18 týdnů, poté měsíčně. Při poklesu ANC < 1500/mm³ okamžité vysazení. Riziko fatální agranulocytózy (0,1–0,2 %).",
+      "black_box_warning": "Maligní neuroleptický syndrom (MNS) – akutní život ohrožující stav: extrémní hypertermie, svalová rigidita, autonomní nestabilita, zvýšená CK. U klozapinu: striktní varování před fatální agranulocytózou (povinný KO monitoring) a závažnou myokarditidou (EKG + troponin první 4 týdny).",
       "interakce": [
-        "Antipsychotika + benzodiazepiny i.v. – riziko kardiorespirační zástavy (zejména klozapin)",
-        "Klozapin + valproát – může zvýšit hladinu klozapinu, riziko záchvatů",
-        "Klozapin + fluvoxamin – dramatické zvýšení hladin klozapinu (inhibice CYP1A2), vyhnout se kombinaci nebo výrazně snížit dávku klozapinu",
-        "Klozapin + kouření – kouření indukuje CYP1A2, při zanechání kouření vzestup hladin",
-        "Antipsychotika prodlužující QT + další QT prodlužující léky – riziko torsade de pointes",
-        "Haloperidol + lithium – riziko neurotoxicity (monitorovat hladiny Li)"
+        "Kombinace antipsychotik s benzodiazepiny (zejm. při i.m. olanzapinu) – fatální riziko útlumu dechového centra a těžké hypotenze",
+        "Kouření tabáku je silným induktorem CYP1A2 – výrazně snižuje hladiny olanzapinu a klozapinu. Při zanechání kouření hrozí intoxikace – nutná úprava dávky!",
+        "Klozapin + fluvoxamin – dramatický vzestup hladin klozapinu (inhibice CYP1A2) – vyhnout se nebo výrazně snížit dávku",
+        "Antipsychotika + QTc prodlužující léky (makrolidy, azoly) – riziko torsade de pointes"
       ],
       "monitoring": [
-        "Klozapin: KO s diferenciálem týdně (prvních 18 týdnů), pak měsíčně; hladiny klozapinu v séru (cíl 350–600 ng/ml)",
-        "Všechna antipsychotika: metabolický screening – BMI, obvod pasu, glykémie, lipidy – při zahájení, po 3 měsících, pak ročně",
-        "EKG – před zahájením a při dávkové změně (zejm. ziprasidon, amisulprid)",
-        "Prolaktin – symptomaticky nebo při podezření na hyperprolaktinémii (risperidon, amisulprid)",
-        "Extrapyramidové příznaky (AIMS škála pro tardivní dyskinezi) každých 6–12 měsíců",
-        "Krevní tlak (ortostatická hypotenze při zahájení)"
+        "Klozapin – krevní obraz: každý týden prvních 18 týdnů, pak minimálně 1× měsíčně. Hladiny klozapinu v séru (cíl 350–600 ng/ml)",
+        "Metabolický screening: BMI, obvod pasu, glykémie nalačno, lipidový profil – před léčbou, ve 12 týdnech, pak ročně",
+        "EKG monitoring – sledování QTc intervalu",
+        "Extrapyramidové příznaky – AIMS škála každých 6–12 měsíců"
       ]
     },
     "zdroje": [
       {
-        "nazev": "APA Practice Guideline for Schizophrenia (2021)",
+        "nazev": "APA Practice Guideline for Schizophrenia (PubMed PMID 32867516)",
         "url": "https://pubmed.ncbi.nlm.nih.gov/32867516/"
       },
       {
-        "nazev": "NICE Guideline CG178: Psychosis and schizophrenia in adults (2014, aktualizace 2023)",
+        "nazev": "NICE CG178 – Psychóza a schizofrenie",
         "url": "https://www.nice.org.uk/guidance/cg178"
       },
       {
-        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "nazev": "ČLS JEP – Léčba akutní epizody schizofrenie",
         "url": "https://postupy-pece.psychiatrie.cz/specialni-psychiatrie/f2-schizofrenie/lecba-akutni-epizody-schizofrenie"
       },
       {
-        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "nazev": "SÚKL SPC databáze léčiv",
         "url": "https://prehledy.sukl.cz/prehled_leciv.html"
       }
     ]
@@ -1208,258 +1201,210 @@
   },
   {
     "kod_mkn10": "F31",
+    "alternativni_kody": [
+      "F31.0",
+      "F31.1",
+      "F31.2",
+      "F31.3",
+      "F31.6"
+    ],
+    "kod_mkn11": "6A61",
+    "kod_dsm5": "296.41",
     "nazev_poruchy": "Bipolární afektivní porucha",
     "terapie_prvni_volby": {
       "farmakoterapie": [
         {
-          "skupina_latek": "Thymostabilizátory – udržovací léčba",
+          "skupina_latek": "Thymostabilizátory nebo Antipsychotika 2. generace",
           "priklady_generik": [
             "lithium",
             "valproát",
+            "olanzapin",
+            "quetiapin",
+            "risperidon",
+            "aripiprazol",
             "lamotrigin"
           ],
           "dostupnost_cr_sukl": true,
-          "sukl_poznamka": "Lithium je zlatý standard udržovací léčby bipolární poruchy 1 – snižuje riziko relapsů i suicidální riziko. Lamotrigin je zvláště účinný v prevenci depresivních epizod (slabší pro manické). Valproát vhodný při manické pólové dominanci a rychlém cyklování. Lamotrigin registrován v ČR pro prevenci epizod u BAP.",
-          "doporucene_davkovani_zahajovaci": "Lithium: cílová hladina 0,6–0,8 mmol/l v udržovací léčbě. Lamotrigin: titrace od 25 mg/den (bez valproátu) nebo 12,5 mg/den (s valproátem), cílová dávka 100–400 mg/den. Valproát: 500–750 mg/den zahajovací, titrace na 1000–2500 mg/den, cílová hladina 50–120 mg/l.",
+          "sukl_poznamka": "U těžké akutní mánie se standardně kombinuje thymostabilizátor s antipsychotikem pro rychlý nástup sedativního účinku. KRITICKÉ: Pro valproát (acidum valproicum) platí přísná bezpečnostní pravidla SÚKL kvůli teratogenitě – u žen ve fertilním věku vyžaduje podepsání informovaného souhlasu a zápis do těhotenského registru (PREVENT program). Lamotrigin preferovaný pro prevenci depresivní fáze.",
+          "doporucene_davkovani_zahajovaci": "Lithium: zahájit 300–600 mg/den, úpravy dávky výhradně dle lithemie (cíl 0,8–1,2 mmol/l u akutní mánie, 0,6–0,8 mmol/l v udržovací léčbě). Olanzapin: 10–15 mg 1× denně. Valproát: 500–1500 mg/den, cílová hladina 50–120 mg/l.",
           "hlavni_nezadouci_ucinky": [
-            "lithium: třes, polydipsie, polyurie, hypotyreóza, přírůstek hmotnosti, nefrotoxicita při dlouhodobém podávání",
-            "valproát: přírůstek hmotnosti, vypadávání vlasů, sedace, hepatotoxicita, trombocytopenie, teratogenita",
-            "lamotrigin: Stevens-Johnsonův syndrom (při rychlé titraci), závratě, diplopie",
-            "lamotrigin: Stevens-Johnsonův syndrom (rychlá titrace), závratě, diplopie"
+            "lithium: jemný třes, polyurie, polydipsie, hypotyreóza, nefrotoxicita",
+            "valproát: hepatotoxicita, alopecie, trombocytopenie, přírůstek hmotnosti, teratogenita",
+            "lamotrigin: Stevens-Johnsonův syndrom při rychlé titraci"
           ],
           "kontraindikace": [
-            "lithium: těžká renální insuficience (GFR < 30 ml/min), 1. trimestr těhotenství (Ebsteinova anomálie)",
-            "valproát: těhotenství (absolutní KI – teratogenita), jaterní insuficience",
-            "lamotrigin: přecitlivělost na látku",
-            "lamotrigin: rychlá titrace zvyšuje riziko SJS"
-          ]
-        },
-        {
-          "skupina_latek": "Atypická antipsychotika – udržovací léčba (zejm. s manickými epizodami)",
-          "priklady_generik": [
-            "quetiapin",
-            "aripiprazol",
-            "olanzapin",
-            "risperidon LAI"
-          ],
-          "dostupnost_cr_sukl": true,
-          "sukl_poznamka": "Quetiapin je registrován v ČR pro udržovací léčbu BAP. Aripiprazol LAI (Abilify Maintena) dostupný. Olanzapin/fluoxetin kombinace (Symbyax) v USA, v ČR nutno kombinovat zvlášť.",
-          "doporucene_davkovani_zahajovaci": "Quetiapin: 300–400 mg/den. Aripiprazol: 15–30 mg/den.",
-          "hlavni_nezadouci_ucinky": [
-            "metabolický syndrom",
-            "sedace",
-            "EPS"
-          ],
-          "kontraindikace": [
-            "kóma nebo těžká CNS deprese",
-            "feochromocytom (amisulprid – absolutní KI)",
-            "QTc > 500 ms",
-            "přecitlivělost na látku",
-            "demence s Lewyho tělísky (konvenční AP a risperidon – kontraindikováno)"
+            "lithium: klinicky závažné selhání ledvin (GFR < 30), 1. trimestr těhotenství",
+            "valproát: těhotenství (absolutní KI), akutní nebo chronická hepatitida, jaterní insuficience"
           ]
         }
       ],
       "nefarmakologicka_terapie": [
-        "Kognitivně-behaviorální terapie pro bipolární poruchu (CBT-BP)",
+        "Psychiatrická hospitalizace – zpravidla nezbytná u těžké mánie (ztráta náhledu, agresivní nebo vysoce rizikové chování)",
+        "Klidné prostředí se striktním omezením zevních stimulů",
         "Psychoedukace pacienta a rodiny – rozpoznávání prodromů, adherence k léčbě",
         "Interpersonální a sociálně-rytmická terapie (IPSRT) – regulace cirkadiánního rytmu",
-        "Rodinná terapie zaměřená (FFT – Family Focused Therapy)",
-        "Skupiny svépomoci (DOPOLAM, BIPO apod.)"
+        "Sociálně-právní ochrana (ochrana finančních/majetkových zájmů v mánii)"
       ]
     },
     "terapie_druhe_volby": {
       "farmakoterapie": [
         {
-          "skupina_latek": "Karbamazepin nebo oxkarbazepin",
+          "skupina_latek": "Antikonvulziva / Klasická antipsychotika (1. generace)",
           "priklady_generik": [
             "karbamazepin",
-            "oxkarbazepin"
-          ],
-          "dostupnost_cr_sukl": true,
-          "indikace_k_nasazeni": "Intolerance nebo selhání lithia/valproátu, rychlé cyklování, smíšené stavy. Oxkarbazepin méně interakcí než karbamazepin."
-        },
-        {
-          "skupina_latek": "Klozapin – pro terapeuticky rezistentní BAP",
-          "priklady_generik": [
+            "haloperidol",
             "klozapin"
           ],
           "dostupnost_cr_sukl": true,
-          "indikace_k_nasazeni": "Selhání ≥ 3 léčebných režimů nebo persistentní suicidální riziko."
+          "sukl_poznamka": "Karbamazepin je silný induktor jaterního cytochromu P450 – zásadně snižuje účinnost přidružené medikace (OAC, antipsychotika, antiretrovirotika). Haloperidol se v ČR používá krátkodobě i.m. ke zvládnutí extrémního psychomotorického neklidu.",
+          "doporucene_davkovani_zahajovaci": "Karbamazepin: 200 mg 2× denně, titrace na 400–600 mg 2× denně. Haloperidol: 5–10 mg i.m. pro akutní agitaci.",
+          "hlavni_nezadouci_ucinky": [
+            "karbamazepin: závratě, ataxie, diplopie, agranulocytóza (vzácná), hyponatrémie",
+            "haloperidol: EPS, tardivní dyskineze, QTc prodloužení"
+          ],
+          "kontraindikace": [
+            "karbamazepin: AV blok, útlum kostní dřeně v anamnéze, MAOI",
+            "haloperidol: DLB, QTc > 500 ms"
+          ],
+          "indikace_k_nasazeni": "Selhání, rezistence nebo nesnášenlivost léků první linie. Klozapin pro bipolární poruchu rezistentní na ≥ 3 léčebné kombinace nebo při suicidálním riziku."
         }
       ]
     },
     "zvlastni_upozorneni_a_bezpecnost": {
-      "black_box_warning": "Antidepresiva v monoterapii jsou u bipolární poruchy kontraindikována – riziko přesmyku do mánie nebo rychlého cyklování. Pokud jsou nutná (těžká bipolární deprese), vždy v kombinaci s thymostabilizátorem. Valproát: absolutní kontraindikace v těhotenství (teratogenita – neurální trubice, kardiovaskulární vady, kognitivní poruchy plodu). Ženy v reprodukčním věku musí mít zajištěnou účinnou antikoncepci a podepsat informovaný souhlas (PREVENT program).",
+      "black_box_warning": "Lithium: extrémně úzké terapeutické okno – intoxikace (lithemie > 1,5 mmol/l) ohrožuje život (hrubý třes, dysartrie, ataxie, zmatenost, křeče, kóma). Lithemie musí být odebrána přesně 12 hodin po poslední dávce. Valproát: fatální riziko závažných malformací plodu (neurální trubice, kardiovaskulární vady) a neurovývojových poruch – PREVENT program povinný.",
       "interakce": [
-        "Lithium + NSAID (ibuprofen, diklofenak, naproxen) – snížení renální eliminace lithia, riziko toxicity (bolest hlavy, třes, zmatenost)",
-        "Lamotrigin + valproát – zdvojnásobení hladin lamotriginu – titrovat na polovinu standardní dávky",
-        "Lamotrigin + karbamazepin – snížení hladin lamotriginu (indukce CYP)",
-        "Antidepresiva (SSRI, SNRI) + thymostabilizátor – riziko serotoninového syndromu nebo přesmyku"
+        "Lithium + NSAID (ibuprofen, diklofenak), ACE inhibitory, thiazidová diuretika – kriticky zvyšují plazmatickou hladinu lithia, riziko rychlého selhání ledvin a intoxikace",
+        "Valproát + lamotrigin – valproát inhibuje metabolismus lamotriginu a zdvojnásobuje jeho hladiny; při neopatrném souběhu hrozí Stevens-Johnsonův syndrom",
+        "Karbamazepin + orální antikoncepce – indukce CYP3A4 snižuje účinnost hormonální antikoncepce"
       ],
       "monitoring": [
-        "Lithium: hladiny, renální funkce, TSH každých 6 měsíců",
-        "Lamotrigin: klinické sledování (kožní reakce), hladiny při podezření na toxicitu",
-        "Metabolický screening u antipsychotik",
-        "Pravidelné hodnocení náladového záznamu (mood chart)",
-        "Suicidalita – systematické hodnocení"
+        "Lithium: lithemie (odběr 12 h po poslední dávce), TSH, sérový kreatinin – á 6 měsíců",
+        "Valproát: jaterní testy (ALT, AST), krevní obraz (trombocyty), hladina v séru – před zahájením a pravidelně",
+        "Metabolický screening (BMI, glykémie, lipidy) u antipsychotik – při zahájení, po 3 měsících, ročně",
+        "Těhotenský test a potvrzení antikoncepce u žen v reprodukčním věku na valproátu"
       ]
     },
     "zdroje": [
       {
-        "nazev": "APA Practice Guideline for Bipolar Disorder (2002, aktualizace 2010)",
+        "nazev": "APA Practice Guideline for Bipolar Disorder (PubMed PMID 11958165)",
         "url": "https://pubmed.ncbi.nlm.nih.gov/11958165/"
       },
       {
-        "nazev": "NICE Guideline CG185 (2014, aktualizace 2023)",
+        "nazev": "NICE CG185 – Bipolární porucha",
         "url": "https://www.nice.org.uk/guidance/cg185"
       },
       {
-        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "nazev": "ČLS JEP – Bipolární afektivní porucha",
         "url": "https://postupy-pece.psychiatrie.cz/specialni-psychiatrie/f3-depresivni-poruchy/bipolarni-afektivni-porucha"
       },
       {
-        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "nazev": "SÚKL – Valproátový registr PREVENT",
         "url": "https://prehledy.sukl.cz/prehled_leciv.html"
       }
     ]
   },
   {
     "kod_mkn10": "F32",
+    "alternativni_kody": [
+      "F32.0",
+      "F32.1",
+      "F32.2",
+      "F32.3"
+    ],
+    "kod_mkn11": "6A70",
+    "kod_dsm5": "296.22",
     "nazev_poruchy": "Depresivní epizoda",
     "terapie_prvni_volby": {
       "farmakoterapie": [
         {
-          "skupina_latek": "Selektivní inhibitory zpětného vychytávání serotoninu (SSRI)",
+          "skupina_latek": "SSRI – Inhibitory zpětného vychytávání serotoninu",
           "priklady_generik": [
             "sertralin",
             "escitalopram",
             "fluoxetin",
-            "paroxetin",
             "citalopram",
-            "fluvoxamin"
+            "paroxetin"
           ],
           "dostupnost_cr_sukl": true,
-          "sukl_poznamka": "Všechny SSRI jsou registrovány v ČR a jsou lékem první volby pro depresi. Sertralin a escitalopram mají nejpříznivější profil interakcí a jsou preferovány. Paroxetin má nejvíce anticholinergních NÚ a silný abstinenční syndrom. Fluoxetin má nejdelší poločas (výhodné při vynechání dávky).",
-          "doporucene_davkovani_zahajovaci": "Sertralin: 50 mg/den (lze zvýšit na 100–200 mg). Escitalopram: 10 mg/den (cílová 10–20 mg). Fluoxetin: 20 mg/den (cílová 20–60 mg). Citalopram: 20 mg/den (max 40 mg – limitováno QTc).",
+          "sukl_poznamka": "SSRI jsou bez preskripčního omezení specializace – může samostatně předepisovat i všeobecný praktický lékař (VPL). Naprostá většina generik je plně hrazena pojišťovnou. Sertralin a escitalopram mají nejpříznivější profil lékových interakcí (preferované u polymorbidních pacientů). Citalopram: max. dávka 40 mg/den (prodloužení QTc).",
+          "doporucene_davkovani_zahajovaci": "Sertralin: 50 mg 1× denně ráno po jídle, po 2 týdnech titrovat na 100–200 mg/den. Escitalopram: 10 mg 1× denně ráno, cílová 10–20 mg/den. Fluoxetin: 20 mg/den ráno, cílová 20–60 mg/den.",
           "hlavni_nezadouci_ucinky": [
-            "nauzea (zejm. na začátku)",
-            "sexuální dysfunkce",
-            "insomnie nebo ospalost",
-            "přírůstek hmotnosti (paroxetin)",
-            "abstinenční syndrom při vysazení (paroxetin > sertralin)",
-            "prodloužení QTc (citalopram, escitalopram ve vyšších dávkách)"
+            "přechodná nauzea (zejm. na začátku)",
+            "sexuální dysfunkce (snížené libido, opožděná ejakulace, anorgasmie)",
+            "insomnie nebo somnolence",
+            "abstinenční syndrom při náhlém vysazení (zejm. paroxetin, venlafaxin)"
           ],
           "kontraindikace": [
-            "MAOI – kontraindikace kombinace (riziko serotoninového syndromu, wash-out 14 dní po MAOI nebo 5 týdnů po fluoxetinu)",
+            "Souběžná léčba MAOI – absolutní kontraindikace (fatální serotoninový syndrom), wash-out 14 dní po MAOI nebo 5 týdnů po fluoxetinu",
             "prodloužené QTc (citalopram > 40 mg, escitalopram > 20 mg)"
           ]
         }
       ],
       "nefarmakologicka_terapie": [
-        "Kognitivně-behaviorální terapie (CBT) – stejná efektivita jako farmakoterapie u mírné až středně těžké deprese",
-        "Interpersonální terapie (IPT)",
-        "Behaviorální aktivace",
-        "Fyzická aktivita – prokázaná antidepresivní účinnost (alespoň 3× 45 min/týden)",
+        "Kognitivně-behaviorální terapie (CBT) nebo interpersonální psychoterapie (IPT) – stejná efektivita jako farmakoterapie u mírné až středně těžké deprese",
+        "Pravidelná denní aerobní fyzická aktivita (≥ 30–45 min, ≥ 3× týdně) – prokázaný antidepresivní efekt",
+        "Důsledná spánková hygiena",
         "Mindfulness-Based Cognitive Therapy (MBCT) – prevence relapsu"
       ]
     },
     "terapie_druhe_volby": {
       "farmakoterapie": [
         {
-          "skupina_latek": "SNRI – inhibitory zpětného vychytávání serotoninu a noradrenalinu",
+          "skupina_latek": "SNRI / NaSSA / Multimodální antidepresiva",
           "priklady_generik": [
             "venlafaxin",
             "duloxetin",
-            "milnacipran"
+            "mirtazapin",
+            "vortioxetin",
+            "bupropion"
           ],
           "dostupnost_cr_sukl": true,
-          "sukl_poznamka": "Venlafaxin a duloxetin registrovány v ČR pro depresi. Duloxetin také pro neuropatickou bolest a GAD. Venlafaxin zvyšuje krevní tlak ve vyšších dávkách – monitorovat.",
-          "doporucene_davkovani_zahajovaci": "Venlafaxin: 75 mg/den, titrace na 150–225 mg/den (XR forma). Duloxetin: 30 mg/den, cílová 60 mg/den.",
+          "sukl_poznamka": "Mirtazapin je v ČR vysoce preferován jako druhá volba nebo augmentace u depresí se záporným symptomovým profilem (úporná insomnie, těžké nechutenství, váhový úbytek) – silný sedativní a antihistaminní efekt. Vortioxetin (Brintellix) – nová multimodální molekula, hrazena při dokumentovaném selhání 2 antidepresiv.",
+          "doporucene_davkovani_zahajovaci": "Venlafaxin XR: 75 mg/den, titrace na 150–225 mg/den. Mirtazapin: 15 mg na noc, titrace na 30–45 mg/den. Duloxetin: 30 mg/den, cílová 60 mg/den.",
           "hlavni_nezadouci_ucinky": [
-            "hypertenze (venlafaxin – dávkově závislá)",
-            "nauzea",
-            "sexuální dysfunkce",
-            "abstinenční syndrom (venlafaxin)"
+            "venlafaxin: hypertenze (dávkově závislá), abstinenční syndrom",
+            "mirtazapin: výrazná sedace, přírůstek hmotnosti",
+            "bupropion: záchvaty (dávkově závislé), insomnie"
           ],
           "kontraindikace": [
-            "MAOI",
-            "nekontrolovaná hypertenze (venlafaxin)"
+            "venlafaxin: MAOI, nekontrolovaná hypertenze",
+            "mirtazapin: MAOI",
+            "bupropion: epilepsie, bulimie, anorexie"
           ],
-          "indikace_k_nasazeni": "Nedostatečná odpověď na SSRI, deprese s bolestivou složkou (duloxetin), nebo deprese s únavou a anergie."
-        },
-        {
-          "skupina_latek": "Mirtazapin – noradrenergní a specificky serotoninergní antidepresivum (NaSSA)",
-          "priklady_generik": [
-            "mirtazapin"
-          ],
-          "dostupnost_cr_sukl": true,
-          "sukl_poznamka": "Registrován v ČR. Výhodný u deprese s insomnií, anxietou a nechutenstvím. Výrazná sedace a přírůstek hmotnosti. Příznivý sexuální profil.",
-          "doporucene_davkovani_zahajovaci": "15 mg na noc, titrace na 30–45 mg/den.",
-          "hlavni_nezadouci_ucinky": [
-            "sedace",
-            "výrazný přírůstek hmotnosti",
-            "zvýšená chuť k jídlu"
-          ],
-          "kontraindikace": [
-            "MAOI"
-          ],
-          "indikace_k_nasazeni": "Deprese s insomnií, podváhou, anxietou; augmentace SSRI/SNRI."
-        },
-        {
-          "skupina_latek": "Agomelatin – melatoninový agonista a 5-HT2C antagonista",
-          "priklady_generik": [
-            "agomelatin"
-          ],
-          "dostupnost_cr_sukl": true,
-          "sukl_poznamka": "Registrován v ČR. Příznivý profil – neovlivňuje sexuální funkce, pomáhá normalizovat spánek. Vyžaduje monitoraci jaterních enzymů. Kontraindikován při jaterní insuficienci.",
-          "doporucene_davkovani_zahajovaci": "25 mg na noc, po 2 týdnech možno zvýšit na 50 mg/den.",
-          "hlavni_nezadouci_ucinky": [
-            "elevace jaterních enzymů (nutný monitoring ALT/AST)",
-            "bolest hlavy",
-            "závratě"
-          ],
-          "kontraindikace": [
-            "jaterní insuficience",
-            "kombinace s fluvoxaminem nebo ciprofloxacinem (inhibice CYP1A2)"
-          ],
-          "indikace_k_nasazeni": "Deprese s poruchou spánku, sexuální dysfunkce při SSRI/SNRI."
+          "indikace_k_nasazeni": "Nedosažení remise nebo nedostatečná odpověď po 4–6 týdnech SSRI v plné dávce, absolutní intolerance SSRI, nebo deprese s únavou a anergie (duloxetin, bupropion)."
         }
       ]
     },
     "zvlastni_upozorneni_a_bezpecnost": {
-      "black_box_warning": "FDA black box warning: Antidepresiva zvyšují riziko suicidálních myšlenek a chování u dětí, adolescentů a mladých dospělých (do 25 let) v počátku léčby. Pečlivě monitorovat prvních 4–8 týdnů. U dospělých > 65 let riziko naopak snižují. Tricyklická antidepresiva (TCA) – nebezpečné předávkování (arytmie), v ČR dnes výjimečně.",
+      "black_box_warning": "Na počátku léčby antidepresivy (první 7–14 dní) může nastat paradoxní nárůst úzkosti, psychomotorické tenze a rizika suicidálního chování – zejm. u adolescentů a mladých dospělých do 25 let. Motorická aktivace nastupuje dříve než zlepšení nálady. FDA a EMA black box warning – intenzivní sledování prvních 4–8 týdnů.",
       "interakce": [
-        "SSRI/SNRI + tramadol – riziko serotoninového syndromu",
-        "SSRI/SNRI + MAOI – absolutní kontraindikace (serotoninový syndrom)",
-        "SSRI + warfarin – zvýšení INR (antiplateletový efekt SSRI)",
-        "Fluoxetin/paroxetin + tamoxifen – inhibice CYP2D6, snížení aktivace tamoxifenu (onkologické pacientky)",
-        "Citalopram/escitalopram + jiné QTc prodlužující léky – riziko torsade de pointes",
-        "Agomelatin + fluvoxamin nebo ciprofloxacin – dramatický vzestup hladin agomelatinu (absolutní KI)"
+        "SSRI/SNRI + tramadol, triptany (sumatriptan) nebo třezalka tečkovaná – serotoninový syndrom (potenciálně fatální)",
+        "SSRI + NSAID (ibuprofen, diklofenak) nebo warfarin – zvýšené riziko krvácení do GIT (antiplateletový efekt SSRI)",
+        "Fluoxetin nebo paroxetin + tamoxifen – inhibice CYP2D6 snižuje účinnost tamoxifenu u onkologických pacientek",
+        "Citalopram/escitalopram + QTc prodlužující léky – torsade de pointes"
       ],
       "monitoring": [
-        "Suicidalita – prvních 4–8 týdnů zvýšená frekvence kontaktů",
-        "Odpověď na léčbu hodnotit po 2–4 týdnech (PHQ-9 nebo MADRS)",
-        "Agomelatin: ALT/AST před zahájením, po 3 a 6 týdnech, pak každých 6 měsíců",
-        "Krevní tlak u venlafaxinu",
-        "Hyponatrémie u starších pacientů při SSRI (SIADH)",
-        "EKG při citalopram > 40 mg nebo escitalopram > 20 mg"
+        "Intenzivní klinické sledování suicidálních myšlenek – zejm. na počátku titrace a při změnách dávkování",
+        "U citalopramu a escitalopramu EKG při vyšších dávkách (riziko QTc prodloužení)",
+        "U geriatrických pacientů pravidelná kontrola natrémie (riziko hyponatrémie – SIADH)",
+        "Hodnocení odpovědi na léčbu po 2–4 týdnech (PHQ-9 nebo MADRS)"
       ]
     },
     "zdroje": [
       {
-        "nazev": "APA Practice Guideline for Major Depressive Disorder (2010, aktualizace 2019)",
+        "nazev": "APA Practice Guideline for MDD (PubMed PMID 10767867)",
         "url": "https://pubmed.ncbi.nlm.nih.gov/10767867/"
       },
       {
-        "nazev": "NICE Guideline CG90/CG91: Depression in adults (2009, aktualizace 2022)",
+        "nazev": "NICE CG90 – Deprese u dospělých",
         "url": "https://www.nice.org.uk/guidance/cg90"
       },
       {
-        "nazev": "Psychiatrická společnost ČLS JEP (postupy-pece.psychiatrie.cz)",
+        "nazev": "ČLS JEP – Depresivní porucha u dospělých",
         "url": "https://postupy-pece.psychiatrie.cz/specialni-psychiatrie/f3-depresivni-poruchy/deprese-u-dospelych"
       },
       {
-        "nazev": "SÚKL Databáze léčiv – ověřeno 2025",
+        "nazev": "SÚKL SPC databáze léčiv",
         "url": "https://prehledy.sukl.cz/prehled_leciv.html"
       }
     ]
