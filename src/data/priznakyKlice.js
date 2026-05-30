@@ -108,6 +108,76 @@ const PRIZNAKY_KLICE = {
   'F43.1': ['hypervigilance','sleep_disturbance_insomnia','anxiety_general','emotional_lability','derealization','phobic_avoidance'],
   'F43.2': ['depressed_mood','anxiety_general','concentration_impaired','emotional_lability'],
 
+  // ── F10-F19: Poruchy způsobené psychoaktivními látkami ──────────
+  // Sdílené příznaky závislostí (základní)
+  'F10':   ['emotional_lability','cognitive_decline','psychomotor_agitation','anxiety_general'],
+  'F10.0': ['consciousness_impaired','psychomotor_agitation','emotional_lability'],
+  'F10.2': ['cognitive_decline','memory_short_term','emotional_lability','insidious_onset'],
+  'F10.3': ['psychomotor_agitation','anxiety_general','sleep_disturbance_insomnia','hallucinations_visual','consciousness_impaired'],
+  'F10.4': ['consciousness_impaired','fluctuating_course','hallucinations_visual','cognitive_decline'],
+  'F10.6': ['memory_short_term','memory_long_term','cognitive_decline'],
+
+  'F11':   ['psychomotor_retardation','consciousness_impaired','emotional_lability'],
+  'F11.2': ['psychomotor_retardation','social_dysfunction','insidious_onset'],
+  'F11.3': ['anxiety_general','psychomotor_agitation','somatic_anxiety','sleep_disturbance_insomnia'],
+
+  'F12':   ['psychomotor_retardation','anxiety_general','derealization'],
+  'F12.0': ['psychomotor_retardation','emotional_lability','derealization'],
+  'F12.2': ['cognitive_decline','social_dysfunction','insidious_onset'],
+
+  'F14':   ['psychomotor_agitation','elevated_mood','grandiosity'],
+  'F14.0': ['psychomotor_agitation','elevated_mood','grandiosity','risky_behavior'],
+  'F14.2': ['delusions_paranoid','hallucinations_auditory','psychomotor_agitation','social_dysfunction'],
+
+  'F15':   ['psychomotor_agitation','elevated_mood','sleep_disturbance_insomnia'],
+  'F15.0': ['psychomotor_agitation','elevated_mood','risky_behavior','sleep_disturbance_insomnia'],
+
+  'F17':   ['anxiety_general','somatic_anxiety'],
+  'F17.2': ['anxiety_general','somatic_anxiety','sleep_disturbance_insomnia','concentration_impaired'],
+
+  'F19':   ['cognitive_decline','emotional_lability','psychomotor_agitation','anxiety_general'],
+
+  // ── F44: Disociativní poruchy ────────────────────────────────────
+  'F44':   ['dissociation','derealization'],
+  'F44.0': ['memory_short_term','memory_long_term','dissociation'],
+  'F44.1': ['memory_short_term','dissociation','identity_instability'],
+  'F44.2': ['psychomotor_agitation','emotional_lability','dissociation'],
+  'F44.3': ['psychomotor_agitation','emotional_lability','dissociation','catatonia'],
+  'F44.4': ['psychomotor_agitation','dissociation','somatic_anxiety'],
+  'F44.5': ['somatic_anxiety','dissociation','emotional_lability'],
+  'F44.7': ['identity_instability','dissociation','memory_short_term','emotional_lability'],
+
+  // ── F45: Somatoformní poruchy ────────────────────────────────────
+  'F45':   ['somatic_anxiety','anxiety_general'],
+  'F45.0': ['somatic_anxiety','anxiety_general','concentration_impaired'],
+  'F45.1': ['somatic_anxiety','anxiety_general'],
+  'F45.2': ['somatic_anxiety','anxiety_general','hypervigilance'],
+  'F45.3': ['somatic_anxiety','anxiety_general'],
+  'F45.4': ['somatic_anxiety','depressed_mood','anxiety_general'],
+
+  // ── F48: Neurastenie ─────────────────────────────────────────────
+  'F48.0': ['loss_of_energy','somatic_anxiety','sleep_disturbance_insomnia','concentration_impaired','anxiety_general'],
+
+  // ── F51: Neorganické poruchy spánku ─────────────────────────────
+  'F51':   ['sleep_disturbance_insomnia','sleep_disturbance_hypersomnia'],
+  'F51.0': ['sleep_disturbance_insomnia','anxiety_general','somatic_anxiety'],
+  'F51.1': ['sleep_disturbance_hypersomnia','loss_of_energy','concentration_impaired'],
+  'F51.5': ['sleep_disturbance_insomnia','psychomotor_agitation'],
+
+  // ── F53: Perinatální duševní poruchy ────────────────────────────
+  'F53.0': ['depressed_mood','anhedonia','loss_of_energy','anxiety_general','sleep_disturbance_insomnia'],
+  'F53.1': ['delusions_paranoid','hallucinations_auditory','depressed_mood','emotional_lability','abrupt_onset'],
+
+  // ── F90: ADHD a hyperkinetické poruchy ──────────────────────────
+  'F90':   ['concentration_impaired','impulsivity','psychomotor_agitation'],
+  'F90.0': ['concentration_impaired','impulsivity','psychomotor_agitation','risky_behavior'],
+  'F90.1': ['concentration_impaired','impulsivity','psychomotor_agitation','risky_behavior','emotional_lability'],
+
+  // ── F84: Poruchy autistického spektra ───────────────────────────
+  'F84':   ['social_dysfunction','disorganized_speech','negative_symptoms'],
+  'F84.0': ['social_dysfunction','disorganized_speech','negative_symptoms','insidious_onset'],
+  'F84.5': ['social_dysfunction','concentration_impaired','anxiety_general','insidious_onset'],
+
   // ── F50: Poruchy příjmu potravy ──────────────────────────────────
   'F50.0': ['restriction_eating','fear_weight_gain','body_image_distortion','low_bmi'],
   'F50.1': ['restriction_eating','fear_weight_gain','body_image_distortion','low_bmi','psychomotor_agitation'],
