@@ -2246,10 +2246,7 @@
         {
           "skupina_latek": "Léčba základní příčiny (kauzální terapie)",
           "priklady_generik": [
-            "antibiotika",
-            "kortikoidy",
-            "thiamin",
-            "rehydratace"
+            "thiamin"
           ],
           "dostupnost_cr_sukl": true,
           "sukl_poznamka": "Nejdůležitější krok: identifikovat a léčit příčinu (infekce, metabolická dysbalance, medikamentózní toxicita, hypoxie, retence moči). Průběžná orientační kontrola (MMSE, CAM skóre).",
