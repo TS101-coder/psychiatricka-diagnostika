@@ -147,7 +147,6 @@ export default function GuidelinesSection({ guideline }) {
   if (!guideline) return null
 
   const farma1 = guideline.terapie_prvni_volby?.farmakoterapie || []
-  const nefarma = guideline.terapie_prvni_volby?.nefarmakologicka_terapie || []
   const farma2 = guideline.terapie_druhe_volby?.farmakoterapie || []
   const safety = guideline.zvlastni_upozorneni_a_bezpecnost
   const zdroje = guideline.zdroje || []
@@ -201,24 +200,6 @@ export default function GuidelinesSection({ guideline }) {
                 <DrugCard key={i} drug={drug} index={i} colorClass="bg-emerald-100 text-emerald-800" stavDostupnosti={stavDostupnosti} nacitam={nacitam} />
               ))}
             </div>
-          </div>
-        )}
-
-        {/* Nefarmakologicka terapie */}
-        {nefarma.length > 0 && (
-          <div>
-            <p className="text-xs font-bold text-sky-700 uppercase tracking-wide mb-2 flex items-center gap-1">
-              <span className="w-4 h-4 bg-sky-600 text-white rounded-full flex items-center justify-center text-xs">★</span>
-              Nefarmakologická terapie
-            </p>
-            <ul className="space-y-1">
-              {nefarma.map((item, i) => (
-                <li key={i} className="flex gap-2 text-sm text-slate-700">
-                  <span className="text-sky-500 shrink-0 mt-0.5">•</span>
-                  {item}
-                </li>
-              ))}
-            </ul>
           </div>
         )}
 
