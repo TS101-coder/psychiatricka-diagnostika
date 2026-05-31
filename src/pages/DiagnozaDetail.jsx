@@ -71,7 +71,7 @@ export default function DiagnozaDetail() {
               <h1 className="text-xl font-bold text-slate-900 leading-tight mb-1">{diagnoza.nazev_cz}</h1>
               <p className="text-sm text-slate-600">{diagnoza.kategorie}</p>
             </div>
-            <div className="flex gap-2 no-print">
+            <div className="flex flex-wrap gap-2 no-print">
               <button
                 onClick={() => navigate(`/diferencialni?a=${diagnoza.id}`)}
                 className="text-sm px-3 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-medium flex items-center gap-1"
@@ -80,6 +80,15 @@ export default function DiagnozaDetail() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10" />
                 </svg>
                 Porovnat
+              </button>
+              <button
+                onClick={() => navigate(`/kalkulator?kod=${diagnoza.id}`)}
+                className="text-sm px-3 py-2 bg-violet-600 hover:bg-violet-700 text-white rounded-lg font-medium flex items-center gap-1"
+              >
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 7H6a2 2 0 00-2 2v9a2 2 0 002 2h9a2 2 0 002-2v-3M9 7V5a2 2 0 012-2h2M9 7h6m0 0V5a2 2 0 012-2h2a2 2 0 012 2v2m-6 0h6" />
+                </svg>
+                V kalkulačce
               </button>
               <button
                 onClick={tisk}
