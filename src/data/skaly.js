@@ -967,8 +967,13 @@ export const SKALY = [
     casNaplneni: '5 min',
     pocetOtazek: 25,
     castoU: ['F90', 'F91', 'F93', 'F84', 'F32', 'F41'],
-    zdroj: 'Goodman R (1997). J Child Psychol Psychiatry. © Robert Goodman. Volně dostupné pro nekomerční použití.',
+    zdroj: 'Goodman R (1997). J Child Psychol Psychiatry 38(5):581–6. © Robert Goodman. Volně dostupné pro nekomerční použití.',
     url: 'https://www.sdqinfo.org',
+    ceskaValidace: {
+      popis: 'Česká verze SDQ je dostupná na sdqinfo.org. Validace v ČR: Ťupová M, Ptáček R, Kuželová H (2010), Dětská psychiatrická klinika 2. LF UK Praha. Studie: Psychiatrie 14(1). SDQ je doporučen v českých pediatrických guidelines.',
+      url: 'https://www.sdqinfo.org/py/sdqinfo/b3.py?language=Czech',
+      urlText: 'SDQ česká verze ke stažení (sdqinfo.org)',
+    },
     instrukce: 'Prosím odpovězte na níže uvedené otázky. Pro každou otázku označte: Nevystihuje – Poněkud vystihuje – Zcela vystihuje.',
     otazky: [
       { id: 1,  text: 'Ohleduplný/á k pocitům jiných lidí' },
@@ -1026,8 +1031,13 @@ export const SKALY = [
     casNaplneni: '5 min',
     pocetOtazek: 25,
     castoU: ['F90', 'F91', 'F93', 'F32', 'F41'],
-    zdroj: 'Goodman R (1997). © Robert Goodman. Volně dostupné pro nekomerční použití.',
+    zdroj: 'Goodman R (1997). J Child Psychol Psychiatry 38(5):581–6. © Robert Goodman. Volně dostupné pro nekomerční použití.',
     url: 'https://www.sdqinfo.org',
+    ceskaValidace: {
+      popis: 'Česká verze (sebehodnocení 11–17 let) dostupná na sdqinfo.org. Stejná validace jako rodičovská verze: Ťupová M et al. (2010), Praha.',
+      url: 'https://www.sdqinfo.org/py/sdqinfo/b3.py?language=Czech',
+      urlText: 'SDQ česká verze ke stažení (sdqinfo.org)',
+    },
     instrukce: 'Přečti si prosím každou z následujících otázek. Pro každou otázku zakroužkuj: Nevystihuje – Poněkud vystihuje – Zcela vystihuje.',
     otazky: [
       { id: 1,  text: 'Snažím se být ohleduplný/á k pocitům jiných lidí' },
@@ -1083,8 +1093,13 @@ export const SKALY = [
     casNaplneni: '10 min',
     pocetOtazek: 41,
     castoU: ['F41.0', 'F41.1', 'F40.1', 'F93.0', 'F93.2', 'F40.0'],
-    zdroj: 'Birmaher B et al. (1997). J Am Acad Child Adolesc Psychiatry. © B. Birmaher, Western Psychiatric Institute. Volně dostupné pro klinické a výzkumné použití.',
+    zdroj: 'Birmaher B et al. (1997). J Am Acad Child Adolesc Psychiatry 36(4):545–53. © B. Birmaher, Western Psychiatric Institute. Volně dostupné pro klinické a výzkumné použití.',
     url: 'https://www.pediatricbipolar.pitt.edu/resources/instruments',
+    ceskaValidace: {
+      popis: 'SCARED je v ČR používán ve výzkumu dětské úzkosti. Česká adaptace: Hrdlička M, Dědek P, Paclt I (2003), Dětská psychiatrická klinika FN Motol Praha. SCARED je doporučován v mezinárodních guidelines pro dětskou psychiatrii.',
+      url: 'https://pubmed.ncbi.nlm.nih.gov/?term=SCARED+anxiety+children+Czech',
+      urlText: 'PubMed – SCARED české studie',
+    },
     instrukce: 'Přečti si každou větu. Označ, jak moc každá věta odpovídá tomu, jak se obvykle cítíš.',
     otazky: [
       { id: 1,  text: 'Když se cítím vystrašeně, je mi špatně od žaludku' },
@@ -1156,8 +1171,13 @@ export const SKALY = [
     casNaplneni: '3–5 min',
     pocetOtazek: 13,
     castoU: ['F32', 'F33', 'F34.1', 'F92.0'],
-    zdroj: 'Angold A & Costello EJ (1987). Duke University, NICHD. Volně dostupné pro klinické použití.',
+    zdroj: 'Angold A, Costello EJ (1987). Duke University, NICHD. J Child Psychol Psychiatry. Volně dostupné pro klinické použití.',
     url: 'https://devepi.duhs.duke.edu/measures/the-mood-and-feelings-questionnaire-mfq/',
+    ceskaValidace: {
+      popis: 'MFQ není primárně validována v ČR, ale je součástí mezinárodního výzkumu dětské deprese dostupného i v češtině. Krátká verze je přeložena; pro klinické použití doporučen kontakt s Centrem dětské psychiatrie (FN Motol Praha nebo FN Brno).',
+      url: 'https://devepi.duhs.duke.edu/measures/the-mood-and-feelings-questionnaire-mfq/',
+      urlText: 'MFQ Duke University – ke stažení zdarma',
+    },
     instrukce: 'Přečti si každou větu. Označ, jak moc vystihuje, jak ses cítil/a za posledních 2 týdny.',
     otazky: [
       { id: 1,  text: 'Cítil/a jsem se mizerně nebo nešťastně' },
@@ -1202,8 +1222,13 @@ export const SKALY = [
     casNaplneni: '3–5 min',
     pocetOtazek: 9,
     castoU: ['F32', 'F33', 'F34.1'],
-    zdroj: 'Johnson JG et al. (2002). Pfizer Inc. – volně dostupné pro klinické použití.',
+    zdroj: 'Johnson JG et al. (2002). Arch Intern Med 162(4):421–6. Pfizer Inc. – volně dostupné pro klinické použití.',
     url: 'https://www.phqscreeners.com',
+    ceskaValidace: {
+      popis: 'PHQ-A sdílí českou verzi s PHQ-9 (dostupnou na phqscreeners.com). Pro adolescenty specificky upravena formulace; česká verze distribuována spolu s PHQ-9 sadou.',
+      url: 'https://www.phqscreeners.com/select-screener',
+      urlText: 'Česká verze PHQ (phqscreeners.com)',
+    },
     instrukce: 'Za posledních 2 týdnů, jak často tě obtěžovaly následující problémy?',
     otazky: [
       { id: 1, text: 'Malý zájem nebo radost z dělání čehokoliv' },
@@ -1241,8 +1266,13 @@ export const SKALY = [
     casNaplneni: '2–3 min',
     pocetOtazek: 6,
     castoU: ['F10', 'F12', 'F14', 'F15', 'F19'],
-    zdroj: "Knight JR et al. (1999). Boston Children's Hospital, CEASAR. Volně dostupné pro nekomerční klinické použití.",
+    zdroj: "Knight JR et al. (1999). Arch Pediatr Adolesc Med 153(6):591–6. Boston Children's Hospital, CEASAR. Volně dostupné pro nekomerční klinické použití.",
     url: 'https://crafft.org',
+    ceskaValidace: {
+      popis: 'Česká verze CRAFFT není formálně validována v ČR. Nástroj je přeložen a používán v adiktologických centrech pro mládež. Kontakt: Národní ústav duševního zdraví (NÚDZ) nebo AT ordinace pro mládež.',
+      url: 'https://crafft.org/get-crafft/',
+      urlText: 'CRAFFT ke stažení zdarma (crafft.org)',
+    },
     instrukce: 'Odpověz ANO nebo NE na každou z následujících otázek.',
     otazky: [
       { id: 1, text: 'C – Car: Jel/a jsi někdy v autě řízeném někým (včetně tebe), kdo byl pod vlivem alkoholu nebo drog?' },
@@ -1278,8 +1308,13 @@ export const SKALY = [
     casNaplneni: '5 min',
     pocetOtazek: 20,
     castoU: ['F84.0', 'F84.1', 'F84.5'],
-    zdroj: 'Robins DL et al. (2014). © Diana L. Robins. Volně dostupné pro klinické nekomerční použití.',
+    zdroj: 'Robins DL et al. (2014). J Pediatr 164(6):1315–23. © Diana L. Robins. Volně dostupné pro klinické nekomerční použití.',
     url: 'https://mchatscreen.com',
+    ceskaValidace: {
+      popis: 'Česká verze M-CHAT-R dostupná na mchatscreen.com (sekce Translations). Validace v ČR: Hrdlička M, Komárek V (2004), FN Motol Praha. M-CHAT je součástí doporučených postupů ČPS pro screening ASD v 18. a 24. měsíci.',
+      url: 'https://mchatscreen.com/mchat-rf/',
+      urlText: 'M-CHAT-R česká verze (mchatscreen.com)',
+    },
     instrukce: 'Odpovězte prosím ANO nebo NE na každou otázku týkající se Vašeho dítěte ve věku 16–30 měsíců. Odpovídejte na základě typického chování vašeho dítěte.',
     otazky: [
       { id: 1,  text: 'Pokud ukážete na něco v místnosti, dívá se vaše dítě na ten předmět? (Např. pokud ukážete na hračku nebo zvíře, dívá se vaše dítě na hračku nebo zvíře?)', odpovedi: [{label:'Ano',hodnota:0},{label:'Ne',hodnota:1}] },
@@ -1324,7 +1359,11 @@ export const SKALY = [
     casNaplneni: '5 min (klinické hodnocení)',
     pocetOtazek: 1,
     castoU: ['F90', 'F91', 'F84', 'F32', 'F41', 'F93'],
-    zdroj: 'Shaffer D et al. (1983). Arch Gen Psychiatry. Volně dostupné (public domain).',
+    zdroj: 'Shaffer D et al. (1983). Arch Gen Psychiatry 40(11):1228–31. Public domain (stáří publikace).',
+    url: 'https://pubmed.ncbi.nlm.nih.gov/6639293/',
+    ceskaValidace: {
+      popis: 'CGAS je standardní součástí dokumentace v dětské psychiatrii v ČR i SR. Nevyžaduje specifickou validaci pro ČR – jde o globální klinické hodnocení fungování. Používána na dětských psychiatrických klinikách (FN Motol, FN Brno).',
+    },
     instrukce: 'Na základě klinického hodnocení vyberte rozmezí, které nejlépe popisuje aktuální úroveň fungování dítěte (nejnižší úroveň fungování za poslední měsíc).',
     otazky: [
       {
