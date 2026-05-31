@@ -3,6 +3,7 @@ import { NavLink, useSearchParams } from 'react-router-dom'
 import { SLOVNIK_PRIZNAKU } from '../data/symptomTaxonomy'
 import PRIZNAKY_KLICE from '../data/priznakyKlice'
 import guidelines from '../data/clinicalGuidelines_MKN10.json'
+import klinickeGuidelines from '../data/guidelines.json'
 
 const odstranDiakritiku = (text) =>
   text.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()
@@ -33,6 +34,12 @@ export default function DiagnosticCalculator() {
   const [vybranePriznaky, setVP]  = useState([])
   const [viewMode, setViewMode]   = useState('abecedne') // 'abecedne' | 'kategorie'
   const [openKat, setOpenKat]     = useState(new Set(Object.keys(KATEGORIE)))
+  const [zkopirovanoId, setZkopirovanoId] = useState(null)
+
+  // Vyhledávací mapa klinických guidelines (farmakoterapie) dle kódu MKN-10
+  const klinickaMap = useMemo(() =>
+    Object.fromEntries(klinickeGuidelines.map(g => [g.kod_mkn10, g])),
+  [])
 
   // Předvyplnění příznaků z URL parametru ?kod=F32
   useEffect(() => {
@@ -60,6 +67,42 @@ export default function DiagnosticCalculator() {
 
   function resetVse() {
     setVek(''); setPohlavi('ALL'); setSearch(''); setVP([])
+  }
+
+  function kopirujDoDekurzu(diag) {
+    const textPriznaky = diag.shodnePriznaky
+      .map(klic => SLOVNIK_PRIZNAKU[klic])
+      .join(', ')
+
+    // Pokus najít farmakoterapii z klinických guidelines
+    const klinGuideline = klinickaMap[diag.kod_mkn10]
+    const farma1 = klinGuideline?.terapie_prvni_volby?.farmakoterapie?.[0]
+    const skupinaLatek = farma1?.skupina_latek ?? '—'
+    const generika = farma1?.priklady_generik?.join(', ') ?? '—'
+
+    const pct = `${diag.pctZadanych} % ze zadaných příznaků | ${diag.pctDiagnozy} % pokrytí diagnózy`
+
+    const text = [
+      `DIFERENCIÁLNÍ ROZVAHA (MKN-10)`,
+      `────────────────────────────────`,
+      `Diagnóza:          ${diag.kod_mkn10} – ${diag.nazev_poruchy}`,
+      `Věkový rozsah:     ${diag.vek_min}–${diag.vek_max} let`,
+      `Shoda příznaků:    ${pct}`,
+      ``,
+      `Přítomné příznaky:`,
+      `  ${textPriznaky}`,
+      ``,
+      `Farmakoterapie I. volby:`,
+      `  Skupina: ${skupinaLatek}`,
+      `  Generika: ${generika}`,
+      ``,
+      `Zdroj: Psychiatrická diagnostika CDSS`,
+    ].join('\n')
+
+    navigator.clipboard.writeText(text).then(() => {
+      setZkopirovanoId(diag.kod_mkn10)
+      setTimeout(() => setZkopirovanoId(null), 2000)
+    })
   }
 
   function toggleKat(nazev) {
@@ -291,6 +334,33 @@ export default function DiagnosticCalculator() {
                         {diag.pctZadanych} %
                       </span>
                     </div>
+
+                    {/* Tlačítko kopírovat do dekurzu */}
+                    <button
+                      onClick={() => kopirujDoDekurzu(diag)}
+                      className={`shrink-0 flex items-center gap-1 text-xs px-2.5 py-1 rounded-lg border font-medium transition-all duration-200 ${
+                        zkopirovanoId === diag.kod_mkn10
+                          ? 'bg-emerald-500 text-white border-emerald-500'
+                          : 'bg-white text-slate-600 border-slate-300 hover:bg-slate-50 hover:border-slate-400'
+                      }`}
+                      title="Kopírovat souhrn do schránky pro vložení do dekurzu"
+                    >
+                      {zkopirovanoId === diag.kod_mkn10 ? (
+                        <>
+                          <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
+                          </svg>
+                          Zkopírováno!
+                        </>
+                      ) : (
+                        <>
+                          <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3" />
+                          </svg>
+                          Do dekurzu
+                        </>
+                      )}
+                    </button>
 
                     {/* Dvě metriky */}
                     <div className="mb-3 grid grid-cols-2 gap-3">
