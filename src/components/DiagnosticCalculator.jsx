@@ -289,6 +289,37 @@ export default function DiagnosticCalculator() {
 
             <div className="p-4 space-y-3 min-h-64">
 
+              {/* ── Aktivní filtry ──────────────────────────────── */}
+              {(vek !== '' || pohlavi !== 'ALL' || vybranePriznaky.length > 0) && (
+                <div className="flex flex-wrap items-center gap-1.5 pb-3 border-b border-slate-100">
+                  <span className="text-xs font-semibold text-slate-400 shrink-0">Aktivní filtry:</span>
+
+                  {/* Věk */}
+                  {vek !== '' && (
+                    <span className="inline-flex items-center gap-1 px-2.5 py-1 bg-slate-100 text-slate-700 text-xs rounded-full border border-slate-200">
+                      Věk: {vek} let
+                      <button onClick={() => setVek('')} className="ml-0.5 text-slate-400 hover:text-slate-700 leading-none font-bold" aria-label="Odebrat věk">×</button>
+                    </span>
+                  )}
+
+                  {/* Pohlaví */}
+                  {pohlavi !== 'ALL' && (
+                    <span className="inline-flex items-center gap-1 px-2.5 py-1 bg-slate-100 text-slate-700 text-xs rounded-full border border-slate-200">
+                      {pohlavi === 'M' ? 'Muž' : 'Žena'}
+                      <button onClick={() => setPohlavi('ALL')} className="ml-0.5 text-slate-400 hover:text-slate-700 leading-none font-bold" aria-label="Odebrat pohlaví">×</button>
+                    </span>
+                  )}
+
+                  {/* Příznaky */}
+                  {vybranePriznaky.map(klic => (
+                    <span key={klic} className="inline-flex items-center gap-1 px-2.5 py-1 bg-blue-50 text-blue-700 text-xs rounded-full border border-blue-100">
+                      {SLOVNIK_PRIZNAKU[klic]}
+                      <button onClick={() => togglePriznak(klic)} className="ml-0.5 text-blue-300 hover:text-blue-600 leading-none font-bold" aria-label={`Odebrat příznak ${SLOVNIK_PRIZNAKU[klic]}`}>×</button>
+                    </span>
+                  ))}
+                </div>
+              )}
+
               {/* Prázdný stav */}
               {pocetZadanych === 0 && (
                 <div className="flex flex-col items-center justify-center py-20 text-center">
