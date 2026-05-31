@@ -1,6 +1,13 @@
 import { useNavigate } from 'react-router-dom'
 import { SKALY, KATEGORIE_SKAL } from '../data/skaly'
 
+const DOT = {
+  deprese:   'bg-yellow-500', uzkost:    'bg-orange-500', ptsd:      'bg-red-500',
+  bipolarni: 'bg-purple-500', psychoza:  'bg-violet-500', ocd:       'bg-teal-500',
+  alkohol:   'bg-amber-500',  spanek:    'bg-indigo-500', adhd:      'bg-sky-500',
+  kognitivni:'bg-green-500',  obecne:    'bg-slate-400',  deti:      'bg-pink-500',
+}
+
 const BARVA = {
   deprese:   { bg: 'bg-yellow-50', border: 'border-yellow-200', text: 'text-yellow-800', badge: 'bg-yellow-100 text-yellow-700 border-yellow-200' },
   uzkost:    { bg: 'bg-orange-50', border: 'border-orange-200', text: 'text-orange-800', badge: 'bg-orange-100 text-orange-700 border-orange-200' },
@@ -65,7 +72,7 @@ export default function SkalyHome() {
           return (
             <section key={kat.id}>
               <div className="flex items-center gap-2 mb-3">
-                <span className="text-lg">{kat.ikona}</span>
+                <span className={`w-2.5 h-2.5 rounded-full shrink-0 ${DOT[kat.id] || 'bg-slate-400'}`} />
                 <h2 className={`text-sm font-bold uppercase tracking-wide ${b.text}`}>{kat.nazev}</h2>
                 <span className={`text-xs px-2 py-0.5 rounded-full border font-medium ${b.badge}`}>
                   {skaly.length}
