@@ -424,13 +424,31 @@ export default function DiagnosticCalculator() {
                       </span>
                     </div>
 
-                    {/* Shodné příznaky */}
-                    <div className="flex flex-wrap gap-1.5">
-                      {diag.shodnePriznaky.map(klic => (
-                        <span key={klic} className="text-xs px-2 py-0.5 bg-blue-50 text-blue-700 border border-blue-100 rounded-full">
-                          {SLOVNIK_PRIZNAKU[klic]}
-                        </span>
-                      ))}
+                    {/* Klinický obraz – všechny příznaky diagnózy s vizuálním rozlišením */}
+                    <div>
+                      <p className="text-xs font-semibold text-slate-500 mb-1.5">Klinický obraz diagnózy:</p>
+                      <div className="flex flex-col gap-1">
+                        {(diag.priznakyKlice || []).map(klic => {
+                          const pritomen = diag.shodnePriznaky.includes(klic)
+                          return pritomen ? (
+                            <div key={klic} className="flex items-center gap-1.5 px-2 py-1 bg-emerald-50 border border-emerald-100 rounded-md">
+                              <svg className="w-3 h-3 text-emerald-600 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
+                              </svg>
+                              <span className="text-xs font-semibold text-emerald-800 leading-snug">
+                                {SLOVNIK_PRIZNAKU[klic] || klic}
+                              </span>
+                            </div>
+                          ) : (
+                            <div key={klic} className="flex items-center gap-1.5 px-2 py-1">
+                              <span className="text-slate-300 shrink-0 text-xs leading-none">•</span>
+                              <span className="text-xs text-slate-400 leading-snug">
+                                {SLOVNIK_PRIZNAKU[klic] || klic}
+                              </span>
+                            </div>
+                          )
+                        })}
+                      </div>
                     </div>
                   </div>
                 )
