@@ -360,9 +360,9 @@ export const SKALY = [
     zdroj: 'Hirschfeld RM et al. (2000). Am J Psychiatry 157(11):1873–5. Volně dostupné.',
     url: 'https://pubmed.ncbi.nlm.nih.gov/11058490/',
     ceskaValidace: {
-      popis: 'MDQ je v ČR standardně používáno pro screening bipolárního spektra. Česká verze: Přikryl R et al., Psychiatrická klinika LF MU Brno. Studie: Přikryl R, Kašpárek T (2008). Česká a slovenská psychiatrie.',
-      url: 'https://pubmed.ncbi.nlm.nih.gov/?term=MDQ+bipolar+Czech+validation',
-      urlText: 'PubMed – MDQ české studie',
+      popis: 'MDQ je v ČR standardně používáno pro screening bipolárního spektra. Česká validace: Přikryl R, Kašpárek T (2008). Česká a slovenská psychiatrie 104(2):71–77. Českou verzi lze vyžádat přes Psychiatrickou kliniku LF MU Brno.',
+      url: 'https://www.cspsychiatr.cz',
+      urlText: 'Česká a slovenská psychiatrie – zdroj validační studie MDQ',
     },
     instrukce: 'Zažil/a jste někdy v životě období, kdy jste nebyl/a svým obvyklým já a kdy:',
     otazky: [
