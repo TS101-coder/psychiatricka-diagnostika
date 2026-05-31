@@ -249,8 +249,8 @@ export default function Sidebar({ open }) {
         </NavLink>
       </div>
 
-      {/* Differential */}
-      <div className="px-4 py-2 border-b border-slate-100">
+      {/* Nástroje: diferenciální diagnostika + kalkulačka */}
+      <div className="px-4 py-2 border-b border-slate-100 space-y-0.5">
         <NavLink
           to="/diferencialni"
           className={({ isActive }) =>
@@ -258,11 +258,24 @@ export default function Sidebar({ open }) {
              ${isActive ? 'bg-blue-50 text-blue-700' : 'text-slate-700 hover:bg-slate-50'}`
           }
         >
-          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <svg className="w-4 h-4 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
               d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
           </svg>
           Diferenciální diagnostika
+        </NavLink>
+        <NavLink
+          to="/kalkulator"
+          className={({ isActive }) =>
+            `flex items-center gap-2 text-sm font-medium px-3 py-2 rounded-lg transition-colors
+             ${isActive ? 'bg-violet-50 text-violet-700' : 'text-slate-700 hover:bg-slate-50'}`
+          }
+        >
+          <svg className="w-4 h-4 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
+              d="M9 7H6a2 2 0 00-2 2v9a2 2 0 002 2h9a2 2 0 002-2v-3M9 7V5a2 2 0 012-2h2M9 7h6m0 0V5a2 2 0 012-2h2a2 2 0 012 2v2m-6 0h6" />
+          </svg>
+          Diferenciální kalkulačka
         </NavLink>
       </div>
 
