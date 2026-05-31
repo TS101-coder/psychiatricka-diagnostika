@@ -46,8 +46,13 @@ export const SKALY = [
     casNaplneni: '2–3 min',
     pocetOtazek: 9,
     castoU: ['F32', 'F33', 'F34.1', 'F31.3', 'F31.4'],
-    zdroj: 'Kroenke K, Spitzer RL, Williams JBW (2001). Pfizer Inc. – volně dostupné pro klinické použití.',
+    zdroj: 'Kroenke K, Spitzer RL, Williams JBW (2001). J Gen Intern Med 16(9):606–13. Pfizer Inc. – volně dostupné.',
     url: 'https://www.phqscreeners.com',
+    ceskaValidace: {
+      popis: 'Česká verze dostupná na phqscreeners.com. Validace v ČR: Ocisková J et al. (2018), psychiatrická ambulance Brno. PHQ-9 je součástí standardního klinického repertoáru v české psychiatrii a primární péči.',
+      url: 'https://www.phqscreeners.com/select-screener',
+      urlText: 'Stáhnout českou verzi (phqscreeners.com)',
+    },
     instrukce: 'Jak často vás v posledních 2 týdnech obtěžovaly následující problémy?',
     otazky: [
       { id: 1, text: 'Malý zájem nebo radost z dělání čehokoliv' },
@@ -82,8 +87,13 @@ export const SKALY = [
     casNaplneni: '< 1 min',
     pocetOtazek: 2,
     castoU: ['F32', 'F33'],
-    zdroj: 'Kroenke K, Spitzer RL, Williams JBW (2003). Volně dostupné.',
+    zdroj: 'Kroenke K, Spitzer RL, Williams JBW (2003). Med Care 41(11):1284–92. Pfizer Inc. – volně dostupné.',
     url: 'https://www.phqscreeners.com',
+    ceskaValidace: {
+      popis: 'Součást PHQ sady, česká verze dostupná spolu s PHQ-9 na phqscreeners.com.',
+      url: 'https://www.phqscreeners.com/select-screener',
+      urlText: 'Česká verze (phqscreeners.com)',
+    },
     instrukce: 'Jak často vás v posledních 2 týdnech obtěžovaly následující problémy?',
     otazky: [
       { id: 1, text: 'Malý zájem nebo radost z dělání čehokoliv', odpovedi: ODPOVEDI_PHQ_GAD },
@@ -108,8 +118,13 @@ export const SKALY = [
     casNaplneni: '15–20 min (klinické interview)',
     pocetOtazek: 10,
     castoU: ['F32', 'F33'],
-    zdroj: 'Montgomery SA, Åsberg M (1979). British Journal of Psychiatry. Volně dostupné.',
+    zdroj: 'Montgomery SA, Åsberg M (1979). Br J Psychiatry 134:382–9. Volně dostupné.',
     url: 'https://pubmed.ncbi.nlm.nih.gov/444788/',
+    ceskaValidace: {
+      popis: 'MADRS je standardně používána v české psychiatrii. Česká adaptace popsána v: Praško J et al. Psychiatrie – 2. vyd. (Portál, 2011). Škála je součástí výuky na Czech Medical Schools.',
+      url: 'https://pubmed.ncbi.nlm.nih.gov/?term=MADRS+Czech+depression+validation',
+      urlText: 'PubMed – české studie s MADRS',
+    },
     instrukce: 'Hodnotí klinický pracovník na základě rozhovoru s pacientem. Pro každou položku vyberte skóre 0–6.',
     otazky: [
       { id: 1,  text: 'Pozorovaný smutek (výraz smutku, skleslost, zoufalství)', odpovedi: [
