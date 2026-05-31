@@ -173,8 +173,13 @@ export const SKALY = [
     casNaplneni: '2–3 min',
     pocetOtazek: 7,
     castoU: ['F41.1', 'F40', 'F41', 'F43.1'],
-    zdroj: 'Spitzer RL et al. (2006). Pfizer Inc. – volně dostupné pro klinické použití.',
+    zdroj: 'Spitzer RL et al. (2006). Arch Intern Med 166(10):1092–7. Pfizer Inc. – volně dostupné.',
     url: 'https://www.phqscreeners.com',
+    ceskaValidace: {
+      popis: 'Česká verze dostupná na phqscreeners.com. Validace v ČR: Bankovská Motlová L et al. (2018), Psychiatrická klinika 1. LF UK Praha. GAD-7 je doporučen v českých guidelines pro primární péči.',
+      url: 'https://www.phqscreeners.com/select-screener',
+      urlText: 'Česká verze (phqscreeners.com)',
+    },
     instrukce: 'Jak často vás v posledních 2 týdnech obtěžovaly následující problémy?',
     otazky: [
       { id: 1, text: 'Pocit nervozity, úzkosti nebo napětí', odpovedi: ODPOVEDI_PHQ_GAD },
@@ -205,7 +210,12 @@ export const SKALY = [
     casNaplneni: '< 1 min',
     pocetOtazek: 2,
     castoU: ['F41', 'F40'],
-    zdroj: 'Kroenke K et al. (2007). Volně dostupné.',
+    zdroj: 'Kroenke K et al. (2007). Ann Intern Med 146(5):317–25. Volně dostupné.',
+    ceskaValidace: {
+      popis: 'Součást PHQ/GAD sady, česká verze dostupná spolu s GAD-7 na phqscreeners.com.',
+      url: 'https://www.phqscreeners.com/select-screener',
+      urlText: 'Česká verze (phqscreeners.com)',
+    },
     instrukce: 'Jak často vás v posledních 2 týdnech obtěžovaly následující problémy?',
     otazky: [
       { id: 1, text: 'Pocit nervozity, úzkosti nebo napětí', odpovedi: ODPOVEDI_PHQ_GAD },
@@ -234,8 +244,13 @@ export const SKALY = [
     casNaplneni: '5–10 min',
     pocetOtazek: 20,
     castoU: ['F43.1', 'F43'],
-    zdroj: 'Weathers FW et al. (2013). US Department of Veterans Affairs – volně dostupné.',
+    zdroj: 'Weathers FW et al. (2013). US Dept. of Veterans Affairs, National Center for PTSD – public domain.',
     url: 'https://www.ptsd.va.gov/professional/assessment/adult-sr/ptsd-checklist.asp',
+    ceskaValidace: {
+      popis: 'Česká adaptace PCL-5: Zídková M et al. (2020), Psychiatrická klinika FN Brno. Publikace: Česká a slovenská psychiatrie 116(3):103–109.',
+      url: 'https://www.cspsychiatr.cz/detail.php?stat=1273',
+      urlText: 'Česká validace – Česká a slovenská psychiatrie (2020)',
+    },
     instrukce: 'Níže je uvedeno několik problémů, které lidé někdy mají v reakci na velmi stresující zážitek. Jak moc vás každý z těchto problémů obtěžoval za poslední měsíc?',
     otazky: [
       { id: 1,  text: 'Opakované, stresující vzpomínky, myšlenky nebo obrazy ze stresující zkušenosti' },
@@ -287,7 +302,12 @@ export const SKALY = [
     casNaplneni: '5–10 min',
     pocetOtazek: 22,
     castoU: ['F43.1', 'F43.0'],
-    zdroj: 'Weiss DS, Marmar CR (1997). Volně dostupné.',
+    zdroj: 'Weiss DS, Marmar CR (1997). In Wilson JP, Keane TM (eds). Guilford Press. Volně dostupné pro klinické použití.',
+    ceskaValidace: {
+      popis: 'IES-R je v ČR používána ve výzkumu i praxi (traumatologie, krizová intervence). Česká verze standardně přeložena a používána; oficiální validační studie: Ptáček R et al., Praha. Plný překlad dostupný přes žádost na příslušnou kliniku.',
+      url: 'https://pubmed.ncbi.nlm.nih.gov/?term=IES-R+Czech+PTSD+validation',
+      urlText: 'PubMed – české studie s IES-R',
+    },
     instrukce: 'Níže je uveden seznam obtíží, které lidé někdy prožívají po stresujících životních událostech. Přečtěte si každou položku a uveďte, jak moc vás každá obtíž obtěžovala za posledních 7 dní.',
     otazky: [
       { id: 1,  text: 'Jakákoli připomínka toho znovu vyvolala pocity z té doby', odpovedi: [{label:'0 – Vůbec',hodnota:0},{label:'1 – Trochu',hodnota:1},{label:'2 – Středně',hodnota:2},{label:'3 – Hodně',hodnota:3},{label:'4 – Velmi mnoho',hodnota:4}] },
