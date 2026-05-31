@@ -246,8 +246,8 @@ export const SKALY = [
     url: 'https://www.ptsd.va.gov/professional/assessment/adult-sr/ptsd-checklist.asp',
     ceskaValidace: {
       popis: 'Česká adaptace PCL-5: Zídková M et al. (2020), Psychiatrická klinika FN Brno. Publikace: Česká a slovenská psychiatrie 116(3):103–109.',
-      url: 'https://www.cspsychiatr.cz/detail.php?stat=1273',
-      urlText: 'Česká validace – Česká a slovenská psychiatrie (2020)',
+      url: 'https://www.cspsychiatrie.cz',
+      urlText: 'Česká a slovenská psychiatrie – archiv (validační studie PCL-5, 2020, 116(3):103–109)',
     },
     instrukce: 'Níže je uvedeno několik problémů, které lidé někdy mají v reakci na velmi stresující zážitek. Jak moc vás každý z těchto problémů obtěžoval za poslední měsíc?',
     otazky: [
@@ -359,7 +359,7 @@ export const SKALY = [
     url: 'https://pubmed.ncbi.nlm.nih.gov/11058490/',
     ceskaValidace: {
       popis: 'MDQ je v ČR standardně používáno pro screening bipolárního spektra. Česká validace: Přikryl R, Kašpárek T (2008). Česká a slovenská psychiatrie 104(2):71–77. Českou verzi lze vyžádat přes Psychiatrickou kliniku LF MU Brno.',
-      url: 'https://www.cspsychiatr.cz',
+      url: 'https://www.cspsychiatrie.cz',
       urlText: 'Česká a slovenská psychiatrie – zdroj validační studie MDQ',
     },
     instrukce: 'Zažil/a jste někdy v životě období, kdy jste nebyl/a svým obvyklým já a kdy:',
@@ -462,7 +462,7 @@ export const SKALY = [
     pocetOtazek: 18,
     castoU: ['F20', 'F21', 'F22', 'F23', 'F25', 'F31.2'],
     zdroj: 'Overall JE, Gorham DR (1962). Psychol Rep 10:799–812. Public domain (stáří publikace).',
-    url: 'https://pubmed.ncbi.nlm.nih.gov/?term=BPRS+Brief+Psychiatric+Rating+Scale+Overall+Gorham+1962',
+    url: 'https://journals.sagepub.com/doi/10.2466/pr0.1962.10.3.799',
     ceskaValidace: {
       popis: 'BPRS je standardní součástí česko-slovenské psychiatrické praxe a výzkumu od 70. let. Česká verze je dostupná přes psychiatrická pracoviště; nemá samostatnou českou stránku ke stažení.',
     },
@@ -628,7 +628,7 @@ export const SKALY = [
     pocetOtazek: 10,
     castoU: ['F10', 'F10.1', 'F10.2'],
     zdroj: 'Saunders JB et al. (1993). Addiction 88(6):791–804. WHO – volně dostupné.',
-    url: 'https://www.who.int/publications/i/item/audit-the-alcohol-use-disorders-identification-test',
+    url: 'https://pubmed.ncbi.nlm.nih.gov/8329970/',
     ceskaValidace: {
       popis: 'Česká verze AUDIT je oficiálně doporučena MZČR a VZP pro screening v primární péči. Validace v ČR: Nešpor K, Csémy L (RVKPP). Dostupná na stránkách Státního zdravotního ústavu.',
       url: 'https://www.szu.cz/tema/podpora-zdravi/alkohol',
@@ -862,8 +862,8 @@ export const SKALY = [
     url: 'https://www.mocacognition.com',
     ceskaValidace: {
       popis: 'Česká verze MoCA je dostupná zdarma na mocacognition.com (nutná bezplatná registrace). Validace v ČR: Bartoš A, Raisová M, Kopeček M (2011). Česká a slovenská neurologie a neurochirurgie 74/107(5):571–577.',
-      url: 'https://www.mocacognition.com/moca-test/',
-      urlText: 'MoCA česká verze ke stažení (mocacognition.com)',
+      url: 'https://www.mocacognition.com',
+      urlText: 'MoCA – registrace zdarma, poté přístup k české verzi (mocacognition.com)',
     },
     instrukce: 'Klinický pracovník administruje test dle standardního protokolu MoCA (tisknutelný formulář na mocacognition.com). Pro každou doménu zaznamenejte počet získaných bodů.',
     otazky: [
@@ -1090,10 +1090,10 @@ export const SKALY = [
     pocetOtazek: 41,
     castoU: ['F41.0', 'F41.1', 'F40.1', 'F93.0', 'F93.2', 'F40.0'],
     zdroj: 'Birmaher B et al. (1997). J Am Acad Child Adolesc Psychiatry 36(4):545–53. © B. Birmaher, Western Psychiatric Institute. Volně dostupné pro klinické a výzkumné použití.',
-    url: 'https://www.pediatricbipolar.pitt.edu/resources/instruments',
+    url: 'https://www.psychiatry.pitt.edu/research/investigator-resources/assessment-instruments',
     ceskaValidace: {
       popis: 'SCARED je v ČR používán ve výzkumu dětské úzkosti. Česká adaptace: Hrdlička M, Dědek P, Paclt I (2003), Dětská psychiatrická klinika FN Motol Praha. Českou verzi lze vyžádat přes Dětskou psychiatrickou kliniku FN Motol nebo FN Brno.',
-      url: 'https://www.pediatricbipolar.pitt.edu/resources/instruments',
+      url: 'https://www.psychiatry.pitt.edu/research/investigator-resources/assessment-instruments',
       urlText: 'SCARED ke stažení – Pittsburgh (anglická verze, kontakt pro českou)',
     },
     instrukce: 'Přečti si každou větu. Označ, jak moc každá věta odpovídá tomu, jak se obvykle cítíš.',
@@ -1266,7 +1266,7 @@ export const SKALY = [
     url: 'https://crafft.org',
     ceskaValidace: {
       popis: 'Česká verze CRAFFT není formálně validována v ČR. Nástroj je přeložen a používán v adiktologických centrech pro mládež. Kontakt: Národní ústav duševního zdraví (NÚDZ) nebo AT ordinace pro mládež.',
-      url: 'https://crafft.org/get-crafft/',
+      url: 'https://crafft.org/get-the-crafft/',
       urlText: 'CRAFFT ke stažení zdarma (crafft.org)',
     },
     instrukce: 'Odpověz ANO nebo NE na každou z následujících otázek.',
