@@ -121,9 +121,7 @@ export const SKALY = [
     zdroj: 'Montgomery SA, Åsberg M (1979). Br J Psychiatry 134:382–9. Volně dostupné.',
     url: 'https://pubmed.ncbi.nlm.nih.gov/444788/',
     ceskaValidace: {
-      popis: 'MADRS je standardně používána v české psychiatrii. Česká adaptace popsána v: Praško J et al. Psychiatrie – 2. vyd. (Portál, 2011). Škála je součástí výuky na Czech Medical Schools.',
-      url: 'https://pubmed.ncbi.nlm.nih.gov/?term=MADRS+Czech+depression+validation',
-      urlText: 'PubMed – české studie s MADRS',
+      popis: 'MADRS je standardně používána v české psychiatrii. Česká adaptace popsána v: Praško J et al. Psychiatrie – 2. vyd. (Portál, 2011). Škála nemá samostatnou českou stránku ke stažení – je součástí klinického tréninku a dostupná přes psychiatrická pracoviště.',
     },
     instrukce: 'Hodnotí klinický pracovník na základě rozhovoru s pacientem. Pro každou položku vyberte skóre 0–6.',
     otazky: [
@@ -304,9 +302,9 @@ export const SKALY = [
     castoU: ['F43.1', 'F43.0'],
     zdroj: 'Weiss DS, Marmar CR (1997). In Wilson JP, Keane TM (eds). Guilford Press. Volně dostupné pro klinické použití.',
     ceskaValidace: {
-      popis: 'IES-R je v ČR používána ve výzkumu i praxi (traumatologie, krizová intervence). Česká verze standardně přeložena a používána; oficiální validační studie: Ptáček R et al., Praha. Plný překlad dostupný přes žádost na příslušnou kliniku.',
-      url: 'https://pubmed.ncbi.nlm.nih.gov/?term=IES-R+Czech+PTSD+validation',
-      urlText: 'PubMed – české studie s IES-R',
+      popis: 'IES-R je v ČR používána ve výzkumu i praxi (traumatologie, krizová intervence). Česká verze standardně přeložena a používána; validační studie: Ptáček R et al., Praha. Plný překlad dostupný přes žádost na příslušnou kliniku nebo Národní ústav duševního zdraví.',
+      url: 'https://www.nudz.cz',
+      urlText: 'Národní ústav duševního zdraví (NÚDZ) – kontakt pro českou verzi',
     },
     instrukce: 'Níže je uveden seznam obtíží, které lidé někdy prožívají po stresujících životních událostech. Přečtěte si každou položku a uveďte, jak moc vás každá obtíž obtěžovala za posledních 7 dní.',
     otazky: [
@@ -409,9 +407,9 @@ export const SKALY = [
     zdroj: 'Young RC et al. (1978). Br J Psychiatry 133:429–35. Volně dostupné (stáří publikace).',
     url: 'https://pubmed.ncbi.nlm.nih.gov/728692/',
     ceskaValidace: {
-      popis: 'YMRS je součástí standardního repertoáru česko-slovenské psychiatrie. Česká adaptace: standardně používána na psychiatrických klinikách ČR. Studie: Přikryl R et al., Brno.',
-      url: 'https://pubmed.ncbi.nlm.nih.gov/?term=YMRS+mania+Czech+Slovak',
-      urlText: 'PubMed – YMRS české a slovenské studie',
+      popis: 'YMRS je součástí standardního repertoáru česko-slovenské psychiatrie. Česká adaptace: standardně používána na psychiatrických klinikách ČR. Validace: Přikryl R et al., Psychiatrická klinika LF MU Brno – publikována v Česká a slovenská psychiatrie.',
+      url: 'https://www.cspsychiatr.cz',
+      urlText: 'Česká a slovenská psychiatrie – zdroj validační studie YMRS',
     },
     instrukce: 'Hodnotí klinický pracovník na základě rozhovoru. Hodnocení vychází ze stavu pacienta za poslední 48 hodin.',
     otazky: [
@@ -466,9 +464,7 @@ export const SKALY = [
     zdroj: 'Overall JE, Gorham DR (1962). Psychol Rep 10:799–812. Public domain (stáří publikace).',
     url: 'https://pubmed.ncbi.nlm.nih.gov/?term=BPRS+Brief+Psychiatric+Rating+Scale+Overall+Gorham+1962',
     ceskaValidace: {
-      popis: 'BPRS je standardní součástí česko-slovenské psychiatrické praxe a výzkumu od 70. let. Česká verze: dostupná přes psychiatrická pracoviště. Studie: používána v českých klinických studiích s antipsychotiky.',
-      url: 'https://pubmed.ncbi.nlm.nih.gov/?term=BPRS+Czech+schizophrenia+antipsychotic',
-      urlText: 'PubMed – BPRS české studie',
+      popis: 'BPRS je standardní součástí česko-slovenské psychiatrické praxe a výzkumu od 70. let. Česká verze je dostupná přes psychiatrická pracoviště; nemá samostatnou českou stránku ke stažení.',
     },
     instrukce: 'Hodnotí klinický pracovník. Každá položka na stupnici 1 (nepřítomno) až 7 (extrémně závažné).',
     otazky: [
@@ -574,9 +570,9 @@ export const SKALY = [
     zdroj: 'Foa EB et al. (2002). Psychol Assess 14(4):485–96. Volně dostupné pro klinické a výzkumné použití.',
     url: 'https://pubmed.ncbi.nlm.nih.gov/12501574/',
     ceskaValidace: {
-      popis: 'Česká verze OCI-R: Praško J, Pastucha P et al. Studie validace: Šlepecký M, Praško J (2010), Psychiatrická klinika FN Olomouc. Škála je součástí standardní klinické praxe pro OCD v ČR.',
-      url: 'https://pubmed.ncbi.nlm.nih.gov/?term=OCI-R+Czech+OCD+validation',
-      urlText: 'PubMed – OCI-R české studie',
+      popis: 'Česká verze OCI-R: Praško J, Pastucha P et al. Validační studie: Šlepecký M, Praško J (2010), Psychiatrická klinika FN Olomouc – publikována v Česká a slovenská psychiatrie. Škála je součástí standardní klinické praxe pro OCD v ČR.',
+      url: 'https://www.cspsychiatr.cz',
+      urlText: 'Česká a slovenská psychiatrie – zdroj validační studie OCI-R',
     },
     instrukce: 'Níže je uveden seznam zkušeností, které lidé někdy mají. Označte prosím, jak moc vás každá zkušenost v posledním měsíci obtěžovala.',
     otazky: [
@@ -725,9 +721,9 @@ export const SKALY = [
     zdroj: 'Morin CM (1993). Insomnia: Psychological Assessment and Management. Guilford Press. Volně dostupné.',
     url: 'https://www.myhealth.va.gov/mhv-portal-web/ss20231019V2/docs/ISI.pdf',
     ceskaValidace: {
-      popis: 'Česká verze ISI: Šonka K et al., Neurologická klinika 1. LF UK Praha. ISI je doporučen v českých guidelines pro nespavost (ČNS/ČPS). Validace publikována v české spánkové medicíně.',
-      url: 'https://pubmed.ncbi.nlm.nih.gov/?term=ISI+insomnia+Czech+Slovak+validation',
-      urlText: 'PubMed – ISI české a slovenské studie',
+      popis: 'Česká verze ISI: Šonka K et al., Neurologická klinika 1. LF UK Praha. ISI je doporučen v českých guidelines pro nespavost (ČNS/ČPS). Česká verze dostupná přes spánkové laboratoře nebo Českou neurologickou společnost.',
+      url: 'https://www.czech-neuro.cz',
+      urlText: 'Česká neurologická společnost (ČNS) – doporučující orgán pro ISI',
     },
     instrukce: 'U každé z níže uvedených otázek prosím vyberte odpověď, která nejlépe popisuje váš spánek za posledních 2 týdny.',
     otazky: [
@@ -770,9 +766,9 @@ export const SKALY = [
     zdroj: 'Johns MW (1991). Sleep 14(6):540–5. © Epworth Sleep Centre. Volně dostupné pro nekomerční klinické použití.',
     url: 'https://epworthsleepinessscale.com',
     ceskaValidace: {
-      popis: 'Česká verze ESS je standardně používána v českých spánkových laboratořích a pneumologii. Validace: Šonka K et al., Neurologická klinika 1. LF UK Praha. ESS je součástí diagnostiky spánkové apnoe a narkolepsie v ČR.',
-      url: 'https://pubmed.ncbi.nlm.nih.gov/?term=Epworth+Sleepiness+Scale+Czech',
-      urlText: 'PubMed – ESS české studie',
+      popis: 'Česká verze ESS je standardně používána v českých spánkových laboratořích a pneumologii. Validace: Šonka K et al., Neurologická klinika 1. LF UK Praha. ESS je součástí diagnostiky spánkové apnoe a narkolepsie v ČR. Česká verze dostupná přes spánkové laboratoře.',
+      url: 'https://www.czech-neuro.cz',
+      urlText: 'Česká neurologická společnost (ČNS) – doporučující orgán pro ESS',
     },
     instrukce: 'Jak pravděpodobné je, že byste se podřimoval/a nebo usnul/a v následujících situacích, na rozdíl od pouhé únavy? I když jste v poslední době žádnou z těchto situací nezažil/a, zkuste odhadnout, jak by na vás zapůsobily.',
     otazky: [
@@ -1096,9 +1092,9 @@ export const SKALY = [
     zdroj: 'Birmaher B et al. (1997). J Am Acad Child Adolesc Psychiatry 36(4):545–53. © B. Birmaher, Western Psychiatric Institute. Volně dostupné pro klinické a výzkumné použití.',
     url: 'https://www.pediatricbipolar.pitt.edu/resources/instruments',
     ceskaValidace: {
-      popis: 'SCARED je v ČR používán ve výzkumu dětské úzkosti. Česká adaptace: Hrdlička M, Dědek P, Paclt I (2003), Dětská psychiatrická klinika FN Motol Praha. SCARED je doporučován v mezinárodních guidelines pro dětskou psychiatrii.',
-      url: 'https://pubmed.ncbi.nlm.nih.gov/?term=SCARED+anxiety+children+Czech',
-      urlText: 'PubMed – SCARED české studie',
+      popis: 'SCARED je v ČR používán ve výzkumu dětské úzkosti. Česká adaptace: Hrdlička M, Dědek P, Paclt I (2003), Dětská psychiatrická klinika FN Motol Praha. Českou verzi lze vyžádat přes Dětskou psychiatrickou kliniku FN Motol nebo FN Brno.',
+      url: 'https://www.pediatricbipolar.pitt.edu/resources/instruments',
+      urlText: 'SCARED ke stažení – Pittsburgh (anglická verze, kontakt pro českou)',
     },
     instrukce: 'Přečti si každou větu. Označ, jak moc každá věta odpovídá tomu, jak se obvykle cítíš.',
     otazky: [
