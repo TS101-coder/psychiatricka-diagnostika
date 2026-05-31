@@ -357,7 +357,13 @@ export const SKALY = [
     casNaplneni: '5 min',
     pocetOtazek: 13,
     castoU: ['F31', 'F30', 'F34.0'],
-    zdroj: 'Hirschfeld RM et al. (2000). Volně dostupné.',
+    zdroj: 'Hirschfeld RM et al. (2000). Am J Psychiatry 157(11):1873–5. Volně dostupné.',
+    url: 'https://pubmed.ncbi.nlm.nih.gov/11058490/',
+    ceskaValidace: {
+      popis: 'MDQ je v ČR standardně používáno pro screening bipolárního spektra. Česká verze: Přikryl R et al., Psychiatrická klinika LF MU Brno. Studie: Přikryl R, Kašpárek T (2008). Česká a slovenská psychiatrie.',
+      url: 'https://pubmed.ncbi.nlm.nih.gov/?term=MDQ+bipolar+Czech+validation',
+      urlText: 'PubMed – MDQ české studie',
+    },
     instrukce: 'Zažil/a jste někdy v životě období, kdy jste nebyl/a svým obvyklým já a kdy:',
     otazky: [
       { id: 1,  text: 'Byl/a jste tak naladён/a, že ostatní lidé říkali, že jste byl/a nadměrně šťastný/á nebo veselý/á?' },
@@ -400,7 +406,13 @@ export const SKALY = [
     casNaplneni: '15–30 min (klinické interview)',
     pocetOtazek: 11,
     castoU: ['F30', 'F31.1', 'F31.2', 'F25.0'],
-    zdroj: 'Young RC et al. (1978). Volně dostupné.',
+    zdroj: 'Young RC et al. (1978). Br J Psychiatry 133:429–35. Volně dostupné (stáří publikace).',
+    url: 'https://pubmed.ncbi.nlm.nih.gov/728692/',
+    ceskaValidace: {
+      popis: 'YMRS je součástí standardního repertoáru česko-slovenské psychiatrie. Česká adaptace: standardně používána na psychiatrických klinikách ČR. Studie: Přikryl R et al., Brno.',
+      url: 'https://pubmed.ncbi.nlm.nih.gov/?term=YMRS+mania+Czech+Slovak',
+      urlText: 'PubMed – YMRS české a slovenské studie',
+    },
     instrukce: 'Hodnotí klinický pracovník na základě rozhovoru. Hodnocení vychází ze stavu pacienta za poslední 48 hodin.',
     otazky: [
       { id: 1,  text: 'Zvýšená nálada', odpovedi: [
@@ -451,7 +463,13 @@ export const SKALY = [
     casNaplneni: '20–30 min (klinické interview)',
     pocetOtazek: 18,
     castoU: ['F20', 'F21', 'F22', 'F23', 'F25', 'F31.2'],
-    zdroj: 'Overall JE, Gorham DR (1962). Volně dostupné (public domain).',
+    zdroj: 'Overall JE, Gorham DR (1962). Psychol Rep 10:799–812. Public domain (stáří publikace).',
+    url: 'https://pubmed.ncbi.nlm.nih.gov/?term=BPRS+Brief+Psychiatric+Rating+Scale+Overall+Gorham+1962',
+    ceskaValidace: {
+      popis: 'BPRS je standardní součástí česko-slovenské psychiatrické praxe a výzkumu od 70. let. Česká verze: dostupná přes psychiatrická pracoviště. Studie: používána v českých klinických studiích s antipsychotiky.',
+      url: 'https://pubmed.ncbi.nlm.nih.gov/?term=BPRS+Czech+schizophrenia+antipsychotic',
+      urlText: 'PubMed – BPRS české studie',
+    },
     instrukce: 'Hodnotí klinický pracovník. Každá položka na stupnici 1 (nepřítomno) až 7 (extrémně závažné).',
     otazky: [
       { id: 1,  text: 'Somatické starosti (přehnaný zájem o tělesné zdraví)', odpovedi: [{label:'1 – Nepřítomno',hodnota:1},{label:'2 – Velmi mírné',hodnota:2},{label:'3 – Mírné',hodnota:3},{label:'4 – Střední',hodnota:4},{label:'5 – Středně závažné',hodnota:5},{label:'6 – Závažné',hodnota:6},{label:'7 – Extrémní',hodnota:7}] },
@@ -494,7 +512,11 @@ export const SKALY = [
     casNaplneni: '2–5 min (klinické hodnocení)',
     pocetOtazek: 2,
     castoU: ['F20', 'F32', 'F31', 'F41'],
-    zdroj: 'Guy W (1976). NIMH – public domain.',
+    zdroj: 'Guy W (1976). ECDEU Assessment Manual. NIMH, Rockville, MD – public domain.',
+    url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5095503/',
+    ceskaValidace: {
+      popis: 'CGI je mezinárodní standard, v ČR používán ve všech psychiatrických klinických studiích. Nevyžaduje specifickou validaci – ordinální škála klinického dojmu.',
+    },
     instrukce: 'Hodnotí klinický pracovník na základě celkového klinického dojmu.',
     otazky: [
       {
