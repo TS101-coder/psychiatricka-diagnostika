@@ -126,7 +126,7 @@ export default function DiagnosticCalculator() {
         if (shodne.length === 0) return null
         const pctZadanych  = Math.round((shodne.length / vybranePriznaky.length) * 100)
         const pctDiagnozy  = Math.round((shodne.length / diagKlice.length) * 100)
-        return { ...diag, shodnePriznaky: shodne, pctZadanych, pctDiagnozy, pocetShodnych: shodne.length }
+        return { ...diag, vsechnyKlice: diagKlice, shodnePriznaky: shodne, pctZadanych, pctDiagnozy, pocetShodnych: shodne.length }
       })
       .filter(Boolean)
       .sort((a, b) => b.pctZadanych - a.pctZadanych || b.pocetShodnych - a.pocetShodnych)
@@ -428,7 +428,7 @@ export default function DiagnosticCalculator() {
                     <div>
                       <p className="text-xs font-semibold text-slate-500 mb-1.5">Klinický obraz diagnózy:</p>
                       <div className="flex flex-col gap-1">
-                        {(diag.priznakyKlice || []).map(klic => {
+                        {(diag.vsechnyKlice || []).map(klic => {
                           const pritomen = diag.shodnePriznaky.includes(klic)
                           return pritomen ? (
                             <div key={klic} className="flex items-center gap-1.5 px-2 py-1 bg-emerald-50 border border-emerald-100 rounded-md">
