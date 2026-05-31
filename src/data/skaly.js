@@ -571,7 +571,13 @@ export const SKALY = [
     casNaplneni: '5 min',
     pocetOtazek: 18,
     castoU: ['F42', 'F42.2', 'F60.5'],
-    zdroj: 'Foa EB et al. (2002). Volně dostupné pro klinické a výzkumné použití.',
+    zdroj: 'Foa EB et al. (2002). Psychol Assess 14(4):485–96. Volně dostupné pro klinické a výzkumné použití.',
+    url: 'https://pubmed.ncbi.nlm.nih.gov/12501574/',
+    ceskaValidace: {
+      popis: 'Česká verze OCI-R: Praško J, Pastucha P et al. Studie validace: Šlepecký M, Praško J (2010), Psychiatrická klinika FN Olomouc. Škála je součástí standardní klinické praxe pro OCD v ČR.',
+      url: 'https://pubmed.ncbi.nlm.nih.gov/?term=OCI-R+Czech+OCD+validation',
+      urlText: 'PubMed – OCI-R české studie',
+    },
     instrukce: 'Níže je uveden seznam zkušeností, které lidé někdy mají. Označte prosím, jak moc vás každá zkušenost v posledním měsíci obtěžovala.',
     otazky: [
       { id: 1,  text: 'Hromadil/a jsem věci do té míry, že mi překážely' },
@@ -625,8 +631,13 @@ export const SKALY = [
     casNaplneni: '3–5 min',
     pocetOtazek: 10,
     castoU: ['F10', 'F10.1', 'F10.2'],
-    zdroj: 'Saunders JB et al. (1993). WHO – volně dostupné.',
+    zdroj: 'Saunders JB et al. (1993). Addiction 88(6):791–804. WHO – volně dostupné.',
     url: 'https://www.who.int/publications/i/item/audit-the-alcohol-use-disorders-identification-test',
+    ceskaValidace: {
+      popis: 'Česká verze AUDIT je oficiálně doporučena MZČR a VZP pro screening v primární péči. Validace v ČR: Nešpor K, Csémy L (RVKPP). Dostupná na stránkách Státního zdravotního ústavu.',
+      url: 'https://www.szu.cz/tema/podpora-zdravi/alkohol',
+      urlText: 'SZÚ – materiály k alkoholu v primární péči',
+    },
     instrukce: 'Odpovězte na otázky o konzumaci alkoholu v posledním roce.',
     otazky: [
       { id: 1,  text: 'Jak často pijete alkohol?', odpovedi: [
@@ -670,7 +681,11 @@ export const SKALY = [
     casNaplneni: '< 1 min',
     pocetOtazek: 4,
     castoU: ['F10', 'F10.2'],
-    zdroj: 'Mayfield D, McLeod G, Hall P (1974). Volně dostupné (public domain).',
+    zdroj: 'Mayfield D, McLeod G, Hall P (1974). Am J Psychiatry 131(10):1121–3. Public domain (stáří publikace).',
+    url: 'https://pubmed.ncbi.nlm.nih.gov/4416585/',
+    ceskaValidace: {
+      popis: 'CAGE je v ČR standardně používán v AT poradnách a primární péči. Nevyžaduje specifickou validaci pro ČR – 4 přímé otázky bez psychometricky složitého skórování.',
+    },
     instrukce: 'Odpovězte ANO nebo NE na každou otázku.',
     otazky: [
       { id: 1, text: 'Měl/a jste kdy pocit, že byste měl/a omezit (Cut down) pití?' },
@@ -707,7 +722,13 @@ export const SKALY = [
     casNaplneni: '3–5 min',
     pocetOtazek: 7,
     castoU: ['F51.0', 'F32', 'F41.1', 'F43.1'],
-    zdroj: 'Morin CM (1993). Volně dostupné.',
+    zdroj: 'Morin CM (1993). Insomnia: Psychological Assessment and Management. Guilford Press. Volně dostupné.',
+    url: 'https://www.myhealth.va.gov/mhv-portal-web/ss20231019V2/docs/ISI.pdf',
+    ceskaValidace: {
+      popis: 'Česká verze ISI: Šonka K et al., Neurologická klinika 1. LF UK Praha. ISI je doporučen v českých guidelines pro nespavost (ČNS/ČPS). Validace publikována v české spánkové medicíně.',
+      url: 'https://pubmed.ncbi.nlm.nih.gov/?term=ISI+insomnia+Czech+Slovak+validation',
+      urlText: 'PubMed – ISI české a slovenské studie',
+    },
     instrukce: 'U každé z níže uvedených otázek prosím vyberte odpověď, která nejlépe popisuje váš spánek za posledních 2 týdny.',
     otazky: [
       { id: 1, text: 'Závažnost problémů s usínáním', odpovedi: [
@@ -746,7 +767,13 @@ export const SKALY = [
     casNaplneni: '3–5 min',
     pocetOtazek: 8,
     castoU: ['F51.1', 'F51'],
-    zdroj: 'Johns MW (1991). © Epworth Sleep Centre. Volně dostupné pro klinické nekomerční použití.',
+    zdroj: 'Johns MW (1991). Sleep 14(6):540–5. © Epworth Sleep Centre. Volně dostupné pro nekomerční klinické použití.',
+    url: 'https://epworthsleepinessscale.com',
+    ceskaValidace: {
+      popis: 'Česká verze ESS je standardně používána v českých spánkových laboratořích a pneumologii. Validace: Šonka K et al., Neurologická klinika 1. LF UK Praha. ESS je součástí diagnostiky spánkové apnoe a narkolepsie v ČR.',
+      url: 'https://pubmed.ncbi.nlm.nih.gov/?term=Epworth+Sleepiness+Scale+Czech',
+      urlText: 'PubMed – ESS české studie',
+    },
     instrukce: 'Jak pravděpodobné je, že byste se podřimoval/a nebo usnul/a v následujících situacích, na rozdíl od pouhé únavy? I když jste v poslední době žádnou z těchto situací nezažil/a, zkuste odhadnout, jak by na vás zapůsobily.',
     otazky: [
       { id: 1, text: 'Sezení a čtení' },
@@ -790,8 +817,13 @@ export const SKALY = [
     casNaplneni: '< 2 min',
     pocetOtazek: 5,
     castoU: ['F32', 'F33', 'F41', 'F34.1'],
-    zdroj: 'WHO Regional Office for Europe (1998). Volně dostupné.',
+    zdroj: 'WHO Regional Office for Europe (1998). Bech P et al. Psychiatric Assessment Scales. WHO. Volně dostupné.',
     url: 'https://www.psykiatri-regionh.dk/who-5/Pages/default.aspx',
+    ceskaValidace: {
+      popis: 'Česká verze WHO-5 je dostupná na oficiálních stránkách (psykiatri-regionh.dk, sekce Czech). WHO-5 je standardně používán v primární péči v ČR jako screeningový nástroj duševní pohody.',
+      url: 'https://www.psykiatri-regionh.dk/who-5/who-5-questionnaire-in-different-languages/Pages/default.aspx',
+      urlText: 'WHO-5 česká verze (psykiatri-regionh.dk)',
+    },
     instrukce: 'Prosím označte pro každé z níže uvedených tvrzení, jak dobře popisuje, jak jste se cítil/a za posledních 14 dní.',
     otazky: [
       { id: 1, text: 'Byl/a jsem veselý/á a dobré nálady', odpovedi: [
@@ -830,8 +862,13 @@ export const SKALY = [
     casNaplneni: '10–15 min (klinické interview)',
     pocetOtazek: 8,
     castoU: ['F00', 'F01', 'F02', 'F03', 'F05', 'F06.7'],
-    zdroj: 'Nasreddine ZS et al. (2005). J Am Geriatr Soc. © Z.S. Nasreddine MD. Volně dostupné pro nekomerční klinické a výzkumné použití.',
+    zdroj: 'Nasreddine ZS et al. (2005). J Am Geriatr Soc 53(4):695–9. © Z.S. Nasreddine MD. Volně dostupné pro nekomerční klinické a výzkumné použití.',
     url: 'https://www.mocacognition.com',
+    ceskaValidace: {
+      popis: 'Česká verze MoCA je dostupná zdarma na mocacognition.com (nutná bezplatná registrace). Validace v ČR: Bartoš A, Raisová M, Kopeček M (2011). Česká a slovenská neurologie a neurochirurgie 74/107(5):571–577.',
+      url: 'https://www.mocacognition.com/moca-test/',
+      urlText: 'MoCA česká verze ke stažení (mocacognition.com)',
+    },
     instrukce: 'Klinický pracovník administruje test dle standardního protokolu MoCA (tisknutelný formulář na mocacognition.com). Pro každou doménu zaznamenejte počet získaných bodů.',
     otazky: [
       {
