@@ -500,11 +500,11 @@ export default function Sidebar({ open }) {
         )}
         </div>
 
-      </div>
+        {/* ════ ŠKÁLY — pod MKN-11 ════════════════════════════════ */}
+        <div className="border-t-2 border-rose-100">
+          <SkalySekce navigate={navigate} />
+        </div>
 
-      {/* ════ ŠKÁLY — pevně dole ════════════════════════════════════ */}
-      <div className="border-t-2 border-rose-100 bg-rose-50/40 shrink-0 max-h-72 overflow-y-auto">
-        <SkalySekce navigate={navigate} />
       </div>
 
     </aside>
