@@ -284,19 +284,61 @@ export default function SkalaDetail() {
         </div>
       )}
 
-      {/* Zdroj */}
-      <div className="mt-4 pt-4 border-t border-slate-100 pb-8 space-y-1.5">
-        <p className="text-xs text-slate-400">
-          <span className="font-medium">Zdroj: </span>{skala.zdroj}
-          {skala.url && (
-            <> · <a href={skala.url} target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">{skala.url}</a></>
+      {/* Zdroje a validace */}
+      <div className="mt-4 border border-slate-200 rounded-xl overflow-hidden pb-0">
+        <div className="px-4 py-2.5 bg-slate-50 border-b border-slate-100">
+          <h4 className="text-xs font-semibold text-slate-600 uppercase tracking-wide">Zdroje a validace</h4>
+        </div>
+        <div className="p-4 space-y-3 pb-4">
+
+          {/* Původní publikace + officiální web */}
+          <div className="flex gap-2">
+            <span className="text-xs font-semibold text-slate-500 w-28 shrink-0 pt-0.5">Původní zdroj</span>
+            <div className="flex-1 space-y-0.5">
+              <p className="text-xs text-slate-700">{skala.zdroj}</p>
+              {skala.url && (
+                <a href={skala.url} target="_blank" rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1 text-xs text-blue-600 hover:underline">
+                  <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                  </svg>
+                  Officiální stránka
+                </a>
+              )}
+            </div>
+          </div>
+
+          {/* Česká validace */}
+          {skala.ceskaValidace && (
+            <div className="flex gap-2">
+              <span className="text-xs font-semibold text-slate-500 w-28 shrink-0 pt-0.5">🇨🇿 ČR validace</span>
+              <div className="flex-1 space-y-0.5">
+                <p className="text-xs text-slate-700">{skala.ceskaValidace.popis}</p>
+                {skala.ceskaValidace.url && (
+                  <a href={skala.ceskaValidace.url} target="_blank" rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1 text-xs text-blue-600 hover:underline">
+                    <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                    </svg>
+                    {skala.ceskaValidace.urlText || 'Česká verze / validace'}
+                  </a>
+                )}
+              </div>
+            </div>
           )}
-        </p>
-        {skala.licencniUpozorneni && (
-          <p className="text-xs text-amber-700 bg-amber-50 border border-amber-200 rounded px-2 py-1.5">
-            ℹ️ <span className="font-medium">Licence: </span>{skala.licencniUpozorneni}
-          </p>
-        )}
+
+          {/* Licenční upozornění */}
+          {skala.licencniUpozorneni && (
+            <div className="flex gap-2">
+              <span className="text-xs font-semibold text-amber-600 w-28 shrink-0 pt-0.5">⚠ Licence</span>
+              <p className="text-xs text-amber-700 flex-1">{skala.licencniUpozorneni}</p>
+            </div>
+          )}
+
+        </div>
+      </div>
+
+      <div className="mt-2 pb-8">
         <p className="text-xs text-slate-400">
           Tento nástroj slouží pouze jako podpůrný klinický nástroj a nenahrazuje klinické vyšetření.
         </p>
