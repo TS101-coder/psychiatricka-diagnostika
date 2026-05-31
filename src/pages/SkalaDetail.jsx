@@ -21,6 +21,7 @@ const BARVA_KAT = {
   adhd:      'bg-sky-100 text-sky-800 border-sky-300',
   kognitivni:'bg-green-100 text-green-800 border-green-300',
   obecne:    'bg-slate-100 text-slate-800 border-slate-300',
+  deti:      'bg-pink-100 text-pink-800 border-pink-300',
 }
 
 function ProgressBar({ hodnota, maximum, barva }) {

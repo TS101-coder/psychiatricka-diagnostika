@@ -35,6 +35,7 @@ const SKALY_BARVA = {
   adhd:      'text-sky-700 bg-sky-50 border-sky-200',
   kognitivni:'text-green-700 bg-green-50 border-green-200',
   obecne:    'text-slate-700 bg-slate-50 border-slate-200',
+  deti:      'text-pink-700 bg-pink-50 border-pink-200',
 }
 
 function SkalySekce({ navigate }) {

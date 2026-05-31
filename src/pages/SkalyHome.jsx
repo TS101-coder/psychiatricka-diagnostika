@@ -13,6 +13,7 @@ const BARVA = {
   adhd:      { bg: 'bg-sky-50',    border: 'border-sky-200',    text: 'text-sky-800',    badge: 'bg-sky-100 text-sky-700 border-sky-200' },
   kognitivni:{ bg: 'bg-green-50',  border: 'border-green-200',  text: 'text-green-800',  badge: 'bg-green-100 text-green-700 border-green-200' },
   obecne:    { bg: 'bg-slate-50',  border: 'border-slate-200',  text: 'text-slate-800',  badge: 'bg-slate-100 text-slate-700 border-slate-200' },
+  deti:      { bg: 'bg-pink-50',   border: 'border-pink-200',   text: 'text-pink-800',   badge: 'bg-pink-100 text-pink-700 border-pink-200' },
 }
 
 function SkalaKarta({ skala }) {
