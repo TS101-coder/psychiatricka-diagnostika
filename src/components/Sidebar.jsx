@@ -42,7 +42,6 @@ function SkalySekce({ navigate }) {
   const [open, setOpen] = useState(false)
   const [openKat, setOpenKat] = useState(new Set())
 
-  // Skupiny škál dle kategorie
   const skupiny = useMemo(() => {
     const map = new Map()
     for (const kat of KATEGORIE_SKAL) {
@@ -61,75 +60,76 @@ function SkalySekce({ navigate }) {
   }
 
   return (
-    <div className="mt-1">
-      {/* Záhlaví sekce */}
+    <div>
+      {/* Záhlaví – stejný styl jako MKN-10 / MKN-11 */}
       <button
         onClick={() => setOpen(v => !v)}
-        className="w-full flex items-center gap-2 px-3 py-2 rounded-lg text-left hover:bg-rose-50 transition-colors"
+        className="w-full flex items-center gap-2 px-3 py-2.5 text-left hover:bg-rose-50 bg-rose-50 border-b border-rose-100"
       >
-        <svg className="w-4 h-4 text-rose-600 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
-            d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
-        </svg>
-        <span className="text-sm font-medium text-slate-700 flex-1">Škály a dotazníky</span>
-        <span className="text-xs text-slate-400">{SKALY.length}</span>
+        <span className="w-2 h-2 rounded-full shrink-0 bg-rose-500" />
+        <span className="text-xs font-bold text-rose-700 flex-1">Škály a dotazníky</span>
+        <span className="text-xs text-rose-400 font-mono">{SKALY.length}</span>
         <ChevronIcon open={open} />
       </button>
 
       {open && (
-        <div className="mt-1 space-y-0.5">
-          {[...skupiny.entries()].map(([kat, skaly]) => {
-            const katOpen = openKat.has(kat.id)
-            return (
-              <div key={kat.id}>
-                {/* Kategorie */}
-                <button
-                  onClick={() => toggleKat(kat.id)}
-                  className="w-full flex items-center gap-2 px-3 py-1.5 rounded hover:bg-slate-50 text-left"
-                >
-                  <span className="text-sm shrink-0">{kat.ikona}</span>
-                  <span className="text-xs text-slate-600 font-medium flex-1">{kat.nazev}</span>
-                  <span className="text-xs text-slate-400">{skaly.length}</span>
-                  <ChevronIcon open={katOpen} />
-                </button>
+        <>
+          {/* Přehled škál – hned pod záhlavím */}
+          <div className="px-3 py-1 border-b border-rose-100">
+            <NavLink
+              to="/skaly"
+              className={({ isActive }) =>
+                `flex items-center gap-2 text-xs py-1.5 px-2 rounded transition-colors
+                 ${isActive ? 'bg-rose-100 text-rose-800 font-medium' : 'text-slate-600 hover:text-rose-700 hover:bg-rose-50'}`
+              }
+            >
+              <svg className="w-3 h-3 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 10h16M4 14h16M4 18h16" />
+              </svg>
+              Přehled škál
+            </NavLink>
+          </div>
 
-                {/* Škály v kategorii */}
-                {katOpen && (
-                  <div className="ml-5 border-l-2 border-slate-100 space-y-0.5 mb-1">
-                    {skaly.map(skala => (
-                      <button
-                        key={skala.id}
-                        onClick={() => navigate(`/skaly/${skala.id}`)}
-                        className="w-full flex items-center gap-2 pl-3 pr-2 py-1.5 rounded text-left hover:bg-rose-50 group"
-                      >
-                        <span className={`text-xs font-mono font-bold px-1.5 py-0.5 rounded border shrink-0 ${SKALY_BARVA[skala.kategorie] || SKALY_BARVA.obecne}`}>
-                          {skala.zkratka}
-                        </span>
-                        <span className="text-xs text-slate-500 group-hover:text-slate-700 leading-tight line-clamp-1 flex-1">
-                          {skala.pocetOtazek} pol.
-                        </span>
-                      </button>
-                    ))}
-                  </div>
-                )}
-              </div>
-            )
-          })}
+          {/* Kategorie */}
+          <nav className="py-1">
+            {[...skupiny.entries()].map(([kat, skaly]) => {
+              const katOpen = openKat.has(kat.id)
+              const dot = BARVA_MAP[kat.barva] || 'bg-slate-400'
+              return (
+                <div key={kat.id}>
+                  <button
+                    onClick={() => toggleKat(kat.id)}
+                    className="w-full flex items-center gap-2 px-3 py-2 text-left hover:bg-slate-50"
+                  >
+                    <span className={`w-2 h-2 rounded-full shrink-0 ${dot}`} />
+                    <span className="text-xs text-slate-600 font-medium flex-1">{kat.nazev}</span>
+                    <span className="text-xs text-slate-400 font-mono">{skaly.length}</span>
+                    <ChevronIcon open={katOpen} />
+                  </button>
 
-          {/* Odkaz na přehled všech */}
-          <NavLink
-            to="/skaly"
-            className={({ isActive }) =>
-              `flex items-center gap-2 px-3 py-2 rounded-lg text-xs transition-colors mt-1
-               ${isActive ? 'bg-rose-50 text-rose-700 font-medium' : 'text-slate-500 hover:bg-slate-50 hover:text-slate-700'}`
-            }
-          >
-            <svg className="w-3 h-3 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 10h16M4 14h16M4 18h7" />
-            </svg>
-            Přehled všech škál
-          </NavLink>
-        </div>
+                  {katOpen && (
+                    <div className="ml-3 border-l-2 border-slate-100">
+                      {skaly.map(skala => (
+                        <button
+                          key={skala.id}
+                          onClick={() => navigate(`/skaly/${skala.id}`)}
+                          className="w-full flex items-center gap-2 pl-3 pr-2 py-1.5 rounded text-left hover:bg-rose-50 group"
+                        >
+                          <span className={`text-xs font-mono font-bold px-1.5 py-0.5 rounded border shrink-0 ${SKALY_BARVA[skala.kategorie] || SKALY_BARVA.obecne}`}>
+                            {skala.zkratka}
+                          </span>
+                          <span className="text-xs text-slate-500 group-hover:text-slate-700 leading-tight line-clamp-1 flex-1">
+                            {skala.pocetOtazek} pol.
+                          </span>
+                        </button>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              )
+            })}
+          </nav>
+        </>
       )}
     </div>
   )
